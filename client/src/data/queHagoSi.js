@@ -1,0 +1,13 @@
+// Módulo "¿Qué hago si...?". Cada opción abre el chat con una consulta ya escrita.
+export const QUE_HAGO_SI = [
+  { icon: '🚫', label: 'No me dejan ingresar al local', seed: 'No me dejan ingresar al local de votación como personero. ¿Qué debo hacer y en qué norma me amparo?' },
+  { icon: '👁️', label: 'No me permiten observar', seed: 'No me permiten observar el desarrollo del proceso en la mesa. ¿Qué puedo hacer?' },
+  { icon: '📋', label: 'No me entregan copia del acta', seed: 'No me quieren entregar la copia del acta que me corresponde como personero. ¿Qué hago?' },
+  { icon: '✍️', label: 'No quieren registrar mi observación', seed: 'Los miembros de mesa no quieren registrar mi observación en el acta. ¿Cómo procedo?' },
+  { icon: '🗳️', label: 'Existe un voto impugnado', seed: 'Hay un voto impugnado en la mesa. ¿Cuál es el procedimiento y qué papel tengo como personero?' },
+  { icon: '📄', label: 'Existe un problema con el acta', seed: 'Detecté un problema o error en el acta electoral. ¿Qué debo hacer?' },
+  { icon: '📢', label: 'Hay propaganda electoral', seed: 'Observo propaganda electoral cerca o dentro del local de votación. ¿Qué corresponde hacer?' },
+  { icon: '⚠️', label: 'Detecté una irregularidad', seed: 'Detecté una posible irregularidad en el proceso. ¿Cómo la documento y ante quién la reporto?' },
+  { icon: '👮', label: 'Existe un problema de seguridad', seed: 'Hay un problema de seguridad en el local de votación. ¿Qué debo hacer como personero?' },
+  { icon: '❓', label: 'Tengo otra incidencia', seed: 'Tengo una incidencia distinta a las listadas. Necesito orientación sobre cómo proceder.' },
+];

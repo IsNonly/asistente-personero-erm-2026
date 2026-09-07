@@ -1,0 +1,14 @@
+{
+  "id": "cartilla-personeros-onpe",
+  "entidad": "ONPE",
+  "tipo_documento": "Cartilla",
+  "numero": "Primera edición",
+  "titulo": "Cartilla de instrucciones para personeros — ERM 2026 (Regional / Municipal Provincial Distrital)",
+  "fecha_publicacion": "2026-08-01",
+  "fecha_vigencia": null,
+  "estado": "vigente",
+  "version": "1",
+  "proceso": "ERM 2026",
+  "url_oficial": "https://www.onpe.gob.pe/modElecciones/elecciones/ERM2026/Capacitacion/Cartilla-Personero-Tipo2-R-M-P-D.pdf",
+  "prioridad": 1
+}

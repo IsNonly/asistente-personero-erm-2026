@@ -1,0 +1,1009 @@
+
+
+89
+NORMAS LEGALES
+Martes 6 de enero de 2026
+ 
+El Peruano 
+/
+ 
+Aprueban  Reglamento  sobre  la  Participación  
+de Personeros en Procesos Electorales
+RESOLUCIÓN N° 0850-2025-JNE
+Lima, 31 de diciembre de 2025
+VISTO: el  Memorando  N°  000179-2025-OGAJ/JNE,  
+de  la  Oficina  General  de  Asesoría  Jurídica  mediante 
+el  cual  se  remite  el  proyecto  de  Reglamento  sobre 
+participación de personeros en procesos electorales, para 
+las Elecciones Regionales y Municipales 2026.
+CONSIDERANDO QUE:
+1.  De  conformidad  con  lo  previsto  en  el  artículo  178, 
+numeral 3, de la Constitución Política del Perú, es competencia 
+del Jurado Nacional de Elecciones, entre otras, el velar por el 
+cumplimiento de las normas sobre organizaciones políticas y 
+demás disposiciones referidas a materia electoral.
+2. A tenor de lo establecido en el artículo 5, literal l, 
+de la Ley N° 26486, Ley Orgánica del Jurado Nacional de 
+Elecciones, corresponde a este organismo electoral dictar 
+las resoluciones y reglamentaciones necesarias para su 
+funcionamiento.
+3. En el marco de un proceso electoral corresponde 
+regular las disposiciones referidas a los personeros de las 
+organizaciones políticas, las cuales se prescriben en la 
+Ley N° 26859, Ley Orgánica de Elecciones, de manera 
+específica en el Título VI.
+4. La incorporación del uso de herramientas tecnológicas 
+en el procedimiento de reconocimiento de los personeros, 
+la utilización de la firma digital y la implementación de la 
+casilla electrónica hacen necesario aprobar un reglamento 
+acorde con tales innovaciones para su aplicación en las 
+Elecciones Regionales y Municipales 2026 y otros procesos 
+electorales que se convoquen en lo sucesivo.
+Por  lo  tanto,  el  Pleno  del  Jurado  Nacional  de 
+Elecciones, en uso de sus atribuciones,
+RESUELVE:
+Artículo  Primero.-  APROBAR el Reglamento sobre 
+la Participación de Personeros en Procesos Electorales, 
+que es parte integrante de la presente resolución.
+Artículo   Tercero.-   DISPONER  la  publicación  de 
+la  presente  resolución,  y  el  reglamento  que  aprueba, 
+en el diario oficial El Peruano y en el portal electrónico 
+institucional del Jurado Nacional de Elecciones.
+Regístrese, comuníquese y publíquese.
+SS.
+BURNEO BERMEJO
+MAISCH MOLINA
+RAMÍREZ CHÁVARRY
+TORRES CORTEZ
+OYARCE YUZZELLI
+Clavijo Chipoco
+Secretaria General
+REGLAMENTO SOBRE LA PARTICIPACIÓN DE 
+PERSONEROS EN PROCESOS ELECTORALES
+TÍTULO I
+DISPOSICIONES GENERALES
+CAPÍTULO I
+MARCO NORMATIVO
+Artículo 1.- Objeto
+El  presente  reglamento  tiene  por  objeto  regular  la 
+actuación de los personeros y el procedimiento para su 
+reconocimiento y acreditación con motivo de los procesos 
+electorales y consultas populares.
+Artículo 2.- Alcance
+El  presente  reglamento  debe  ser  aplicado  por  los 
+Jurados  Electorales  Especiales,  en  el  ámbito  de  su 
+competencia, así como observado por las organizaciones 
+políticas  y  la  ciudadanía  en  general,  en  los  procesos 
+electorales.
+Artículo 3.- Base normativa
+a. Constitución Política del Perú.
+b. Ley N° 26859, Ley Orgánica de Elecciones y sus 
+modificatorias.
+c. Ley N° 26486, Ley Orgánica del Jurado Nacional de 
+Elecciones y sus modificatorias.
+d. Ley N° 26300, Ley de los Derechos de Participación 
+y Control Ciudadanos y sus modificatorias.
+e. Ley N° 28094, Ley de Organizaciones Políticas y 
+sus modificatorias.
+f. Reglamento  Consular  del  Perú  aprobado  por 
+Decreto Supremo N° 032-2023-RE.
+CAPÍTULO II
+ABREVIATURAS Y DEFINICIONES
+Artículo 4.- Abreviaturas
+A efectos del presente reglamento, se consideran las 
+siguientes abreviaturas:
+DNI       : Documento Nacional de Identidad
+LOE      : Ley Orgánica de Elecciones
+LOJNE  : Ley Orgánica del Jurado Nacional de Elecciones
+LOP      : Ley de Organizaciones Políticas
+JEE       : Jurado Electoral Especial
+JNE      : Jurado Nacional de Elecciones
+ODPE   : Oficina Descentralizada de Procesos Electorales
+ONPE   : Oficina Nacional de Procesos Electorales
+Reniec  : Registro Nacional de Identificación y Estado Civil
+ROP      : Registro de Organizaciones Políticas
+STVD    : Solución Tecnológica del Voto Digital
+Artículo 5.- Definiciones
+A efectos del presente reglamento, se consideran las 
+siguientes definiciones:
+a. Casilla Electrónica del JNE
+Es el domicilio procesal electrónico de los usuarios, 
+constituido  por  el  espacio  virtual  seguro  que  el  JNE 
+otorga a estos, a fin de que puedan ser notificados con 
+los pronunciamientos emitidos por los JEE y el JNE, así 
+como las actuaciones jurisdiccionales que realicen.
+La  casilla  electrónica  se  constituye  en  el  domicilio 
+procesal obligatorio para las partes procesales en materia 
+jurisdiccional.
+b.  Circunscripción  administrativa  y  de  justicia  
+electoral
+Ámbito territorial sobre el cual tiene competencia un 
+JEE. Las circunscripciones administrativas y de justicia 
+electoral son definidas por el JNE mediante resolución.
+c. Declara +
+Sistema informático para el registro de personeros, 
+solicitudes de inscripción de candidaturas, declaraciones 
+juradas de hoja de vida, plan de gobierno y su formato 
+resumen,  observadores  electorales,  promotores  de 
+consulta popular, entre otros.
+d. Firma Digital
+Es aquella firma electrónica, que utilizando una técnica 
+de  criptografía  asimétrica,  permite  la  identificación  del 
+signatario, la cual es creada por medios que este mantiene 
+bajo su control, de manera que está vinculada únicamente 
+al signatario y a los datos a los que refiere, lo que permite 
+
+90
+NORMAS LEGALES
+Martes 6 de enero de 2026
+ 
+El Peruano 
+/
+garantizar la integridad del contenido y detectar cualquier 
+modificación ulterior. Asimismo, tiene la validez y eficacia 
+jurídica que el uso de una firma manuscrita, siempre y 
+cuando haya sido generada por un Prestador de Servicio 
+de Certificación Digital debidamente acreditado que se 
+encuentre dentro de la Infraestructura Oficial de Firma 
+Electrónica (IOFE), y que no medie ninguno de los vicios 
+de la voluntad, previstos en el Título VIII del Libro II del 
+Código Civil.
+e. Funcionarios consulares
+Son  los  miembros  del  Servicio  Diplomático  de  la 
+República acreditados como tales ante el Estado receptor 
+en  sus  respectivas  circunscripciones,  responsables 
+del  ejercicio  de  las  funciones  consulares.  Asimismo, 
+comprende  a  los  funcionarios  consulares  honorarios 
+y  agentes  consulares,  quienes  pueden  ser  personas 
+nacionales o extranjeras.
+f. Jurado Electoral Especial
+Órgano  de  carácter  temporal,  instalado  para 
+un  determinado  proceso  electoral.  Las  funciones  y 
+atribuciones del JEE están establecidas en la LOJNE, la 
+LOE y demás normas pertinentes.
+g. Jurado Nacional de Elecciones
+Organismo  electoral  constitucionalmente  autónomo, 
+rector del sistema electoral, con competencia nacional, que 
+imparte justicia en materia electoral, fiscaliza la legalidad 
+de los procesos electorales, vela por el cumplimiento de 
+la normativa electoral y ejerce las demás funciones que le 
+asignan la Constitución y su Ley Orgánica.
+h. Oficinas consulares
+Son órganos dependientes de la Dirección General 
+de  Comunidades  Peruanas  en  el  Exterior  y  Asuntos 
+Consulares  del  Ministerio  de  Relaciones  Exteriores. 
+Estas oficinas están a cargo de funcionarios del Servicio 
+Diplomático  de  la  República  y  Honorarios  que  ejercen 
+funciones consulares en el exterior.
+i. Organización política
+Es  la  asociación  de  ciudadanos  interesados  en 
+participar  de  los  asuntos  políticos  del  país  dentro  del 
+marco  de  la  Constitución  Política  del  Perú,  la  LOP  y 
+el  ordenamiento  legal  vigente.  Constituyen  personas 
+jurídicas de derecho privado por su inscripción ante el 
+ROP.
+El  término  organización  política  comprende  a  los 
+partidos  políticos  que  son  de  alcance  nacional,  a  los 
+movimientos  regionales  que  son  de  alcance  regional 
+o  departamental,  y  las  alianzas  electorales  que  estas 
+constituyan.
+j. Peruano residente en el extranjero
+Ciudadano peruano que ha declarado, ante el Reniec, 
+tener su domicilio en el extranjero y que, como tal, figura 
+en el padrón electoral para los procesos electorales de 
+ámbito nacional.
+k. Proceso electoral
+Es una serie continua y concatenada de actos que 
+precluyen,  previstos  en  las  leyes  electorales  y  cuya 
+ejecución corresponde a los organismos electorales en el 
+marco de sus competencias, que tienen como finalidad la 
+realización de los comicios y proclamación de resultados, 
+para la elección de autoridades y consultas populares. Se 
+inicia con la convocatoria y termina con la publicación de 
+la resolución del JNE que declara su conclusión.
+l. Registro de Organizaciones Políticas
+Es  el  registro  a  cargo  de  la  Dirección  Nacional  de 
+Registro  de  Organizaciones  Políticas  en  el  que  se 
+inscriben  las  organizaciones  políticas,  así  como  la 
+modificación y actualización de las partidas electrónicas 
+y los padrones de afiliados.
+TÍTULO II
+DE LA FUNCIÓN Y RECONOCIMIENTO
+DE LOS PERSONEROS
+CAPÍTULO I
+GENERALIDADES
+Artículo 6.- Definición de personero
+Persona  natural  que  en  virtud  de  las  facultades 
+otorgadas  por  una  organización  política,  autoridad 
+sometida a consulta popular o promotor de un derecho 
+de  participación  o  control  ciudadano,  representa  sus 
+intereses ante los organismos electorales.
+Artículo 7.- Participación de los personeros en los 
+procesos electorales
+Las  organizaciones  políticas  acreditan  personeros 
+en  los  procesos  electorales  previstos  en  el  artículo  6 
+de la LOE, así como en elecciones de representantes 
+peruanos  ante  el  Parlamento  Andino,  elecciones 
+regionales, elecciones municipales, consultas vecinales 
+con  fines  de  demarcación  territorial  y  otras  consultas 
+ciudadanas.
+Artículo 8.- Tipos de personeros
+Los personeros pueden ser:
+a. Personero legal inscrito en el ROP: Personero 
+que  ejerce  plena  representación  de  la  organización 
+política ante el JNE, los JEE y demás organismos del 
+sistema electoral, no requiere tramitar su reconocimiento 
+ante los JEE. En el ROP se inscribe un personero legal 
+titular y un personero legal alterno. En este último caso, 
+dicho personero actúa en ausencia del primero.
+b. Personero técnico inscrito en el ROP: Personero 
+que se encarga de solicitar información a la ONPE previa 
+al proceso electoral, coordinar y planificar las actividades 
+de los personeros ante los JEE y, en general, de observar 
+los  procesos  de  cómputo  relacionados  con  el  proceso 
+electoral.
+En el ROP se inscribe por lo menos un personero 
+técnico.
+c.  Personero  legal  ante  el  JEE: Personero que es 
+acreditado  por  el  personero  legal  inscrito  en  el  ROP. 
+Ejerce plena representación de la organización política en 
+la circunscripción administrativa y de justicia electoral del 
+JEE que lo ha reconocido como personero.
+Los personeros legales ante el JEE, son: un personero 
+legal titular y un personero legal alterno. Este último actúa 
+en ausencia del primero.
+d.   Personero   técnico   ante   el   JEE:  Personero 
+que es acreditado por el personero legal inscrito en el 
+ROP. Se encarga de observar los procesos de cómputo 
+relacionados  con  la  circunscripción  administrativa  y  de 
+justicia  electoral  del  JEE  que  lo  ha  reconocido  como 
+personero.
+Los  personeros  técnicos  ante  el  JEE,  son:  un 
+personero técnico titular y un personero técnico suplente. 
+Adicionalmente,  pueden  acreditarse  tantos  personeros 
+técnicos como centros de cómputo existan.
+e.  Personero  del  centro  de  votación:  Personero 
+que es acreditado por el personero legal inscrito en el 
+ROP o por el personero legal ante el JEE. Se encarga de 
+coordinar y dirigir las actividades de los personeros ante 
+las mesas de sufragio ubicadas en el centro de votación 
+para el cual ha sido acreditado, así como de coordinar 
+con el personal de la ODPE. Su actividad se desarrolla 
+únicamente el día del acto electoral.
+f.  Personero  ante  la  mesa  de  sufragio: Personero 
+que es acreditado por el personero legal inscrito en el ROP 
+o por el personero legal ante el JEE. Tiene la atribución de 
+presenciar y fiscalizar los actos de instalación, sufragio y 
+escrutinio, durante el acto electoral.
+
+91
+NORMAS LEGALES
+Martes 6 de enero de 2026
+ 
+El Peruano 
+/
+ 
+Artículo    9.-    Requisitos    generales    para    ser    
+acreditado como personero
+Los personeros deben tener expedito el derecho de 
+sufragio y contar con DNI. Los extranjeros pueden ser 
+acreditados como personeros únicamente en elecciones 
+municipales, siempre que cuenten con el documento de 
+acreditación electoral expedido por el Reniec.
+En los procesos electorales de elección de autoridades, 
+las  organizaciones  políticas  son  representadas  por 
+sus personeros inscritos ante el ROP y sus personeros 
+reconocidos por los JEE.
+En otros tipos de procesos electorales, las autoridades 
+sometidas  a  consulta  popular  de  revocatoria,  los 
+promotores  de  los  derechos  de  participación  o  control 
+ciudadanos,  los  alcaldes  en  un  proceso  de  consulta 
+vecinal con fines de demarcación territorial, acreditan a 
+sus personeros ante los JEE.
+Artículo 10.- Requisito especial de firma digital
+Los personeros legales, titulares y alternos, para el 
+ejercicio de sus funciones deben contar con un certificado 
+para firma digital que puede ser expedido por el Reniec u 
+otro proveedor certificado. Todo escrito que presente un 
+personero legal ante cualquier JEE debe contar con firma 
+digital.
+CAPÍTULO II
+FACULTADES Y CONDUCTAS NO PERMITIDAS
+Artículo 11.- Facultades de los personeros legales 
+inscritos en el ROP
+El personero legal inscrito en el ROP se encuentra 
+facultado para presentar solicitudes e interponer cualquier 
+recurso o medio impugnatorio, cuyo fundamento sea de 
+naturaleza legal o técnica, ante el JNE, los JEE y demás 
+organismos del sistema electoral.
+Artículo   12.-   Representación   de   otros   actores   
+electorales
+Las  autoridades  sometidas  a  consulta  popular 
+de  revocatoria,  los  promotores  de  los  derechos  de 
+participación  o  control  ciudadanos,  los  alcaldes  en  un 
+proceso de consulta vecinal con fines de demarcación 
+territorial, se pueden representar a sí mismos ante los 
+organismos  electorales,  con  los  mismos  derechos  y 
+obligaciones asignados a los personeros legales de las 
+organizaciones políticas inscritos en el ROP, salvo que 
+acrediten a un personero legal ante el JNE o JEE, según 
+corresponda, en cuyo caso dicho personero ejerce tales 
+derechos y obligaciones.
+Artículo 13.- Facultades de los personeros legales 
+reconocidos por los JEE
+El personero legal reconocido por el JEE se encuentra 
+facultado para presentar solicitudes e interponer cualquier 
+recurso o medio impugnatorio, cuyo fundamento sea de 
+naturaleza legal o técnica vinculado al proceso electoral 
+dentro del ámbito territorial del JEE ante el cual ha sido 
+acreditado.
+El personero legal conjuntamente con el personero 
+técnico puede:
+a.  Solicitar  información  sobre  los  resultados  de  los 
+simulacros en la ODPE que corresponda.
+b. Solicitar información previa al proceso electoral en 
+la ODPE que corresponda, para verificar que los archivos 
+se encuentren iniciados y actualizados.
+c. Solicitar información, durante el proceso electoral, 
+sobre  resultados  parciales  o  finales  en  la  ODPE 
+que  corresponda,  según  lo  crean  conveniente.  Esta 
+información puede estar en reportes o cualquier medio 
+electrónico.
+No se requiere tener la condición de abogado para ser 
+personero legal. Los medios impugnatorios que presente 
+deben  ir  suscritos  con  la  firma  digital  del  personero  y 
+la  firma  de  abogado  hábil.  Si  el  personero  legal  fuera 
+abogado  y  presentara  recursos  impugnatorios,  basta 
+con que los suscriba una sola vez, debiendo identificarse 
+expresamente  como  personero  legal  y  como  abogado 
+hábil,  con  la  indicación  del  número  de  su  registro  de 
+colegiatura.
+Artículo   14.-   Intervención   del   personero   legal   
+alterno
+El personero legal alterno, en ausencia del titular, está 
+facultado para actuar con todas las atribuciones que le 
+asisten a este último.
+Artículo 15.- Facultades de los personeros de los 
+centros de votación
+Los personeros de los centros de votación se encargan 
+de coordinar y dirigir las actividades de los personeros ante 
+las mesas de sufragio ubicadas en los centros de votación, 
+así como de coordinar con el personal de la ODPE. Su 
+actividad se desarrolla únicamente el día de la elección.
+Artículo 16.- Facultades de los personeros ante las 
+mesas de sufragio
+Los personeros  ante las mesas de sufragio  tienen, 
+entre otras, las siguientes facultades:
+a.  Suscribir  el  acta  electoral  en  sus  secciones  de 
+instalación, sufragio y escrutinio.
+b. Concurrir a la preparación y acondicionamiento de 
+la cámara secreta.
+c.  Suscribir  las  cédulas  de  sufragio  en  el  espacio 
+reservado para tal fin.
+d.  Verificar  que  los  electores  ingresen  solos  a  la 
+cámara  secreta,  excepto  en  los  casos  en  que  la  ley 
+permita lo contrario.
+e. Presenciar la lectura de los votos.
+f. Examinar el contenido de las cédulas de sufragio 
+leídas.
+g.  Formular  observaciones  o  reclamos  el  día  de  la 
+jornada electoral, ante la mesa de sufragio.
+h. Suscribir la lista de electores.
+i. Obtener un acta completa suscrita por los miembros 
+de mesa.
+j. Estar presentes desde el acto de instalación hasta el 
+escrutinio de los votos.
+k. Para el caso de voto digital, estar presente desde 
+la instalación, el sufragio, el escrutinio y la transmisión de 
+resultados.
+l.  Denunciar  cualquier  acto  que  atente  contra  la 
+transparencia y la legalidad del proceso electoral.
+m.  Impugnar  la  identidad  del  elector  durante  la 
+votación.
+n.  Impugnar  las  cédulas  de  votación  durante  el 
+escrutinio en mesa.
+o. Solicitar la nulidad de la votación de la mesa por 
+hechos pasibles de conocimiento de los miembros de la 
+mesa.
+Artículo    17.-    Facultades    de    los    personeros    
+técnicos inscritos en el ROP
+Los personeros técnicos inscritos en el ROP tienen, 
+entre otras, las siguientes facultades:
+a.  Solicitar  a  la  ONPE  la  siguiente  información 
+documental:
+1. Estructura de las bases de datos que conforman el 
+Sistema de Cómputo Electoral.
+2. Relación de programas que conforman el Sistema 
+de Cómputo Electoral.
+3. Infraestructura de comunicaciones.
+4. Aspectos de seguridad del sistema.
+5. Cronograma de instalación de centros de cómputo.
+6. Planes de pruebas, contingencia y simulacro.
+b. Tener acceso a los programas fuentes del Sistema 
+de Cómputo Electoral conforme a las disposiciones de 
+seguridad que establezca la ONPE.
+c. Estar presentes en las pruebas y el simulacro del 
+Sistema de Cómputo Electoral en una sala que para tal 
+fin se les asigne, la cual debe tener las facilidades que les 
+permitan la observación correspondiente.
+d.  Solicitar  información  de  los  resultados  de  los 
+simulacros de todas o de algunas ODPE, según estas lo 
+crean conveniente.
+
+92
+NORMAS LEGALES
+Martes 6 de enero de 2026
+ 
+El Peruano 
+/
+e. Solicitar información, durante el proceso electoral, 
+de resultados parciales o finales de todas o de algunas 
+ODPE, según estas lo crean conveniente.
+f. Ingresar en cualquier centro de cómputo antes del 
+proceso electoral y durante este a fin de poder presenciar 
+directamente  el  proceso  de  cómputo  electoral.  Los 
+personeros están presentes durante todo el tiempo en 
+que funcione el centro de cómputo.
+Artículo    18.-    Facultades    de    los    personeros    
+técnicos reconocidos por los JEE
+Los  personeros  técnicos  reconocidos  por  los  JEE 
+tienen, entre otras, las siguientes facultades:
+a.  Observar  los  procesos  de  cómputo  relacionados 
+con su circunscripción.
+b. Estar presentes en las pruebas y en el simulacro 
+del  Sistema  de  Cómputo  Electoral  dentro  de  su 
+circunscripción.
+c.  Ingresar,  individualmente,  durante  las  horas 
+de  funcionamiento  del  centro  de  cómputo  de  una 
+circunscripción,  ante  el  cual  están  inscritos,  antes  de 
+y  durante  el  proceso  electoral,  para  poder  presenciar 
+directamente el proceso de cómputo electoral. Con este fin 
+se deben realizar las coordinaciones con las autoridades 
+respectivas para asignar un responsable y fijar las horas 
+de ingreso.
+Artículo   19.-   Conductas   no   permitidas   a   los   
+personeros de los centros de votación
+Los personeros de los centros de votación no pueden:
+a. Participar en los centros de votación de aquellas 
+localidades donde su organización política no presente 
+candidatos.
+b. Reemplazar a los personeros ante las mesas de 
+sufragio.
+c.  Interrogar  a  los  electores  sobre  su  preferencia 
+electoral.
+d. Mantener conversación con los electores o con los 
+miembros de mesa, durante la votación.
+e. Interrumpir el escrutinio o solicitar la revisión de 
+decisiones adoptadas por la mesa de sufragio.
+f.  Efectuar  proselitismo  de  cualquier  tipo,  o 
+manifestarse  en  favor  o  en  contra  de  cualquier 
+organización política, candidato u opción en un proceso 
+de consulta popular.
+Artículo   20.-   Conductas   no   permitidas   a   los   
+personeros ante las mesas de sufragio
+Los personeros ante las mesas de sufragio no pueden:
+a.  Interrogar  a  los  electores  sobre  su  preferencia 
+electoral.
+b. Mantener conversación o discutir entre ellos, con 
+los electores o con los miembros de mesa, durante la 
+votación.
+c.  Interrumpir  el  escrutinio  o  solicitar  la  revisión  de 
+decisiones  adoptadas  por  la  mesa  de  sufragio  cuando 
+no se encontraba presente. En el caso del voto digital, el 
+personero está impedido de modificar y/o interrumpir total 
+o  parcialmente  la  instalación,  el  sufragio,  el  escrutinio, 
+la transmisión de resultados y/o afectar el desarrollo de 
+las actividades de cada una de las etapas de la jornada 
+electoral.
+d.  Efectuar  proselitismo  de  cualquier  tipo,  o 
+manifestarse  en  favor  o  en  contra  de  cualquier 
+organización política, candidato u opción en un proceso 
+de consulta popular.
+e. Manipular los dispositivos y/o equipos informáticos 
+electorales de la STVD.
+Artículo   21.-   Conductas   no   permitidas   a   los   
+personeros técnicos
+Los personeros técnicos están impedidos de:
+a. Presentar recursos por propia cuenta. Todo recurso 
+debe ser presentado por el personero legal.
+b.  Interferir,  en  modo  alguno,  con  el  proceso  de 
+cómputo. En caso de hacerlo pueden ser desalojados del 
+recinto.
+c. Hablar o intercambiar algún tipo de comunicación 
+con el personal del centro de cómputo, excepto con la 
+persona designada como responsable de su ingreso.
+CAPÍTULO III
+PROCEDIMIENTO PARA SOLICITAR EL 
+RECONOCIMIENTO DE LOS PERSONEROS ANTE 
+LOS JEE
+Artículo 22.- Disposiciones generales aplicables a 
+los personeros
+a. Las organizaciones políticas son las que acreditan a 
+sus personeros. La calidad de personero se acredita con 
+la credencial otorgada por el personero legitimado para 
+ello.
+Las  autoridades  sometidas  a  consulta  popular 
+de  revocatoria,  los  promotores  de  los  derechos  de 
+participación  o  control  ciudadanos,  los  alcaldes  en  un 
+proceso de consulta vecinal con fines de demarcación 
+territorial,  también  acreditan  a  sus  personeros  con 
+la  respectiva  credencial.  Para  ello,  son  de  aplicación 
+las  reglas  establecidas  para  los  personeros  de  las 
+organizaciones políticas.
+b.  El  JEE,  mediante  resolución,  reconoce  la 
+acreditación  de  los  personeros  que  desarrollan  sus 
+actividades  en  la  circunscripción  administrativa  y  de 
+justicia electoral sobre la que tiene competencia.
+c. La solicitud de reconocimiento de los personeros, en 
+cualquiera de sus tipos, ante el JEE, puede estar referida 
+a uno o más personeros, en un mismo pedido.
+d.  Ningún  personero  legal  o  técnico  puede  ser 
+acreditado  como  tal  por  dos  o  más  organizaciones 
+políticas o alianzas electorales, independientemente del 
+JEE ante el cual se solicite su reconocimiento.
+e.  Un  personero  legal  puede  ser  acreditado  por  la 
+misma organización política ante dos o más JEE.
+Un  personero  de  centro  de  votación  puede  ser 
+acreditado  ante  uno  o  más  centros  de  votación  por 
+la  misma  organización  política.  Sin  embargo,  dos  o 
+más  personeros  de  centro  de  votación  de  una  misma 
+organización  política  no  pueden  desarrollar  sus  tareas 
+ante el mismo centro de votación.
+Un  personero  de  mesa  de  sufragio  puede  ser 
+acreditado  ante  una  o  más  mesas  de  sufragio  por  la 
+misma organización política. No puede acreditarse a dos 
+personeros  de  la  misma  organización  política  para  la 
+misma mesa de sufragio.
+f.  Los  candidatos  no  pueden  asumir  la  condición 
+de  personeros  ni  pueden  acreditar  directamente  a 
+ciudadanos como tales.
+g. Las autoridades sometidas a consulta popular de 
+revocatoria pueden ser representadas por un personero 
+común.
+h. En caso de que en una circunscripción administrativa 
+y de justicia electoral exista más de un centro de cómputo 
+de la ODPE, la organización política puede acreditar a 
+tantos  personeros  técnicos  como  centros  de  cómputo 
+existan.
+i. El trámite ante el JEE para el reconocimiento de los 
+personeros legales y técnicos requiere de la presentación 
+del comprobante de pago de la tasa respectiva, por cada 
+personero.
+j. El trámite ante el JEE para el reconocimiento de 
+personeros de autoridades sometidas a consulta popular 
+o de promotores de consulta popular o referéndum es 
+gratuito.
+Artículo 23.- Legitimidad para acreditar personeros
+Tienen legitimidad para acreditar personeros con la 
+respectiva credencial:
+a. El personero inscrito ante el ROP puede acreditar 
+a  los  personeros  legales  y  técnicos  ante  los  JEE, 
+personeros de centro de votación y personeros de mesa 
+de sufragio.
+b. En el caso de alianzas electorales, solo el personero 
+legal inscrito en el ROP puede acreditar con la respectiva 
+credencial  a  los  personeros  legales  y  técnicos  de  la 
+alianza. No están legitimados para ello, los personeros 
+
+93
+NORMAS LEGALES
+Martes 6 de enero de 2026
+ 
+El Peruano 
+/
+ 
+legales de las organizaciones políticas que conforman la 
+alianza.
+c. El personero legal reconocido ante el JEE puede 
+acreditar a los personeros de centros de votación y de 
+mesas de sufragio.
+Artículo 24.- Uso del sistema informático Declara +
+Los personeros legales inscritos en el ROP acceden 
+al sistema informático Declara+ con el respectivo código 
+de usuario y clave generados por el JNE, a fin de que 
+ingresen los datos de los personeros legales, personeros 
+técnicos, personeros de centros de votación y personeros 
+ante las mesas de sufragio, para su acreditación y solicitar 
+el reconocimiento ante los JEE.
+Los  personeros  legales  inscritos  en  el  ROP  son 
+responsables  del  empleo  de  la  clave  de  acceso  al 
+sistema  informático  Declara+,  debiendo  velar  por  su 
+confidencialidad, buen uso y adecuada administración.
+Artículo 25.- La credencial del personero
+La  credencial  es  el  documento  emitido  por  la 
+organización  política  que  sirve  para  acreditar  a  los 
+personeros ante los JEE. La credencial debe ser generada 
+en el sistema Declara+.
+La credencial contiene el nombre de la organización 
+política correspondiente, sin incluir símbolo, lema, número 
+o identificación alguna de distinta naturaleza.
+Artículo   26.-   Contenido   de   la   credencial   del   
+personero
+La credencial del personero debe contener los datos, 
+según el tipo de personero, conforme al siguiente detalle:
+PERSONERO LEGALPERSONERO TÉCNICO
+PERSONERO DE CENTRO DE 
+VOTACIÓN
+PERSONERO ANTE LA MESA DE 
+SUFRAGIO
+De  la  persona  a  quien  se  acredita  
+como personero:
+a. Nombres y apellidos completos 
+b. Número de DNI
+c. Tipo y condición de personero (titular 
+o alterno)
+Del  personero  legal  que  otorga  la  
+credencial:
+d. Nombres y apellidos completos
+e. Condición del personero legal (titular 
+o alterno)
+f.  Firma del personero que otorga la 
+credencial
+Otros datos:
+g. JEE ante el que se tramita el 
+reconocimiento
+h. Fecha de la resolución que otorga la 
+credencial
+De  la  persona  a  quien  se  acredita  
+como personero:
+a. Nombres y apellidos completos
+b. Número de DNI
+c. Tipo y condición de personero (titular 
+o suplente)
+Del  personero  legal  que  otorga  la  
+credencial:
+d. Nombres y apellidos completos
+e. Condición del personero legal (titular 
+o alterno)
+f.  Firma del personero que otorga la 
+credencial
+Otros datos:
+g. JEE ante el que se tramita el 
+reconocimiento
+h. Fecha de la resolución que otorga la 
+credencial
+De  la  persona  a  quien  se  acredita  
+como personero:
+a. Nombres y apellidos completos
+b. Número de DNI
+c. Tipo de personero
+Del  personero  legal  que  otorga  la  
+credencial:
+d. Nombres y apellidos completos
+e. e. Condición del personero legal 
+(titular o alterno)
+f.  Firma del personero que otorga la 
+credencial
+Otros datos:
+g. JEE ante el que se tramita el 
+reconocimiento
+h. Nombre del centro de votación
+i.  Fecha de la resolución que otorga la 
+credencial
+De  la  persona  a  quien  se  acredita  
+como personero:
+a. Nombres y apellidos completos
+b. Número de DNI
+c. Tipo de personero
+Del  personero  legal  que  otorga  la  
+credencial:
+d. Nombres y apellidos completos
+e. Condición del personero legal (titular 
+o alterno)
+f.  Firma del personero que otorga la 
+credencial
+Otros datos:
+g. JEE ante el que se tramita el 
+reconocimiento
+h. Nombre del centro de votación
+i.  Número de la mesa de sufragio
+j.  Fecha de la resolución que otorga la 
+credencial
+Artículo  27.-  Requisitos  para  el  procedimiento  de  
+reconocimiento de personeros legales y técnicos por 
+los JEE
+Para la emisión de la resolución del JEE que reconoce 
+a los personeros legales y técnicos acreditados por las 
+organizaciones políticas, se debe presentar lo siguiente:
+a.  La  solicitud  generada  en  el  sistema  informático 
+Declara+,  que  incluye:  nombre  y  apellidos  completos, 
+número de DNI, tipo de personero que se acredita (personero 
+legal, titular o alterno, o personero técnico, titular o suplente) 
+y casilla electrónica del JNE. La solicitud debe estar firmada 
+digitalmente por el personero legal inscrito en el ROP.
+b.  La  credencial  otorgada  por  el  personero  legal 
+inscrito en el ROP, generada en el sistema Declara+.
+c. En el caso de los personeros técnicos, se debe 
+demostrar documentadamente una experiencia no menor 
+a un año en informática.
+d. Comprobante de pago de la tasa correspondiente, 
+por cada personero.
+Artículo  28.-  Requisitos  para  el  procedimiento  
+de  reconocimiento  de  personeros  de  los  centros  de  
+votación
+Para la emisión de la resolución del JEE que reconoce 
+a los personeros de los centros de votación acreditados 
+por  las  organizaciones  políticas,  se  debe  presentar  lo 
+siguiente:
+a.  La  solicitud  generada  en  el  sistema  informático 
+Declara+,  que  incluye:  nombre  y  apellidos  completos, 
+número  de  DNI,  clase  de  personero  que  se  acredita, 
+nombre del centro de votación y la casilla electrónica del 
+JNE. La solicitud debe estar firmada digitalmente por el 
+personero legal reconocido por el JEE o por el personero 
+legal inscrito en el ROP.
+b.  La  credencial  otorgada  por  el  personero  legal 
+reconocido por el JEE o el personero legal inscrito en el 
+ROP, generada en el sistema Declara+.
+Este trámite es gratuito.
+Artículo  29.-  Requisitos  para  el  procedimiento  de  
+reconocimiento  de  personeros  ante  las  mesas  de  
+sufragio
+Para la emisión de la resolución del JEE que reconoce 
+a los personeros ante las mesas de sufragio acreditados 
+por  las  organizaciones  políticas,  se  debe  presentar  lo 
+siguiente:
+a.  La  solicitud  generada  en  el  sistema  informático 
+Declara+,  que  incluye:  nombre  y  apellidos  completos, 
+número  de  DNI,  clase  de  personero  que  se  acredita, 
+nombre  del  centro  de  votación,  número  de  mesa  de 
+sufragio  y  la  casilla  electrónica  del  JNE.  La  solicitud 
+debe  estar  firmada  digitalmente  por  el  personero  legal 
+reconocido por el JEE o por el personero legal inscrito 
+en el ROP.
+b.  La  credencial  otorgada  por  el  personero  legal 
+reconocido por el JEE o el personero legal inscrito en el 
+ROP, generada en el sistema Declara+.
+Este trámite es gratuito.
+Artículo  30.-  Oportunidad  para  el  reconocimiento  
+de personeros
+La solicitud de reconocimiento de personeros de los 
+centros de votación se presenta ante los JEE hasta siete 
+días calendario antes de la elección.
+La solicitud de reconocimiento de personeros ante las 
+mesas de sufragio se presenta ante los JEE hasta siete 
+días calendario antes de la elección.
+Una vez vencido dicho plazo, los personeros legales 
+pueden  acreditar  a  los  personeros  de  los  centros  de 
+votación  directamente  ante  los  coordinadores  que  la 
+ODPE haya asignado a tales centros. Asimismo, pueden 
+acreditar a los personeros ante las mesas de sufragio, 
+directamente ante el presidente de la mesa durante el día 
+de la elección correspondiente.
+
+94
+NORMAS LEGALES
+Martes 6 de enero de 2026
+ 
+El Peruano 
+/
+Artículo 31.- Procedimiento para el reconocimiento 
+de los personeros por los JEE
+El  procedimiento  inicia  con  la  presentación  de  la 
+solicitud  de  reconocimiento  del  personero  a  través  del 
+Declara +, dirigido al JEE competente.
+El JEE procede conforme a las siguientes etapas:
+a. Calificación
+El  JEE  verifica  el  cumplimiento  integral  de  los 
+requisitos exigidos, según el tipo de personero.
+La calificación debe efectuarse en el plazo de un día 
+calendario.
+b. Subsanación
+La solicitud de reconocimiento de personeros que no 
+cumpla con alguno de los requisitos es observada, según 
+el  tipo  de  personero  que  se  acredite,  y  es  declarada 
+inadmisible por el JEE.
+La resolución que declare inadmisible la solicitud de 
+reconocimiento de personeros no es apelable.
+La inadmisibilidad puede subsanarse dentro del plazo 
+de dos días calendario, contados desde el día siguiente 
+de la notificación.
+c. Resolución de reconocimiento
+En el plazo de un día calendario después de presentada 
+la  solicitud,  o  desde  que  se  cumpla  con  subsanar  las 
+omisiones advertidas, el JEE emite resolución por la que 
+reconoce al personero acreditado.
+La  resolución  de  reconocimiento  es  notificada  al 
+personero legal solicitante, por casilla electrónica.
+La credencial registrada en el sistema Declara+ será 
+visada por el secretario del JEE con firma digital, la que 
+será utilizada por medios electrónicos por los personeros 
+reconocidos.
+La  resolución  de  reconocimiento  se  remite  a  la 
+respectiva ODPE.
+d. Resolución de rechazo
+Si la solicitud de reconocimiento de personero ha sido 
+objeto de observaciones y estas no han sido subsanadas 
+se  tiene  por  rechazada  mediante  resolución.  Esta 
+resolución es inimpugnable.
+Artículo      32.-      Reemplazo      de      personeros      
+reconocidos por los JEE
+Los personeros inscritos en el ROP pueden solicitar el 
+reemplazo de los personeros legales o técnicos reconocidos 
+por los JEE, en cualquier momento del proceso electoral, 
+debiendo para ello presentar al respectivo JEE, una solicitud 
+que, sin expresión de causa, indique expresamente que 
+se deja sin efecto la designación anterior y se acredita al 
+personero reemplazante, debiendo cumplir con los mismos 
+requisitos para el reconocimiento establecidos en el artículo 
+27 del presente reglamento.
+La  solicitud  de  reemplazo  de  personero  debe  estar 
+acompañada del comprobante de pago de la tasa respectiva, 
+por cada personero. El JEE sigue el procedimiento señalado 
+en el artículo 31 del presente reglamento.
+El  trámite  para  el  reemplazo  de  personeros  de 
+autoridades sometidas a consulta popular o de promotores 
+de consulta popular o referéndum, es gratuito.
+Artículo 33.- Renuncia de personeros
+El personero legal o técnico reconocido por el JEE, 
+puede renunciar a tal reconocimiento sin expresión de 
+causa, debiendo presentar el comprobante de pago de la 
+tasa respectiva ante el JEE.
+La resolución que tiene por aceptada la renuncia debe 
+ser notificada al renunciante y al personero legal inscrito 
+ante  el  ROP,  mediante  la  casilla  electrónica  del  JNE. 
+Asimismo, debe ser puesta en conocimiento de la ODPE.
+Artículo    34.-    Retiro    de    reconocimiento    de    
+personeros
+De  verificarse  que  el  personero  se  encuentra  en 
+alguno  de  los  supuestos  de  suspensión  del  ejercicio 
+Preguntas y comentarios: normasactualizadas@editoraperu.com.pe
+INGRESA A NORMAS EGA  ES AAIAAS
+ ttps:­­diariooficial.elp  eruano.pe­normas­normasactualizadas
+MANENE 
+INORMAO ON
+O ÚIMO EN 
+NORMAS LEGALES
+Utilice estas normas con la certeza de que 
+están vigentes.
+Normas Legales
+Actualizadas
+NLA
+NORMAS LEGALES ACTUALIZADAS
+
+95
+NORMAS LEGALES
+Martes 6 de enero de 2026
+ 
+El Peruano 
+/
+ 
+de  ciudadanía,  de  conformidad  con  el  artículo  33  de 
+la  Constitución  Política,  concordado  con  el  artículo 
+10 de la LOE, el JEE dispone de oficio el retiro de su 
+reconocimiento, sin que ello suponga la anulación de los 
+actos realizados por este. La resolución debe comunicarse 
+a la ODPE, en el día.
+TÍTULO III
+PERSONEROS PARA LAS ACTIVIDADES 
+ELECTORALES EN EL EXTRANJERO
+Artículo   35.-   Actuación   de   los   personeros   en   
+procesos electorales con votación en el extranjero
+La actuación de los personeros en el extranjero se 
+circunscribe a los procesos electorales de ámbito nacional 
+en  los  que  sufragan  los  peruanos  residentes  en  el 
+extranjero. Tales procesos electorales son las elecciones 
+presidenciales, elecciones parlamentarias, elecciones de 
+representantes  peruanos  ante  el  Parlamento Andino  y 
+referéndum nacional.
+Artículo      36.-      JEE      competente      para      el      
+reconocimiento de personeros en el extranjero
+En los procesos electorales señalados en el artículo 
+precedente, las organizaciones políticas pueden acreditar 
+personeros de centro de votación y personeros ante la 
+mesa de sufragio en el extranjero.
+Es  competente  para  tramitar  el  reconocimiento  de 
+dichos personeros, el JEE ubicado en la ciudad de Lima 
+al cual el JNE le asigne tal función.
+Artículo  37.-  Coordinación  del  JEE  competente  
+con el Ministerio de Relaciones Exteriores
+El JEE competente remite al Ministerio de Relaciones 
+Exteriores la relación de los personeros legales inscritos 
+ante el ROP y de los personeros legales reconocidos por 
+dicho JEE. Asimismo, atiende las solicitudes que formule 
+el  Ministerio  de  Relaciones  Exteriores  con  relación  al 
+reconocimiento de personeros.
+Artículo 38.- Legitimidad para acreditar personeros
+El personero legal inscrito ante el ROP y el personero 
+legal  reconocido  por  el  JEE  pueden  acreditar  a  los 
+personeros  de  centros  de  votación  y  los  personeros 
+ante  las  mesas  de  sufragio  ubicadas  en  el  extranjero. 
+El  funcionario  consular  y  el  presidente  de  la  mesa  de 
+sufragio  deben  verificar  que  la  credencial  sea  emitida 
+por  el  personero  legal  competente.  No  se  acepta  la 
+presentación de credenciales suscritas por terceros.
+Artículo  39.-  Acreditación  y  reconocimiento  de  
+personeros   de   centros   de   votación   y   mesas   de   
+sufragio en el extranjero
+El  personero  legal  presenta  la  solicitud  de 
+reconocimiento de los personeros de centros de votación 
+y de los personeros de mesas de sufragio, ante el JEE 
+competente.
+Los  requisitos  y  procedimiento  a  seguir  son  los 
+mismos  que  se  aplican  a  los  personeros  dentro  del 
+territorio nacional.
+La  resolución  de  reconocimiento  se  remite  a  la 
+respectiva ODPE y al Ministerio de Relaciones Exteriores.
+El  personero  legal  debe  remitir  las  respectivas 
+credenciales a los ciudadanos que se desempeñan como 
+personeros de centro de votación y personeros ante las 
+mesas de sufragio en el extranjero, a fin de que estos 
+se acrediten debidamente el día de las elecciones ante 
+el funcionario consular responsable y el presidente de la 
+mesa, respectivamente.
+Aquellos  personeros  de  centro  de  votación  y 
+personeros ante la mesa de sufragio, cuyo reconocimiento 
+no  fue  tramitado  ante  el  JEE,  pueden  ser  acreditados 
+directamente  por  el  personero  legal  con  la  credencial 
+correspondiente.
+No  es  exigible  la  identificación  de  la  mesa  en  la 
+credencial del personero ante la mesa de sufragio en el 
+extranjero, debido a la posibilidad de fusión de mesas el 
+mismo día de la elección.
+2473751-1
+Aprueban    Reglamento    sobre    Recuento    
+de  Votos  para  las  Elecciones  Regionales  y  
+Municipales
+RESOLUCIÓN N° 0852-2025-JNE
+Lima, 31 de diciembre de 2025
+VISTOS: La Ley N° 32299
+1
+, Ley que modifica la Ley N° 
+26859, Ley Orgánica de Elecciones (LOE), para regular 
+el recuento de votos, y el Informe N° 00461-2025-OGAJ/
+JNE, de la Oficina General de Asesoría Jurídica.
+CONSIDERANDO QUE:
+1. El  artículo  178  de  la  Constitución  Política  del 
+Perú  establece  las  atribuciones  del  Jurado  Nacional 
+de  Elecciones,  entre  las  cuales  se  encuentran  la  de 
+administrar justicia en materia electoral, la de velar por el 
+cumplimiento de las normas electorales, y la de fiscalizar 
+la legalidad del ejercicio del sufragio y de la realización de 
+los procesos electorales.
+2. El 11 de abril de 2025, se publicó la Ley N° 32299, 
+que modificó la LOE, para regular el recuento de votos 
+en cuyo artículo único dispone que, en materia de actas 
+observadas de un proceso electoral, cuando los Jurados 
+Electorales Especiales adviertan que la observación no 
+puede ser subsanada mediante cotejo con el ejemplar 
+del  acta  correspondiente,  disponen,  en  decisión 
+inimpugnable, que se proceda por única vez al recuento 
+de votos. De la misma manera, la referida norma incorpora 
+en la legislación electoral que los resultados que arroje el 
+recuento de votos son inimpugnables.
+3. La Ley de Elecciones Regionales, Ley N° 27683, 
+establece que estas se realizan cada cuatro años para 
+elegir  las  autoridades  de  los  gobiernos  regionales, 
+cuyo  mandato  proviene  de  la  voluntad  popular  ,  las 
+cuales se realizan junto con las elecciones municipales 
+el primer domingo del mes de octubre del año en que 
+finaliza  el  mandato  de  las  autoridades  regionales,  lo 
+cual es concordante con lo prescrito sobre la fecha de 
+las elecciones establecido en la Ley N° 26864, Ley de 
+Elecciones Municipales. Siendo así, el próximo domingo 
+4 de octubre de 2026, se llevarán a cabo las Elecciones 
+Regionales y Municipales.
+4. En ese contexto, en virtud del artículo 5, literal l, 
+de la Ley N° 26486, Ley Orgánica del Jurado Nacional 
+de Elecciones, este órgano colegiado estima pertinente 
+regular  el  tratamiento  de  las  actas  que  requieran  de 
+recuento de votos para su contabilización, en el marco de 
+los procesos electorales precitados.
+Por  lo  tanto,  el  Pleno  del  Jurado  Nacional  de 
+Elecciones, en uso de sus atribuciones,
+RESUELVE
+Artículo  Primero.-  APROBAR el Reglamento sobre 
+Recuento  de  Votos  para  las  Elecciones  Regionales  y 
+Municipales, el cual forma parte de la presente resolución.
+Artículo  Segundo.- DISPONER la publicación de la 
+presente resolución en el diario oficial El Peruano y en 
+el portal institucional del Jurado Nacional de Elecciones.
+Regístrese, comuníquese y publíquese.
+SS.
+BURNEO BERMEJO
+MAISCH MOLINA
+RAMÍREZ CHÁVARRY
+TORRES CORTEZ
+OYARCE YUZZELLI
+Clavijo Chipoco
+Secretaria General

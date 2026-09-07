@@ -1,0 +1,770 @@
+QUIERO CREAR UNA APLICACIÓN COMPLETAMENTE NUEVA DESDE CERO.
+
+IMPORTANTE:
+NO modificar, reutilizar, importar ni sobrescribir ningún proyecto existente.
+NO asumir que existe un código previo.
+NO conectar esta aplicación con otro proyecto.
+
+La aplicación debe ser independiente y nueva.
+
+========================================================
+NOMBRE DEL PROYECTO
+========================================================
+
+🇵🇪 ASISTENTE DEL PERSONERO — ERM 2026
+
+Subtítulo:
+
+"Asistente virtual para Personeros Electorales"
+
+El sistema estará orientado a las Elecciones Regionales y Municipales
+del Perú 2026.
+
+========================================================
+REFERENCIA VISUAL
+========================================================
+
+Voy a proporcionar una imagen/captura de pantalla de otro chatbot.
+
+UTILIZA ESA IMAGEN ÚNICAMENTE COMO REFERENCIA VISUAL.
+
+NO copies:
+- nombres
+- textos
+- candidatos
+- partidos políticos
+- información electoral
+- contenido
+- datos
+- código
+
+NO quiero clonar esa aplicación.
+
+Solamente quiero tomar como referencia:
+
+- distribución de elementos
+- estructura del chatbot
+- encabezado
+- burbujas de conversación
+- botones de preguntas rápidas
+- barra inferior de escritura
+- tarjetas
+- diseño mobile
+- proporciones
+- experiencia de usuario
+- navegación sencilla
+
+La nueva aplicación debe tener identidad propia y estar enfocada
+exclusivamente en asistencia electoral para personeros.
+
+========================================================
+OBJETIVO
+========================================================
+
+Crear un asistente virtual que ayude a los personeros durante las
+Elecciones Regionales y Municipales 2026 del Perú.
+
+El chatbot debe proporcionar información clara, neutral y práctica
+sobre:
+
+- derechos
+- deberes
+- funciones
+- obligaciones
+- prohibiciones
+- acreditación
+- instalación
+- sufragio
+- escrutinio
+- actas
+- votos impugnados
+- actas observadas
+- nulidad
+- recuento de votos
+- propaganda electoral
+- neutralidad
+- incidencias
+- procedimientos electorales
+- autoridades electorales
+- normativa electoral
+
+========================================================
+TIPOS DE USUARIO
+========================================================
+
+Al ingresar por primera vez mostrar:
+
+"¿Qué tipo de personero eres?"
+
+Crear cuatro tarjetas grandes:
+
+👤 Personero de Mesa
+
+🏢 Personero de Local
+
+⚖️ Personero Legal
+
+👥 Coordinador de Personeros
+
+El usuario seleccionará un perfil.
+
+Guardar el perfil durante la sesión.
+
+El perfil seleccionado debe utilizarse para contextualizar las
+respuestas del asistente.
+
+========================================================
+PANTALLA PRINCIPAL
+========================================================
+
+Crear una interfaz mobile-first.
+
+Encabezado:
+
+🇵🇪
+ASISTENTE DEL PERSONERO
+ERM 2026
+
+Texto:
+
+"Información electoral oficial para personeros"
+
+Debajo:
+
+"¿En qué podemos ayudarte?"
+
+Mostrar accesos rápidos:
+
+👤 Mis funciones
+
+⚖️ Mis derechos
+
+📋 Actas
+
+🗳️ Sufragio
+
+🔎 Escrutinio
+
+🚨 ¿Qué hago si...?
+
+📚 Normativa
+
+📝 Reportar incidencia
+
+========================================================
+CHAT
+========================================================
+
+Crear un chatbot moderno similar en experiencia visual a la imagen
+proporcionada, pero completamente nuevo.
+
+Mensaje inicial:
+
+"👋 Hola. Soy el Asistente del Personero ERM 2026.
+
+Puedo ayudarte con información sobre tus funciones, derechos,
+deberes y procedimientos durante las Elecciones Regionales y
+Municipales 2026.
+
+Selecciona una opción o escribe tu pregunta."
+
+La parte inferior debe contener:
+
+[ Escribe tu pregunta aquí... ]       [➤]
+
+Las preguntas rápidas deben poder desplazarse horizontalmente
+desde un teléfono.
+
+========================================================
+ESTILO VISUAL
+========================================================
+
+Diseño:
+
+- Mobile First
+- Responsive
+- Profesional
+- Moderno
+- Institucional
+- Limpio
+- Fácil de leer
+- Botones grandes
+- Bordes redondeados
+- Sombras suaves
+- Excelente contraste
+- Navegación sencilla
+
+La aplicación debe parecer una aplicación móvil y no una página web
+tradicional.
+
+Debe funcionar correctamente en:
+
+- teléfonos Android
+- iPhone
+- tablets
+- computadora
+
+No sobrecargar la pantalla.
+
+========================================================
+IDENTIDAD VISUAL
+========================================================
+
+Utilizar una identidad propia para:
+
+"ASISTENTE DEL PERSONERO ERM 2026"
+
+No utilizar fotografías de candidatos.
+
+No utilizar logos de partidos políticos.
+
+No utilizar propaganda electoral.
+
+No utilizar colores que hagan parecer que pertenece a un partido
+político específico.
+
+El objetivo es que sea una herramienta electoral neutral.
+
+========================================================
+MENÚ PRINCIPAL
+========================================================
+
+Crear navegación sencilla:
+
+🏠 Inicio
+
+💬 Preguntar
+
+🚨 Incidencias
+
+📚 Normativa
+
+👤 Mi perfil
+
+========================================================
+MÓDULO "¿QUÉ HAGO SI...?"
+========================================================
+
+Crear una sección especial llamada:
+
+🚨 ¿QUÉ HAGO SI...?
+
+Mostrar opciones:
+
+🚫 No me dejan ingresar al local
+
+👁️ No me permiten observar
+
+📋 No me entregan copia del acta
+
+✍️ No quieren registrar mi observación
+
+🗳️ Existe un voto impugnado
+
+📄 Existe un problema con el acta
+
+📢 Hay propaganda electoral
+
+⚠️ Detecté una irregularidad
+
+👮 Existe un problema de seguridad
+
+❓ Tengo otra incidencia
+
+Al seleccionar una opción, abrir automáticamente el chatbot con
+la consulta correspondiente.
+
+========================================================
+MÓDULO DE INCIDENCIAS
+========================================================
+
+Crear:
+
+📝 REPORTAR INCIDENCIA
+
+Formulario:
+
+Tipo de personero
+Local de votación
+Mesa de sufragio
+Fecha
+Hora
+Categoría
+Descripción
+Evidencia/fotografía
+
+Botón:
+
+"REPORTAR INCIDENCIA"
+
+Inicialmente almacenar los datos de manera local o en la base de
+datos preparada para el proyecto.
+
+La arquitectura debe permitir posteriormente incorporar autenticación
+y almacenamiento seguro.
+
+========================================================
+MÓDULO DE NORMATIVA
+========================================================
+
+Crear:
+
+📚 NORMATIVA ELECTORAL
+
+Organizar por:
+
+JNE
+ONPE
+LEYES
+OTRAS ENTIDADES
+
+Preparar tarjetas para:
+
+Resolución N.° 0850-2025-JNE
+Reglamento sobre participación de personeros en procesos electorales
+
+Resolución N.° 0837-2025-JNE
+Reglamento de Actas Observadas
+
+Resolución N.° 0838-2025-JNE
+Reglamento para el trámite de solicitudes de nulidad ERM 2026
+
+Resolución N.° 0852-2025-JNE
+Reglamento de recuento de votos
+
+Resolución N.° 0844-2025-JNE
+Propaganda electoral, publicidad estatal y neutralidad
+
+Resolución N.° 0845-2025-JNE
+Conductas prohibidas y procedimiento sancionador
+
+Ley N.° 26859
+Ley Orgánica de Elecciones
+
+Ley N.° 28094
+Ley de Organizaciones Políticas
+
+Cartilla de Instrucciones para Personeros ERM 2026 — ONPE
+
+Manual de Capacitación Jurisdiccional Electoral ERM 2026 — JNE
+
+IMPORTANTE:
+
+No inventar el contenido de estas normas.
+
+La aplicación debe quedar preparada para cargar posteriormente
+los documentos PDF oficiales.
+
+========================================================
+INTELIGENCIA ARTIFICIAL
+========================================================
+
+Preparar el proyecto para incorporar un asistente de IA.
+
+El asistente debe conocer el perfil seleccionado:
+
+personero_mesa
+personero_local
+personero_legal
+coordinador
+
+Cada pregunta debe poder clasificarse en:
+
+acreditacion
+derechos
+deberes
+prohibiciones
+instalacion
+sufragio
+escrutinio
+actas
+votos_impugnados
+actas_observadas
+nulidad
+recuento
+incidentes
+propaganda
+neutralidad
+JEE
+ONPE
+ODPE
+seguridad
+cronograma
+normativa
+otros
+
+========================================================
+REGLA FUNDAMENTAL DE LA IA
+========================================================
+
+El asistente NO debe inventar información.
+
+Nunca inventar:
+
+- leyes
+- resoluciones
+- artículos
+- sanciones
+- plazos
+- procedimientos
+- teléfonos
+- autoridades
+- derechos
+- obligaciones
+
+Cuando la aplicación tenga acceso a la base normativa, debe
+priorizar las fuentes oficiales.
+
+Si no encuentra fundamento suficiente debe responder:
+
+"No encuentro fundamento oficial suficiente para responder esta
+consulta con seguridad. Verifica la normativa vigente del JNE
+u ONPE."
+
+========================================================
+RAG
+========================================================
+
+Diseñar la aplicación desde el inicio pensando en una arquitectura
+RAG (Retrieval Augmented Generation).
+
+Arquitectura:
+
+Pregunta
+   ↓
+Perfil del personero
+   ↓
+Clasificación
+   ↓
+Búsqueda en documentos
+   ↓
+Recuperación de información
+   ↓
+Modelo de IA
+   ↓
+Respuesta
+   ↓
+Fuente normativa
+
+Preparar una estructura:
+
+/knowledge
+
+/knowledge/JNE
+/knowledge/ONPE
+/knowledge/LEYES
+/knowledge/OTROS
+
+Los documentos deberán tener metadatos:
+
+id
+entidad
+tipo_documento
+numero
+titulo
+fecha_publicacion
+fecha_vigencia
+estado
+version
+proceso
+url_oficial
+prioridad
+
+========================================================
+FORMATO DE RESPUESTA DE IA
+========================================================
+
+Las respuestas deberán mostrarse de esta manera:
+
+📌 RESPUESTA
+
+[Respuesta sencilla]
+
+⚖️ BASE NORMATIVA
+
+[Norma aplicable]
+
+📚 FUENTE
+
+[Entidad + documento + artículo/sección/página]
+
+✅ QUÉ PUEDES HACER
+
+[Acciones]
+
+❌ QUÉ NO DEBES HACER
+
+[Restricciones]
+
+🚨 SI OCURRE UNA INCIDENCIA
+
+[Orientación práctica]
+
+No utilizar respuestas innecesariamente extensas.
+
+Priorizar información accionable.
+
+========================================================
+NIVEL DE CONFIANZA
+========================================================
+
+Preparar el sistema para mostrar:
+
+🟢 Fundamento normativo encontrado
+
+🟡 Respuesta requiere verificación
+
+🔴 No se encontró fundamento suficiente
+
+========================================================
+MODO JORNADA ELECTORAL
+========================================================
+
+Preparar una sección especial:
+
+🇵🇪 MODO JORNADA ELECTORAL
+
+4 DE OCTUBRE DE 2026
+
+Mostrar:
+
+🟢 Instalación
+
+🔵 Sufragio
+
+🟡 Escrutinio
+
+🟠 Actas
+
+🔴 Incidente
+
+⚖️ Impugnación
+
+🚨 Reportar incidencia
+
+Esta interfaz debe ser especialmente rápida y sencilla para
+utilizarse durante la jornada electoral desde un teléfono.
+
+========================================================
+BASE DE DATOS
+========================================================
+
+Preparar PostgreSQL.
+
+Crear inicialmente las tablas:
+
+documents
+
+document_chunks
+
+questions
+
+incidents
+
+sessions
+
+users
+
+La estructura debe permitir incorporar posteriormente:
+
+- historial de consultas
+- documentos
+- embeddings
+- incidencias
+- usuarios
+- estadísticas
+
+========================================================
+SEGURIDAD
+========================================================
+
+Aplicar buenas prácticas:
+
+- Las API Keys nunca deben estar en el frontend.
+- Utilizar variables de entorno.
+- Validar entradas.
+- Sanitizar datos.
+- Manejar errores.
+- No almacenar información sensible innecesaria.
+- Preparar autenticación para el futuro.
+- No exponer credenciales.
+- No colocar secretos dentro del código.
+
+========================================================
+ESTRUCTURA DEL PROYECTO
+========================================================
+
+Crear una arquitectura limpia similar a:
+
+/client
+    /src
+        /components
+            Header
+            Chat
+            MessageBubble
+            PersoneroSelector
+            QuickQuestions
+            SourceCard
+            IncidentForm
+            NormCard
+            BottomNavigation
+
+        /pages
+            Home
+            Chat
+            Incidents
+            Normativa
+            Profile
+
+        App.jsx
+
+/server
+    /routes
+        chat
+        incidents
+        documents
+
+    /services
+        ai
+        rag
+        classifier
+        embeddings
+
+    /prompts
+        personero-master.txt
+
+/knowledge
+    /JNE
+    /ONPE
+    /LEYES
+    /OTROS
+
+/database
+    schema.sql
+
+/scripts
+    ingest.js
+    embeddings.js
+
+========================================================
+PRIMERA ETAPA
+========================================================
+
+NO intentes construir toda la plataforma inmediatamente.
+
+Primero crea y deja funcionando:
+
+1. Proyecto completamente nuevo.
+2. Interfaz principal.
+3. Header.
+4. Selector de tipo de personero.
+5. Chat.
+6. Preguntas rápidas.
+7. Navegación.
+8. Sección "¿Qué hago si...?"
+9. Sección de normativa.
+10. Formulario de incidencia.
+11. Diseño responsive.
+12. Estructura preparada para IA.
+13. Estructura preparada para RAG.
+14. Base de datos preparada.
+
+========================================================
+IMPORTANTE SOBRE EL CÓDIGO
+========================================================
+
+Genera código real y funcional.
+
+No crear solamente prototipos visuales.
+
+No utilizar información ficticia como si fuera normativa real.
+
+Si alguna funcionalidad requiere una API externa que todavía no está
+configurada, crea la estructura necesaria y utiliza un mensaje
+temporal claramente identificado como:
+
+"Servicio de IA pendiente de configuración."
+
+NO pongas claves API ficticias dentro del código.
+
+Crear:
+
+.env.example
+
+con las variables necesarias.
+
+Crear también:
+
+README.md
+
+explicando:
+
+- cómo ejecutar
+- cómo configurar variables
+- cómo conectar la IA
+- cómo cargar documentos
+- cómo ejecutar la base de datos
+- cómo continuar con RAG
+
+========================================================
+RESULTADO ESPERADO
+========================================================
+
+Al finalizar esta primera etapa quiero poder abrir la aplicación
+y ver una interfaz similar en experiencia de uso a la imagen de
+referencia, pero completamente nueva y con esta identidad:
+
+🇵🇪 ASISTENTE DEL PERSONERO
+ERM 2026
+
+La aplicación debe ser independiente y no debe modificar ningún
+proyecto anterior.
+
+Antes de terminar, comprueba que:
+
+- la aplicación compile
+- no existan errores
+- el frontend cargue
+- el diseño sea responsive
+- el chat funcione visualmente
+- los botones funcionen
+- la navegación funcione
+- el selector de personero funcione
+- el formulario de incidencia funcione
+- la estructura del proyecto quede preparada para implementar
+  posteriormente el sistema RAG.
+
+COMIENZA CREANDO EL PROYECTO COMPLETAMENTE NUEVO DESDE CERO.
+Una precisión importante
+
+Cuando lo pegues en Replit Agent, si te pregunta algo como:
+
+"Do you want me to modify your existing project?"
+
+responde:
+
+NO. Create a completely new application from scratch. The attached image is only a UI/UX reference. Do not modify or reuse any existing project.
+
+Así dejamos dos proyectos totalmente separados:
+
+PROYECTO ACTUAL
+🟦 Chatbot San Isidro
+        │
+        │ NO TOCAR
+        │
+        ▼
+────────────────────────────
+
+PROYECTO NUEVO
+🟩 Asistente del Personero
+   ERM 2026
+        │
+        ├── Chat IA
+        ├── Personero Mesa
+        ├── Personero Local
+        ├── Personero Legal
+        ├── Normativa
+        ├── ¿Qué hago si...?
+        ├── Incidencias
+        ├── RAG
+        └── Modo Jornada Electoral

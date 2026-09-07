@@ -1,0 +1,31 @@
+{
+  "name": "asistente-personero-erm-2026",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Asistente virtual para Personeros Electorales — Elecciones Regionales y Municipales del Perú 2026",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "install:all": "npm install && npm --prefix client install && npm --prefix server install",
+    "dev": "concurrently -n client,server -c blue,green \"npm --prefix client run dev\" \"npm --prefix server run dev\"",
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "npm --prefix server run dev",
+    "build": "npm --prefix client install && npm --prefix client run build",
+    "vercel-build": "npm --prefix client install && npm --prefix client run build",
+    "db:schema": "psql \"$DATABASE_URL\" -f database/schema.sql",
+    "ingest": "node scripts/ingest.js",
+    "embeddings": "node scripts/embeddings.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
