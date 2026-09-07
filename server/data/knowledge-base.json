@@ -181,7 +181,8 @@
     {
       "id": "observacion-acta",
       "categoria": "actas",
-      "keywords": ["no quieren registrar mi observacion", "registrar mi observacion", "como registro una observacion", "registrar una observacion", "registro mi observacion", "como dejo constancia", "dejar constancia en el acta", "formular observaciones", "formular un reclamo", "reclamo en el acta", "campo de observaciones", "anotar reclamo", "como hago una observacion"],
+      "keywords": ["no quieren registrar mi observacion", "registrar mi observacion", "como registro una observacion", "registrar una observacion", "registro mi observacion", "como dejo constancia", "dejar constancia en el acta", "formular observaciones", "formular un reclamo", "reclamo en el acta", "campo de observaciones", "anotar reclamo", "como hago una observacion", "no anotaron mi reclamo", "no anotan lo que digo", "no registran lo que digo", "no quisieron anotar mi observacion", "quiero que quede por escrito", "que quede constancia"],
+      "sinonimos": ["anotar", "anotaron", "registrar", "constancia", "por escrito", "reclamo", "observacion"],
       "respuesta": "El personero puede formular observaciones o reclamos el día de la jornada ante la mesa de sufragio, y estos deben anotarse en el campo de Observaciones del acta correspondiente (instalación, sufragio o escrutinio). La firma del personero también se registra en el acta.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, literal g.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 lit. g · ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 7–8, 11 y 17.",
@@ -193,7 +194,8 @@
     {
       "id": "prohibiciones",
       "categoria": "prohibiciones",
-      "keywords": ["prohibiciones del personero", "que no puedo hacer", "que no debe hacer el personero", "conductas no permitidas", "me pueden retirar", "retiro del personero"],
+      "keywords": ["prohibiciones del personero", "que no puedo hacer", "que no debe hacer el personero", "conductas no permitidas", "me pueden retirar", "me pueden retirar de la mesa", "retiro del personero", "me quieren retirar", "me quieren retirar de la mesa", "me sacan de la mesa", "me botan de la mesa", "pueden retirarme", "que esta prohibido para el personero", "puedo conversar con los electores", "puedo hacer campaña"],
+      "sinonimos": ["retirar", "expulsar", "sacar de la mesa", "prohibido", "prohibicion", "proselitismo", "campaña"],
       "respuesta": "El personero ante la mesa de sufragio no puede: interrogar a los electores sobre su preferencia; conversar o discutir con electores, miembros de mesa u otros personeros durante la votación; interrumpir el escrutinio o pedir revisión de decisiones adoptadas cuando no estuvo presente; hacer proselitismo o manifestarse a favor o en contra de una organización, candidato u opción; manipular material o equipos electorales; ni actuar de forma simultánea con otro personero de la misma organización en la misma mesa. Si incumple estas prohibiciones, los tres miembros de mesa pueden disponer su retiro, y la organización puede reemplazarlo por otro personero acreditado.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 20 (y art. 22). Ley Orgánica de Elecciones (Ley 26859), arts. 127, 154 y 190. Código Penal, art. 356.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 12 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 20.",
@@ -265,7 +267,8 @@
     {
       "id": "propaganda-neutralidad",
       "categoria": "propaganda",
-      "keywords": ["propaganda electoral", "hay propaganda en el local", "publicidad electoral", "proselitismo", "neutralidad", "difusion el dia de la eleccion"],
+      "keywords": ["propaganda electoral", "hay propaganda en el local", "publicidad electoral", "proselitismo", "neutralidad", "difusion el dia de la eleccion", "reparten volantes", "repartiendo volantes", "estan repartiendo propaganda", "veo propaganda", "hay carteles de un candidato", "estan haciendo campaña", "propaganda cerca del local"],
+      "sinonimos": ["volante", "volantes", "folleto", "folletos", "afiche", "afiches", "cartel", "carteles", "campaña", "pancarta", "banderola"],
       "respuesta": "El personero no puede hacer proselitismo de ningún tipo ni manifestarse a favor o en contra de una organización política, candidato u opción durante la jornada. Tampoco puede intentar dirigir o impedir el voto de los electores. Las reglas detalladas sobre propaganda electoral, publicidad estatal y neutralidad están en la Resolución N.° 0844-2025-JNE, que debe consultarse para casos concretos (por ejemplo, propaganda dentro o alrededor del local de votación).",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 20, literal d. Ley Orgánica de Elecciones (Ley 26859), art. 190. Código Penal, art. 356. Reglamento de propaganda electoral (Res. 0844-2025-JNE).",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 12 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 20 · JNE — Res. 0844-2025-JNE (pendiente de carga).",
@@ -289,7 +292,8 @@
     {
       "id": "horario-jornada",
       "categoria": "cronograma",
-      "keywords": ["a que hora", "horario de votacion", "hora de llegada", "cuando es la eleccion", "4 de octubre", "de 7 a 5", "jornada electoral horario"],
+      "keywords": ["a que hora", "horario de votacion", "hora de llegada", "cuando es la eleccion", "cuando son las elecciones", "fecha de las elecciones", "fecha de la eleccion", "que dia se vota", "que dia son las elecciones", "cuando se vota", "a que hora abren", "a que hora cierran", "hasta que hora se vota", "4 de octubre", "de 7 a 5", "jornada electoral horario"],
+      "sinonimos": ["fecha", "dia", "domingo", "octubre", "hora", "horario"],
       "respuesta": "Las Elecciones Regionales y Municipales 2026 se realizan el domingo 4 de octubre de 2026. La votación se lleva a cabo de 7:00 a. m. a 5:00 p. m. El personero de mesa puede presentarse en cualquier momento de la jornada, siempre que el número de mesa figure en su credencial; conviene llegar antes del inicio de la instalación para presenciarla.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859). Convocatoria ERM 2026.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 2 y 13.",
@@ -337,7 +341,8 @@
     {
       "id": "irregularidad",
       "categoria": "incidentes",
-      "keywords": ["detecte una irregularidad", "posible irregularidad", "vi una irregularidad", "hay una irregularidad", "sospecho una irregularidad", "como documento una irregularidad", "encontre algo irregular"],
+      "keywords": ["detecte una irregularidad", "posible irregularidad", "vi una irregularidad", "hay una irregularidad", "sospecho una irregularidad", "como documento una irregularidad", "encontre algo irregular", "hubo trampa", "hicieron trampa", "creo que hubo fraude", "sospecho fraude", "algo raro en el conteo", "me parece que hay fraude", "vi algo sospechoso"],
+      "sinonimos": ["trampa", "fraude", "sospechoso", "raro", "irregular", "manipulacion", "adulteracion"],
       "respuesta": "El personero ante la mesa de sufragio tiene la facultad de denunciar cualquier acto que atente contra la transparencia y la legalidad del proceso electoral, y de formular observaciones o reclamos ante la mesa el mismo día de la jornada. Documenta el hecho con precisión (qué pasó, quiénes, mesa, local, fecha y hora), pide que se registre en el campo de Observaciones del acta correspondiente y trasládalo a tu personero legal.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, literales g y l.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16.",
@@ -369,6 +374,32 @@
       "no_debes": ["Interferir en las funciones de la mesa ni captar el voto de un elector."],
       "incidencia": "Si necesitas respaldo gráfico de un hecho, consúltalo con el coordinador de local de la ODPE y déjalo también por escrito en el acta.",
       "confianza": "yellow"
+    },
+    {
+      "id": "costo-tramite",
+      "categoria": "acreditacion",
+      "keywords": ["tengo que pagar", "hay que pagar", "cuesta ser personero", "pago para ser personero", "tasa para personeros", "el tramite es gratis", "es gratuito acreditar personeros", "cuanto se paga por el reconocimiento", "pago de tasa personero"],
+      "sinonimos": ["tasa", "pago", "gratuito", "gratis", "costo", "arancel"],
+      "respuesta": "El trámite ante el JEE para el reconocimiento de personeros legales y técnicos requiere presentar el comprobante de pago de la tasa respectiva, por cada personero. En cambio, el reconocimiento de personeros de centro de votación y de personeros ante las mesas de sufragio es gratuito. El trámite para personeros de autoridades sometidas a consulta popular o de promotores también es gratuito.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 22, literales i y j; arts. 28 y 29 (trámite gratuito para centro de votación y mesa).",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), arts. 22, 28 y 29.",
+      "puedes": ["Acreditar gratis a personeros de mesa y de centro de votación."],
+      "no_debes": ["Omitir el comprobante de pago de la tasa en el reconocimiento de personeros legales o técnicos."],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "saludo",
+      "categoria": "otros",
+      "mostrar_confianza": false,
+      "keywords": ["hola", "buenas", "buenos dias", "buenas tardes", "buenas noches", "que tal", "hey", "hola que tal", "necesito ayuda", "me puedes ayudar", "en que me puedes ayudar", "que puedes hacer", "para que sirves"],
+      "respuesta": "Hola. Soy el Asistente del Personero ERM 2026. Puedo orientarte, con base en la normativa oficial del JNE y la ONPE, sobre: acreditación y plazos, funciones y derechos del personero, instalación, sufragio, escrutinio, actas y copia del acta, votos impugnados, observaciones y reclamos, prohibiciones, nulidad de mesa, recuento, propaganda y neutralidad, seguridad e incidencias. Escríbeme tu consulta con tus palabras (por ejemplo: \"no me dejan entrar al local\" o \"¿hasta cuándo puedo acreditar a mis personeros?\").",
+      "base_normativa": "",
+      "fuente": "",
+      "puedes": ["Escribir tu pregunta con lenguaje natural.", "Usar los accesos rápidos o el módulo \"¿Qué hago si...?\"."],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
     }
   ]
 }

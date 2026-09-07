@@ -23,7 +23,15 @@ export default function Chat({ seed }) {
   const [input, setInput] = useState('');
   const [busy, setBusy] = useState(false);
   const scrollRef = useRef(null);
+  const inputRef = useRef(null);
   const seededRef = useRef(false);
+
+  // Autoajusta la altura del área de texto según lo que se escribe.
+  function autoGrow(el) {
+    if (!el) return;
+    el.style.height = 'auto';
+    el.style.height = Math.min(el.scrollHeight, 120) + 'px';
+  }
 
   useEffect(() => {
     const el = scrollRef.current;
@@ -49,6 +57,7 @@ export default function Chat({ seed }) {
 
     setMessages((prev) => [...prev, userMsg]);
     setInput('');
+    if (inputRef.current) inputRef.current.style.height = 'auto';
     setBusy(true);
 
     const res = await sendChat({
@@ -89,24 +98,35 @@ export default function Chat({ seed }) {
 
       <QuickQuestions onPick={(q) => submit(q)} />
 
-      <div className="composer">
+      <form
+        className="composer"
+        onSubmit={(e) => {
+          e.preventDefault();
+          submit();
+        }}
+      >
         <textarea
+          ref={inputRef}
           className="composer__input"
           rows={1}
+          enterKeyHint="send"
           placeholder="Escribe tu pregunta aquí…"
           value={input}
-          onChange={(e) => setInput(e.target.value)}
+          onChange={(e) => {
+            setInput(e.target.value);
+            autoGrow(e.target);
+          }}
           onKeyDown={onKeyDown}
         />
         <button
+          type="submit"
           className="composer__send"
-          onClick={() => submit()}
           disabled={busy || !input.trim()}
-          aria-label="Enviar"
+          aria-label="Enviar pregunta"
         >
           ➤
         </button>
-      </div>
+      </form>
     </div>
   );
 }
