@@ -72,7 +72,13 @@ async function main() {
     process.exit(1);
   }
 
-  const files = walk(KNOWLEDGE_DIR).filter((f) => !f.endsWith('.json') && !f.endsWith('.gitkeep') && !f.toLowerCase().endsWith('readme.md'));
+  const files = walk(KNOWLEDGE_DIR).filter(
+    (f) =>
+      !f.endsWith('.json') &&
+      !f.endsWith('.gitkeep') &&
+      !f.toLowerCase().endsWith('readme.md') &&
+      !f.toLowerCase().endsWith('pendientes.md')
+  );
   const textFiles = files.filter((f) => TEXT_EXT.has(extname(f).toLowerCase()));
   const pdfFiles = files.filter((f) => extname(f).toLowerCase() === '.pdf');
 

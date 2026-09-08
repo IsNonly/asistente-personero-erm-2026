@@ -1,39 +1,37 @@
-# Documentos oficiales pendientes de descargar a /knowledge
+# Estado de la base normativa oficial en /knowledge
 
-La base local del chat (`server/data/knowledge-base.json`) ya cita estas normas, pero
-**falta cargar el PDF + texto extraído** para el buscador RAG/IA y para poder verificar
-el articulado palabra por palabra. Descargar desde la fuente oficial y verificar vigencia.
+## Cargados con TEXTO OFICIAL completo (.txt + .json; el .pdf no se versiona)
 
-## Prioridad alta
-
-| Documento | Qué aporta | Dónde buscar |
+| Documento | Archivo | Usado en la base local |
 |---|---|---|
-| **RENIEC — R.J. N.° 000023-2026-RENIEC/JNAC** | DNI vencido/caduco válido solo para votar el 4/10/2026 | gob.pe/reniec · El Peruano (agosto 2026) |
-| **Res. 0837-2025-JNE** | Actas observadas, actas con votos impugnados y actas con solicitud de nulidad | gob.pe/institucion/jne/normas-legales · El Peruano 06/01/2026 |
-| **Res. 0838-2025-JNE** | Trámite de solicitudes de nulidad de votación y de elecciones (estándares de prueba) | gob.pe/institucion/jne/normas-legales |
-| **Res. 0852-2025-JNE** (articulado completo) | Reglamento de recuento de votos (hoy solo están los considerandos) | gob.pe/institucion/jne/normas-legales |
-| **Res. 0003-2026-JNE** | Cronograma electoral ERM 2026 actualizado (Ley 32536): cierre de padrón, tachas, etc. | gob.pe/institucion/jne/normas-legales |
-| **Ley N.° 26859 (LOE)** — arts. 29, 127, 154, 190, 363, 382, 384 | Se citan sin el texto | leyes.congreso.gob.pe / spij |
+| Res. 0850-2025-JNE — Participación de personeros | `JNE/res-0850-2025-jne.txt` | acreditación, funciones, prohibiciones, tipos de personero |
+| Res. 0837-2025-JNE — Actas observadas / con votos impugnados / con solicitud de nulidad | `JNE/res-0837-2025-jne.txt` | actas observadas, tipos de acta, 4 ejemplares, cotejo, apelación |
+| Res. 0838-2025-JNE — Trámite de nulidad de votación y de elecciones | `JNE/res-0838-2025-jne.txt` | nulidad de mesa (constancia en acta + tasa + 3 días), apelación |
+| Res. 0852-2025-JNE — Recuento de votos (arts. 1-20, texto completo) | `JNE/res-0852-2025-jne.txt` | recuento: audiencia pública, plazos, límites al personero |
+| Res. 0844-2025-JNE — Propaganda electoral, publicidad estatal y neutralidad | `JNE/res-0844-2025-jne.txt` | propaganda día D (2 días / 24 h), publicidad estatal |
+| Res. 0845-2025-JNE — Sanción de conductas prohibidas (art. 42 LOP) | `JNE/res-0845-2025-jne.txt` | entrega de dádivas / compra de votos, multa y exclusión |
+| Res. 0834-2025-JNE — Encuestas y simulacros de votación | `JNE/res-0834-2025-jne.txt` | difusión de encuestas hasta el domingo anterior |
+| Res. 0839-2025-JNE — Competencias del JNE en voto digital | `JNE/res-0839-2025-jne.txt` | voto digital (Ley 32270), mesa digital |
+| Res. 0003-2026-JNE — Actualización del cronograma ERM 2026 | `JNE/res-0003-2026-jne.txt` | cronograma (marco), padrón se cierra 180 días antes |
+| RENIEC R.J. D000023-2026-RENIEC/JNAC — DNI vencido | `OTROS/res-000023-2026-reniec.txt` | DNI caduco / de menor válido solo para votar el 4/10/2026 |
+| Cartilla de personeros ERM 2026 (ONPE) | `ONPE/cartilla-personeros-erm2026-rmpd.txt` | instalación, sufragio, escrutinio, impugnaciones, elector |
 
-## Prioridad media
+## Pendientes (prioridad media/baja)
 
-| Documento | Qué aporta |
-|---|---|
-| **Res. 0844-2025-JNE** | Propaganda electoral, publicidad estatal y neutralidad |
-| **Res. 0845-2025-JNE** | Fiscalización y sanción de conductas prohibidas de propaganda |
-| **Res. 0849-2025-JNE** | Gestión de los JEE |
-| **Res. 0839-2025-JNE** | Competencias del JNE en el voto digital |
-| **Reglamento ONPE de mesas de sufragio / de la ODPE ERM 2026** | Miembros de mesa (3 titulares + 6 suplentes), coordinadores de local |
-| **Protocolo ONPE** para electores trans y no binarios | Garantía del sufragio sin discriminación |
-| **Ley N.° 27683** (Elecciones Regionales) y **Ley N.° 26864** (Elecciones Municipales) | Umbral del 30 % y segunda elección regional |
-| **Ley N.° 28094** (Organizaciones Políticas) | ROP, personeros legales |
-| **Manual de Capacitación Jurisdiccional Electoral ERM 2026 (JNE)** | Criterios de los JEE |
+| Documento | Para qué | Dónde buscar |
+|---|---|---|
+| **Anexo del cronograma** (Res. 0632-2025-JNE + Anexo de la 0003-2026-JNE) | Fechas exactas: cierre de padrón, inscripción de listas, tachas | gob.pe/institucion/jne/normas-legales |
+| **Res. 0849-2025-JNE** | Gestión de los JEE | gob.pe/institucion/jne/normas-legales |
+| **LOE — Ley N.° 26859** (texto consolidado) | Articulado citado: 29, 127, 154, 190, 191, 201, 268, 282, 284, 301, 315, 363-365, 382, 384 | spij.minjus.gob.pe / leyes.congreso.gob.pe |
+| **Ley N.° 27683** (Elecciones Regionales) y **Ley N.° 26864** (Municipales) | Umbral del 30 % y segunda elección regional | spij.minjus.gob.pe |
+| **Ley N.° 28094** (Organizaciones Políticas) | ROP, personeros legales, art. 42 | spij.minjus.gob.pe |
+| **Reglamento ONPE de mesas de sufragio / de la ODPE ERM 2026** | Miembros de mesa (3+6), coordinadores de local | onpe.gob.pe |
+| **Protocolo ONPE** para electores trans y no binarios | Sufragio sin discriminación | onpe.gob.pe |
+| **Manual de Capacitación Jurisdiccional Electoral ERM 2026 (JNE)** | Criterios de los JEE | jne.gob.pe |
 
-## Cómo cargar cada documento
+## Cómo cargar un documento nuevo
 
-1. Guardar el PDF en la subcarpeta que corresponda (`JNE/`, `ONPE/`, `LEYES/`, `OTROS/`).
-2. Extraer el texto a `<id>.txt` (con `pdf-parse` u otra herramienta).
-3. Crear el sidecar `<id>.json` con los metadatos (ver `knowledge/README.md`).
-4. Si aplica, añadir/ajustar entradas en `server/data/knowledge-base.json` con
-   `base_normativa` y `fuente` apuntando al artículo/página exactos, y subir la
-   `confianza` de `yellow` a `green` cuando el texto quede verificado.
+1. `curl -A "<user-agent de navegador>" -L -o <id>.pdf "<url oficial>"` a la subcarpeta que corresponda.
+2. `pdftotext -enc UTF-8 -nopgbrk <id>.pdf <id>.txt`
+3. Crear el sidecar `<id>.json` (ver `knowledge/README.md`).
+4. Ajustar `server/data/knowledge-base.json`: `base_normativa` y `fuente` con el artículo/página exactos y `confianza: "green"` cuando el texto quede verificado.

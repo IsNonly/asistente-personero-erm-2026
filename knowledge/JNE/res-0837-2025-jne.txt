@@ -1,0 +1,276 @@
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+Lima, 31 de diciembre de 2025
+VISTOS: El memorando N.° 001672-2025-DNFPE/JNE de fecha 18 de noviembre de 2025, suscrito por el Director Nacional de Fiscalización y Procesos Electorales, referido al proyecto de Reglamento del procedimiento aplicable a las actas observadas, actas con votos impugnados y actas con solicitud de nulidad en elecciones regionales y elecciones municipales, y el Informe N.° 00470-2025-OGAJ /JNE de fecha 15 de noviembre de 2025 suscrito por el Jefe de la Oficina General de Asesoría Jurídica del JNE.
+CONSIDERANDO QUE:
+1. El artículo 176 de la Constitución Política del Perú establece que los organismos del sistema electoral tienen por finalidad asegurar que las votaciones traduzcan la expresión auténtica, libre y espontánea de los ciudadanos, y que los escrutinios sean reflejo exacto de la voluntad del elector expresada en las urnas.
+2. Asimismo, el numeral 3 del artículo 178 de la Carta Magna señala como competencia del Jurado Nacional de Elecciones el velar por el cumplimiento de las normas referidas a materia electoral.
+3. De los artículos 301 y 308 de la Ley N.° 26859, Ley Orgánica de Elecciones (LOE), se tiene que las Oficinas Descentralizadas de Procesos Electorales (ODPE) deben realizar el cómputo de los votos con las actas electorales de las mesas de sufragio de acuerdo al orden de recepción, así también, que las actas electorales pueden ser observadas cuando el ejemplar con el que se está efectuando el cómputo carezca de datos, esté incompleto, contenga error material, o presente caracteres, signos o grafías ilegibles, que no permitan su empleo en la contabilización de los votos.
+4. Además, el citado artículo 301 de la LOE, en su último párrafo, regula que las actas con votos impugnados o con solicitudes de nulidad se envían de forma separada al Jurado Electoral Especial (JEE) de la circunscripción, dentro del plazo máximo de veinticuatro horas de recibidas por las ODPE.
+5. Ahora, en cumplimiento de los artículos 284 y 315 de la LOE, en todo proceso electoral, el cómputo de votos requiere de reglas que permitan el procesamiento de las actas electorales cuyo contenido presente errores materiales o vacíos producto del registro defectuoso que realizan los miembros de mesa.
+6. Se ha incorporado a la normativa electoral, la figura del recuento de votos, por ello además, es necesario regular el tratamiento que deben aplicar los JEE para la resolución oportuna de las actas observadas ya que con posterioridad existiría la posibilidad de pasar al recuento en la mesa de sufragio correspondiente.
+7. Así las cosas, es importante establecer pautas para el tratamiento de las actas observadas, en las que se ha registrado impugnaciones contra la identidad de electores o contra cédulas de sufragio, al amparo de los artículos 268 y 282 de la LOE, y aquellas actas en las que se ha consignado solicitudes de nulidad planteadas por los personeros de mesa.
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+Por lo tanto, el Pleno del Jurado Nacional de Elecciones, en uso de sus atribuciones, RESUELVE: 1. APROBAR el Reglamento del Procedimiento de Aplicación a las Actas Observadas, Actas con Votos Impugnados y Actas con Solicitud de Nulidad en Elecciones Regionales y Elecciones Municipales cuyo texto forma parte de la presente resolución. 2. DEJAR SIN EFECTO el Reglamento del Procedimiento de Aplicación a las Actas Observadas, Actas con Votos Impugnados y Actas con Solicitud de Nulidad en Elecciones Regionales y Elecciones Municipales, aprobado mediante Resolución N.° 0981-2021-JNE, del 28 de diciembre de 2021. 3. DISPONER la publicación de la presente resolución en el diario oficial El Peruano y en el portal electrónico institucional del Jurado Nacional de Elecciones.
+Regístrese, comuníquese y publíquese.
+SS.
+BURNEO BERMEJO MAISCH MOLINA RAMÍREZ CHÁVARRY TORRES CORTEZ OYARCE YUZZELLI
+Clavijo Chipoco Secretaria General
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+
+REGLAMENTO DEL PROCEDIMIENTO APLICABLE A LAS ACTAS OBSERVADAS, ACTAS CON VOTOS IMPUGNADOS Y ACTAS CON SOLICITUD DE NULIDAD EN ELECCIONES REGIONALES Y ELECCIONES MUNICIPALES
+
+TÍTULO I DISPOSICIONES GENERALES
+
+CAPÍTULO I MARCO NORMATIVO
+
+Artículo 1.- Objeto Dictar disposiciones para el tratamiento de las actas electorales observadas, con votos impugnados y con solicitud de nulidad, identificadas por las Oficinas Descentralizadas de Procesos Electorales durante el cómputo de votos en las Elecciones Regionales y las Elecciones Municipales. Este tratamiento abarca desde que son identificadas hasta su resolución por los Jurados Electorales Especiales y, en caso de apelación, por el Jurado Nacional de Elecciones.
+
+Artículo 2.- Alcance Las disposiciones del presente reglamento son de aplicación en los procesos de elecciones regionales, elecciones municipales y elecciones municipales complementarias.
+
+Artículo 3.- Base normativa a. Constitución Política del Perú b. Ley N.° 26859, Ley Orgánica de Elecciones c. Ley N.° 27683, Ley de Elecciones Regionales d. Ley N.° 26864, Ley de Elecciones Municipales e. Ley N.° 26486, Ley Orgánica del Jurado Nacional de Elecciones f. Ley N.° 26487, Ley Orgánica de la Oficina Nacional de Procesos Electorales
+
+CAPÍTULO II ABREVIATURAS Y DEFINICIONES
+
+Artículo 4.- Abreviaturas
+
+DNI
+
+: Documento Nacional de Identidad
+
+JEE
+
+: Jurado Electoral Especial
+
+JNE
+
+: Jurado Nacional de Elecciones
+
+LOE
+
+: Ley Orgánica de Elecciones
+
+ODPE : Oficina Descentralizada de Procesos Electorales
+
+ONPE : Oficina Nacional de Procesos Electorales
+
+Artículo 5.- Definiciones
+a. Acta con error aritmético Ejemplar del acta electoral correspondiente a la ODPE con inconsistencias entre la suma de votos y el “total de ciudadanos que votaron”.
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+b. Acta con error material Ejemplar del acta electoral correspondiente a la ODPE que no puede ser contabilizado en el sistema de cómputo electoral por carecer de datos, encontrarse incompleto, contener error aritmético, presentar caracteres, signos o grafías ilegibles que no permiten su empleo para el cómputo de votos, o carecer de firmas.
+c. Acta de escrutinio
+Es la sección del acta electoral en la que se registran los resultados de la votación en la mesa de sufragio. Se anotan, también, los incidentes u observaciones registrados durante el procedimiento de escrutinio.
+d. Acta de instalación
+Es la sección del acta electoral en la que se registran los hechos ocurridos durante la instalación de la mesa de sufragio.
+e. Acta normal Es el acta electoral que no presenta observaciones y debe ser contabilizada por la ODPE.
+f. Acta observada Ejemplar del acta electoral correspondiente a la ODPE que no puede ser contabilizado en el sistema de cómputo electoral por presentar error material.
+g. Acta de sufragio Es la sección del acta electoral en la que se registran los hechos relativos al sufragio, inmediatamente después de concluida la votación. En dicha sección se consigna el total de ciudadanos que votaron.
+h. Acta electoral Es el documento impreso o digital en el cual se registran los actos, hechos e incidencias que se producen en cada mesa de sufragio desde su instalación hasta el cierre, y que está compuesta por tres secciones: acta de instalación, acta de sufragio y acta de escrutinio. Tratándose del acta electoral en formato digital, se considera que esta debe estar firmada digitalmente por los miembros de la mesa de sufragio.
+i. Acta electoral con dos tipos de elección Es el acta electoral que contiene la elección municipal provincial y la elección municipal distrital, o la elección de la fórmula regional (gobernador y vicegobernador regional) y la elección de consejeros regionales.
+j. Acta con solicitud de nulidad Ejemplar del acta electoral en el que, en el rubro “observaciones” de cualquiera de sus tres secciones, se consigna el pedido de nulidad formulado por algún personero de la mesa de sufragio, basado en hechos pasibles de conocimiento directo de la mesa de sufragio.
+k. Acta con voto impugnado
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+Ejemplar del acta electoral que contiene uno o más votos impugnados, y/o la impugnación a la identidad de uno o más electores, en la cual se debe dejar constancia de estos en el acta electoral.
+l. Acta electoral con un tipo de elección Es el acta electoral que solo contiene la elección municipal provincial.
+m. Acta incompleta Es el ejemplar correspondiente a la ODPE que no consigna el “total de ciudadanos que votaron”, ni en letras ni en números.
+n. Acta sin datos Es el ejemplar correspondiente a la ODPE en el que se omite consignar datos en forma parcial o total en los casilleros correspondientes a la votación.
+o. Acta sin firmas Es el ejemplar del acta electoral que no contiene la cantidad mínima requerida de firmas y datos (nombre, apellidos y número de DNI) de los miembros de mesa
+p. Cotejo Es el acto de comparación del ejemplar de la ODPE con otro ejemplar de la misma acta electoral, que efectúa el JEE –y, de ser el caso, el JNE– para apreciar las coincidencias y discrepancias en dichos ejemplares, con el fin de obtener elementos que deben ser valorados en conjunto al momento de resolver.
+q. Ejemplar del acta Cada una de las copias del acta electoral, referidas a la misma elección. Los miembros de mesa emiten cuatro ejemplares de cada acta electoral, para los siguientes destinatarios: ODPE, JEE, JNE, ONPE. Adicionalmente, una copia del acta, firmada física o digitalmente, se entrega en la mesa de sufragio o a través de las plataformas digitales, a los personeros acreditados.
+r. Firma digital Firma electrónica que, utilizando una técnica de criptografía asimétrica, permite la identificación del signatario, la cual es creada por medios que este mantiene bajo su control, de manera que está vinculada únicamente al signatario y a los datos a los que refiere, lo que permite garantizar la integridad del contenido y detectar cualquier modificación ulterior. Asimismo, tiene la validez y eficacia jurídica que el uso de una firma manuscrita, siempre y cuando haya sido generada por un Prestador de Servicio de Certificación Digital debidamente acreditado que se encuentre dentro de la Infraestructura Oficial de Firma Electrónica (IOFE), y que no medie ninguno de los vicios de la voluntad, previstos en el Título VIII del Libro II del Código Civil.
+s. Ilegibilidad Condición que tiene cualquier signo, grafía o carácter diferente a los números 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9, al símbolo ø, punto (.), guion (-), líneas inclinadas (\) (/), signo de igual (=), -o-, o la combinación de estos, o que contenga borrones o enmendaduras que hagan imposible su identificación numérica.
+t. Mesa de sufragio digital
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+Es la mesa de sufragio que agrupa a los electores que han optado por emplear el voto digital y que han realizado previamente su registro ante la ONPE con ese fin.
+u. Reporte Documento generado por la ODPE, por cada acta observada, en el que se consigna el tipo de elección y las observaciones del acta electoral. Se adjunta a la respectiva acta observada para su entrega al JEE.
+v. Suma de votos Es la cifra resultante de la suma de: a. Los votos válidos emitidos a favor de cada organización política b. Los votos en blanco c. Los votos nulos d. Los votos impugnados
+w. Total de ciudadanos que votaron Es el número de electores que acude a votar a una determinada mesa de sufragio. Los miembros de mesa consignan este número en las secciones de sufragio y escrutinio del acta electoral.
+x. Total de electores hábiles Es el número de ciudadanos con derecho a votar, en una determinada mesa de sufragio, de conformidad con los artículos 52 y 53 de la LOE. Este número figura impreso en el acta electoral.
+y. Voto digital Es un mecanismo alternativo y equivalente al sufragio por cédula de votación física, que se realiza por medios digitales.
+CAPÍTULO III PROCESAMIENTO DE LAS ACTAS
+Artículo 6.- El llenado del acta electoral y entrega a los personeros Los miembros de mesa de sufragio deben llenar y firmar las tres secciones del acta electoral en el momento que corresponda a cada una de ellas.
+El escrutinio en mesa concluye con la firma de los ejemplares del acta electoral por los miembros de mesa, luego de haberse registrado la información correspondiente a cada sección. Una vez culminado este acto, el presidente de la mesa de sufragio entrega los ejemplares en sus respectivos sobres debidamente cerrados y protegidos con la cinta de seguridad, al coordinador de la ODPE.
+Los miembros de mesa emiten cuatro ejemplares para los siguientes destinatarios: JNE, JEE, ONPE y ODPE, teniendo en cuenta cada elección; adicionalmente, una copia del acta –firmada física o digitalmente– se entrega en la mesa de sufragio o a través de las plataformas digitales a los personeros acreditados.
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+Artículo 7.- Precisiones sobre los documentos que acompañan un acta con impugnaciones planteadas en mesa De haberse producido impugnaciones en la mesa relacionadas con la identidad del elector – durante el sufragio– o impugnaciones contra la cédula de votación –durante el escrutinio–, corresponde a la mesa de sufragio resolverlas.
+Si uno o más personeros de mesa no se encuentran conformes con lo resuelto por los miembros de la mesa de sufragio, pueden plantear inmediatamente una apelación contra dicha decisión, la que debe registrarse como “voto impugnado” en el acta electoral, debiendo tenerse en cuenta lo siguiente:
+a. Si se trata de una impugnación contra la identidad del elector, el sobre especial (que contiene las cédulas de votación y el DNI del elector cuya identidad se cuestiona) debe ser colocado dentro del sobre correspondiente al ejemplar del acta del JEE de la elección que corresponda.
+b. Si se trata de una impugnación contra una o más cédulas de votación, el sobre especial (que contiene las cédulas impugnadas) debe ser colocado dentro del sobre correspondiente al ejemplar del acta del JEE, de la elección respectiva.
+Artículo 8.- Observaciones referidas a las actas de las mesas de sufragio digital Las actas electorales generadas en las mesas de sufragio digital pueden contener observaciones en el acta de sufragio, así como observaciones y reclamaciones en el acta de escrutinio, formuladas por los personeros acreditados. En estos casos, se remite al JEE para el correspondiente pronunciamiento. En las mesas de sufragio digital no cabe la impugnación contra la identidad del elector ni la impugnación contra la cédula de votación. En las actas electorales generadas en las mesas de sufragio digital, cada sección del acta debe estar suscrita por los tres miembros de la mesa que se encuentren de turno, considerando que dichos miembros de mesa desarrollan su función por turnos de ocho (8) horas como mínimo.
+Artículo 9.- Consideraciones para el procesamiento del acta electoral Para el procesamiento del acta electoral, se debe tomar en cuenta lo siguiente:
+a. Las actas observadas, las actas con solicitud de nulidad y las actas con votos impugnados no son ingresadas a la contabilización de votos, hasta que el JEE resuelva sobre su contenido.
+b. En caso de haberse consignado ø, (.), guion (-), línea oblicua (\) (/), signo de igual (=), o-, o la combinación de estos, en los casilleros del total de votos de las organizaciones políticas, votos en blanco, nulos o impugnados, este se ingresa al cómputo como valor cero (0).
+c. Los caracteres, grafías o signos consignados en las áreas sombreadas para los votos del acta de escrutinio se tienen por no puestos y no deben ser ingresados al cómputo.
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+d. No se considera acta incompleta, la que tiene consignado el “total de ciudadanos que votaron” ya sea en letras o en números.
+e. En caso de que el “total de ciudadanos que votaron”, consignado en el acta de sufragio, indique una cifra en letras y otra distinta en números, prevalece esta última.
+f. En caso de existir diferencia entre las cifras del “total de ciudadanos que votaron” del acta de sufragio y del acta de escrutinio, prevalece aquella que coincida con la suma de votos
+g. La observación del acta electoral que efectúe la ODPE debe ser integral y realizada en acto único, con específica indicación del contenido de la observación y a qué tipo de elección corresponde. La que debe ser plasmada en un reporte.
+h. En las mesas de sufragio en las que voten ciudadanos extranjeros en Elecciones Municipales, se debe tener en cuenta que el “total de electores hábiles” será diferente en el acta correspondiente a Elecciones Regionales. Y, de ser el caso, el “total de ciudadanos que votaron” también será diferente, siempre que por lo menos un elector extranjero, registrado en esa mesa, haya sufragado.
+Artículo 10.- Las actas electorales que no se consideran observadas No se considera acta observada en los siguientes casos:
+a. Acta electoral que en cualesquiera de sus tres secciones (instalación, sufragio o escrutinio) consten las firmas y datos (nombre, apellidos y número de DNI) de los tres miembros de la mesa de sufragio y, en las otras dos secciones restantes, las firmas y datos de por lo menos dos miembros de la mesa.
+b. Acta electoral que cuente con uno o más miembros de mesa iletrados, o que se encuentren en incapacidad de firmar, siempre que dichos miembros estén debidamente identificados, con la consignación de sus datos (nombre, apellidos y número de DNI) y la impresión de sus huellas dactilares, y que, además, se deje constancia de la causa de la falta de firma, en la sección de observaciones del acta. Solo en este supuesto la falta de firma no es causa de observación del acta.
+c. Acta electoral en la que los miembros de mesa no colocaron el lacrado o lámina de protección sobre los resultados y observaciones de las actas de instalación, sufragio o escrutinio, en caso contengan alguna, siempre que se haya subsanado tal situación en presencia del fiscalizador, antes de su procesamiento.
+d. Acta electoral en la que, en la sección de observaciones del acta de instalación, sufragio o escrutinio, los miembros de la mesa de sufragio hayan precisado el contenido del acta electoral, siempre y cuando dicha sección se encuentre debidamente lacrada.
+e. Acta electoral que, en el marco del voto digital –cuyo escrutinio es automatizado– cuenta con las firmas de los miembros de mesa, las cuales pueden diferir entre las actas de instalación, sufragio y escrutinio en observancia del turno que hayan cubierto los miembros de mesa.
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+Artículo 11.- Remisión de los ejemplares de actas electorales correspondientes al Jurado Electoral Especial y al Jurado Nacional de Elecciones
+La ODPE entrega en forma física al JEE los ejemplares que le corresponden de las actas normales, dentro de las veinticuatro (24) horas de haber sido contabilizadas. Estos ejemplares deben estar ordenados correlativamente y agrupados dentro de ánforas rotuladas, con indicación del local de votación, centro de acopio, ODPE, distrito, provincia y departamento de los que provienen. Los ejemplares de las actas electorales que corresponden al JNE deben ser remitidos por las ODPE, siguiendo el mismo procedimiento, dentro de las veinticuatro (24) horas de haber recibido el 100% de actas de la respectiva ODPE.
+Artículo 12.- Aplicación del cotejo para resolver actas observadas El JEE coteja el acta observada con el ejemplar que le corresponde y, excepcionalmente –de ser necesario–, con el ejemplar del JNE, a fin de obtener elementos que deben ser valorados en conjunto al momento de resolver y realizar la respectiva aclaración o integración relacionada con la observación. Además de los supuestos de actas sin firmas, actas con ilegibilidad y actas sin datos, en virtud del principio de presunción de conservación del voto, el cotejo se aplica a los supuestos de actas incompletas y con error aritmético, siempre que ello coadyuve a declarar la validez del acta observada.
+Artículo 13.- Recuento de votos Cuando el JEE advierte que la observación no puede ser subsanada mediante el cotejo, dispone, en decisión inimpugnable, que se proceda por única vez al recuento de votos de acuerdo con el reglamento de la materia.
+TÍTULO II ACTAS ELECTORALES QUE REQUIEREN DEL PRONUNCIAMIENTO
+DEL JURADO ELECTORAL ESPECIAL
+CAPÍTULO I PROCEDIMIENTO
+Artículo 14.- Remisión de actas electorales que requieren del pronunciamiento del Jurado Electoral Especial En caso de presentarse, en el cómputo de votos, los supuestos de actas observadas, actas con voto impugnado o actas con solicitud de nulidad, se sigue el siguiente procedimiento:
+a. La ODPE identifica las actas observadas, actas con voto impugnado o actas con solicitud de nulidad, y las separa para su inmediata entrega al JEE respectivo.
+b. Cada una de las actas debe estar acompañada con un reporte individual que identifique claramente la observación.
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+c. La entrega del ejemplar correspondiente a la ODPE de las actas observadas, actas con solicitud de nulidad al JEE se realiza de forma física o a través de documento digital.
+d. La ODPE remite al JEE cada acta observada o acta con solicitud de nulidad, con su reporte respectivo, junto con el ejemplar del acta que le corresponde a dicho JEE, de forma física o mediante documento digital. Esta remisión se efectúa dentro del plazo máximo de veinticuatro (24) horas contado desde que la ODPE recibe el acta.
+e. Para el caso de las actas que consignen votos impugnados, la entrega del ejemplar del acta que le corresponde al JEE se realiza en forma física.
+f. La entrega de estas actas al JEE se realiza de manera individual o grupal.
+Artículo 15.- Tratamiento de las actas que requieren del pronunciamiento del Jurado Electoral Especial El tratamiento de las actas electorales remitidas por la ODPE para pronunciamiento del JEE es el siguiente:
+a. El JEE analiza el contenido de cada acta remitida por la ODPE y se pronuncia mediante resolución, en forma inmediata.
+b. El JEE, para resolver actas observadas, realiza el cotejo del ejemplar observado con el ejemplar que le corresponde.
+c. El JEE emite una resolución por cada acta electoral. La resolución debe identificar el acta electoral y el tipo de elección a la que se refiere (fórmula regional, consejero regional, municipal provincial o municipal distrital); asimismo, debe ser motivada y contener el pronunciamiento claro y preciso respecto de cada aspecto advertido por la ODPE, y, de ser el caso, deberá pronunciarse sobre la validez del acta.
+d. La resolución del JEE se notifica a través de su publicación en el panel del JEE y en la plataforma electoral del portal institucional del JNE. El secretario del JEE, bajo responsabilidad, dejará constancia de la fecha en que se realizan dichas publicaciones, las cuales deben efectuarse el mismo día.
+e. Vencido el plazo para interponer recurso de apelación, si este no se plantea, el JEE remite su resolución, inmediatamente, a la ODPE en formato físico o digital, bajo responsabilidad.
+f. La ODPE incorpora al cómputo de votos lo estipulado en la resolución del JEE, una vez que esta adquiera firmeza.
+g. De interponerse apelación contra la resolución del JEE, este comunica tal hecho a la ODPE.
+h. Una vez resuelta la apelación, el JEE remite de forma física o mediante documento digital el pronunciamiento de segunda instancia a la ODPE.
+Artículo 16.- Tratamiento del acta en la que se consigna la existencia de “votos impugnados”
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+Los votos impugnados en la mesa de sufragio son resueltos por la propia mesa de sufragio. Contra la decisión que se adopte, puede interponerse recurso de apelación, que es resuelta por el JEE.
+Si la ODPE advierte que el acta consigna la existencia de votos impugnados, dispone su remisión inmediata al JEE, junto con el ejemplar del acta que le corresponde a este, sea que contenga o no los sobres especiales con votos. Estos sobres se mantendrán lacrados para su envío físico a los JEE.
+El JEE verifica si la mesa de sufragio ha insertado los sobres especiales que contienen votos impugnados en el sobre de su ejemplar del acta electoral.
+De encontrarse los sobres especiales que contienen los votos impugnados, corresponde al JEE, en grado de apelación y en última y definitiva instancia, previa audiencia pública, pronunciarse sobre lo resuelto por la mesa de sufragio.
+Los votos impugnados que pueden ser resueltos por tener los sobres especiales que contienen las cédulas deben resolverse con prioridad. Las otras observaciones de la misma acta electoral se resuelven mediante pronunciamiento posterior e independiente, teniendo en cuenta lo decidido respecto de dichos votos impugnados.
+Si en el acta se consigna la existencia de “votos impugnados”, pero los sobres que contienen estos no se encuentran insertados conjuntamente con el ejemplar del acta electoral que es dirigido al JEE, dichos “votos impugnados” se adicionan a los votos nulos del acta electoral.
+Artículo 17.- Tratamiento del acta con solicitud de nulidad Si se trata de un acta con solicitud de nulidad, el JEE debe verificar si el personero presentó la tasa para dar trámite a la solicitud de nulidad planteada ante la mesa y fundamentó dicho pedido.
+De ser así, el JEE resuelve conforme corresponde a un pedido de nulidad.
+Si, por el contrario, el personero legal no presentó la tasa o no fundamentó el pedido de nulidad registrado en el acta, el JEE declara su improcedencia.
+CAPÍTULO II DISPOSICIONES PARA LA RESOLUCIÓN DE ACTAS OBSERVADAS
+Artículo 18.- Criterio de prelación para dilucidar acerca de observaciones a las actas electorales Cuando en una misma acta electoral concurran diferentes observaciones, se procederá conforme al orden de prelación siguiente:
+a. Acta sin firmas b. Acta afectada de ilegibilidad c. Acta sin datos d. Acta incompleta e. Acta con error aritmético
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+
+Todas las observaciones deben ser objeto de un solo pronunciamiento resolutivo.
+Artículo 19.- Regla general para decidir el recuento de votos sobre las actas observadas Cuando los JEE adviertan que la observación registrada en el reporte de la ODPE no puede ser subsanada a través del cotejo con su ejemplar del acta, disponen –en decisión inimpugnable– que, por única vez, se proceda al recuento de votos con la finalidad de conservar la votación obtenida por las organizaciones políticas ante los supuestos que pudieran generar la declaración de nulidad del acta electoral.
+
+Artículo 20.- Disposiciones para la resolución de actas sin firmas En caso de que el acta electoral haya sido observada por ser un acta sin firmas, el JEE debe realizar el cotejo del ejemplar del acta de la ODPE con el ejemplar del acta electoral que le corresponde, para integrar las firmas y los datos de los tres miembros de mesa de sufragio en alguna de las secciones del acta electoral y de dos de ellos en las otras dos secciones del acta.
+Si no es posible tal integración y de no poder emplearse para el cómputo de votos, se procede con el recuento de votos.
+
+Artículo 21.- Disposiciones para la resolución de actas sin datos En caso de que se trate de un acta sin datos en los casilleros de la sección del escrutinio, el JEE debe realizar el cotejo del ejemplar del acta de la ODPE con el ejemplar del acta electoral que le corresponde, para efectuar la respectiva integración de los datos de la votación emitida en esa mesa.
+
+De no ser posible tal integración que permita conocer los datos de los votos emitidos en la mesa, se procede con el recuento de votos.
+
+Artículo 22.- Disposiciones para la resolución de actas con ilegibilidad Si el acta electoral es observada porque presenta caracteres, signos o grafías ilegibles, dicha observación debe ser dilucidada antes de proceder a analizar las demás observaciones del acta (incompleta o con error aritmético).
+
+Para resolver los casos de ilegibilidad, el JEE debe realizar el cotejo del ejemplar del acta de la ODPE con el ejemplar del acta electoral que le corresponde, a fin de precisar el significado del carácter, signo o grafía ilegible.
+
+En caso de no lograrse dilucidar la ilegibilidad se procede con el recuento de votos.
+
+Artículo 23.- Disposiciones para la resolución de actas incompletas A partir de lo dispuesto en el artículo 315 de la LOE, para resolver los supuestos de observación por acta incompleta, se deben seguir las siguientes disposiciones:
+
+23.1.
+
+Acta electoral en la que la votación consignada a favor de una determinada organización política o la cifra consignada como votos en blanco, nulos o impugnados, excede al “total de electores hábiles” En este caso, se da inicio al procedimiento de recuento de votos.
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+
+23.2.
+
+Acta electoral con un tipo de elección, en la que no se consigna el “total de ciudadanos que votaron” y la “suma de votos” no excede el “total de electores hábiles” En este caso, se considera como “total de ciudadanos que votaron” a la “suma de votos”, siempre que esta no exceda al “total de electores hábiles”.
+
+23.3.
+
+Acta electoral con un tipo de elección, en la que no se consigna el “total de ciudadanos que votaron” y la “suma de votos” excede el “total de electores hábiles” En este caso, se da inicio al procedimiento de recuento de votos.
+
+23.4.
+
+Acta electoral con dos tipos de elección, en la que no se consigna el “total de ciudadanos que votaron” y existe identidad entre la “suma de votos” de cada tipo elección y este resultado no excede el “total de electores hábiles” En este caso, se considera como “total de ciudadanos que votaron” a la “suma de votos”.
+
+23.5.
+
+Acta electoral con dos tipos de elección en la que no se consigna el “total de ciudadanos que votaron” y existe diferencia entre la “suma de votos” de cada tipo de elección y estas no exceden el “total de electores hábiles” En este caso, se toma como “total de ciudadanos que votaron” la mayor “suma de votos”, siempre que esta no exceda al “total de electores hábiles”.
+
+La diferencia entre el “total de ciudadanos que votaron” y la “suma de votos” del otro tipo de elección se adiciona a los votos nulos de esa elección.
+
+23.6.
+
+Acta electoral con dos tipos de elección, en la que no se consigna el “total de ciudadanos que votaron” y la “suma de votos” de uno de los tipos de elección excede al “total de electores hábiles” En este caso, se da inicio al procedimiento de recuento de votos.
+
+23.7.
+
+Acta electoral con dos tipos de elección, en la que no se consigna el “total de ciudadanos que votaron” y la “suma de votos” de ambos tipos de elección exceden al “total de electores hábiles” En este caso, se da inicio al procedimiento de recuento de votos.
+
+Artículo 24.- Disposiciones para la resolución de actas con error material A partir de lo dispuesto en el artículo 284 de la LOE, para resolver los supuestos de observación de acta con error material, se deben seguir las siguientes disposiciones:
+
+24.1.
+
+Acta electoral en la que los votos emitidos a favor de una organización política o la cifra consignada como votos en blanco, nulos o impugnados excede al “total de ciudadanos que votaron” En este caso, se da inicio al recuento de votos.
+
+24.2.
+
+Acta electoral con un tipo de elección, en la que la cifra consignada como “total de ciudadanos que votaron” es mayor a la “suma de votos” En este caso, se mantiene la votación de cada organización política, votos en blanco y votos nulos, y la diferencia entre el “total de ciudadanos que votaron” y la “suma de votos” se adiciona a los votos nulos.
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+
+24.3.
+
+Acta electoral con dos tipos de elección, en la que la cifra consignada como “total de ciudadanos que votaron” es mayor a la “suma de votos” de cada tipo de elección En este caso, se mantiene la votación de cada organización política, votos en blanco y votos nulos, en ambos tipos de elección. La diferencia entre el “total de ciudadanos que votaron” y la “suma de votos” de cada tipo de elección se adiciona a los votos nulos de la respectiva elección.
+
+24.4. Acta electoral con un tipo de elección, en la que la cifra consignada como “total de ciudadanos que votaron” es menor a la “suma de votos” En este caso, se da inicio al procedimiento de recuento de votos.
+
+24.5.
+
+Acta electoral con dos tipos de elección, en la que la cifra consignada como “total de ciudadanos que votaron” es menor a la “suma de votos” En este caso, si el “total de ciudadanos que votaron” es menor a la “suma de votos” de solo un tipo de elección, se da inicio al procedimiento de recuento de votos para la elección afectada.
+
+Si en ambos tipos de elección el “total de ciudadanos que votaron” es menor a la “suma de votos”, se da inicio al procedimiento de recuento de votos.
+
+24.6. Acta electoral en la que el “total de ciudadanos que votaron” es mayor que el “total de electores hábiles”
+
+Para los casos en que el “total de ciudadanos que votaron” es mayor al “total de electores hábiles”, no se toma en cuenta el “total de ciudadanos que votaron” consignado en el acta, y para su resolución se aplican las reglas correspondientes a las actas incompletas, según sea el caso, previstas en el artículo 23 del presente reglamento
+
+CAPÍTULO III RECURSO DE APELACIÓN
+
+Artículo 25.- Recurso de apelación En virtud de lo dispuesto en el artículo 35 de la LOE, contra la resolución del JEE que se pronuncia sobre las observaciones al acta electoral, procede la interposición del recurso de apelación, dentro del plazo de tres días hábiles, contados a partir del día siguiente de su publicación en el portal electrónico institucional del JNE y en el panel del JEE.
+
+El JEE califica el recurso interpuesto en el día de su presentación y de concederlo eleva el expediente de apelación al JNE, en el término de veinticuatro horas.
+
+El JNE resuelve el medio impugnatorio en el plazo de tres días hábiles contados a partir del día siguiente de recibido el expediente de apelación, previa audiencia pública.
+
+Artículo 26.- Requisitos del recurso de apelación El recurso de apelación debe estar suscrito por el personero legal y estar autorizado por abogado colegiado hábil. Cuando esta condición no pueda ser verificada a través del portal electrónico institucional del colegio de abogados en el que esté registrada la colegiatura del letrado, se debe presentar el documento que acredite la habilidad.
+
+Jurado Nacional de Elecciones
+Resolución N. º 0837-2025-JNE
+Debe acompañarse al citado medio impugnatorio, el comprobante original del pago de la tasa electoral respectiva.
+Si el JEE advierte la omisión de alguno de los citados requisitos, declara la improcedencia en resolución inimpugnable.
+Artículo 27.- Improcedencia de recurso impugnatorio contra lo resuelto por el Jurado Nacional de Elecciones Contra la resolución del JNE respecto de la apelación no procede ningún recurso impugnatorio.
+DISPOSICIONES TRANSITORIAS
+Única disposición transitoria: Para los casos de actas observadas remitidas a los JEE, estos podrán utilizar herramientas tecnológicas que incluyan inteligencia artificial a fin de proyectar las respectivas resoluciones.
+
