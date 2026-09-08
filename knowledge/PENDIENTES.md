@@ -14,18 +14,19 @@
 | Res. 0839-2025-JNE — Competencias del JNE en voto digital | `JNE/res-0839-2025-jne.txt` | voto digital (Ley 32270), mesa digital |
 | Res. 0003-2026-JNE — Actualización del cronograma ERM 2026 | `JNE/res-0003-2026-jne.txt` | cronograma (marco), padrón se cierra 180 días antes |
 | RENIEC R.J. D000023-2026-RENIEC/JNAC — DNI vencido | `OTROS/res-000023-2026-reniec.txt` | DNI caduco / de menor válido solo para votar el 4/10/2026 |
+| **LOE — Ley N.° 26859** (extracto de artículos clave) | `LEYES/loe-26859-articulos-clave.txt` (+ PDF completo `loe-26859.pdf`) | arts. 7, 9, 240-241, 249, 261-263A, 266-270, 281-286, 301, 363-367, 382-386 |
+| **Ley N.° 27683 — Elecciones Regionales** (texto completo) | `LEYES/ley-27683-elecciones-regionales.txt` | art. 5 (30 % + segunda elección), art. 8 (consejeros) |
 | Cartilla de personeros ERM 2026 (ONPE) | `ONPE/cartilla-personeros-erm2026-rmpd.txt` | instalación, sufragio, escrutinio, impugnaciones, elector |
 
 ## Pendientes (prioridad media/baja)
 
 | Documento | Para qué | Dónde buscar |
 |---|---|---|
-| **Anexo del cronograma** (Res. 0632-2025-JNE + Anexo de la 0003-2026-JNE) | Fechas exactas: cierre de padrón, inscripción de listas, tachas | gob.pe/institucion/jne/normas-legales |
+| **Anexo del cronograma** (Anexo de la Res. 0632-2025-JNE / 0003-2026-JNE) | Fechas exactas: cierre de padrón, inscripción de listas, tachas (no está en la publicación de El Peruano; se publica aparte en el portal del JNE) | portal.jne.gob.pe |
 | **Res. 0849-2025-JNE** | Gestión de los JEE | gob.pe/institucion/jne/normas-legales |
-| **LOE — Ley N.° 26859** (texto consolidado) | Articulado citado: 29, 127, 154, 190, 191, 201, 268, 282, 284, 301, 315, 363-365, 382, 384 | spij.minjus.gob.pe / leyes.congreso.gob.pe |
-| **Ley N.° 27683** (Elecciones Regionales) y **Ley N.° 26864** (Municipales) | Umbral del 30 % y segunda elección regional | spij.minjus.gob.pe |
-| **Ley N.° 28094** (Organizaciones Políticas) | ROP, personeros legales, art. 42 | spij.minjus.gob.pe |
-| **Reglamento ONPE de mesas de sufragio / de la ODPE ERM 2026** | Miembros de mesa (3+6), coordinadores de local | onpe.gob.pe |
+| **Ley N.° 26864** (Elecciones Municipales) | Art. 36: nulidad de elecciones municipales | spij.minjus.gob.pe |
+| **Ley N.° 28094** (Organizaciones Políticas) | ROP, personeros legales, art. 42 (dádivas) | spij.minjus.gob.pe |
+| **Reglamento ONPE de conformación de mesas de sufragio ERM 2026** (R.J. ~000083-2026-JN/ONPE) y **de la ODPE** | Composición 3+6, compensación (3 % UIT), multa (5 % UIT), excusas, coordinadores de local | onpe.gob.pe |
 | **Protocolo ONPE** para electores trans y no binarios | Sufragio sin discriminación | onpe.gob.pe |
 | **Manual de Capacitación Jurisdiccional Electoral ERM 2026 (JNE)** | Criterios de los JEE | jne.gob.pe |
 
