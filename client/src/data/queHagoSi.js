@@ -9,5 +9,9 @@ export const QUE_HAGO_SI = [
   { icon: '📢', label: 'Hay propaganda electoral', seed: 'Observo propaganda electoral cerca o dentro del local de votación. ¿Qué corresponde hacer?' },
   { icon: '⚠️', label: 'Detecté una irregularidad', seed: 'Detecté una posible irregularidad en el proceso. ¿Cómo la documento y ante quién la reporto?' },
   { icon: '👮', label: 'Existe un problema de seguridad', seed: 'Hay un problema de seguridad en el local de votación. ¿Qué debo hacer como personero?' },
+  { icon: '🪪', label: 'Un elector llega con DNI vencido', seed: 'Un elector quiere votar con el DNI vencido o amarillo. ¿Se le permite votar y en qué norma me amparo?' },
+  { icon: '📖', label: 'Un elector no figura en el padrón', seed: 'Un elector con DNI no aparece en la Lista de electores de la mesa. ¿Qué corresponde hacer?' },
+  { icon: '🧑‍🦽', label: 'Le niegan atención preferente o accesible', seed: 'A un adulto mayor / persona con discapacidad / gestante le niegan la atención preferente o el Módulo Temporal de Votación. ¿Qué hago?' },
+  { icon: '🆔', label: 'Mi credencial tiene un error', seed: 'Mi credencial de personero tiene un error en el número de mesa o el nombre del local. ¿Cómo lo corrijo?' },
   { icon: '❓', label: 'Tengo otra incidencia', seed: 'Tengo una incidencia distinta a las listadas. Necesito orientación sobre cómo proceder.' },
 ];

@@ -21,12 +21,17 @@ const SYNONYMS = [
   [/\b(grabar|filmar|video|grabacion)\b/g, 'fotografia'],
   [/\b(plata|cuánto cuesta|cuanto cuesta|cuánto pago|cuanto pago|cobro|cobran)\b/g, 'tasa'],
   [/\b(abren|empieza|comienza|inicia|arranca)\b/g, 'hora'],
-  [/\b(dni|documento de identidad|carné|carne)\b/g, 'dni'],
+  [/\b(dni|documento de identidad|carné|carne|libreta electoral)\b/g, 'dni'],
+  [/\b(caduco|caduca|caducado|caducada|caducos|expirado|expirada|malogrado|malograda)\b/g, 'vencido'],
   [/\b(reclamar|reclamo|quejarme|queja|denunciar|denuncia)\b/g, 'reclamo'],
   [/\b(papeleta|cedula|cédula)\b/g, 'cedula'],
   [/\b(conteo|contar los votos|contando)\b/g, 'escrutinio'],
   [/\b(local|colegio|escuela|centro de votacion|centro de votación)\b/g, 'local'],
   [/\b(miembro de mesa|miembros de mesa|presidente de mesa)\b/g, 'miembros de mesa'],
+  [/\b(votante|votantes|electora|electores|electoras|sufragante)\b/g, 'elector'],
+  [/\b(sufragar|puedo sufragar|va a sufragar)\b/g, 'votar'],
+  [/\b(padron electoral|relacion de electores|lista de votantes)\b/g, 'padron'],
+  [/\b(segunda vuelta|balotaje|ballotage|runoff)\b/g, 'segunda eleccion'],
 ];
 
 // Quita acentos y signos, pasa a minúsculas.
