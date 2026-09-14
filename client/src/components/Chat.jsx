@@ -50,11 +50,10 @@ export default function Chat({ seed }) {
     } else if (wasBusyRef.current && lastMessageRef.current) {
       // La respuesta acaba de llegar: mostrarla desde su inicio, no desde el final,
       // para que se pueda leer de arriba hacia abajo sin tener que subir el scroll.
-      // offsetTop no sirve aquí (es relativo al offsetParent posicionado más cercano,
-      // no al contenedor con scroll), así que se calcula con getBoundingClientRect.
-      const containerTop = el.getBoundingClientRect().top;
-      const targetTop = lastMessageRef.current.getBoundingClientRect().top;
-      el.scrollTop = Math.max(el.scrollTop + (targetTop - containerTop) - 8, 0);
+      // scrollIntoView con block:'start' alinea el borde superior del mensaje con
+      // el borde superior del contenedor con scroll más cercano (evita reimplementar
+      // a mano el cálculo de posición, que es fácil de dejar mal).
+      lastMessageRef.current.scrollIntoView({ block: 'start', inline: 'nearest' });
     } else {
       el.scrollTop = el.scrollHeight;
     }
