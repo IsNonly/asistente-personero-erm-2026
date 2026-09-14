@@ -1,27 +1,39 @@
+import { useNavigate } from 'react-router-dom';
 import Header from '../components/Header.jsx';
+import { PERSONEROS } from '../data/personeros.js';
 import { usePersonero } from '../context/PersoneroContext.jsx';
 
 export default function Profile() {
-  const { perfil, clearPerfil } = usePersonero();
+  const navigate = useNavigate();
+  const { perfilId, setPerfil } = usePersonero();
+
+  function choose(id) {
+    setPerfil(id);
+    navigate('/');
+  }
 
   return (
     <>
       <Header title="MI PERFIL" subtitle="Perfil de personero de la sesión" showBack />
       <div className="screen">
-        {perfil ? (
-          <div className="profile-badge" style={{ marginTop: 14 }}>
-            <div>
-              <strong>{perfil.label}</strong>
-              <div className="muted">{perfil.desc}</div>
-            </div>
-          </div>
-        ) : (
-          <p className="center-hint">No has seleccionado un perfil.</p>
-        )}
+        <p className="muted" style={{ marginTop: 12 }}>
+          Selecciona tu rol. Al elegir uno se actualiza tu perfil y vuelves al inicio.
+        </p>
 
-        <button className="btn btn--block btn--accent" style={{ marginTop: 16 }} onClick={clearPerfil}>
-          Cambiar de perfil
-        </button>
+        <div className="selector__cards" style={{ marginTop: 12 }}>
+          {PERSONEROS.map((p) => (
+            <button
+              key={p.id}
+              className={`persona-card ${perfilId === p.id ? 'is-active' : ''}`}
+              onClick={() => choose(p.id)}
+            >
+              <span>
+                <span className="persona-card__label">{p.label}</span>
+                <span className="persona-card__desc">{p.desc}</span>
+              </span>
+            </button>
+          ))}
+        </div>
 
         <p className="muted" style={{ marginTop: 16 }}>
           El perfil se guarda solo durante la sesión y se usa para contextualizar las
