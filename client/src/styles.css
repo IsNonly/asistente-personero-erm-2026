@@ -4,6 +4,11 @@
    ========================================================== */
 
 :root {
+  /* La app solo tiene tema claro. Sin esto, algunos navegadores (sobre todo
+     Android con "modo oscuro forzado") repintan los colores por su cuenta
+     y rompen gradientes/difuminados que dependen de un color exacto. */
+  color-scheme: light;
+
   /* Paleta institucional neutral (no partidaria) */
   --c-primary: #0b3d68;
   --c-primary-dark: #082b4a;
