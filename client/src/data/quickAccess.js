@@ -5,5 +5,4 @@ export const QUICK_ACCESS = [
   { label: 'Mis derechos', to: '/chat', seed: '¿Cuáles son mis derechos como personero durante la jornada electoral?' },
   { label: '¿Qué hago si...?', to: '/que-hago-si' },
   { label: 'Normativa', to: '/normativa' },
-  { label: 'Reportar incidencia', to: '/incidencias?form=1' },
 ];
