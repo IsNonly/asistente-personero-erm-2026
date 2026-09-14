@@ -88,7 +88,8 @@
         "id": "ley-26864",
         "titulo": "Ley de Elecciones Municipales",
         "entidad": "Congreso de la República",
-        "numero": "Ley N.° 26864"
+        "numero": "Ley N.° 26864",
+        "archivo": "knowledge/LEYES/ley-26864-elecciones-municipales.pdf"
       },
       {
         "id": "ley-28094",
@@ -100,6 +101,20 @@
         "id": "constitucion",
         "titulo": "Constitución Política del Perú (arts. 31, 176-178)",
         "entidad": "Congreso Constituyente"
+      },
+      {
+        "id": "banco-preguntas-personeros",
+        "titulo": "Banco de Preguntas y Respuestas para Personeros — ERM 2026",
+        "entidad": "Material de capacitación de organización política (basado en Cartilla ONPE, LOE, Ley 26864, Ley 27683, Ley 28094 y Res. 0850-2025-JNE)",
+        "numero": "Documento operativo de capacitación (no es norma oficial JNE/ONPE)",
+        "archivo": "knowledge/OTROS/banco-preguntas-respuestas-personeros.docx"
+      },
+      {
+        "id": "onpe-miembro-mesa-folleto",
+        "titulo": "Miembro de mesa: ¿qué debes saber?",
+        "entidad": "ONPE",
+        "numero": "Folleto informativo ERM 2026",
+        "archivo": "knowledge/ONPE/miembro-mesa.pdf"
       }
     ],
     "advertencia": "Verifica siempre la versión vigente publicada por el JNE y la ONPE. Este contenido es una guía y no reemplaza la lectura de la norma oficial."
@@ -108,665 +123,1554 @@
     {
       "id": "que-es-personero",
       "categoria": "deberes",
-      "keywords": ["que es un personero", "quien es el personero", "definicion de personero", "funcion del personero", "para que sirve el personero"],
+      "keywords": [
+        "que es un personero",
+        "quien es el personero",
+        "definicion de personero",
+        "funcion del personero",
+        "para que sirve el personero"
+      ],
       "respuesta": "El personero es la persona natural que, por facultades otorgadas por una organización política, representa sus intereses ante los organismos electorales. Sus funciones básicas son vigilar el desarrollo de la jornada, actuar conforme a la normativa electoral, mantener una conducta respetuosa y comunicar oportunamente observaciones e incidencias.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 6. Ley Orgánica de Elecciones (Ley 26859), Título VI.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 6 · ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 3.",
-      "puedes": ["Vigilar y fiscalizar los actos electorales sin intervenir en las funciones de los miembros de mesa.", "Comunicar por escrito tus observaciones e incidencias."],
-      "no_debes": ["Ser personero si eres candidato, miembro de mesa, funcionario del Sistema Electoral o efectivo en actividad de las FF.AA. o PNP."],
+      "puedes": [
+        "Vigilar y fiscalizar los actos electorales sin intervenir en las funciones de los miembros de mesa.",
+        "Comunicar por escrito tus observaciones e incidencias."
+      ],
+      "no_debes": [
+        "Ser personero si eres candidato, miembro de mesa, funcionario del Sistema Electoral o efectivo en actividad de las FF.AA. o PNP."
+      ],
       "incidencia": "Si te impiden ejercer tus funciones, deja constancia escrita ante la mesa o el coordinador de la ODPE y comunícalo a tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "tipos-personero",
       "categoria": "acreditacion",
-      "keywords": ["tipos de personero", "clases de personero", "que tipo de personero", "diferencia entre personero", "diferencia entre los personeros", "personero de centro de votacion", "personero tecnico del rop", "cuantos tipos de personero"],
+      "keywords": [
+        "tipos de personero",
+        "clases de personero",
+        "que tipo de personero",
+        "diferencia entre personero",
+        "diferencia entre los personeros",
+        "personero de centro de votacion",
+        "personero tecnico del rop",
+        "cuantos tipos de personero"
+      ],
       "respuesta": "El Reglamento reconoce estos tipos: personero legal inscrito en el ROP; personero técnico inscrito en el ROP; personero legal ante el JEE (titular y alterno); personero técnico ante el JEE; personero de centro de votación (coordina y dirige a los personeros de mesa el día de la elección y coordina con la ODPE); y personero ante la mesa de sufragio (presencia y fiscaliza la instalación, el sufragio y el escrutinio).",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 8.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 8 · ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 4–6.",
-      "puedes": ["Ejercer únicamente las funciones del tipo de acreditación que se te otorgó."],
-      "no_debes": ["Actuar en un rol distinto al de tu credencial (por ejemplo, el personero de centro de votación no reemplaza al personero de mesa)."],
+      "puedes": [
+        "Ejercer únicamente las funciones del tipo de acreditación que se te otorgó."
+      ],
+      "no_debes": [
+        "Actuar en un rol distinto al de tu credencial (por ejemplo, el personero de centro de votación no reemplaza al personero de mesa)."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "como-acreditarse",
       "categoria": "acreditacion",
-      "keywords": ["como me acredito", "como acreditarme", "como me acredito como personero", "acreditar como personero", "acreditarme como personero", "credencial de personero", "quien me acredita", "acreditacion del personero", "acreditacion de personeros", "que necesito para ser personero", "requisitos para ser personero", "declara mas", "sistema declara"],
+      "keywords": [
+        "como me acredito",
+        "como acreditarme",
+        "como me acredito como personero",
+        "acreditar como personero",
+        "acreditarme como personero",
+        "credencial de personero",
+        "quien me acredita",
+        "acreditacion del personero",
+        "acreditacion de personeros",
+        "que necesito para ser personero",
+        "requisitos para ser personero",
+        "declara mas",
+        "sistema declara"
+      ],
       "respuesta": "Te acredita el personero legal inscrito en el ROP o el personero legal reconocido ante el JEE, mediante una credencial generada en el sistema Declara+. Debes tener expedito el derecho de sufragio y contar con DNI. El día de la elección te presentas con tu DNI físico y tu credencial impresa: el personero de mesa ante el presidente de la mesa (con el número de mesa en la credencial); el personero de centro de votación ante el coordinador de local de la ODPE (con el nombre del local en la credencial).",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 9, 22, 23, 25 y 26.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), arts. 9, 22–26 · ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 5–6.",
-      "puedes": ["Presentarte en cualquier momento de la jornada si el número de mesa figura en tu credencial."],
-      "no_debes": ["Presentarte sin DNI físico y credencial impresa.", "Ser acreditado por dos organizaciones políticas a la vez."],
+      "puedes": [
+        "Presentarte en cualquier momento de la jornada si el número de mesa figura en tu credencial."
+      ],
+      "no_debes": [
+        "Presentarte sin DNI físico y credencial impresa.",
+        "Ser acreditado por dos organizaciones políticas a la vez."
+      ],
       "incidencia": "Si no te reconocen la credencial, pide que registren el hecho por escrito y comunícate de inmediato con tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "plazo-acreditacion",
       "categoria": "cronograma",
-      "keywords": ["plazo para acreditar", "hasta cuando puedo acreditarme", "cuando se acreditan los personeros", "siete dias", "7 dias antes", "fecha limite acreditacion"],
+      "keywords": [
+        "plazo para acreditar",
+        "hasta cuando puedo acreditarme",
+        "cuando se acreditan los personeros",
+        "siete dias",
+        "7 dias antes",
+        "fecha limite acreditacion"
+      ],
       "respuesta": "La solicitud de reconocimiento de personeros de centro de votación y de personeros ante las mesas de sufragio se presenta ante el JEE hasta siete (7) días calendario antes de la elección. Vencido ese plazo, el personero legal puede acreditarlos directamente: a los de centro de votación ante los coordinadores de la ODPE, y a los de mesa ante el presidente de la mesa el mismo día de la elección.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 30. Plazos de calificación y subsanación: art. 31.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), arts. 30 y 31.",
-      "puedes": ["Acreditarte el mismo día ante la mesa ya instalada si tu personero legal te entrega la credencial."],
-      "no_debes": ["Asumir que fuera de plazo el trámite sigue siendo ante el JEE: pasa a ser acreditación directa."],
+      "puedes": [
+        "Acreditarte el mismo día ante la mesa ya instalada si tu personero legal te entrega la credencial."
+      ],
+      "no_debes": [
+        "Asumir que fuera de plazo el trámite sigue siendo ante el JEE: pasa a ser acreditación directa."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "acreditarse-mismo-dia",
       "categoria": "acreditacion",
-      "keywords": ["acreditarme el mismo dia", "acreditacion el dia de la eleccion", "llegue tarde acreditacion", "mesa ya instalada acreditar"],
+      "keywords": [
+        "acreditarme el mismo dia",
+        "acreditacion el dia de la eleccion",
+        "llegue tarde acreditacion",
+        "mesa ya instalada acreditar"
+      ],
       "respuesta": "Sí. De manera excepcional, el personero ante la mesa de sufragio puede acreditarse el mismo día de la jornada ante la mesa ya instalada, presentando la credencial otorgada por su personero legal (inscrito en el ROP o reconocido ante el JEE) junto con su DNI físico.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 30. ",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 30 · ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 6.",
-      "puedes": ["Presentarte en cualquier momento de la jornada con credencial y DNI."],
-      "no_debes": ["Exigir que la mesa detenga sus actos para tu acreditación."],
+      "puedes": [
+        "Presentarte en cualquier momento de la jornada con credencial y DNI."
+      ],
+      "no_debes": [
+        "Exigir que la mesa detenga sus actos para tu acreditación."
+      ],
       "incidencia": "Si el presidente de mesa se niega a recibir tu credencial válida, pide que lo anote en el acta y avisa a tu personero legal y al coordinador de la ODPE.",
       "confianza": "green"
     },
     {
       "id": "funciones-personero-mesa",
       "categoria": "deberes",
-      "keywords": ["mis funciones", "funciones del personero de mesa", "que puede hacer el personero de mesa", "facultades del personero", "atribuciones del personero", "que hago como personero de mesa", "mis derechos", "cuales son mis derechos", "derechos del personero", "que derechos tengo", "que puedo hacer como personero"],
+      "keywords": [
+        "mis funciones",
+        "funciones del personero de mesa",
+        "que puede hacer el personero de mesa",
+        "facultades del personero",
+        "atribuciones del personero",
+        "que hago como personero de mesa",
+        "mis derechos",
+        "cuales son mis derechos",
+        "derechos del personero",
+        "que derechos tengo",
+        "que puedo hacer como personero"
+      ],
       "respuesta": "El personero ante la mesa de sufragio puede, entre otras: suscribir el acta electoral en instalación, sufragio y escrutinio; concurrir al acondicionamiento de la cámara secreta; firmar las cédulas de sufragio; verificar que los electores ingresen solos a la cámara secreta; presenciar la lectura de los votos y examinar las cédulas leídas; formular observaciones o reclamos ante la mesa; suscribir la lista de electores; obtener un acta completa suscrita por los miembros de mesa; estar presente desde la instalación hasta el escrutinio; denunciar cualquier acto contra la transparencia y legalidad; impugnar la identidad del elector; impugnar cédulas durante el escrutinio; y solicitar la nulidad de la votación de la mesa por hechos que los miembros de mesa puedan conocer.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 7–11.",
-      "puedes": ["Observar y fiscalizar todos los actos de la mesa donde estás acreditado."],
-      "no_debes": ["Intervenir en las funciones de los miembros de mesa ni manipular el material electoral."],
+      "puedes": [
+        "Observar y fiscalizar todos los actos de la mesa donde estás acreditado."
+      ],
+      "no_debes": [
+        "Intervenir en las funciones de los miembros de mesa ni manipular el material electoral."
+      ],
       "incidencia": "Registra por escrito ante la mesa cualquier hecho que consideres irregular; si no lo registran, deja constancia y comunica a tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "derechos-instalacion",
       "categoria": "instalacion",
-      "keywords": ["durante la instalacion", "instalacion de la mesa", "que hago en la instalacion", "camara secreta", "acta de instalacion", "instalar la mesa"],
+      "keywords": [
+        "durante la instalacion",
+        "instalacion de la mesa",
+        "que hago en la instalacion",
+        "camara secreta",
+        "acta de instalacion",
+        "instalar la mesa"
+      ],
       "respuesta": "Durante la instalación, el personero de mesa puede: verificar que la cámara secreta esté correctamente acondicionada; verificar que la 'Relación de electores' esté en la entrada del aula y el 'Cartel de candidatos' en la cámara secreta; firmar las cédulas de sufragio (si lo desea); firmar el acta de instalación (si lo desea); y formular observaciones o reclamos sobre la instalación. Además, puede solicitar la nulidad de la mesa en el supuesto del art. 363, literal 'a', de la LOE (mesa instalada en lugar distinto, en condiciones diferentes a la ley o después del mediodía sin justificación, o que impida el libre sufragio).",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16. Ley Orgánica de Elecciones (Ley 26859), art. 363 lit. a.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 7 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16.",
-      "puedes": ["Firmar cédulas y el acta de instalación si lo deseas.", "Formular observaciones sobre el acondicionamiento del local."],
-      "no_debes": ["Retrasar o entorpecer la instalación."],
+      "puedes": [
+        "Firmar cédulas y el acta de instalación si lo deseas.",
+        "Formular observaciones sobre el acondicionamiento del local."
+      ],
+      "no_debes": [
+        "Retrasar o entorpecer la instalación."
+      ],
       "incidencia": "Si detectas un problema en la instalación, pide que se registre en el acta de instalación en el campo de observaciones.",
       "confianza": "green"
     },
     {
       "id": "derechos-sufragio",
       "categoria": "sufragio",
-      "keywords": ["durante el sufragio", "durante la votacion", "que hago en el sufragio", "acto de sufragio", "presenciar la votacion"],
+      "keywords": [
+        "durante el sufragio",
+        "durante la votacion",
+        "que hago en el sufragio",
+        "acto de sufragio",
+        "presenciar la votacion"
+      ],
       "respuesta": "Durante el sufragio, el personero de mesa puede: presenciar el acto de sufragio; votar después de los miembros de mesa si le corresponde sufragar en esa mesa; impugnar la identidad de un elector cuando considere que no es quien dice ser; firmar la última página de la 'Lista de electores' (si lo desea); firmar el 'Acta de sufragio' (si lo desea); y formular observaciones o reclamos sobre el acto de sufragio. Puede solicitar la nulidad de la mesa en el supuesto del art. 363, literal 'c', de la LOE (violencia o intimidación de los miembros de mesa sobre los electores).",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16. Ley Orgánica de Elecciones (Ley 26859), art. 363 lit. c.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 8 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16.",
-      "puedes": ["Presenciar toda la votación y observar el ingreso individual a la cámara secreta."],
-      "no_debes": ["Conversar o discutir con electores o miembros de mesa durante la votación.", "Preguntar a los electores por quién votan o votaron."],
+      "puedes": [
+        "Presenciar toda la votación y observar el ingreso individual a la cámara secreta."
+      ],
+      "no_debes": [
+        "Conversar o discutir con electores o miembros de mesa durante la votación.",
+        "Preguntar a los electores por quién votan o votaron."
+      ],
       "incidencia": "Si observas presión o violencia sobre los electores, pide que conste en el 'Acta de sufragio' y comunícalo a tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "derechos-escrutinio",
       "categoria": "escrutinio",
-      "keywords": ["durante el escrutinio", "conteo de votos", "que hago en el escrutinio", "lectura de votos", "acta de escrutinio", "acercar la silla"],
+      "keywords": [
+        "durante el escrutinio",
+        "conteo de votos",
+        "que hago en el escrutinio",
+        "lectura de votos",
+        "acta de escrutinio",
+        "acercar la silla"
+      ],
       "respuesta": "Durante el escrutinio, el personero de mesa puede: presenciar la lectura de los votos; examinar visualmente las cédulas leídas; impugnar el voto cuando considere que la calificación de la mesa (válido, nulo o en blanco) afecta a su organización; firmar el 'Acta de escrutinio' (si lo desea); formular observaciones o reclamos; solicitar un acta completa suscrita por los miembros de mesa; y verificar que las cédulas escrutadas se guarden en el sobre plástico para repliegue y se entreguen al personal de la ONPE. Puede acercar su silla a la mesa para observar el conteo sin interferir. También puede solicitar la nulidad en el supuesto del art. 363, literal 'd', de la LOE.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16. Ley Orgánica de Elecciones (Ley 26859), art. 363 lit. d.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 10–12 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16.",
-      "puedes": ["Examinar visualmente cada cédula leída y pedir copia del acta electoral."],
-      "no_debes": ["Interrumpir el conteo.", "Pedir la revisión de decisiones adoptadas por la mesa cuando no estuviste presente."],
+      "puedes": [
+        "Examinar visualmente cada cédula leída y pedir copia del acta electoral."
+      ],
+      "no_debes": [
+        "Interrumpir el conteo.",
+        "Pedir la revisión de decisiones adoptadas por la mesa cuando no estuviste presente."
+      ],
       "incidencia": "Si no estás de acuerdo con la calificación de un voto, impúgnalo en el momento y pide que se registre en el campo Observaciones del 'Acta de escrutinio'.",
       "confianza": "green"
     },
     {
       "id": "copia-acta",
       "categoria": "actas",
-      "keywords": ["copia del acta", "no me entregan copia del acta", "acta electoral copia", "quiero una copia del acta", "acta completa", "me corresponde copia del acta"],
+      "keywords": [
+        "copia del acta",
+        "no me entregan copia del acta",
+        "acta electoral copia",
+        "quiero una copia del acta",
+        "acta completa",
+        "me corresponde copia del acta"
+      ],
       "respuesta": "El personero tiene derecho a obtener un acta completa suscrita por los miembros de mesa. Si lo desea, puede solicitar una copia completa del 'Acta electoral'. Si el personero de mesa se presenta recién durante el escrutinio, también puede solicitar esa copia.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, literal i.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 lit. i · ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 11 y 13.",
-      "puedes": ["Solicitar el acta completa suscrita por los tres miembros de mesa."],
-      "no_debes": ["Retirar o retener el ejemplar del acta que corresponde a los organismos electorales."],
+      "puedes": [
+        "Solicitar el acta completa suscrita por los tres miembros de mesa."
+      ],
+      "no_debes": [
+        "Retirar o retener el ejemplar del acta que corresponde a los organismos electorales."
+      ],
       "incidencia": "Si no te entregan la copia, pide que la negativa se registre en el campo Observaciones del acta, deja constancia con tu firma y comunícalo a tu personero legal para el reclamo ante el JEE.",
       "confianza": "green"
     },
     {
       "id": "impugnacion-identidad",
       "categoria": "votos_impugnados",
-      "keywords": ["impugnar la identidad", "impugnacion de identidad", "el elector no es quien dice ser", "impugnar a un elector", "sobre de impugnacion identidad"],
+      "keywords": [
+        "impugnar la identidad",
+        "impugnacion de identidad",
+        "el elector no es quien dice ser",
+        "impugnar a un elector",
+        "sobre de impugnacion identidad"
+      ],
       "respuesta": "Si impugnas la identidad de un elector, los miembros de mesa resuelven de inmediato (art. 268 de la LOE). Si la declaran infundada, el elector vota y la decisión se registra en el 'Acta de sufragio'; además, la mesa impone una multa a quien formuló la impugnación, que se anota en el acta para su cobranza por el JNE (art. 270 de la LOE). Si apelas: el elector vota, su cédula y su DNI se colocan en el sobre de impugnación, tú firmas el sobre, se deposita en el ánfora como voto impugnado y el elector recibe un cargo de retención de su DNI; la apelación la resuelve el JEE. Si no firmas el sobre, se considera que desistes: el elector recupera su DNI y el presidente anota el hecho en el 'Acta de sufragio'. En mesas de sufragio digital no cabe la impugnación de identidad.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), arts. 268, 269 y 270. Reglamento de personeros (Res. 0850-2025-JNE), art. 16 lit. m. Res. 0837-2025-JNE, arts. 7, 8 y 16. Procedimiento operativo: ONPE.",
       "fuente": "LOE (Ley 26859), arts. 268-270 (extracto en la base local: knowledge/LEYES/loe-26859-articulos-clave.txt) · ONPE — Cartilla de personeros ERM 2026, pág. 9 · JNE — Res. 0850-2025-JNE, art. 16 lit. m.",
-      "puedes": ["Apelar la decisión de la mesa firmando el sobre de impugnación: la resuelve el JEE."],
-      "no_debes": ["Impedir que el elector emita su voto mientras se resuelve la impugnación.", "Impugnar sin fundamento: si la mesa la declara infundada, te imponen una multa anotada en el 'Acta de sufragio'."],
+      "puedes": [
+        "Apelar la decisión de la mesa firmando el sobre de impugnación: la resuelve el JEE."
+      ],
+      "no_debes": [
+        "Impedir que el elector emita su voto mientras se resuelve la impugnación.",
+        "Impugnar sin fundamento: si la mesa la declara infundada, te imponen una multa anotada en el 'Acta de sufragio'."
+      ],
       "incidencia": "Verifica que el sobre de impugnación quede correctamente rotulado y depositado en el ánfora, y que tu apelación conste en el 'Acta de sufragio'.",
       "confianza": "green"
     },
     {
       "id": "impugnacion-voto",
       "categoria": "votos_impugnados",
-      "keywords": ["impugnar un voto", "voto impugnado", "impugnacion de voto en el escrutinio", "voto valido nulo o en blanco reclamo", "sobre celeste de impugnacion"],
+      "keywords": [
+        "impugnar un voto",
+        "voto impugnado",
+        "impugnacion de voto en el escrutinio",
+        "voto valido nulo o en blanco reclamo",
+        "sobre celeste de impugnacion"
+      ],
       "respuesta": "Si impugnas un voto durante el escrutinio, los miembros de mesa resuelven de inmediato por mayoría. Si la impugnación se declara infundada, se escruta la cédula. Si apelas la decisión o la impugnación se declara fundada: el voto se cuenta como voto impugnado, la cédula se guarda en el sobre de impugnación con los datos del presidente de mesa para su firma y la tuya, el hecho se registra en el campo de Observaciones del 'Acta de escrutinio' y el sobre se guarda en el sobre celeste de plástico.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, lit. n. Procedimiento operativo: ONPE.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 11 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 lit. n.",
-      "puedes": ["Impugnar la calificación de un voto (válido, nulo o en blanco) que afecte a tu organización."],
-      "no_debes": ["Interrumpir el conteo mientras la mesa resuelve la impugnación."],
+      "puedes": [
+        "Impugnar la calificación de un voto (válido, nulo o en blanco) que afecte a tu organización."
+      ],
+      "no_debes": [
+        "Interrumpir el conteo mientras la mesa resuelve la impugnación."
+      ],
       "incidencia": "Exige que la impugnación y tu apelación consten en el campo Observaciones del 'Acta de escrutinio'.",
       "confianza": "green"
     },
     {
       "id": "observacion-acta",
       "categoria": "actas",
-      "keywords": ["no quieren registrar mi observacion", "registrar mi observacion", "como registro una observacion", "registrar una observacion", "registro mi observacion", "como dejo constancia", "dejar constancia en el acta", "formular observaciones", "formular un reclamo", "reclamo en el acta", "campo de observaciones", "anotar reclamo", "como hago una observacion", "no anotaron mi reclamo", "no anotan lo que digo", "no registran lo que digo", "no quisieron anotar mi observacion", "quiero que quede por escrito", "que quede constancia"],
-      "sinonimos": ["anotar", "anotaron", "registrar", "constancia", "por escrito", "reclamo", "observacion"],
+      "keywords": [
+        "no quieren registrar mi observacion",
+        "registrar mi observacion",
+        "como registro una observacion",
+        "registrar una observacion",
+        "registro mi observacion",
+        "como dejo constancia",
+        "dejar constancia en el acta",
+        "formular observaciones",
+        "formular un reclamo",
+        "reclamo en el acta",
+        "campo de observaciones",
+        "anotar reclamo",
+        "como hago una observacion",
+        "no anotaron mi reclamo",
+        "no anotan lo que digo",
+        "no registran lo que digo",
+        "no quisieron anotar mi observacion",
+        "quiero que quede por escrito",
+        "que quede constancia"
+      ],
+      "sinonimos": [
+        "anotar",
+        "anotaron",
+        "registrar",
+        "constancia",
+        "por escrito",
+        "reclamo",
+        "observacion"
+      ],
       "respuesta": "El personero puede formular observaciones o reclamos el día de la jornada ante la mesa de sufragio, y estos deben anotarse en el campo de Observaciones del acta correspondiente (instalación, sufragio o escrutinio). La firma del personero también se registra en el acta.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, literal g.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 lit. g · ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 7–8, 11 y 17.",
-      "puedes": ["Pedir que tu observación se transcriba textualmente en el campo Observaciones del acta."],
-      "no_debes": ["Redactar la observación en un lugar del acta distinto al campo de Observaciones."],
+      "puedes": [
+        "Pedir que tu observación se transcriba textualmente en el campo Observaciones del acta."
+      ],
+      "no_debes": [
+        "Redactar la observación en un lugar del acta distinto al campo de Observaciones."
+      ],
       "incidencia": "Si la mesa se niega a registrar tu observación, escríbela, fírmala, pide que conste la negativa y entrégala a tu personero legal para el reclamo ante el JEE.",
       "confianza": "green"
     },
     {
       "id": "prohibiciones",
       "categoria": "prohibiciones",
-      "keywords": ["prohibiciones del personero", "que no puedo hacer", "que no debe hacer el personero", "conductas no permitidas", "me pueden retirar", "me pueden retirar de la mesa", "retiro del personero", "me quieren retirar", "me quieren retirar de la mesa", "me sacan de la mesa", "me botan de la mesa", "pueden retirarme", "que esta prohibido para el personero", "puedo conversar con los electores", "puedo hacer campaña"],
-      "sinonimos": ["retirar", "expulsar", "sacar de la mesa", "prohibido", "prohibicion", "proselitismo", "campaña"],
+      "keywords": [
+        "prohibiciones del personero",
+        "que no puedo hacer",
+        "que no debe hacer el personero",
+        "conductas no permitidas",
+        "me pueden retirar",
+        "me pueden retirar de la mesa",
+        "retiro del personero",
+        "me quieren retirar",
+        "me quieren retirar de la mesa",
+        "me sacan de la mesa",
+        "me botan de la mesa",
+        "pueden retirarme",
+        "que esta prohibido para el personero",
+        "puedo conversar con los electores",
+        "puedo hacer campaña"
+      ],
+      "sinonimos": [
+        "retirar",
+        "expulsar",
+        "sacar de la mesa",
+        "prohibido",
+        "prohibicion",
+        "proselitismo",
+        "campaña"
+      ],
       "respuesta": "El personero ante la mesa de sufragio no puede: interrogar a los electores sobre su preferencia; conversar o discutir con electores, miembros de mesa u otros personeros durante la votación; interrumpir el escrutinio o pedir revisión de decisiones adoptadas cuando no estuvo presente; hacer proselitismo o manifestarse a favor o en contra de una organización, candidato u opción; manipular material o equipos electorales; ni actuar de forma simultánea con otro personero de la misma organización en la misma mesa. Si incumple estas prohibiciones, los tres miembros de mesa pueden disponer su retiro, y la organización puede reemplazarlo por otro personero acreditado.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 20 (y art. 22). Ley Orgánica de Elecciones (Ley 26859), arts. 127, 154 y 190. Código Penal, art. 356.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 12 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 20.",
-      "puedes": ["Observar, fiscalizar y dejar constancia escrita de tus reclamos."],
-      "no_debes": ["Hacer proselitismo, interrogar a electores, interrumpir el escrutinio o manipular material electoral."],
+      "puedes": [
+        "Observar, fiscalizar y dejar constancia escrita de tus reclamos."
+      ],
+      "no_debes": [
+        "Hacer proselitismo, interrogar a electores, interrumpir el escrutinio o manipular material electoral."
+      ],
       "incidencia": "Si te retiran, solicita que el motivo conste en el acta y comunícalo a tu personero legal para gestionar tu reemplazo.",
       "confianza": "green"
     },
     {
       "id": "no-ingreso-local",
       "categoria": "incidentes",
-      "keywords": ["no me dejan ingresar al local", "no me dejan entrar", "me impiden el ingreso", "no me permiten entrar al local de votacion", "acceso al local"],
+      "keywords": [
+        "no me dejan ingresar al local",
+        "no me dejan entrar",
+        "me impiden el ingreso",
+        "no me permiten entrar al local de votacion",
+        "acceso al local"
+      ],
       "respuesta": "El personero de centro de votación se acredita ante el coordinador de local de la ODPE mostrando su DNI físico y su credencial impresa con el nombre del local; el personero de mesa se acredita ante el presidente de la mesa con el número de mesa en su credencial. El personero de mesa tiene la facultad de estar presente desde la instalación hasta el escrutinio y de denunciar cualquier acto contra la transparencia y legalidad del proceso.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, literales j y l; arts. 22 y 25.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), arts. 16, 22 y 25 · ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 5–6.",
-      "puedes": ["Identificarte ante el coordinador de local de la ODPE o el presidente de mesa con DNI y credencial.", "Pedir que la negativa de ingreso se registre por escrito."],
-      "no_debes": ["Ingresar por la fuerza ni generar desorden."],
+      "puedes": [
+        "Identificarte ante el coordinador de local de la ODPE o el presidente de mesa con DNI y credencial.",
+        "Pedir que la negativa de ingreso se registre por escrito."
+      ],
+      "no_debes": [
+        "Ingresar por la fuerza ni generar desorden."
+      ],
       "incidencia": "Solicita el registro escrito de la negativa, comunícate de inmediato con tu personero legal y con el coordinador de local de la ODPE para que se resuelva.",
       "confianza": "green"
     },
     {
       "id": "no-observar",
       "categoria": "incidentes",
-      "keywords": ["no me permiten observar", "me impiden observar", "no me dejan observar", "no me dejan ver el conteo", "no me dejan presenciar", "no me dejan mirar", "me alejan de la mesa", "observar el escrutinio", "observar el conteo", "presenciar el escrutinio", "quiero observar el conteo"],
+      "keywords": [
+        "no me permiten observar",
+        "me impiden observar",
+        "no me dejan observar",
+        "no me dejan ver el conteo",
+        "no me dejan presenciar",
+        "no me dejan mirar",
+        "me alejan de la mesa",
+        "observar el escrutinio",
+        "observar el conteo",
+        "presenciar el escrutinio",
+        "quiero observar el conteo"
+      ],
       "respuesta": "El personero de mesa tiene la facultad de presenciar la lectura de los votos y examinar visualmente las cédulas leídas, y de estar presente desde la instalación hasta el escrutinio. Durante el escrutinio puede acercar su silla a la mesa para observar el conteo, siempre que no interfiera en las funciones de los miembros de mesa.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, literales e, f y j.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 10 y 13.",
-      "puedes": ["Acercar tu silla a la mesa durante el escrutinio para observar sin interferir."],
-      "no_debes": ["Tocar las cédulas o el material, ni interrumpir el conteo."],
+      "puedes": [
+        "Acercar tu silla a la mesa durante el escrutinio para observar sin interferir."
+      ],
+      "no_debes": [
+        "Tocar las cédulas o el material, ni interrumpir el conteo."
+      ],
       "incidencia": "Si te impiden observar, formula el reclamo ante la mesa, pide que conste en el campo Observaciones del acta y avisa a tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "nulidad-mesa",
       "categoria": "nulidad",
-      "keywords": ["nulidad de la mesa", "solicitar nulidad", "solicitud de nulidad", "cuando procede la nulidad", "cuando se puede pedir nulidad", "pedir la nulidad", "como pido la nulidad", "articulo 363", "anular la mesa de sufragio", "nulidad de la votacion", "plazo para pedir nulidad", "tasa de nulidad", "nulidad de elecciones", "fundamentar la nulidad ante el jee"],
+      "keywords": [
+        "nulidad de la mesa",
+        "solicitar nulidad",
+        "solicitud de nulidad",
+        "cuando procede la nulidad",
+        "cuando se puede pedir nulidad",
+        "pedir la nulidad",
+        "como pido la nulidad",
+        "articulo 363",
+        "anular la mesa de sufragio",
+        "nulidad de la votacion",
+        "plazo para pedir nulidad",
+        "tasa de nulidad",
+        "nulidad de elecciones",
+        "fundamentar la nulidad ante el jee"
+      ],
       "respuesta": "La nulidad de la votación de la mesa por hechos de conocimiento directo de la mesa procede en los supuestos del art. 363 de la LOE: literal 'a' (mesa instalada en lugar distinto, en condiciones diferentes a la ley o después del mediodía sin justificación, o que impida el libre sufragio); literal 'c' (violencia o intimidación de los miembros de mesa sobre los electores); y literal 'd' (se permitió votar a quienes no figuraban en la Lista de electores o se impidió votar a quienes sí, en número suficiente para variar el resultado). Trámite (Res. 0838-2025-JNE): el personero de mesa plantea el pedido ANTE LA MESA y debe quedar constancia en el acta; luego el personero legal lo fundamenta por escrito ante el JEE, adjuntando el comprobante original de pago de la tasa, dentro de 3 días calendario contados desde el día siguiente de la elección. Si no consta en el acta, o si no se presenta la tasa o la fundamentación, el JEE declara la improcedencia. El JEE pide informe de fiscalización (1 día) y resuelve en 3 días calendario. Contra lo resuelto cabe apelación en 3 días hábiles; el JNE resuelve en hasta 7 días calendario en audiencia pública. Los hechos externos a la mesa (art. 363 lit. 'b' LOE) y la nulidad de elecciones los plantea directamente el personero legal ante el JEE, con tasa, en el mismo plazo de 3 días calendario.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16 lit. o. Ley Orgánica de Elecciones (Ley 26859), art. 363 lit. a, b, c y d, y arts. 364-365. Reglas de trámite: Res. 0838-2025-JNE. Nulidad total: Constitución, art. 184.",
       "fuente": "JNE — Resolución N.° 0838-2025-JNE (texto oficial en la base local: knowledge/JNE/res-0838-2025-jne.txt) · ONPE — Cartilla de personeros ERM 2026, págs. 7, 8 y 11.",
-      "puedes": ["Plantear el pedido de nulidad ante la mesa y exigir que conste textualmente en el campo Observaciones del acta.", "Como personero legal, fundamentarlo ante el JEE con la tasa dentro de los 3 días calendario."],
-      "no_debes": ["Plantear la nulidad sin sustento fáctico.", "Omitir dejar constancia en el acta: sin esa constancia el JEE declara improcedente el pedido de mesa."],
+      "puedes": [
+        "Plantear el pedido de nulidad ante la mesa y exigir que conste textualmente en el campo Observaciones del acta.",
+        "Como personero legal, fundamentarlo ante el JEE con la tasa dentro de los 3 días calendario."
+      ],
+      "no_debes": [
+        "Plantear la nulidad sin sustento fáctico.",
+        "Omitir dejar constancia en el acta: sin esa constancia el JEE declara improcedente el pedido de mesa."
+      ],
       "incidencia": "Registra el pedido de nulidad y su fundamento en el campo Observaciones del acta, conserva tu copia y entrégala de inmediato a tu personero legal para el escrito y la tasa ante el JEE dentro del plazo.",
       "confianza": "green"
     },
     {
       "id": "recuento-votos",
       "categoria": "recuento",
-      "keywords": ["recuento de votos", "reconteo", "volver a contar los votos", "acta observada recuento", "ley 32299", "audiencia de recuento", "como es el recuento de votos", "quien pide el recuento"],
+      "keywords": [
+        "recuento de votos",
+        "reconteo",
+        "volver a contar los votos",
+        "acta observada recuento",
+        "ley 32299",
+        "audiencia de recuento",
+        "como es el recuento de votos",
+        "quien pide el recuento"
+      ],
       "respuesta": "Se rige por el Reglamento aprobado por Resolución N.° 0852-2025-JNE (Ley N.° 32299). El recuento NO se pide en la mesa: lo dispone el JEE, en decisión inimpugnable, cuando la observación de un acta no puede subsanarse por cotejo, o cuando faltan los cuatro ejemplares del acta. Se hace por única vez, en audiencia pública en el local del JEE, de forma ininterrumpida: el JEE convoca dentro de 2 días calendario de recibido el sobre lacrado y entre la convocatoria y la audiencia median al menos 3 días calendario. Están presentes los 3 miembros y el secretario del JEE, el Ministerio Público y los personeros legales convocados por casilla electrónica (su inasistencia no suspende el acto). El presidente del JEE abre el sobre, mezcla y lee cada cédula mostrándola por medios tecnológicos; los personeros legales pueden examinar el contenido de cada cédula, pero NO pueden impugnar cédulas ni cuestionar la identidad de los electores. La decisión de hacer recuento y su resultado son inimpugnables.",
       "base_normativa": "Reglamento sobre Recuento de Votos (Res. 0852-2025-JNE), arts. 7-18. Ley N.° 32299 (modifica la Ley 26859, LOE). Concordante con Res. 0837-2025-JNE, arts. 13 y 19.",
       "fuente": "JNE — Resolución N.° 0852-2025-JNE (texto completo en la base local: knowledge/JNE/res-0852-2025-jne.txt).",
-      "puedes": ["Como personero legal, asistir a la audiencia pública de recuento y examinar el contenido de cada cédula por los medios tecnológicos del JNE."],
-      "no_debes": ["Impugnar cédulas o cuestionar la identidad de electores durante el recuento: no está permitido.", "Impugnar la decisión del JEE de hacer recuento ni su resultado: son inimpugnables."],
+      "puedes": [
+        "Como personero legal, asistir a la audiencia pública de recuento y examinar el contenido de cada cédula por los medios tecnológicos del JNE."
+      ],
+      "no_debes": [
+        "Impugnar cédulas o cuestionar la identidad de electores durante el recuento: no está permitido.",
+        "Impugnar la decisión del JEE de hacer recuento ni su resultado: son inimpugnables."
+      ],
       "incidencia": "Si crees que un acta debe ir a recuento, plantéalo por tu personero legal ante el JEE dentro del trámite del acta observada.",
       "confianza": "green"
     },
     {
       "id": "actas-observadas",
       "categoria": "actas_observadas",
-      "keywords": ["acta observada", "actas observadas", "reglamento de actas observadas", "0837", "que es un acta observada", "acta sin firmas", "acta ilegible", "acta incompleta", "acta con error aritmetico", "cotejo del acta", "quien resuelve las actas observadas"],
+      "keywords": [
+        "acta observada",
+        "actas observadas",
+        "reglamento de actas observadas",
+        "0837",
+        "que es un acta observada",
+        "acta sin firmas",
+        "acta ilegible",
+        "acta incompleta",
+        "acta con error aritmetico",
+        "cotejo del acta",
+        "quien resuelve las actas observadas"
+      ],
       "respuesta": "Se rige por el Reglamento aprobado por Resolución N.° 0837-2025-JNE. Un 'acta observada' es el ejemplar de la ODPE que no puede contabilizarse por error material. Los tipos, en orden de prelación para resolver, son: acta sin firmas; acta afectada de ilegibilidad; acta sin datos; acta incompleta (no consigna el 'total de ciudadanos que votaron'); y acta con error aritmético (inconsistencia entre la suma de votos y ese total). Las actas observadas, con votos impugnados o con solicitud de nulidad NO entran al cómputo hasta que el JEE se pronuncie. El JEE resuelve mediante cotejo (comparación con su ejemplar y, de ser necesario, el del JNE); si el cotejo no permite subsanar la observación, dispone —en decisión inimpugnable— el recuento de votos por única vez. Contra la resolución del JEE cabe apelación en 3 días hábiles desde su publicación; el JNE resuelve en 3 días hábiles, previa audiencia pública, y contra lo que decida el JNE no procede ningún recurso.",
       "base_normativa": "Reglamento aprobado por Res. 0837-2025-JNE, arts. 5, 9, 12, 13, 18, 19 y 25. Ley Orgánica de Elecciones (Ley 26859), arts. 284, 301 y 315; Ley N.° 32299. Recuento: Res. 0852-2025-JNE.",
       "fuente": "JNE — Resolución N.° 0837-2025-JNE (texto oficial en la base local: knowledge/JNE/res-0837-2025-jne.txt).",
-      "puedes": ["Solicitar tu copia del acta y dejar tus observaciones registradas en mesa para respaldar un eventual trámite ante el JEE.", "Como personero legal, apelar la resolución del JEE sobre un acta observada dentro de los 3 días hábiles."],
-      "no_debes": ["Asumir que el recuento procede a pedido de parte: lo dispone el JEE cuando el cotejo no basta.", "Presentar la apelación sin firma de abogado colegiado hábil y sin la tasa."],
+      "puedes": [
+        "Solicitar tu copia del acta y dejar tus observaciones registradas en mesa para respaldar un eventual trámite ante el JEE.",
+        "Como personero legal, apelar la resolución del JEE sobre un acta observada dentro de los 3 días hábiles."
+      ],
+      "no_debes": [
+        "Asumir que el recuento procede a pedido de parte: lo dispone el JEE cuando el cotejo no basta.",
+        "Presentar la apelación sin firma de abogado colegiado hábil y sin la tasa."
+      ],
       "incidencia": "Traslada a tu personero legal cualquier acta que consideres observable, con tu copia y las constancias obtenidas en mesa, para el trámite dentro de plazo ante el JEE.",
       "confianza": "green"
     },
     {
       "id": "propaganda-neutralidad",
       "categoria": "propaganda",
-      "keywords": ["propaganda electoral", "hay propaganda en el local", "publicidad electoral", "proselitismo", "neutralidad", "difusion el dia de la eleccion", "reparten volantes", "repartiendo volantes", "estan repartiendo propaganda", "veo propaganda", "hay carteles de un candidato", "estan haciendo campaña", "propaganda cerca del local"],
-      "sinonimos": ["volante", "volantes", "folleto", "folletos", "afiche", "afiches", "cartel", "carteles", "campaña", "pancarta", "banderola"],
-      "respuesta": "El personero no puede hacer proselitismo de ningún tipo ni manifestarse a favor o en contra de una organización política, candidato u opción durante la jornada. Tampoco puede intentar dirigir o impedir el voto de los electores. Las reglas detalladas sobre propaganda electoral, publicidad estatal y neutralidad están en la Resolución N.° 0844-2025-JNE, que debe consultarse para casos concretos (por ejemplo, propaganda dentro o alrededor del local de votación).",
-      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 20, literal d. Ley Orgánica de Elecciones (Ley 26859), art. 190. Código Penal, art. 356. Reglamento de propaganda electoral (Res. 0844-2025-JNE).",
-      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 12 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 20 · JNE — Res. 0844-2025-JNE (pendiente de carga).",
-      "puedes": ["Documentar (fecha, hora, lugar) la propaganda que observes y reportarla a tu personero legal y a la ODPE."],
-      "no_debes": ["Retirar tú mismo la propaganda ni confrontar a quien la coloca.", "Hacer proselitismo en respuesta."],
+      "keywords": [
+        "propaganda electoral",
+        "hay propaganda en el local",
+        "publicidad electoral",
+        "proselitismo",
+        "neutralidad",
+        "difusion el dia de la eleccion",
+        "reparten volantes",
+        "repartiendo volantes",
+        "estan repartiendo propaganda",
+        "veo propaganda",
+        "hay carteles de un candidato",
+        "estan haciendo campaña",
+        "propaganda cerca del local"
+      ],
+      "sinonimos": [
+        "volante",
+        "volantes",
+        "folleto",
+        "folletos",
+        "afiche",
+        "afiches",
+        "cartel",
+        "carteles",
+        "campaña",
+        "pancarta",
+        "banderola"
+      ],
+      "respuesta": "El personero no puede hacer proselitismo de ningún tipo ni manifestarse a favor o en contra de una organización política, candidato u opción durante la jornada, ni intentar dirigir o impedir el voto de los electores. Sobre la propaganda en general: está prohibido realizar reuniones o manifestaciones públicas de carácter político desde 2 días antes de la elección, y cualquier tipo de propaganda electoral desde 24 horas antes de la elección (día y medio antes, sin contar el día de la votación). Si ves propaganda o proselitismo dentro o cerca del local en ese periodo, no la retires tú mismo: documéntala y repórtala.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 20, literal d. Ley Orgánica de Elecciones (Ley 26859), art. 190. Código Penal, art. 356. Reglamento sobre propaganda electoral, publicidad estatal y neutralidad (Res. 0844-2025-JNE), art. 7, numeral 7.1.10 (prohibición de reuniones políticas desde 2 días antes y de propaganda desde 24 horas antes de la elección).",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 12 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 20 · JNE — Res. 0844-2025-JNE, art. 7.1.10 (texto en la base local: knowledge/JNE/res-0844-2025-jne.txt).",
+      "puedes": [
+        "Documentar (fecha, hora, lugar) la propaganda que observes y reportarla a tu personero legal y a la ODPE."
+      ],
+      "no_debes": [
+        "Retirar tú mismo la propaganda ni confrontar a quien la coloca.",
+        "Hacer proselitismo en respuesta."
+      ],
       "incidencia": "Deja constancia escrita del hecho ante el coordinador de local de la ODPE y comunícalo a tu personero legal para la denuncia ante el JEE.",
-      "confianza": "yellow"
+      "confianza": "green"
     },
     {
       "id": "seguridad",
       "categoria": "seguridad",
-      "keywords": ["problema de seguridad", "portar armas", "violencia en el local", "amenazas", "retencion de dni", "desorden en el local", "policia en el local"],
+      "keywords": [
+        "problema de seguridad",
+        "portar armas",
+        "violencia en el local",
+        "amenazas",
+        "retencion de dni",
+        "desorden en el local",
+        "policia en el local"
+      ],
       "respuesta": "Durante la jornada no está permitido portar armas aunque se tenga licencia, obstruir el desarrollo de la jornada o provocar desórdenes (art. 382 LOE). Constituye delito interrumpir el acto electoral mediante violencia o amenazas y retener el DNI de un elector para impedirle votar (art. 384 LOE). Ante un problema de seguridad, el personero debe acudir a los efectivos de la PNP y al coordinador de local de la ODPE, y dejar constancia escrita del hecho.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), arts. 382 y 384. Código Penal, art. 359.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 18–19.",
-      "puedes": ["Solicitar el apoyo de la PNP y del coordinador de local de la ODPE."],
-      "no_debes": ["Portar armas.", "Enfrentar por tu cuenta situaciones de violencia."],
+      "puedes": [
+        "Solicitar el apoyo de la PNP y del coordinador de local de la ODPE."
+      ],
+      "no_debes": [
+        "Portar armas.",
+        "Enfrentar por tu cuenta situaciones de violencia."
+      ],
       "incidencia": "Reporta el hecho a la PNP y a la ODPE, regístralo por escrito y comunícalo a tu personero legal; si corresponde, se formulará la denuncia penal.",
       "confianza": "green"
     },
     {
       "id": "horario-jornada",
       "categoria": "cronograma",
-      "keywords": ["a que hora", "horario de votacion", "hora de llegada", "cuando es la eleccion", "cuando son las elecciones", "fecha de las elecciones", "fecha de la eleccion", "que dia se vota", "que dia son las elecciones", "cuando se vota", "a que hora abren", "a que hora cierran", "hasta que hora se vota", "4 de octubre", "de 7 a 5", "jornada electoral horario"],
-      "sinonimos": ["fecha", "dia", "domingo", "octubre", "hora", "horario"],
+      "keywords": [
+        "a que hora",
+        "horario de votacion",
+        "hora de llegada",
+        "cuando es la eleccion",
+        "cuando son las elecciones",
+        "fecha de las elecciones",
+        "fecha de la eleccion",
+        "que dia se vota",
+        "que dia son las elecciones",
+        "cuando se vota",
+        "a que hora abren",
+        "a que hora cierran",
+        "hasta que hora se vota",
+        "4 de octubre",
+        "de 7 a 5",
+        "jornada electoral horario"
+      ],
+      "sinonimos": [
+        "fecha",
+        "dia",
+        "domingo",
+        "octubre",
+        "hora",
+        "horario"
+      ],
       "respuesta": "Las Elecciones Regionales y Municipales 2026 se realizan el domingo 4 de octubre de 2026. La votación se lleva a cabo de 7:00 a. m. a 5:00 p. m. El personero de mesa puede presentarse en cualquier momento de la jornada, siempre que el número de mesa figure en su credencial; conviene llegar antes del inicio de la instalación para presenciarla.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859). Convocatoria ERM 2026.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 2 y 13.",
-      "puedes": ["Presentarte desde antes de la instalación para presenciarla."],
-      "no_debes": ["Asumir que solo puedes ingresar al inicio: puedes hacerlo en cualquier momento con credencial válida."],
+      "puedes": [
+        "Presentarte desde antes de la instalación para presenciarla."
+      ],
+      "no_debes": [
+        "Asumir que solo puedes ingresar al inicio: puedes hacerlo en cualquier momento con credencial válida."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "quien-no-puede-ser-personero",
       "categoria": "acreditacion",
-      "keywords": ["quienes no pueden ser personeros", "puede un candidato ser personero", "miembro de mesa personero", "incompatibilidad personero"],
+      "keywords": [
+        "quienes no pueden ser personeros",
+        "puede un candidato ser personero",
+        "miembro de mesa personero",
+        "incompatibilidad personero"
+      ],
       "respuesta": "No pueden ser personeros los candidatos, los miembros de mesa, los funcionarios de los organismos que integran el Sistema Electoral y los efectivos en actividad de las Fuerzas Armadas y la Policía Nacional del Perú. Además, los candidatos no pueden acreditar directamente a ciudadanos como personeros. Si un ciudadano está acreditado como personero, no puede desempeñarse como miembro de mesa.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 22, literal f.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 3 y 13 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 22 lit. f.",
       "puedes": [],
-      "no_debes": ["Aceptar acreditación si eres candidato, miembro de mesa, funcionario del Sistema Electoral o efectivo en actividad de FF.AA./PNP."],
+      "no_debes": [
+        "Aceptar acreditación si eres candidato, miembro de mesa, funcionario del Sistema Electoral o efectivo en actividad de FF.AA./PNP."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "extranjeros-personeros",
       "categoria": "acreditacion",
-      "keywords": ["extranjero personero", "ciudadano extranjero puede ser personero", "personero extranjero elecciones municipales"],
+      "keywords": [
+        "extranjero personero",
+        "ciudadano extranjero puede ser personero",
+        "personero extranjero elecciones municipales"
+      ],
       "respuesta": "Los ciudadanos extranjeros pueden ser acreditados como personeros únicamente en las Elecciones Municipales, siempre que cuenten con el documento de acreditación electoral emitido por el Reniec.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 9.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 9 · ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 13.",
-      "puedes": ["Acreditarte para la elección municipal con el documento de acreditación electoral del Reniec."],
-      "no_debes": ["Pretender acreditarte para la elección regional siendo extranjero."],
+      "puedes": [
+        "Acreditarte para la elección municipal con el documento de acreditación electoral del Reniec."
+      ],
+      "no_debes": [
+        "Pretender acreditarte para la elección regional siendo extranjero."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "reclamos-quejas",
       "categoria": "incidentes",
-      "keywords": ["ante quien presento una queja", "donde presento un reclamo", "a quien reclamo", "ante quien reclamo", "canal de reclamo", "donde denuncio", "a quien denuncio", "como presento una queja", "ante quien acudo"],
-      "respuesta": "Los reclamos y observaciones del día de la jornada se formulan ante la mesa de sufragio y se registran en el campo de Observaciones del acta. Para recursos, impugnaciones o denuncias formales, quien actúa es el personero legal (inscrito en el ROP o reconocido ante el JEE), que presenta el pedido ante el Jurado Electoral Especial (JEE) competente. El personero técnico no presenta recursos por cuenta propia. Además, puedes coordinar con el coordinador de local de la ODPE los asuntos operativos del local.",
-      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 11, 13, 16 (lit. g y l) y 21 lit. a.",
-      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), arts. 11, 13, 16 y 21.",
-      "puedes": ["Dejar tu observación por escrito en el acta y trasladarla a tu personero legal.", "Coordinar asuntos del local con el coordinador de la ODPE."],
-      "no_debes": ["Presentar recursos ante el JEE si no eres personero legal."],
+      "keywords": [
+        "ante quien presento una queja",
+        "donde presento un reclamo",
+        "a quien reclamo",
+        "ante quien reclamo",
+        "canal de reclamo",
+        "donde denuncio",
+        "a quien denuncio",
+        "como presento una queja",
+        "ante quien acudo"
+      ],
+      "respuesta": "Los reclamos y observaciones del día de la jornada se formulan ante la mesa de sufragio: el personero de mesa puede formular observaciones o reclamos durante la instalación, el sufragio y el escrutinio, y pedir que se consignen en el acta correspondiente. Para recursos, impugnaciones o denuncias formales, quien actúa es el personero legal (inscrito en el ROP o reconocido ante el JEE), que presenta el pedido ante el Jurado Electoral Especial (JEE) competente. El personero técnico no presenta recursos por cuenta propia. Además, puedes coordinar con el coordinador de local de la ODPE los asuntos operativos del local.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 11, 13, 16 (lit. g y l) y 21 lit. a. ONPE — Cartilla de instrucciones para personeros ERM 2026, pp. 7, 8 y 10 (derecho a formular observaciones o reclamos en instalación, sufragio y escrutinio).",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), arts. 11, 13, 16 y 21 · ONPE — Cartilla de instrucciones para personeros ERM 2026, pp. 7, 8 y 10 · Banco de Preguntas y Respuestas para Personeros ERM 2026, preguntas 44, 47 y 60.",
+      "puedes": [
+        "Dejar tu observación por escrito en el acta y trasladarla a tu personero legal.",
+        "Coordinar asuntos del local con el coordinador de la ODPE."
+      ],
+      "no_debes": [
+        "Presentar recursos ante el JEE si no eres personero legal."
+      ],
       "incidencia": "Reúne las constancias (copia del acta, observaciones registradas, fotos con hora y lugar si corresponde) y entrégalas a tu personero legal para el reclamo ante el JEE.",
-      "confianza": "yellow"
+      "confianza": "green"
     },
     {
       "id": "irregularidad",
       "categoria": "incidentes",
-      "keywords": ["detecte una irregularidad", "posible irregularidad", "vi una irregularidad", "hay una irregularidad", "sospecho una irregularidad", "como documento una irregularidad", "encontre algo irregular", "hubo trampa", "hicieron trampa", "creo que hubo fraude", "sospecho fraude", "algo raro en el conteo", "me parece que hay fraude", "vi algo sospechoso"],
-      "sinonimos": ["trampa", "fraude", "sospechoso", "raro", "irregular", "manipulacion", "adulteracion"],
+      "keywords": [
+        "detecte una irregularidad",
+        "posible irregularidad",
+        "vi una irregularidad",
+        "hay una irregularidad",
+        "sospecho una irregularidad",
+        "como documento una irregularidad",
+        "encontre algo irregular",
+        "hubo trampa",
+        "hicieron trampa",
+        "creo que hubo fraude",
+        "sospecho fraude",
+        "algo raro en el conteo",
+        "me parece que hay fraude",
+        "vi algo sospechoso"
+      ],
+      "sinonimos": [
+        "trampa",
+        "fraude",
+        "sospechoso",
+        "raro",
+        "irregular",
+        "manipulacion",
+        "adulteracion"
+      ],
       "respuesta": "El personero ante la mesa de sufragio tiene la facultad de denunciar cualquier acto que atente contra la transparencia y la legalidad del proceso electoral, y de formular observaciones o reclamos ante la mesa el mismo día de la jornada. Documenta el hecho con precisión (qué pasó, quiénes, mesa, local, fecha y hora), pide que se registre en el campo de Observaciones del acta correspondiente y trasládalo a tu personero legal.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, literales g y l.",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16.",
-      "puedes": ["Denunciar el hecho ante la mesa y pedir su registro en el acta.", "Reportar la incidencia también con el formulario de la app."],
-      "no_debes": ["Intervenir en las funciones de los miembros de mesa ni manipular material electoral.", "Confrontar físicamente a otras personas."],
+      "puedes": [
+        "Denunciar el hecho ante la mesa y pedir su registro en el acta.",
+        "Reportar la incidencia también con el formulario de la app."
+      ],
+      "no_debes": [
+        "Intervenir en las funciones de los miembros de mesa ni manipular material electoral.",
+        "Confrontar físicamente a otras personas."
+      ],
       "incidencia": "Registra el hecho en Observaciones del acta, conserva tu copia y comunícalo a tu personero legal y al coordinador de local de la ODPE.",
       "confianza": "green"
     },
     {
       "id": "otra-incidencia",
       "categoria": "incidentes",
-      "keywords": ["otra incidencia", "tengo otra incidencia", "incidencia distinta", "no se que hacer", "necesito orientacion", "mi caso no esta en la lista", "tengo un problema distinto"],
+      "keywords": [
+        "otra incidencia",
+        "tengo otra incidencia",
+        "incidencia distinta",
+        "no se que hacer",
+        "necesito orientacion",
+        "mi caso no esta en la lista",
+        "tengo un problema distinto"
+      ],
       "respuesta": "Para cualquier incidencia, el procedimiento general es: 1) mantener la calma y no intervenir en las funciones de los miembros de mesa; 2) formular tu observación o reclamo ante la mesa y pedir que se registre textualmente en el campo de Observaciones del acta; 3) documentar el hecho (mesa, local, fecha, hora, personas involucradas); 4) conservar tu copia del acta; 5) comunicarlo a tu personero legal y, si es un asunto del local, al coordinador de local de la ODPE; y 6) registrar la incidencia en el formulario de la app.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16 (facultades del personero ante la mesa).",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · ONPE — Cartilla de instrucciones para personeros ERM 2026.",
-      "puedes": ["Dejar constancia escrita de cualquier hecho en el acta y elevarlo a tu personero legal."],
-      "no_debes": ["Abandonar tu puesto de observación por un altercado evitable."],
+      "puedes": [
+        "Dejar constancia escrita de cualquier hecho en el acta y elevarlo a tu personero legal."
+      ],
+      "no_debes": [
+        "Abandonar tu puesto de observación por un altercado evitable."
+      ],
       "incidencia": "Usa el módulo 'Reportar incidencia' de la app para dejar el registro con fecha, hora, local y descripción.",
       "confianza": "yellow"
     },
     {
       "id": "fotos-acta",
       "categoria": "actas",
-      "keywords": ["tomar fotografias del acta", "puedo fotografiar el acta", "foto del acta", "tomar fotos del acta", "fotografiar el acta", "grabar el escrutinio", "puedo grabar en la mesa"],
-      "respuesta": "La normativa de personeros no regula de forma expresa la toma de fotografías o video del acta o del escrutinio. Lo que sí está garantizado es tu derecho a obtener un acta completa suscrita por los miembros de mesa y a solicitar una copia del 'Acta electoral'. Para el registro fotográfico, consulta en el momento al coordinador de local de la ODPE y evita interferir en las funciones de la mesa o afectar la privacidad del voto.",
-      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, literal i (derecho a copia del acta). No hay norma específica sobre fotografía en la cartilla ONPE ni en el Reglamento 0850-2025-JNE.",
-      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 lit. i. Sobre fotografía: sin regulación expresa; verifica con la ODPE y la normativa vigente del JNE/ONPE.",
-      "puedes": ["Solicitar tu copia del acta electoral suscrita por los miembros de mesa."],
-      "no_debes": ["Interferir en las funciones de la mesa ni captar el voto de un elector."],
+      "keywords": [
+        "fotografia del acta",
+        "tomar fotografia del acta",
+        "puedo fotografia el acta",
+        "fotografia el escrutinio",
+        "puedo fotografia en la mesa",
+        "fotografia de la mesa"
+      ],
+      "respuesta": "La normativa de personeros no regula de forma expresa la toma de fotografías o video del acta o del escrutinio. Lo que sí está garantizado es tu derecho a obtener un acta completa suscrita por los miembros de mesa y a solicitar una copia del \"Acta electoral\". Como buena práctica para que la foto sirva como respaldo: debe ser completa, centrada, sin cortes, con buena iluminación (sin sombras ni flash que tape casillas) y debe mostrarse el número de mesa junto con todos los resultados; evita fotos inclinadas, borrosas, parciales o enviarlas a grupos no oficiales. Para el registro fotográfico, consulta en el momento al coordinador de local de la ODPE y evita interferir en las funciones de la mesa o afectar la privacidad del voto.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16, literal i (derecho a copia del acta). No hay norma específica sobre fotografía en la cartilla ONPE ni en el Reglamento 0850-2025-JNE; las buenas prácticas de fotografiado provienen del material de capacitación de las organizaciones políticas.",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 lit. i · Banco de Preguntas y Respuestas para Personeros ERM 2026, preguntas 74-80 (buenas prácticas operativas de fotografiado del acta, sin respaldo en norma JNE/ONPE expresa).",
+      "puedes": [
+        "Solicitar tu copia del acta electoral suscrita por los miembros de mesa."
+      ],
+      "no_debes": [
+        "Interferir en las funciones de la mesa ni captar el voto de un elector."
+      ],
       "incidencia": "Si necesitas respaldo gráfico de un hecho, consúltalo con el coordinador de local de la ODPE y déjalo también por escrito en el acta.",
-      "confianza": "yellow"
+      "confianza": "green"
     },
     {
       "id": "costo-tramite",
       "categoria": "acreditacion",
-      "keywords": ["tengo que pagar", "hay que pagar", "cuesta ser personero", "pago para ser personero", "tasa para personeros", "el tramite es gratis", "es gratuito acreditar personeros", "cuanto se paga por el reconocimiento", "pago de tasa personero"],
-      "sinonimos": ["tasa", "pago", "gratuito", "gratis", "costo", "arancel"],
+      "keywords": [
+        "tengo que pagar",
+        "hay que pagar",
+        "cuesta ser personero",
+        "pago para ser personero",
+        "tasa para personeros",
+        "el tramite es gratis",
+        "es gratuito acreditar personeros",
+        "cuanto se paga por el reconocimiento",
+        "pago de tasa personero"
+      ],
+      "sinonimos": [
+        "tasa",
+        "pago",
+        "gratuito",
+        "gratis",
+        "costo",
+        "arancel"
+      ],
       "respuesta": "El trámite ante el JEE para el reconocimiento de personeros legales y técnicos requiere presentar el comprobante de pago de la tasa respectiva, por cada personero. En cambio, el reconocimiento de personeros de centro de votación y de personeros ante las mesas de sufragio es gratuito. El trámite para personeros de autoridades sometidas a consulta popular o de promotores también es gratuito.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 22, literales i y j; arts. 28 y 29 (trámite gratuito para centro de votación y mesa).",
       "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), arts. 22, 28 y 29.",
-      "puedes": ["Acreditar gratis a personeros de mesa y de centro de votación."],
-      "no_debes": ["Omitir el comprobante de pago de la tasa en el reconocimiento de personeros legales o técnicos."],
+      "puedes": [
+        "Acreditar gratis a personeros de mesa y de centro de votación."
+      ],
+      "no_debes": [
+        "Omitir el comprobante de pago de la tasa en el reconocimiento de personeros legales o técnicos."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "elector-dni-vencido",
       "categoria": "sufragio",
-      "keywords": ["puedo votar con dni vencido", "se puede votar con dni vencido", "votar con dni vencido", "votar con dni caducado", "votar con dni caduco", "dni vencido para votar", "mi dni esta vencido", "dni caduco", "dni amarillo", "dni caducado sirve para votar", "dni por vencer", "elector con dni vencido", "el dni tiene que estar vigente para votar", "dni de menor para votar", "puedo sufragar con dni vencido"],
-      "sinonimos": ["vencido", "caduco", "caducado", "amarillo", "expirado", "por vencer"],
+      "keywords": [
+        "puedo votar con dni vencido",
+        "se puede votar con dni vencido",
+        "votar con dni vencido",
+        "votar con dni caducado",
+        "votar con dni caduco",
+        "dni vencido para votar",
+        "mi dni esta vencido",
+        "dni caduco",
+        "dni amarillo",
+        "dni caducado sirve para votar",
+        "dni por vencer",
+        "elector con dni vencido",
+        "el dni tiene que estar vigente para votar",
+        "dni de menor para votar",
+        "puedo sufragar con dni vencido"
+      ],
+      "sinonimos": [
+        "vencido",
+        "caduco",
+        "caducado",
+        "amarillo",
+        "expirado",
+        "por vencer"
+      ],
       "respuesta": "Sí. La RENIEC, mediante Resolución Jefatural N.° D000023-2026-RENIEC/JNAC (del 27 de agosto de 2026), prorrogó de manera excepcional hasta el domingo 4 de octubre de 2026 la vigencia de los DNI caducos o por caducar de los ciudadanos obligados a sufragar, y admitió excepcionalmente el uso del DNI de menor de edad para votar en las ERM 2026. Alcanza al DNI azul, amarillo y electrónico en sus distintas versiones. Esta prórroga surte efectos únicamente para el ejercicio del derecho al sufragio en las ERM 2026: no reactiva el documento para trámites civiles, administrativos ni financieros. El elector debe presentarse igual con su DNI en físico (no vale copia ni foto) y figurar en la 'Lista de electores' de la mesa.",
       "base_normativa": "RENIEC — Resolución Jefatural N.° D000023-2026-RENIEC/JNAC, arts. Primero y Segundo. Ley Orgánica de Elecciones (Ley 26859), art. 201 (el padrón se cierra 180 días calendario antes de la elección). Constitución Política del Perú, art. 31.",
       "fuente": "RENIEC — Resolución Jefatural N.° D000023-2026-RENIEC/JNAC (texto oficial en la base local: knowledge/OTROS/res-000023-2026-reniec.txt).",
-      "puedes": ["Informar al elector que puede votar con su DNI vencido, caduco, amarillo o de menor de edad el día de la elección.", "Recordar que el DNI debe presentarse en físico y que el elector debe figurar en la lista de esa mesa."],
-      "no_debes": ["Afirmar que el DNI vencido sirve para otros trámites: la validez es solo para votar ese día.", "Impugnar la identidad de un elector solo porque su DNI está vencido o es de menor de edad."],
+      "puedes": [
+        "Informar al elector que puede votar con su DNI vencido, caduco, amarillo o de menor de edad el día de la elección.",
+        "Recordar que el DNI debe presentarse en físico y que el elector debe figurar en la lista de esa mesa."
+      ],
+      "no_debes": [
+        "Afirmar que el DNI vencido sirve para otros trámites: la validez es solo para votar ese día.",
+        "Impugnar la identidad de un elector solo porque su DNI está vencido o es de menor de edad."
+      ],
       "incidencia": "Si la mesa rechaza a un elector por tener el DNI vencido o de menor, pide que el hecho conste en el 'Acta de sufragio' y avisa al coordinador de local de la ODPE y a tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "elector-requisitos-voto",
       "categoria": "sufragio",
-      "keywords": ["quien puede votar", "quienes pueden votar", "requisitos para votar", "el voto es obligatorio", "hasta que edad es obligatorio votar", "voto facultativo", "mayores de 70 estan obligados a votar", "adulto mayor tiene que votar", "es obligatorio votar", "desde que edad se vota", "el voto de los mayores de 70", "voto voluntario adulto mayor"],
-      "sinonimos": ["obligatorio", "facultativo", "voluntario", "setenta"],
+      "keywords": [
+        "quien puede votar",
+        "quienes pueden votar",
+        "requisitos para votar",
+        "el voto es obligatorio",
+        "hasta que edad es obligatorio votar",
+        "voto facultativo",
+        "mayores de 70 estan obligados a votar",
+        "adulto mayor tiene que votar",
+        "es obligatorio votar",
+        "desde que edad se vota",
+        "el voto de los mayores de 70",
+        "voto voluntario adulto mayor"
+      ],
+      "sinonimos": [
+        "obligatorio",
+        "facultativo",
+        "voluntario",
+        "setenta"
+      ],
       "respuesta": "El voto es personal, libre, igual y secreto, y se ejerce solo con el DNI (art. 7 de la LOE). Están obligados a votar los ciudadanos peruanos con derechos civiles vigentes (mayores de 18 años); para los mayores de 70 años el voto es facultativo, es decir, si no votan no incurren en multa (art. 9 de la LOE). El elector debe figurar en la 'Lista de electores' de su mesa. En las elecciones municipales también votan los extranjeros residentes inscritos. Los miembros de la PNP y de las FF.AA. en actividad votan en las ERM 2026 y tienen derecho al voto rápido (art. 263-A de la LOE).",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), arts. 7, 9 y 263-A. Constitución Política del Perú, art. 31. Ley de Elecciones Municipales (Ley 26864).",
       "fuente": "LOE (Ley 26859), arts. 7, 9 y 263-A (extracto en la base local: knowledge/LEYES/loe-26859-articulos-clave.txt) · Constitución, art. 31.",
-      "puedes": ["Orientar sobre quién está habilitado para votar y en qué elección."],
-      "no_debes": ["Afirmar que un mayor de 70 años está obligado a votar o será multado si no lo hace."],
+      "puedes": [
+        "Orientar sobre quién está habilitado para votar y en qué elección."
+      ],
+      "no_debes": [
+        "Afirmar que un mayor de 70 años está obligado a votar o será multado si no lo hace."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "elector-no-figura-padron",
       "categoria": "sufragio",
-      "keywords": ["no aparezco en el padron", "no figuro en la lista de electores", "el elector no esta en la lista", "no estoy en el padron", "me cambiaron de local", "no encuentro mi mesa", "consultar mi local de votacion", "donde me toca votar", "el elector no aparece en la relacion de electores", "no figura en la lista de electores de la mesa", "un elector quiere votar en una mesa que no le corresponde"],
-      "sinonimos": ["padron", "relacion de electores", "lista de electores"],
+      "keywords": [
+        "no aparezco en el padron",
+        "no figuro en la lista de electores",
+        "el elector no esta en la lista",
+        "no estoy en el padron",
+        "me cambiaron de local",
+        "no encuentro mi mesa",
+        "consultar mi local de votacion",
+        "donde me toca votar",
+        "el elector no aparece en la relacion de electores",
+        "no figura en la lista de electores de la mesa",
+        "un elector quiere votar en una mesa que no le corresponde"
+      ],
+      "sinonimos": [
+        "padron",
+        "relacion de electores",
+        "lista de electores"
+      ],
       "respuesta": "El elector solo puede votar en la mesa en la que figura en la 'Lista de electores'. Si no aparece en esa lista, la mesa no puede permitirle votar, aunque tenga DNI: debe verificar su local y mesa en la consulta de la ONPE/RENIEC. El padrón electoral se cierra 180 días calendario antes de la elección (art. 201 de la LOE); los cambios de domicilio posteriores no modifican el local asignado. Si el nombre en la lista no coincide exactamente con el del DNI por un error de impresión o copia, la mesa igual admite el voto si los demás datos coinciden (art. 266 de la LOE). Si la mesa deja votar a alguien que no está en la lista, o impide votar a quien sí figura, en número suficiente para variar el resultado, el personero puede solicitar la nulidad de la mesa (art. 363 lit. 'd' de la LOE).",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), arts. 201, 266 y 363 lit. d. Reglamento de personeros (Res. 0850-2025-JNE), art. 16 lit. o.",
       "fuente": "LOE (Ley 26859), arts. 201, 266 y 363 (extracto en la base local: knowledge/LEYES/loe-26859-articulos-clave.txt) · ONPE — Cartilla de personeros ERM 2026, pág. 11.",
-      "puedes": ["Recomendar al elector que verifique su local y mesa en la página de la ONPE o RENIEC.", "Observar y registrar si la mesa permite votar a personas que no están en la 'Lista de electores'."],
-      "no_debes": ["Exigir que la mesa deje votar a un elector que no figura en su 'Lista de electores'."],
+      "puedes": [
+        "Recomendar al elector que verifique su local y mesa en la página de la ONPE o RENIEC.",
+        "Observar y registrar si la mesa permite votar a personas que no están en la 'Lista de electores'."
+      ],
+      "no_debes": [
+        "Exigir que la mesa deje votar a un elector que no figura en su 'Lista de electores'."
+      ],
       "incidencia": "Si detectas que votó alguien que no estaba en la lista, o que se impidió votar a quien sí figuraba, pide que conste en el campo Observaciones del acta y trasládalo a tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "elector-multa-no-votar",
       "categoria": "sufragio",
-      "keywords": ["multa por no votar", "cuanto se paga por no votar", "que pasa si no voto", "multa del omiso", "soy omiso al voto", "cuanto es la multa electoral", "no vote cuanto pago", "multa por no sufragar", "exoneracion de multa por no votar", "dispensa de multa electoral"],
-      "sinonimos": ["omiso", "multa", "dispensa", "exoneracion"],
+      "keywords": [
+        "multa por no votar",
+        "cuanto se paga por no votar",
+        "que pasa si no voto",
+        "multa del omiso",
+        "soy omiso al voto",
+        "cuanto es la multa electoral",
+        "no vote cuanto pago",
+        "multa por no sufragar",
+        "exoneracion de multa por no votar",
+        "dispensa de multa electoral"
+      ],
+      "sinonimos": [
+        "omiso",
+        "multa",
+        "dispensa",
+        "exoneracion"
+      ],
       "respuesta": "Quien está obligado a votar y no lo hace queda como omiso al sufragio y debe pagar una multa. El monto depende de la clasificación socioeconómica del distrito registrado en el DNI: aproximadamente el 2 % de la UIT en distritos no pobres, 1 % en distritos pobres y 0,5 % en distritos de extrema pobreza. Hay dispensa (exoneración) para quienes no pudieron votar por enfermedad, estar fuera del país el día de la elección, ser mayor de 70 años, tener discapacidad, entre otros supuestos, presentando la solicitud y la documentación ante el JNE dentro del plazo. Verifica el monto y el procedimiento vigentes para las ERM 2026 en el JNE.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), arts. 29 y siguientes. Resolución del JNE que fija la escala de multas para las ERM 2026.",
       "fuente": "JNE — información sobre multas electorales y dispensas ERM 2026 (jne.gob.pe). Monto exacto sujeto a verificación.",
-      "puedes": ["Orientar de forma general sobre la multa del omiso y la posibilidad de dispensa."],
-      "no_debes": ["Afirmar un monto exacto sin verificar la escala oficial vigente para las ERM 2026."],
+      "puedes": [
+        "Orientar de forma general sobre la multa del omiso y la posibilidad de dispensa."
+      ],
+      "no_debes": [
+        "Afirmar un monto exacto sin verificar la escala oficial vigente para las ERM 2026."
+      ],
       "incidencia": "",
       "confianza": "yellow"
     },
     {
       "id": "elector-atencion-preferente",
       "categoria": "sufragio",
-      "keywords": ["atencion preferente", "adulto mayor en la fila", "gestante para votar", "embarazada vota primero", "persona con discapacidad para votar", "elector con niños atencion preferente", "prioridad para votar", "cola preferente en la votacion", "atencion prioritaria electores"],
-      "sinonimos": ["preferente", "prioritaria", "gestante", "embarazada", "discapacidad"],
+      "keywords": [
+        "atencion preferente",
+        "adulto mayor en la fila",
+        "gestante para votar",
+        "embarazada vota primero",
+        "persona con discapacidad para votar",
+        "elector con niños atencion preferente",
+        "prioridad para votar",
+        "cola preferente en la votacion",
+        "atencion prioritaria electores"
+      ],
+      "sinonimos": [
+        "preferente",
+        "prioritaria",
+        "gestante",
+        "embarazada",
+        "discapacidad"
+      ],
       "respuesta": "En el aula de sufragio se brinda atención preferente a los adultos mayores, las personas con discapacidad, las gestantes y los electores que acuden con niños, para garantizar un trato digno, inclusivo y sin discriminación. El personero puede presenciar esta atención, siempre respetando la autonomía, la privacidad y la voluntad del elector. También existe el Módulo Temporal de Votación para quienes tienen dificultad para desplazarse hasta su mesa por razones de movilidad o accesibilidad.",
       "base_normativa": "Cartilla de instrucciones para personeros ERM 2026 (ONPE). Ley N.° 29973 (Ley General de la Persona con Discapacidad) y normas de accesibilidad electoral.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 9.",
-      "puedes": ["Presenciar la atención preferente y el Módulo Temporal de Votación sin interferir."],
-      "no_debes": ["Cuestionar el orden de atención preferente ni presionar al elector durante esa atención."],
+      "puedes": [
+        "Presenciar la atención preferente y el Módulo Temporal de Votación sin interferir."
+      ],
+      "no_debes": [
+        "Cuestionar el orden de atención preferente ni presionar al elector durante esa atención."
+      ],
       "incidencia": "Si se niega la atención preferente o accesible a quien le corresponde, deja constancia ante la mesa y comunícalo al coordinador de local de la ODPE.",
       "confianza": "green"
     },
     {
       "id": "elector-apoyo-camara-secreta",
       "categoria": "sufragio",
-      "keywords": ["entrar acompañado a la camara secreta", "persona de confianza para votar", "elector que necesita ayuda para votar", "acompañante en la camara secreta", "ingresar con otra persona a votar", "elector ciego como vota", "apoyo para marcar la cedula", "el elector no puede votar solo"],
-      "sinonimos": ["acompañante", "persona de confianza", "ayuda", "apoyo"],
+      "keywords": [
+        "entrar acompañado a la camara secreta",
+        "persona de confianza para votar",
+        "elector que necesita ayuda para votar",
+        "acompañante en la camara secreta",
+        "ingresar con otra persona a votar",
+        "elector ciego como vota",
+        "apoyo para marcar la cedula",
+        "el elector no puede votar solo"
+      ],
+      "sinonimos": [
+        "acompañante",
+        "persona de confianza",
+        "ayuda",
+        "apoyo"
+      ],
       "respuesta": "Por regla general, los electores ingresan solos a la cámara secreta. La excepción es el elector que requiere apoyo para votar (por ejemplo, por discapacidad): puede ingresar con una persona de su confianza, que lo asiste sin influir en su decisión. El personero de mesa tiene la facultad de verificar que los electores ingresen solos a la cámara secreta, salvo en estos casos permitidos por la ley. Para electores con discapacidad visual existen además plantillas y cédulas en sistema braille.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), art. 261 (los electores llegan sin acompañante e ingresan solos a la cámara secreta). Reglamento de personeros (Res. 0850-2025-JNE), art. 16 lit. d. Cartilla ONPE ERM 2026.",
       "fuente": "LOE (Ley 26859), art. 261 (extracto en la base local: knowledge/LEYES/loe-26859-articulos-clave.txt) · ONPE — Cartilla de personeros ERM 2026, pág. 8 · JNE — Res. 0850-2025-JNE, art. 16 lit. d.",
-      "puedes": ["Verificar que solo ingrese acompañado el elector que realmente requiere apoyo y que el acompañante no influya en el voto."],
-      "no_debes": ["Impedir el ingreso del acompañante de un elector que necesita apoyo para votar.", "Acompañar tú mismo a un elector a la cámara secreta."],
+      "puedes": [
+        "Verificar que solo ingrese acompañado el elector que realmente requiere apoyo y que el acompañante no influya en el voto."
+      ],
+      "no_debes": [
+        "Impedir el ingreso del acompañante de un elector que necesita apoyo para votar.",
+        "Acompañar tú mismo a un elector a la cámara secreta."
+      ],
       "incidencia": "Si el acompañante orienta o marca el voto por el elector, formula la observación ante la mesa y pide que conste en el 'Acta de sufragio'.",
       "confianza": "green"
     },
     {
       "id": "elector-modulo-temporal-votacion",
       "categoria": "sufragio",
-      "keywords": ["modulo temporal de votacion", "elector que no puede subir escaleras", "votacion para movilidad reducida", "mesa en planta baja para adulto mayor", "modulo de votacion accesible", "elector no puede llegar a su mesa"],
-      "sinonimos": ["modulo temporal", "accesibilidad", "movilidad"],
+      "keywords": [
+        "modulo temporal de votacion",
+        "elector que no puede subir escaleras",
+        "votacion para movilidad reducida",
+        "mesa en planta baja para adulto mayor",
+        "modulo de votacion accesible",
+        "elector no puede llegar a su mesa"
+      ],
+      "sinonimos": [
+        "modulo temporal",
+        "accesibilidad",
+        "movilidad"
+      ],
       "respuesta": "El Módulo Temporal de Votación está destinado a los electores que tienen dificultad para desplazarse hasta su mesa de sufragio por razones de movilidad o accesibilidad (por ejemplo, mesas ubicadas en pisos altos). El elector vota en ese módulo con las mismas garantías. El personero puede presenciar la votación en el módulo, respetando la autonomía, la privacidad y la voluntad del elector.",
       "base_normativa": "Cartilla de instrucciones para personeros ERM 2026 (ONPE). Normas de accesibilidad electoral de la ONPE.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 9.",
-      "puedes": ["Presenciar la votación en el Módulo Temporal de Votación sin interferir."],
-      "no_debes": ["Obstaculizar el traslado del material o el uso del módulo por los electores que lo necesitan."],
+      "puedes": [
+        "Presenciar la votación en el Módulo Temporal de Votación sin interferir."
+      ],
+      "no_debes": [
+        "Obstaculizar el traslado del material o el uso del módulo por los electores que lo necesitan."
+      ],
       "incidencia": "Si el local no habilita el Módulo Temporal de Votación y hay electores que lo requieren, comunícalo al coordinador de local de la ODPE y deja constancia.",
       "confianza": "green"
     },
     {
       "id": "elector-trans-no-binario",
       "categoria": "sufragio",
-      "keywords": ["elector trans", "persona trans vota", "elector no binario", "la foto del dni no coincide con la persona", "identidad de genero distinta al dni", "impugnar identidad por apariencia", "el elector se ve distinto a su dni", "persona transgenero en la mesa"],
-      "sinonimos": ["trans", "transgenero", "no binario", "identidad de genero", "expresion de genero"],
+      "keywords": [
+        "elector trans",
+        "persona trans vota",
+        "elector no binario",
+        "la foto del dni no coincide con la persona",
+        "identidad de genero distinta al dni",
+        "impugnar identidad por apariencia",
+        "el elector se ve distinto a su dni",
+        "persona transgenero en la mesa"
+      ],
+      "sinonimos": [
+        "trans",
+        "transgenero",
+        "no binario",
+        "identidad de genero",
+        "expresion de genero"
+      ],
       "respuesta": "Si el elector es una persona trans o no binaria y su identidad o expresión de género no coincide con los datos o la foto de su DNI, eso no es motivo para impedirle votar ni para impugnar su identidad. La ONPE aprobó un protocolo para garantizar su derecho al sufragio sin discriminación. La verificación de identidad se hace por el número de DNI y los datos del padrón, no por la apariencia.",
       "base_normativa": "Cartilla de instrucciones para personeros ERM 2026 (ONPE). Protocolo de la ONPE para la participación de personas trans y no binarias.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 13.",
-      "puedes": ["Recordar que la identidad se valida por el DNI y el padrón, no por la apariencia."],
-      "no_debes": ["Impugnar la identidad de un elector por su expresión de género o porque no se parece a la foto del DNI."],
+      "puedes": [
+        "Recordar que la identidad se valida por el DNI y el padrón, no por la apariencia."
+      ],
+      "no_debes": [
+        "Impugnar la identidad de un elector por su expresión de género o porque no se parece a la foto del DNI."
+      ],
       "incidencia": "Si un miembro de mesa u otro personero pretende impedir el voto por este motivo, formula la observación y pide que conste en el 'Acta de sufragio'; comunícalo a la ODPE.",
       "confianza": "green"
     },
     {
       "id": "elector-voto-rapido",
       "categoria": "sufragio",
-      "keywords": ["voto rapido", "pase de voto rapido", "policia de servicio vota sin fila", "militar en actividad vota", "bombero vota sin hacer cola", "personal de salud de servicio vota", "essalud minsa voto rapido", "electores de instituciones de servicio"],
-      "sinonimos": ["voto rapido", "pase"],
+      "keywords": [
+        "voto rapido",
+        "pase de voto rapido",
+        "policia de servicio vota sin fila",
+        "militar en actividad vota",
+        "bombero vota sin hacer cola",
+        "personal de salud de servicio vota",
+        "essalud minsa voto rapido",
+        "electores de instituciones de servicio"
+      ],
+      "sinonimos": [
+        "voto rapido",
+        "pase"
+      ],
       "respuesta": "Los miembros en actividad de las FF.AA. y de la PNP, debidamente uniformados e identificados, tienen derecho al voto rápido en las mesas conformadas por la ONPE (art. 263-A de la LOE); la ONPE puede extender el beneficio a otros grupos especiales. En la práctica, la ONPE emite pases de VOTO RÁPIDO también para bomberos, personal del Minsa, EsSalud y otras instituciones que estén de servicio el día de la elección, para sufragar sin formar fila. En todos los casos el elector debe figurar en la 'Lista de electores' de esa mesa y presentar su DNI.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), art. 263-A. Disposiciones de la ONPE sobre el voto rápido. Cartilla ONPE de personeros ERM 2026, pág. 13.",
       "fuente": "LOE (Ley 26859), art. 263-A (extracto en la base local: knowledge/LEYES/loe-26859-articulos-clave.txt) · ONPE — Cartilla de personeros ERM 2026, pág. 13.",
-      "puedes": ["Presenciar el uso del pase de VOTO RÁPIDO sin obstaculizarlo."],
-      "no_debes": ["Cuestionar que un elector con pase de VOTO RÁPIDO vote sin hacer fila si figura en la lista de esa mesa."],
+      "puedes": [
+        "Presenciar el uso del pase de VOTO RÁPIDO sin obstaculizarlo."
+      ],
+      "no_debes": [
+        "Cuestionar que un elector con pase de VOTO RÁPIDO vote sin hacer fila si figura en la lista de esa mesa."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "elector-cedulas-erm",
       "categoria": "sufragio",
-      "keywords": ["cuantas cedulas recibe el elector", "cedula regional y municipal", "el elector recibe dos cedulas", "cedula de tres columnas", "cedula de cuatro columnas", "que se elige en la cedula", "columnas de la cedula de sufragio", "voto cruzado es valido", "puedo votar por partidos distintos en cada eleccion"],
-      "sinonimos": ["cedula", "columnas", "voto cruzado"],
+      "keywords": [
+        "cuantas cedulas recibe el elector",
+        "cedula regional y municipal",
+        "el elector recibe dos cedulas",
+        "cedula de tres columnas",
+        "cedula de cuatro columnas",
+        "que se elige en la cedula",
+        "columnas de la cedula de sufragio",
+        "voto cruzado es valido",
+        "puedo votar por partidos distintos en cada eleccion"
+      ],
+      "sinonimos": [
+        "cedula",
+        "columnas",
+        "voto cruzado"
+      ],
       "respuesta": "En las ERM 2026, los electores peruanos reciben dos cédulas: la regional y la municipal (provincial y distrital). Los electores extranjeros solo reciben la cédula municipal. Cada columna de la cédula corresponde a una elección distinta y se escruta de forma independiente, por lo que un voto puede ser válido en una elección y nulo o en blanco en otra. El voto también es válido cuando el elector marca por una organización política en una elección y por otras organizaciones en las demás (voto cruzado).",
       "base_normativa": "Cartilla de instrucciones para personeros ERM 2026 (ONPE), págs. 14-15. Ley de Elecciones Regionales (Ley 27683) y Ley de Elecciones Municipales (Ley 26864).",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 13-15.",
-      "puedes": ["Explicar que cada columna es una elección independiente y que el voto cruzado es válido."],
-      "no_debes": ["Sostener que marcar por distintas organizaciones en cada elección anula el voto."],
+      "puedes": [
+        "Explicar que cada columna es una elección independiente y que el voto cruzado es válido."
+      ],
+      "no_debes": [
+        "Sostener que marcar por distintas organizaciones en cada elección anula el voto."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "tipos-de-voto",
       "categoria": "escrutinio",
-      "keywords": ["tipos de voto", "cuando un voto es valido", "cuando un voto es nulo", "voto en blanco que es", "que hace nulo un voto", "voto valido nulo o en blanco", "como se califica un voto", "la marca esta fuera del recuadro", "cedula rota es nula", "voto con dos marcas"],
-      "sinonimos": ["valido", "nulo", "blanco", "recuadro", "aspa", "cruz"],
+      "keywords": [
+        "tipos de voto",
+        "cuando un voto es valido",
+        "cuando un voto es nulo",
+        "voto en blanco que es",
+        "que hace nulo un voto",
+        "voto valido nulo o en blanco",
+        "como se califica un voto",
+        "la marca esta fuera del recuadro",
+        "cedula rota es nula",
+        "voto con dos marcas"
+      ],
+      "sinonimos": [
+        "valido",
+        "nulo",
+        "blanco",
+        "recuadro",
+        "aspa",
+        "cruz"
+      ],
       "respuesta": "Voto válido: marcado con una cruz (+) o un aspa (×) cuyo cruce de líneas queda dentro del recuadro del símbolo de una organización política (la marca puede ser tenue o remarcada). Voto en blanco: la columna no tiene ninguna marca en los recuadros de las organizaciones. Voto nulo, cuando en una misma columna: el cruce de líneas queda fuera del recuadro; se usa un signo distinto de la cruz o el aspa; o se marca sobre más de una organización. También es nulo si la cédula está rota, no tiene la firma del presidente de mesa en la cara externa, tiene el nombre/firma/DNI del elector, tiene palabras o signos ajenos al proceso, o no fue la entregada por la mesa. Voto impugnado: el que quedó en discusión y se guarda en el sobre de impugnación.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), arts. 282 y 286. Cartilla de personeros ERM 2026 (ONPE), págs. 15-16.",
       "fuente": "LOE (Ley 26859), arts. 282 y 286 (extracto en la base local: knowledge/LEYES/loe-26859-articulos-clave.txt) · ONPE — Cartilla de personeros ERM 2026, págs. 15-16.",
-      "puedes": ["Impugnar en el escrutinio un voto cuya calificación (válido, nulo o en blanco) consideres que afecta a tu organización."],
-      "no_debes": ["Discutir la calificación de un voto sin impugnarlo formalmente en el momento."],
+      "puedes": [
+        "Impugnar en el escrutinio un voto cuya calificación (válido, nulo o en blanco) consideres que afecta a tu organización."
+      ],
+      "no_debes": [
+        "Discutir la calificación de un voto sin impugnarlo formalmente en el momento."
+      ],
       "incidencia": "Si no estás de acuerdo con cómo se calificó un voto, impúgnalo de inmediato y pide que conste en el campo Observaciones del 'Acta de escrutinio'.",
       "confianza": "green"
     },
     {
       "id": "miembros-mesa-composicion",
       "categoria": "instalacion",
-      "keywords": ["cuantos miembros de mesa hay", "composicion de la mesa de sufragio", "miembros titulares y suplentes", "a que hora se instala la mesa", "instalacion desde las 6", "quienes conforman la mesa", "tres miembros de mesa", "seis suplentes de mesa", "como se forma la mesa de sufragio"],
-      "sinonimos": ["titulares", "suplentes", "instalacion"],
-      "respuesta": "Los miembros de la mesa se reúnen en el local a las 06:00 horas del día de la elección para que la mesa quede instalada a las 07:00 horas a más tardar; la instalación se hace constar en el Acta Electoral (art. 249 de la LOE). La votación va de 7:00 a. m. a 5:00 p. m. Según la ONPE, cada mesa de las ERM 2026 se integra con tres miembros titulares (presidente, secretario y tercer miembro) y hasta seis suplentes; los suplentes permiten completar la mesa si faltan titulares, y a falta de ellos se recurre a electores presentes, conforme a las reglas de la ONPE.",
-      "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), art. 249. Composición (3 titulares + 6 suplentes): disposiciones de la ONPE para las ERM 2026.",
-      "fuente": "LOE (Ley 26859), art. 249 (extracto en la base local: knowledge/LEYES/loe-26859-articulos-clave.txt) · ONPE — ERM 2026, miembros de mesa (erm2026.onpe.gob.pe).",
-      "puedes": ["Presenciar la instalación desde antes de las 7:00 a. m. si el número de mesa figura en tu credencial."],
-      "no_debes": ["Intervenir en la conformación de la mesa o en la elección de sus miembros."],
+      "keywords": [
+        "cuantos miembros de mesa hay",
+        "composicion de la mesa de sufragio",
+        "miembros titulares y suplentes",
+        "a que hora se instala la mesa",
+        "instalacion desde las 6",
+        "quienes conforman la mesa",
+        "tres miembros de mesa",
+        "seis suplentes de mesa",
+        "como se forma la mesa de sufragio"
+      ],
+      "sinonimos": [
+        "titulares",
+        "suplentes",
+        "instalacion"
+      ],
+      "respuesta": "Los miembros de la mesa se reúnen en el local a las 06:00 horas del día de la elección para que la mesa quede instalada a las 07:00 horas a más tardar; la instalación se hace constar en el Acta Electoral (art. 249 de la LOE). La votación va de 7:00 a. m. a 5:00 p. m. Para cada mesa de sufragio de las ERM 2026 se sortean tres (3) miembros titulares y seis (6) suplentes (folleto oficial ONPE \"Miembro de mesa: ¿qué debes saber?\"). Si a las 7:00 a. m. falta algún titular, se completa con suplentes y, si aun así no se completa la mesa, con electores presentes; la mesa debe comenzar a funcionar a las 7:15 a. m. (LOE, art. 250).",
+      "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), arts. 249 y 250 (instalación, reemplazo de titulares por suplentes o electores presentes, hora límite 7:15 a. m.).",
+      "fuente": "LOE (Ley 26859), arts. 249-250 (texto en la base local: knowledge/LEYES/loe-26859-completa.txt) · ONPE — folleto \"Miembro de mesa: ¿qué debes saber?\" ERM 2026 (knowledge/ONPE/miembro-mesa.txt).",
+      "puedes": [
+        "Presenciar la instalación desde antes de las 7:00 a. m. si el número de mesa figura en tu credencial."
+      ],
+      "no_debes": [
+        "Intervenir en la conformación de la mesa o en la elección de sus miembros."
+      ],
       "incidencia": "Si la mesa se instala después del mediodía sin justificación, en lugar distinto o en condiciones diferentes a la ley, puedes solicitar la nulidad (art. 363, lit. 'a', LOE).",
-      "confianza": "yellow"
+      "confianza": "green"
     },
     {
       "id": "miembros-mesa-compensacion",
       "categoria": "deberes",
-      "keywords": ["cuanto le pagan al miembros de mesa", "cuanto pagan por ser de mesa", "compensacion economica por ser de mesa", "compensacion del miembros de mesa", "pago por ser miembros de mesa", "dia de descanso por ser de mesa", "beneficios por ser de mesa", "cuanto cobra el miembros de mesa", "incentivo economico por ser de mesa", "me pagan por estar en la mesa", "3 por ciento de la uit mesa"],
-      "sinonimos": ["compensacion", "pago", "descanso", "incentivo", "cobra", "cobran", "sueldo"],
-      "respuesta": "El ciudadano que cumple la función de miembro de mesa recibe una compensación económica equivalente al 3 % de la UIT. Además, el miembro de mesa que ejerció su función el día de la elección y que también recibió capacitación tiene derecho a un día de descanso remunerado no compensable. Verifica el monto y el procedimiento de cobro vigentes para las ERM 2026 en la ONPE.",
-      "base_normativa": "Ley Orgánica de Elecciones (Ley 26859). Ley N.° 28859 (exoneración de pagos y beneficios a miembros de mesa) y disposiciones de la ONPE para las ERM 2026.",
-      "fuente": "ONPE — ERM 2026, miembros de mesa (erm2026.onpe.gob.pe). Monto sujeto a verificación.",
-      "puedes": ["Orientar de forma general sobre la compensación y el día de descanso del miembro de mesa."],
-      "no_debes": ["Afirmar un monto exacto sin verificar la disposición vigente de la ONPE."],
+      "keywords": [
+        "cuanto le pagan al miembros de mesa",
+        "cuanto pagan por ser de mesa",
+        "compensacion economica por ser de mesa",
+        "compensacion del miembros de mesa",
+        "pago por ser miembros de mesa",
+        "dia de descanso por ser de mesa",
+        "beneficios por ser de mesa",
+        "cuanto cobra el miembros de mesa",
+        "incentivo economico por ser de mesa",
+        "me pagan por estar en la mesa",
+        "3 por ciento de la uit mesa"
+      ],
+      "sinonimos": [
+        "compensacion",
+        "pago",
+        "descanso",
+        "incentivo",
+        "cobra",
+        "cobran",
+        "sueldo"
+      ],
+      "respuesta": "El ciudadano que cumple adecuadamente la función de miembro de mesa en las ERM 2026 recibe una compensación económica de S/165. Además, si se capacitó y ejerció el cargo, tiene derecho a un día de descanso remunerado no compensable (aplicable a trabajadores del sector público o privado), que puede coordinarse con el empleador para hacerse efectivo el 5 de octubre de 2026 o dentro de los 90 días posteriores a la elección.",
+      "base_normativa": "Ley Orgánica de Elecciones (Ley 26859). ONPE — folleto oficial \"Miembro de mesa: ¿qué debes saber?\" ERM 2026: compensación S/165 y día de descanso remunerado.",
+      "fuente": "ONPE — folleto \"Miembro de mesa: ¿qué debes saber?\" ERM 2026 (knowledge/ONPE/miembro-mesa.txt) · Fono ONPE (01) 417-0630, informes@onpe.gob.pe.",
+      "puedes": [
+        "Informar el monto exacto (S/165) y el derecho al día de descanso remunerado."
+      ],
+      "no_debes": [],
       "incidencia": "",
-      "confianza": "yellow"
+      "confianza": "green"
     },
     {
       "id": "miembros-mesa-multa",
       "categoria": "deberes",
-      "keywords": ["multa por no ser miembros de mesa", "cuanto se paga si no voy de mesa", "no asisti como miembros de mesa multa", "sancion por no cumplir como de mesa", "me sortearon de mesa y no fui", "multa por no asistir a la mesa de sufragio", "no fui a instalar la mesa multa", "5 por ciento de la uit mesa", "me llego la multa por no ir de mesa"],
-      "sinonimos": ["multa", "sancion", "omiso", "no asisti", "no fui"],
-      "respuesta": "El ciudadano designado como miembro de mesa titular o suplente que no asiste o se niega a cumplir la función debe pagar una multa equivalente al 5 % de la UIT. Se puede solicitar justificación o dispensa ante el JEE por causas como enfermedad, estar fuera de la circunscripción el día de la elección, ser mayor de 70 años, entre otras. Verifica el monto y el plazo vigentes para las ERM 2026 en el JNE/ONPE.",
-      "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), normas sobre miembros de mesa. Resolución del JNE que fija la escala de multas para las ERM 2026.",
-      "fuente": "JNE / ONPE — información sobre miembros de mesa ERM 2026. Monto sujeto a verificación.",
-      "puedes": ["Orientar de forma general sobre la multa y la posibilidad de justificar la inasistencia."],
-      "no_debes": ["Afirmar un monto exacto sin verificar la escala oficial vigente para las ERM 2026."],
+      "keywords": [
+        "multa por no ser miembros de mesa",
+        "cuanto se paga si no voy de mesa",
+        "no asisti como miembros de mesa multa",
+        "sancion por no cumplir como de mesa",
+        "me sortearon de mesa y no fui",
+        "multa por no asistir a la mesa de sufragio",
+        "no fui a instalar la mesa multa",
+        "5 por ciento de la uit mesa",
+        "me llego la multa por no ir de mesa"
+      ],
+      "sinonimos": [
+        "multa",
+        "sancion",
+        "omiso",
+        "no asisti",
+        "no fui"
+      ],
+      "respuesta": "El ciudadano titular o suplente que no asiste o se niega a integrar la mesa de sufragio es multado con el equivalente al 5 % de la UIT (S/275 para las ERM 2026, según el folleto oficial de la ONPE), multa que se cobra coactivamente el Jurado Nacional de Elecciones (LOE, arts. 250 y 251). Hay dos vías distintas para no asumir el cargo sin multa: la EXCUSA, que se presenta hasta cinco (5) días hábiles después de la publicación definitiva de la relación de miembros de mesa; y la JUSTIFICACIÓN de inasistencia (por ejemplo, por enfermedad acreditada), que se presenta ante la ONPE hasta cinco (5) días naturales antes de la elección o, desde el día siguiente de la elección, ante el Jurado Nacional de Elecciones.",
+      "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), arts. 250, 251 (multa del 5 % de la UIT) y 253 (justificación de inasistencia). ONPE — folleto \"Miembro de mesa: ¿qué debes saber?\" ERM 2026 (monto S/275, plazos de excusa y justificación).",
+      "fuente": "LOE (Ley 26859), arts. 250-253 (texto en la base local: knowledge/LEYES/loe-26859-completa.txt) · ONPE — folleto \"Miembro de mesa: ¿qué debes saber?\" ERM 2026 (knowledge/ONPE/miembro-mesa.txt).",
+      "puedes": [
+        "Informar el monto exacto de la multa (S/275) y la diferencia entre excusa y justificación de inasistencia, con sus plazos."
+      ],
+      "no_debes": [],
       "incidencia": "",
-      "confianza": "yellow"
+      "confianza": "green"
     },
     {
       "id": "miembros-mesa-quien-no-puede",
       "categoria": "instalacion",
-      "keywords": ["quienes no pueden ser miembros de mesa", "el personero puede ser miembro de mesa", "candidato miembro de mesa", "un personero acreditado puede ser miembro de mesa", "incompatibilidad miembro de mesa"],
-      "sinonimos": ["incompatibilidad"],
+      "keywords": [
+        "quienes no pueden ser miembros de mesa",
+        "el personero puede ser miembro de mesa",
+        "candidato miembro de mesa",
+        "un personero acreditado puede ser miembro de mesa",
+        "incompatibilidad miembro de mesa"
+      ],
+      "sinonimos": [
+        "incompatibilidad"
+      ],
       "respuesta": "Si un ciudadano está acreditado como personero, no puede desempeñarse como miembro de mesa. Tampoco pueden ser miembros de mesa los candidatos, los funcionarios de los organismos del Sistema Electoral ni los efectivos en actividad de las Fuerzas Armadas y la PNP. Si te sortearon como miembro de mesa y a la vez fuiste acreditado como personero, prevalece tu condición de personero y debes gestionar la justificación como miembro de mesa.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 22 lit. f. Cartilla ONPE ERM 2026, pág. 13. Ley Orgánica de Elecciones (Ley 26859).",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 13 · JNE — Res. 0850-2025-JNE, art. 22 lit. f.",
-      "puedes": ["Actuar como personero aunque hayas sido sorteado miembro de mesa, gestionando la justificación correspondiente."],
-      "no_debes": ["Ejercer como miembro de mesa y como personero a la vez."],
+      "puedes": [
+        "Actuar como personero aunque hayas sido sorteado miembro de mesa, gestionando la justificación correspondiente."
+      ],
+      "no_debes": [
+        "Ejercer como miembro de mesa y como personero a la vez."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "personero-legal-rop",
       "categoria": "acreditacion",
-      "keywords": ["personero legal inscrito en el rop", "que es el rop", "registro de organizaciones politicas", "personero legal titular y alterno", "quien representa a la organizacion ante el jne", "personero legal ante el jee", "diferencia personero legal rop y jee"],
-      "sinonimos": ["rop", "legal", "titular", "alterno"],
+      "keywords": [
+        "personero legal inscrito en el rop",
+        "que es el rop",
+        "registro de organizaciones politicas",
+        "personero legal titular y alterno",
+        "quien representa a la organizacion ante el jne",
+        "personero legal ante el jee",
+        "diferencia personero legal rop y jee"
+      ],
+      "sinonimos": [
+        "rop",
+        "legal",
+        "titular",
+        "alterno"
+      ],
       "respuesta": "El personero legal inscrito en el ROP (Registro de Organizaciones Políticas) ejerce la representación plena de la organización política ante el JNE, los JEE y demás organismos del sistema electoral, y no requiere tramitar su reconocimiento ante los JEE. En el ROP se inscribe un personero legal titular y uno alterno (el alterno actúa en ausencia del titular). El personero legal ante el JEE es acreditado por el personero legal del ROP y ejerce la representación en la circunscripción del JEE que lo reconoció. Ambos pueden acreditar a los personeros de centro de votación y de mesa.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 8, 9, 13, 14 y 23. Ley de Organizaciones Políticas (Ley 28094).",
       "fuente": "JNE — Res. 0850-2025-JNE, arts. 8, 13, 14 y 23.",
-      "puedes": ["Como personero legal del ROP, acreditar a personeros legales/técnicos ante el JEE y a personeros de centro de votación y de mesa."],
-      "no_debes": ["Ser acreditado como personero legal por dos o más organizaciones políticas a la vez."],
+      "puedes": [
+        "Como personero legal del ROP, acreditar a personeros legales/técnicos ante el JEE y a personeros de centro de votación y de mesa."
+      ],
+      "no_debes": [
+        "Ser acreditado como personero legal por dos o más organizaciones políticas a la vez."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "personero-legal-firma-digital",
       "categoria": "acreditacion",
-      "keywords": ["firma digital del personero legal", "necesito firma digital para ser personero legal", "certificado de firma digital reniec", "los escritos del personero legal necesitan firma digital", "requisito de firma digital"],
-      "sinonimos": ["firma digital", "certificado"],
+      "keywords": [
+        "firma digital del personero legal",
+        "necesito firma digital para ser personero legal",
+        "certificado de firma digital reniec",
+        "los escritos del personero legal necesitan firma digital",
+        "requisito de firma digital"
+      ],
+      "sinonimos": [
+        "firma digital",
+        "certificado"
+      ],
       "respuesta": "Los personeros legales, titulares y alternos, deben contar con un certificado para firma digital, que puede expedir el RENIEC u otro proveedor acreditado. Todo escrito que un personero legal presente ante cualquier JEE debe llevar firma digital. Si el personero legal no es abogado, los medios impugnatorios también deben ir suscritos por un abogado hábil; si es abogado, basta con que firme una vez identificándose como personero legal y abogado, indicando su número de colegiatura.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 10 y 13.",
       "fuente": "JNE — Res. 0850-2025-JNE, arts. 10 y 13.",
-      "puedes": ["Presentar escritos y recursos ante el JEE con tu firma digital como personero legal."],
-      "no_debes": ["Presentar un escrito de personero legal sin firma digital."],
+      "puedes": [
+        "Presentar escritos y recursos ante el JEE con tu firma digital como personero legal."
+      ],
+      "no_debes": [
+        "Presentar un escrito de personero legal sin firma digital."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "personero-legal-facultades",
       "categoria": "deberes",
-      "keywords": ["que puede hacer el personero legal", "facultades del personero legal", "quien presenta los recursos", "personero legal interpone apelacion", "el personero de mesa puede apelar ante el jee", "quien presenta impugnaciones ante el jee", "recurso de apelacion electoral quien lo firma"],
-      "sinonimos": ["recurso", "apelacion", "impugnatorio"],
+      "keywords": [
+        "que puede hacer el personero legal",
+        "facultades del personero legal",
+        "quien presenta los recursos",
+        "personero legal interpone apelacion",
+        "el personero de mesa puede apelar ante el jee",
+        "quien presenta impugnaciones ante el jee",
+        "recurso de apelacion electoral quien lo firma"
+      ],
+      "sinonimos": [
+        "recurso",
+        "apelacion",
+        "impugnatorio"
+      ],
       "respuesta": "El personero legal (inscrito en el ROP o reconocido por el JEE) es quien está facultado para presentar solicitudes e interponer cualquier recurso o medio impugnatorio, de fundamento legal o técnico, ante el JNE, los JEE y demás organismos del sistema electoral. El personero legal reconocido por el JEE actúa dentro del ámbito territorial de ese JEE. El personero técnico no presenta recursos por cuenta propia: todo recurso lo presenta el personero legal. El personero de mesa deja sus observaciones en el acta y las traslada a su personero legal.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 11, 13 y 21 lit. a.",
       "fuente": "JNE — Res. 0850-2025-JNE, arts. 11, 13 y 21.",
-      "puedes": ["Como personero de mesa o técnico, canalizar tus observaciones a través del personero legal para el reclamo ante el JEE."],
-      "no_debes": ["Presentar recursos ante el JEE si no eres personero legal."],
+      "puedes": [
+        "Como personero de mesa o técnico, canalizar tus observaciones a través del personero legal para el reclamo ante el JEE."
+      ],
+      "no_debes": [
+        "Presentar recursos ante el JEE si no eres personero legal."
+      ],
       "incidencia": "Reúne copia del acta y las constancias registradas en mesa y entrégalas a tu personero legal para que interponga el recurso dentro del plazo.",
       "confianza": "green"
     },
     {
       "id": "personero-tecnico-funciones",
       "categoria": "escrutinio",
-      "keywords": ["que hace el personero tecnico", "personero tecnico del rop", "observacion del computo electoral", "personero tecnico ante el jee", "personero tecnico centro de computo", "quien observa el sistema de computo", "personero tecnico simulacro"],
-      "sinonimos": ["tecnico", "computo", "simulacro"],
+      "keywords": [
+        "que hace el personero tecnico",
+        "personero tecnico del rop",
+        "observacion del computo electoral",
+        "personero tecnico ante el jee",
+        "personero tecnico centro de computo",
+        "quien observa el sistema de computo",
+        "personero tecnico simulacro"
+      ],
+      "sinonimos": [
+        "tecnico",
+        "computo",
+        "simulacro"
+      ],
       "respuesta": "El personero técnico se encarga de observar los procesos de cómputo electoral. El personero técnico inscrito en el ROP puede solicitar a la ONPE información sobre el Sistema de Cómputo Electoral (estructura de bases de datos, programas, comunicaciones, seguridad, cronograma de centros de cómputo, planes de prueba y simulacro), acceder a los programas fuente conforme a la seguridad que fije la ONPE y estar presente en pruebas y simulacros y en los centros de cómputo. El personero técnico ante el JEE observa el cómputo de su circunscripción. No puede presentar recursos por cuenta propia, interferir con el cómputo (podría ser desalojado) ni comunicarse con el personal del centro de cómputo salvo con el responsable asignado.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 8 lit. b y d, 17, 18 y 21.",
       "fuente": "JNE — Res. 0850-2025-JNE, arts. 17, 18 y 21.",
-      "puedes": ["Solicitar la información del Sistema de Cómputo Electoral y estar presente en pruebas, simulacros y en el centro de cómputo."],
-      "no_debes": ["Interferir con el proceso de cómputo ni conversar con el personal del centro de cómputo salvo con el responsable de tu ingreso."],
+      "puedes": [
+        "Solicitar la información del Sistema de Cómputo Electoral y estar presente en pruebas, simulacros y en el centro de cómputo."
+      ],
+      "no_debes": [
+        "Interferir con el proceso de cómputo ni conversar con el personal del centro de cómputo salvo con el responsable de tu ingreso."
+      ],
       "incidencia": "Si te impiden el acceso al centro de cómputo o a la información que te corresponde, trasládalo a tu personero legal para el reclamo ante el JEE.",
       "confianza": "green"
     },
     {
       "id": "personero-reemplazo-renuncia-retiro",
       "categoria": "acreditacion",
-      "keywords": ["reemplazo de personero", "cambiar de personero", "renuncia de personero", "como renuncio a ser personero", "retiro de reconocimiento de personero", "sustituir un personero acreditado", "dejar sin efecto la designacion de un personero"],
-      "sinonimos": ["reemplazo", "renuncia", "retiro", "sustitucion"],
+      "keywords": [
+        "reemplazo de personero",
+        "cambiar de personero",
+        "renuncia de personero",
+        "como renuncio a ser personero",
+        "retiro de reconocimiento de personero",
+        "sustituir un personero acreditado",
+        "dejar sin efecto la designacion de un personero"
+      ],
+      "sinonimos": [
+        "reemplazo",
+        "renuncia",
+        "retiro",
+        "sustitucion"
+      ],
       "respuesta": "Reemplazo: los personeros inscritos en el ROP pueden pedir en cualquier momento del proceso el reemplazo de personeros legales o técnicos reconocidos por el JEE, sin expresión de causa, con una solicitud que deja sin efecto la designación anterior y acredita al reemplazante, cumpliendo los mismos requisitos y adjuntando el comprobante de pago de la tasa por cada personero. Renuncia: el personero legal o técnico reconocido por el JEE puede renunciar sin expresión de causa, presentando el comprobante de pago de la tasa. Retiro de oficio: si el personero cae en un supuesto de suspensión del ejercicio de la ciudadanía, el JEE dispone de oficio el retiro de su reconocimiento, sin anular los actos ya realizados.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 32, 33 y 34.",
       "fuente": "JNE — Res. 0850-2025-JNE, arts. 32, 33 y 34.",
-      "puedes": ["Solicitar el reemplazo de un personero legal o técnico en cualquier momento del proceso, con la tasa correspondiente."],
-      "no_debes": ["Asumir que el reemplazo o la renuncia de personeros legales/técnicos es gratuito: requiere el pago de la tasa (salvo consulta popular / promotores)."],
+      "puedes": [
+        "Solicitar el reemplazo de un personero legal o técnico en cualquier momento del proceso, con la tasa correspondiente."
+      ],
+      "no_debes": [
+        "Asumir que el reemplazo o la renuncia de personeros legales/técnicos es gratuito: requiere el pago de la tasa (salvo consulta popular / promotores)."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "casilla-electronica-jne",
       "categoria": "acreditacion",
-      "keywords": ["casilla electronica del jne", "que es la casilla electronica", "donde me notifica el jee", "domicilio procesal electronico", "notificaciones del jee al personero", "no me llegan las notificaciones del jee"],
-      "sinonimos": ["casilla electronica", "notificacion", "domicilio procesal"],
+      "keywords": [
+        "casilla electronica del jne",
+        "que es la casilla electronica",
+        "donde me notifica el jee",
+        "domicilio procesal electronico",
+        "notificaciones del jee al personero",
+        "no me llegan las notificaciones del jee"
+      ],
+      "sinonimos": [
+        "casilla electronica",
+        "notificacion",
+        "domicilio procesal"
+      ],
       "respuesta": "La casilla electrónica del JNE es el domicilio procesal electrónico obligatorio de las partes en materia jurisdiccional electoral. Por ella, los JEE y el JNE notifican sus pronunciamientos y actuaciones. La solicitud de reconocimiento de personeros que se presenta por el sistema Declara+ incluye la casilla electrónica del JNE, y la resolución de reconocimiento se notifica al personero legal por esa vía. Es responsabilidad del personero legal revisar su casilla, porque desde la notificación corren los plazos.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 5 lit. a y arts. 27-31.",
       "fuente": "JNE — Res. 0850-2025-JNE, art. 5 lit. a y arts. 27-31.",
-      "puedes": ["Revisar periódicamente la casilla electrónica del JNE: allí se notifican las resoluciones y corren los plazos."],
-      "no_debes": ["Esperar una notificación en papel o por otro medio: la notificación válida es por casilla electrónica."],
+      "puedes": [
+        "Revisar periódicamente la casilla electrónica del JNE: allí se notifican las resoluciones y corren los plazos."
+      ],
+      "no_debes": [
+        "Esperar una notificación en papel o por otro medio: la notificación válida es por casilla electrónica."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "personero-centro-votacion-funciones",
       "categoria": "deberes",
-      "keywords": ["que hace el personero de centro de votacion", "funciones del personero de local", "personero de local de votacion", "personero de centro de votacion coordina", "el personero de centro de votacion puede entrar a las aulas", "diferencia personero de local y personero de mesa", "personero de centro de votacion conductas prohibidas"],
-      "sinonimos": ["centro de votacion", "local"],
+      "keywords": [
+        "que hace el personero de centro de votacion",
+        "funciones del personero de local",
+        "personero de local de votacion",
+        "personero de centro de votacion coordina",
+        "el personero de centro de votacion puede entrar a las aulas",
+        "diferencia personero de local y personero de mesa",
+        "personero de centro de votacion conductas prohibidas"
+      ],
+      "sinonimos": [
+        "centro de votacion",
+        "local"
+      ],
       "respuesta": "El personero de centro de votación coordina y dirige a los personeros de mesa de su organización en el local para el que fue acreditado, se comunica con el coordinador de local de la ODPE y presencia el desarrollo general de la jornada; su actividad es solo el día de la elección. Puede ser acreditado en más de un local, pero dos personeros de centro de votación de la misma organización no pueden actuar a la vez en el mismo local, y no reemplaza al personero de mesa. No puede: participar en locales donde su organización no presenta candidatos, reemplazar a personeros de mesa, interrogar a los electores, conversar con electores o miembros de mesa durante la votación, interrumpir el escrutinio ni hacer proselitismo.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 8 lit. e, 15 y 19.",
       "fuente": "JNE — Res. 0850-2025-JNE, arts. 15 y 19 · ONPE — Cartilla de personeros ERM 2026, pág. 5.",
-      "puedes": ["Coordinar a los personeros de mesa de tu organización y comunicar incidencias al coordinador de local de la ODPE."],
-      "no_debes": ["Reemplazar a un personero de mesa o ingresar a ejercer funciones propias de la mesa."],
+      "puedes": [
+        "Coordinar a los personeros de mesa de tu organización y comunicar incidencias al coordinador de local de la ODPE."
+      ],
+      "no_debes": [
+        "Reemplazar a un personero de mesa o ingresar a ejercer funciones propias de la mesa."
+      ],
       "incidencia": "Centraliza las incidencias que te reporten los personeros de mesa y trasládalas al coordinador de local de la ODPE y a tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "coordinador-odpe",
       "categoria": "ODPE",
-      "keywords": ["quien es el coordinador de local de la odpe", "coordinador de local de votacion", "para que sirve el coordinador de la odpe", "diferencia entre coordinador de la odpe y personero de local", "a quien acudo en el local", "personal de la onpe en el local"],
-      "sinonimos": ["coordinador", "odpe", "onpe"],
+      "keywords": [
+        "quien es el coordinador de local de la odpe",
+        "coordinador de local de votacion",
+        "para que sirve el coordinador de la odpe",
+        "diferencia entre coordinador de la odpe y personero de local",
+        "a quien acudo en el local",
+        "personal de la onpe en el local"
+      ],
+      "sinonimos": [
+        "coordinador",
+        "odpe",
+        "onpe"
+      ],
       "respuesta": "El coordinador de local de votación es personal de la ODPE (órgano temporal de la ONPE) responsable de la organización operativa del local: entrega de material, apoyo a las mesas, orden y resolución de incidencias operativas. No representa a ninguna organización política. El personero de centro de votación coordina con él los asuntos del local. Es distinto del personero de local, que sí representa a una organización política. Ante un problema operativo o de acceso en el local, el personero acude al coordinador de la ODPE y, si corresponde, a la PNP.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 15 y 16 lit. g. Cartilla ONPE ERM 2026.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 5-6 · JNE — Res. 0850-2025-JNE, art. 15.",
-      "puedes": ["Acudir al coordinador de local de la ODPE para asuntos operativos y de acceso al local."],
-      "no_debes": ["Exigir al coordinador de la ODPE decisiones jurisdiccionales: esas corresponden al JEE."],
+      "puedes": [
+        "Acudir al coordinador de local de la ODPE para asuntos operativos y de acceso al local."
+      ],
+      "no_debes": [
+        "Exigir al coordinador de la ODPE decisiones jurisdiccionales: esas corresponden al JEE."
+      ],
       "incidencia": "Pide al coordinador de local de la ODPE que registre por escrito la incidencia operativa y guarda una copia o el número de registro.",
       "confianza": "green"
     },
     {
       "id": "actores-jornada",
       "categoria": "otros",
-      "keywords": ["quienes participan en la jornada electoral", "que actores hay en la eleccion", "actores electorales", "quien es quien el dia de la eleccion", "que organismos electorales existen", "jne onpe reniec que hace cada uno", "diferencia jne onpe reniec"],
-      "sinonimos": ["actores", "organismos"],
+      "keywords": [
+        "quienes participan en la jornada electoral",
+        "que actores hay en la eleccion",
+        "actores electorales",
+        "quien es quien el dia de la eleccion",
+        "que organismos electorales existen",
+        "jne onpe reniec que hace cada uno",
+        "diferencia jne onpe reniec"
+      ],
+      "sinonimos": [
+        "actores",
+        "organismos"
+      ],
       "respuesta": "El día de la elección intervienen: los electores; los miembros de mesa (3 titulares y suplentes) que instalan la mesa, reciben el voto y hacen el escrutinio; los personeros de las organizaciones políticas (de mesa, de centro de votación, legales y técnicos) que fiscalizan; el coordinador de local y demás personal de la ODPE/ONPE; la PNP a cargo de la seguridad; y los observadores electorales acreditados. En el sistema electoral: el JNE imparte justicia electoral y fiscaliza la legalidad (a través de los JEE en cada circunscripción); la ONPE organiza y ejecuta los procesos; y el RENIEC provee el padrón y la identificación.",
       "base_normativa": "Constitución Política del Perú, art. 177. Ley Orgánica de Elecciones (Ley 26859). Cartilla ONPE ERM 2026.",
       "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 2 · JNE — Res. 0850-2025-JNE, art. 5.",
-      "puedes": ["Identificar ante quién dirigir cada asunto: mesa, coordinador de la ODPE, PNP o, vía personero legal, el JEE."],
+      "puedes": [
+        "Identificar ante quién dirigir cada asunto: mesa, coordinador de la ODPE, PNP o, vía personero legal, el JEE."
+      ],
       "no_debes": [],
       "incidencia": "",
       "confianza": "green"
@@ -774,143 +1678,356 @@
     {
       "id": "candidato-incompatibilidades",
       "categoria": "acreditacion",
-      "keywords": ["un candidato puede ser personero", "el candidato puede acreditar personeros", "incompatibilidades del candidato", "candidato como miembro de mesa", "el candidato puede estar en la mesa", "puede un candidato entrar al local como personero"],
-      "sinonimos": ["candidato", "incompatibilidad"],
+      "keywords": [
+        "un candidato puede ser personero",
+        "el candidato puede acreditar personeros",
+        "incompatibilidades del candidato",
+        "candidato como miembro de mesa",
+        "el candidato puede estar en la mesa",
+        "puede un candidato entrar al local como personero"
+      ],
+      "sinonimos": [
+        "candidato",
+        "incompatibilidad"
+      ],
       "respuesta": "Los candidatos no pueden asumir la condición de personeros ni acreditar directamente a ciudadanos como personeros; esa acreditación la hace el personero legal de la organización. Los candidatos tampoco pueden ser miembros de mesa. Un candidato puede acudir a votar como cualquier elector en la mesa donde figura, pero no ejercer funciones de personero ni permanecer en el local con ese rol.",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 22 lit. f. Ley Orgánica de Elecciones (Ley 26859).",
       "fuente": "JNE — Res. 0850-2025-JNE, art. 22 lit. f · ONPE — Cartilla de personeros ERM 2026, pág. 3.",
-      "puedes": ["Observar y dejar constancia si un candidato pretende ejercer como personero o permanecer en el local con ese rol."],
-      "no_debes": ["Aceptar una credencial de personero firmada directamente por un candidato."],
+      "puedes": [
+        "Observar y dejar constancia si un candidato pretende ejercer como personero o permanecer en el local con ese rol."
+      ],
+      "no_debes": [
+        "Aceptar una credencial de personero firmada directamente por un candidato."
+      ],
       "incidencia": "Si un candidato actúa como personero, formula la observación ante la mesa o el coordinador de la ODPE y comunícalo a tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "propaganda-dia-eleccion",
       "categoria": "propaganda",
-      "keywords": ["propaganda el dia de la eleccion", "se puede hacer campaña el dia de la votacion", "hasta cuando se permite la propaganda electoral", "difusion de propaganda en la jornada", "publicidad estatal en periodo electoral", "encuestas el dia de la eleccion", "boca de urna a que hora", "flash electoral difusion"],
-      "sinonimos": ["propaganda", "campaña", "publicidad estatal", "encuesta", "boca de urna"],
+      "keywords": [
+        "propaganda el dia de la eleccion",
+        "se puede hacer campaña el dia de la votacion",
+        "hasta cuando se permite la propaganda electoral",
+        "difusion de propaganda en la jornada",
+        "publicidad estatal en periodo electoral",
+        "encuestas el dia de la eleccion",
+        "boca de urna a que hora",
+        "flash electoral difusion"
+      ],
+      "sinonimos": [
+        "propaganda",
+        "campaña",
+        "publicidad estatal",
+        "encuesta",
+        "boca de urna"
+      ],
       "respuesta": "Las reglas están en el Reglamento aprobado por Resolución N.° 0844-2025-JNE. Plazos clave: están prohibidas las reuniones o manifestaciones públicas de carácter político desde DOS días antes de la elección, y cualquier tipo de propaganda electoral desde 24 HORAS antes de la elección (art. 7.1.10). La publicidad estatal está prohibida desde la convocatoria del proceso, salvo casos de impostergable necesidad o utilidad pública, con reporte o autorización previa ante el JEE (se exceptúa a los organismos del Sistema Electoral). La publicación o difusión de encuestas y proyecciones sobre resultados solo se permite hasta el domingo anterior al día de las elecciones (art. 191 LOE y Res. 0834-2025-JNE). El JEE fiscaliza las infracciones cometidas hasta el día de la elección.",
       "base_normativa": "Reglamento sobre propaganda electoral, publicidad estatal y neutralidad (Res. 0844-2025-JNE), arts. 7.1.10, 9.6 y 16. Reglamento de encuestas (Res. 0834-2025-JNE). Ley Orgánica de Elecciones (Ley 26859), arts. 190 y 191. Ley de Organizaciones Políticas (Ley 28094), art. 42.",
       "fuente": "JNE — Resolución N.° 0844-2025-JNE y N.° 0834-2025-JNE (textos en la base local: knowledge/JNE/res-0844-2025-jne.txt y res-0834-2025-jne.txt).",
-      "puedes": ["Documentar (fecha, hora, lugar, descripción, fotos) la propaganda o publicidad estatal indebida y reportarla a tu personero legal y a la ODPE."],
-      "no_debes": ["Retirar tú mismo la propaganda ni confrontar a quien la coloca.", "Difundir tú resultados o encuestas: la difusión de encuestas solo se permite hasta el domingo anterior a la elección."],
+      "puedes": [
+        "Documentar (fecha, hora, lugar, descripción, fotos) la propaganda o publicidad estatal indebida y reportarla a tu personero legal y a la ODPE."
+      ],
+      "no_debes": [
+        "Retirar tú mismo la propaganda ni confrontar a quien la coloca.",
+        "Difundir tú resultados o encuestas: la difusión de encuestas solo se permite hasta el domingo anterior a la elección."
+      ],
       "incidencia": "Deja constancia escrita ante el coordinador de local de la ODPE y traslada el caso a tu personero legal para la denuncia ante el JEE, que fiscaliza hasta el día de la elección.",
       "confianza": "green"
     },
     {
       "id": "conductas-prohibidas-sancion",
       "categoria": "prohibiciones",
-      "keywords": ["procedimiento sancionador electoral", "sancion por propaganda prohibida", "entrega de dadivas", "reparto de regalos en campaña", "compra de votos", "me quieren comprar el voto", "compra de votos a cambio de dinero", "regalan cosas para que voten", "dan alimentos o dinero en campaña", "prohibicion de dadivas articulo 42", "resolucion 0845", "que pasa si un candidato reparte regalos", "un candidato esta regalando alimentos", "estan regalando comida en campaña", "candidato reparte viveres", "entregan dinero por votar", "regalan viveres o dinero", "dadivas en campaña electoral"],
-      "sinonimos": ["sancion", "procedimiento sancionador", "multa", "dadiva", "dadivas", "regalo", "regalos", "regalar", "regalando", "regalan", "reparten", "repartir", "repartiendo", "obsequio", "prebenda", "viveres", "canasta", "dinero"],
+      "keywords": [
+        "procedimiento sancionador electoral",
+        "sancion por propaganda prohibida",
+        "entrega de dadivas",
+        "reparto de regalos en campaña",
+        "compra de votos",
+        "me quieren comprar el voto",
+        "compra de votos a cambio de dinero",
+        "regalan cosas para que voten",
+        "dan alimentos o dinero en campaña",
+        "prohibicion de dadivas articulo 42",
+        "resolucion 0845",
+        "que pasa si un candidato reparte regalos",
+        "un candidato esta regalando alimentos",
+        "estan regalando comida en campaña",
+        "candidato reparte viveres",
+        "entregan dinero por votar",
+        "regalan viveres o dinero",
+        "dadivas en campaña electoral"
+      ],
+      "sinonimos": [
+        "sancion",
+        "procedimiento sancionador",
+        "multa",
+        "dadiva",
+        "dadivas",
+        "regalo",
+        "regalos",
+        "regalar",
+        "regalando",
+        "regalan",
+        "reparten",
+        "repartir",
+        "repartiendo",
+        "obsequio",
+        "prebenda",
+        "viveres",
+        "canasta",
+        "dinero"
+      ],
       "respuesta": "El Reglamento aprobado por Resolución N.° 0845-2025-JNE regula la fiscalización y el procedimiento sancionador del artículo 42 de la Ley de Organizaciones Políticas: las organizaciones políticas y los candidatos están prohibidos de entregar o prometer, directamente o por terceros con recursos propios, dinero, regalos, dádivas, alimentos, medicinas, agua, materiales de construcción, enseres del hogar u otros bienes durante el periodo electoral. Excepción: bienes de consumo individual e inmediato en un evento proselitista gratuito, sin exceder el 0,3 % de la UIT por bien. La sanción es multa graduada en UIT que impone el JEE; la reincidencia en el mismo proceso es agravante y acarrea la exclusión del candidato. Cualquier persona puede denunciar acompañando medios de prueba de actuación inmediata (no requiere abogado); el personero legal también canaliza la denuncia y participa en el procedimiento.",
       "base_normativa": "Reglamento para la fiscalización y el procedimiento sancionador del art. 42 de la Ley N.° 28094 (Res. 0845-2025-JNE), arts. 1, 2, 8 y disposiciones sobre multa, reincidencia y exclusión. Ley de Organizaciones Políticas (Ley 28094), arts. 42 y 42-A.",
       "fuente": "JNE — Resolución N.° 0845-2025-JNE (texto oficial en la base local: knowledge/JNE/res-0845-2025-jne.txt).",
-      "puedes": ["Documentar con prueba de actuación inmediata (fotos/video con fecha, hora y lugar; testigos) la entrega o promesa de bienes y entregarla a tu personero legal para la denuncia ante el JEE."],
-      "no_debes": ["Confrontar a quien reparte los bienes ni recogerlos tú mismo como 'prueba'."],
+      "puedes": [
+        "Documentar con prueba de actuación inmediata (fotos/video con fecha, hora y lugar; testigos) la entrega o promesa de bienes y entregarla a tu personero legal para la denuncia ante el JEE."
+      ],
+      "no_debes": [
+        "Confrontar a quien reparte los bienes ni recogerlos tú mismo como 'prueba'."
+      ],
       "incidencia": "Traslada la evidencia a tu personero legal para el procedimiento sancionador ante el JEE; deja constancia del hecho ante el coordinador de local de la ODPE si ocurre en el local.",
       "confianza": "green"
     },
     {
       "id": "segunda-eleccion-regional",
       "categoria": "escrutinio",
-      "keywords": ["segunda vuelta regional", "segunda eleccion regional", "runoff gobernador regional", "30 por ciento para ganar la region", "que pasa si nadie llega al 30", "cuando hay segunda vuelta para gobernador", "los consejeros regionales van a segunda vuelta", "hay segunda vuelta en las municipales"],
-      "sinonimos": ["segunda vuelta", "segunda eleccion", "runoff", "balotaje"],
+      "keywords": [
+        "segunda vuelta regional",
+        "segunda eleccion regional",
+        "runoff gobernador regional",
+        "30 por ciento para ganar la region",
+        "que pasa si nadie llega al 30",
+        "cuando hay segunda vuelta para gobernador",
+        "los consejeros regionales van a segunda vuelta",
+        "hay segunda vuelta en las municipales"
+      ],
+      "sinonimos": [
+        "segunda vuelta",
+        "segunda eleccion",
+        "runoff",
+        "balotaje"
+      ],
       "respuesta": "Para ser elegida, la fórmula de gobernador y vicegobernador regional debe obtener no menos del treinta por ciento (30 %) de los votos válidos de la circunscripción. Si ninguna fórmula supera ese porcentaje, se realiza una segunda elección dentro de los 30 días calendario siguientes a la proclamación de los cómputos oficiales, en las circunscripciones que lo requieran, entre las dos fórmulas más votadas; en esa segunda elección se proclama electa la fórmula que obtenga la mayoría simple de votos válidos (art. 5 de la Ley 27683, modificado por la Ley 29470). Los consejeros regionales se eligen en la primera votación por provincia (mayor votación; cifra repartidora donde se elijan dos o más) y NO van a segunda vuelta. En las elecciones municipales (provincial y distrital) no hay segunda vuelta. Los personeros deben acreditarse nuevamente para la segunda elección regional.",
       "base_normativa": "Ley de Elecciones Regionales (Ley 27683), arts. 5 y 8 (modificados por la Ley 29470). Ley de Elecciones Municipales (Ley 26864).",
       "fuente": "Ley N.° 27683, arts. 5 y 8 (texto en la base local: knowledge/LEYES/ley-27683-elecciones-regionales.txt).",
-      "puedes": ["Prever la reacreditación de personeros si hay segunda elección regional en tu circunscripción."],
-      "no_debes": ["Asumir que hay segunda vuelta en las elecciones municipales o para consejeros regionales."],
+      "puedes": [
+        "Prever la reacreditación de personeros si hay segunda elección regional en tu circunscripción."
+      ],
+      "no_debes": [
+        "Asumir que hay segunda vuelta en las elecciones municipales o para consejeros regionales."
+      ],
       "incidencia": "",
       "confianza": "green"
     },
     {
       "id": "tipos-de-acta",
       "categoria": "actas",
-      "keywords": ["diferencia entre acta electoral y acta de escrutinio", "que es el acta electoral", "cuantos ejemplares del acta hay", "a donde va cada ejemplar del acta", "acta de instalacion sufragio y escrutinio", "para quien es cada copia del acta", "el sobre de la onpe con el acta"],
-      "sinonimos": ["ejemplar", "acta electoral", "acta de escrutinio"],
+      "keywords": [
+        "diferencia entre acta electoral y acta de escrutinio",
+        "que es el acta electoral",
+        "cuantos ejemplares del acta hay",
+        "a donde va cada ejemplar del acta",
+        "acta de instalacion sufragio y escrutinio",
+        "para quien es cada copia del acta",
+        "el sobre de la onpe con el acta"
+      ],
+      "sinonimos": [
+        "ejemplar",
+        "acta electoral",
+        "acta de escrutinio"
+      ],
       "respuesta": "El 'Acta electoral' es el documento único de la mesa e incluye tres secciones: acta de instalación, acta de sufragio y acta de escrutinio (esta última registra los resultados: votos por organización, en blanco, nulos, impugnados y totales). Los miembros de mesa emiten CUATRO ejemplares de cada acta electoral, con destino a: ODPE, JEE, JNE y ONPE. Adicionalmente, se entrega en la mesa (física o digitalmente) una copia a los personeros acreditados. El personero tiene derecho a obtener un acta completa suscrita por los miembros de mesa y a solicitar copia del 'Acta electoral'. Un acta puede quedar 'observada' (error material), 'con votos impugnados' o 'con solicitud de nulidad', y en esos casos no se contabiliza hasta que el JEE resuelva.",
       "base_normativa": "Reglamento aprobado por Res. 0837-2025-JNE, art. 5 lit. c, d, g, h y q, y art. 6. Reglamento de personeros (Res. 0850-2025-JNE), art. 16 lit. a e i. Reglamento de recuento (Res. 0852-2025-JNE), art. 5 lit. a y m.",
       "fuente": "JNE — Resolución N.° 0837-2025-JNE, arts. 5 y 6 (texto en la base local: knowledge/JNE/res-0837-2025-jne.txt) · ONPE — Cartilla de personeros ERM 2026, pág. 17.",
-      "puedes": ["Solicitar tu copia del 'Acta electoral' completa, suscrita por los tres miembros de mesa."],
-      "no_debes": ["Retirar o retener alguno de los cuatro ejemplares que corresponden a los organismos electorales (ODPE, JEE, JNE, ONPE)."],
+      "puedes": [
+        "Solicitar tu copia del 'Acta electoral' completa, suscrita por los tres miembros de mesa."
+      ],
+      "no_debes": [
+        "Retirar o retener alguno de los cuatro ejemplares que corresponden a los organismos electorales (ODPE, JEE, JNE, ONPE)."
+      ],
       "incidencia": "Si no te entregan la copia, pide que la negativa conste en el campo Observaciones del acta y trasládalo a tu personero legal.",
       "confianza": "green"
     },
     {
       "id": "voto-digital-personero",
       "categoria": "sufragio",
-      "keywords": ["voto digital", "mesa con voto electronico", "que hago si la mesa usa voto digital", "solucion tecnologica del voto digital", "stvd personero", "facultades del personero en voto digital", "transmision de resultados personero"],
-      "sinonimos": ["voto digital", "voto electronico", "stvd"],
+      "keywords": [
+        "voto digital",
+        "mesa con voto electronico",
+        "que hago si la mesa usa voto digital",
+        "solucion tecnologica del voto digital",
+        "stvd personero",
+        "facultades del personero en voto digital",
+        "transmision de resultados personero"
+      ],
+      "sinonimos": [
+        "voto digital",
+        "voto electronico",
+        "stvd"
+      ],
       "respuesta": "El voto digital está regulado por la Ley N.° 32270 (arts. 223-A a 223-G de la LOE) y, en cuanto a las competencias del JNE, por la Resolución N.° 0839-2025-JNE. Su implementación es progresiva: la ONPE define el ámbito del piloto (priorizando peruanos en el extranjero, FF.AA. y PNP, comunidades campesinas y pueblos indígenas) y es obligatorio para los miembros de la PNP y las FF.AA. desplazados fuera de su domicilio registrado en el RENIEC. En una mesa de sufragio digital el escrutinio es automatizado, los miembros de mesa trabajan por turnos de al menos 8 horas y NO cabe la impugnación de la identidad del elector ni la impugnación de cédulas (los personeros sí pueden dejar observaciones y reclamaciones en el acta, que se remiten al JEE). El personero de mesa puede estar presente desde la instalación, el sufragio y el escrutinio hasta la transmisión de resultados, y no puede modificar ni interrumpir esas etapas ni manipular los equipos.",
       "base_normativa": "Ley N.° 32270 (incorpora arts. 223-A a 223-G a la LOE). Reglamento sobre las competencias del JNE en el voto digital (Res. 0839-2025-JNE), arts. 1, 2 y 11. Reglamento de personeros (Res. 0850-2025-JNE), art. 16 lit. k y art. 20 lit. c y e. Actas de mesa digital: Res. 0837-2025-JNE, art. 8.",
       "fuente": "JNE — Resolución N.° 0839-2025-JNE (texto en la base local: knowledge/JNE/res-0839-2025-jne.txt) · Res. 0837-2025-JNE, art. 8 · Res. 0850-2025-JNE, arts. 16 y 20.",
-      "puedes": ["Estar presente en todas las etapas, incluida la transmisión de resultados, cuando la mesa usa voto digital.", "Dejar observaciones y reclamaciones en el acta de la mesa digital para que las resuelva el JEE."],
-      "no_debes": ["Manipular los equipos ni interrumpir o modificar la instalación, el sufragio, el escrutinio o la transmisión.", "Plantear impugnación de identidad o de cédula en una mesa de sufragio digital: no procede."],
+      "puedes": [
+        "Estar presente en todas las etapas, incluida la transmisión de resultados, cuando la mesa usa voto digital.",
+        "Dejar observaciones y reclamaciones en el acta de la mesa digital para que las resuelva el JEE."
+      ],
+      "no_debes": [
+        "Manipular los equipos ni interrumpir o modificar la instalación, el sufragio, el escrutinio o la transmisión.",
+        "Plantear impugnación de identidad o de cédula en una mesa de sufragio digital: no procede."
+      ],
       "incidencia": "Si observas una falla o manipulación en el voto digital, formula la observación, pide que conste en el acta y comunícalo de inmediato a tu personero legal y al coordinador de la ODPE.",
       "confianza": "green"
     },
     {
       "id": "cronograma-plazos",
       "categoria": "cronograma",
-      "keywords": ["cronograma electoral erm 2026", "plazos electorales", "cuando cierra el padron", "fechas clave de la eleccion", "calendario electoral", "plazo de tachas", "hasta cuando se inscriben las listas", "resolucion 0003 2026 jne cronograma"],
-      "sinonimos": ["cronograma", "calendario", "plazo", "fecha"],
+      "keywords": [
+        "cronograma electoral erm 2026",
+        "plazos electorales",
+        "cuando cierra el padron",
+        "fechas clave de la eleccion",
+        "calendario electoral",
+        "plazo de tachas",
+        "hasta cuando se inscriben las listas",
+        "resolucion 0003 2026 jne cronograma"
+      ],
+      "sinonimos": [
+        "cronograma",
+        "calendario",
+        "plazo",
+        "fecha"
+      ],
       "respuesta": "El cronograma de las ERM 2026 se aprobó por la Resolución N.° 0632-2025-JNE (18 de noviembre de 2025) y se actualizó por la Resolución N.° 0003-2026-JNE para insertar los hitos de la Ley N.° 32536 (ampliación del periodo de afiliación para candidatos); se mantienen los demás hitos. La elección es el domingo 4 de octubre de 2026, con votación de 7:00 a. m. a 5:00 p. m. El padrón electoral se cierra 180 días calendario antes de la elección (art. 201 de la LOE). Plazo clave para personeros: la solicitud de reconocimiento de personeros de centro de votación y de mesa se presenta ante el JEE hasta 7 días calendario antes de la elección; vencido ese plazo, el personero legal los acredita directamente (a los de centro de votación ante los coordinadores de la ODPE y a los de mesa ante el presidente de la mesa el mismo día). Para las demás fechas (inscripción de listas, tachas, etc.) consulta el Anexo del cronograma del JNE.",
       "base_normativa": "Resolución N.° 0632-2025-JNE y Resolución N.° 0003-2026-JNE (cronograma electoral ERM 2026 y su actualización, Ley N.° 32536). Ley Orgánica de Elecciones (Ley 26859), art. 201. Reglamento de personeros (Res. 0850-2025-JNE), art. 30.",
       "fuente": "JNE — Resolución N.° 0003-2026-JNE (texto en la base local: knowledge/JNE/res-0003-2026-jne.txt). El Anexo con el detalle de fechas se consulta en jne.gob.pe.",
-      "puedes": ["Planificar la acreditación de personeros con al menos 7 días de anticipación a la elección."],
-      "no_debes": ["Asumir las fechas del Anexo sin verificarlas en el calendario oficial del JNE."],
+      "puedes": [
+        "Planificar la acreditación de personeros con al menos 7 días de anticipación a la elección."
+      ],
+      "no_debes": [
+        "Asumir las fechas del Anexo sin verificarlas en el calendario oficial del JNE."
+      ],
       "incidencia": "",
       "confianza": "yellow"
     },
     {
       "id": "observadores-electorales",
       "categoria": "otros",
-      "keywords": ["observadores electorales", "diferencia entre personero y observador", "que hace un observador electoral", "puede haber observadores en la mesa", "observacion electoral nacional o internacional"],
-      "sinonimos": ["observador", "observacion electoral"],
+      "keywords": [
+        "observadores electorales",
+        "diferencia entre personero y observador",
+        "que hace un observador electoral",
+        "puede haber observadores en la mesa",
+        "observacion electoral nacional o internacional"
+      ],
+      "sinonimos": [
+        "observador",
+        "observacion electoral"
+      ],
       "respuesta": "Los observadores electorales son personas u organizaciones (nacionales o internacionales) acreditadas ante el JNE para observar el desarrollo del proceso de forma imparcial; no representan a ninguna organización política y no intervienen en los actos de la mesa. Se distinguen del personero, que sí representa a una organización política y fiscaliza en su interés. Personeros y observadores pueden coincidir en el local; ninguno debe interferir en las funciones de los miembros de mesa.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859). Reglamento del JNE sobre observadores electorales.",
       "fuente": "JNE — normativa sobre observación electoral (jne.gob.pe). Documento pendiente de carga en la base local.",
-      "puedes": ["Coexistir con los observadores electorales en el local sin que ninguno interfiera en la mesa."],
-      "no_debes": ["Confundir tu rol de personero (representas a una organización) con el del observador (imparcial)."],
+      "puedes": [
+        "Coexistir con los observadores electorales en el local sin que ninguno interfiera en la mesa."
+      ],
+      "no_debes": [
+        "Confundir tu rol de personero (representas a una organización) con el del observador (imparcial)."
+      ],
       "incidencia": "",
       "confianza": "yellow"
     },
     {
       "id": "delitos-electorales",
       "categoria": "seguridad",
-      "keywords": ["delitos electorales", "que es delito el dia de la eleccion", "sanciones penales electorales", "retener el dni de un elector es delito", "adulterar actas es delito", "sustraer el anfora", "delito por impedir votar", "codigo penal delitos contra el sufragio"],
-      "sinonimos": ["delito", "penal", "codigo penal"],
+      "keywords": [
+        "delitos electorales",
+        "que es delito el dia de la eleccion",
+        "sanciones penales electorales",
+        "retener el dni de un elector es delito",
+        "adulterar actas es delito",
+        "sustraer el anfora",
+        "delito por impedir votar",
+        "codigo penal delitos contra el sufragio"
+      ],
+      "sinonimos": [
+        "delito",
+        "penal",
+        "codigo penal"
+      ],
       "respuesta": "Constituyen delitos electorales, entre otros: intentar conocer por quién vota un elector u obligarlo a votar por determinado candidato, obstruir los actos electorales o provocar desórdenes, y portar armas de cualquier clase durante los actos electorales aunque se tenga licencia —con decomiso del arma y cancelación de la licencia— (art. 382 de la LOE); que el presidente de mesa no remita las ánforas o las actas, interrumpir el acto electoral con violencia o amenaza (2 a 5 años si es en grupo), y despojar o retener el DNI de una persona para impedir que vote (art. 384 de la LOE); y votar con DNI ajeno o sin derecho de sufragio (art. 386 de la LOE). También son delitos, según el Código Penal, falsificar, destruir, ocultar o retener la 'Lista de electores', los DNI o las actas; y sustraer, destruir o sustituir ánforas o cédulas. El personero que detecte un posible delito debe dejar constancia, avisar a la PNP y al coordinador de la ODPE y trasladarlo a su personero legal para la denuncia.",
       "base_normativa": "Ley Orgánica de Elecciones (Ley 26859), arts. 382, 384 y 386. Código Penal, arts. 354-360 (delitos contra la voluntad popular).",
       "fuente": "LOE (Ley 26859), arts. 382, 384 y 386 (extracto en la base local: knowledge/LEYES/loe-26859-articulos-clave.txt) · ONPE — Cartilla de personeros ERM 2026, págs. 18-19.",
-      "puedes": ["Denunciar el hecho, pedir su registro en el acta y recurrir a la PNP y al coordinador de la ODPE."],
-      "no_debes": ["Enfrentar por tu cuenta situaciones de violencia ni manipular evidencia."],
+      "puedes": [
+        "Denunciar el hecho, pedir su registro en el acta y recurrir a la PNP y al coordinador de la ODPE."
+      ],
+      "no_debes": [
+        "Enfrentar por tu cuenta situaciones de violencia ni manipular evidencia."
+      ],
       "incidencia": "Documenta el hecho (qué, quiénes, mesa, local, hora), avisa a la PNP y a la ODPE y traslada todo a tu personero legal para la denuncia penal.",
       "confianza": "green"
     },
     {
       "id": "que-hago-si-me-equivoco-de-mesa",
       "categoria": "acreditacion",
-      "keywords": ["mi credencial tiene el numero de mesa equivocado", "error en mi credencial", "me acreditaron en otra mesa", "la credencial dice otro local", "error en el numero de mesa de la credencial", "mi credencial tiene datos mal"],
-      "sinonimos": ["error", "equivocado", "credencial"],
+      "keywords": [
+        "mi credencial tiene el numero de mesa equivocado",
+        "error en mi credencial",
+        "me acreditaron en otra mesa",
+        "la credencial dice otro local",
+        "error en el numero de mesa de la credencial",
+        "mi credencial tiene datos mal"
+      ],
+      "sinonimos": [
+        "error",
+        "equivocado",
+        "credencial"
+      ],
       "respuesta": "El personero de mesa solo puede ejercer en la mesa o mesas cuyo número figure en su credencial, y el de centro de votación en el local indicado en la suya. Si la credencial tiene un error en el número de mesa o el nombre del local, no puedes ejercer en una mesa distinta: hay que corregir la acreditación a través del personero legal, que puede reacreditar en el sistema Declara+ o acreditar directamente ante el presidente de mesa el día de la elección (para personeros de mesa) o ante el coordinador de la ODPE (para personeros de centro de votación).",
       "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), arts. 25, 26, 29 y 30.",
       "fuente": "JNE — Res. 0850-2025-JNE, arts. 26, 29 y 30 · ONPE — Cartilla de personeros ERM 2026, pág. 6.",
-      "puedes": ["Pedir a tu personero legal que corrija o reacredite tu credencial, incluso el mismo día ante el presidente de mesa."],
-      "no_debes": ["Ejercer en una mesa o local distinto al que figura en tu credencial."],
+      "puedes": [
+        "Pedir a tu personero legal que corrija o reacredite tu credencial, incluso el mismo día ante el presidente de mesa."
+      ],
+      "no_debes": [
+        "Ejercer en una mesa o local distinto al que figura en tu credencial."
+      ],
       "incidencia": "Si detectas el error el mismo día, contacta de inmediato a tu personero legal para la reacreditación directa.",
       "confianza": "green"
     },
     {
       "id": "plazos-impugnacion-apelacion",
       "categoria": "actas_observadas",
-      "keywords": ["plazos para apelar", "cuanto tiempo tengo para apelar", "plazo de apelacion ante el jne", "plazo para presentar nulidad", "3 dias calendario nulidad", "3 dias habiles apelacion", "plazo de la impugnacion", "hasta cuando puedo impugnar", "que plazos tengo despues de la eleccion", "plazo del personero legal para recursos"],
-      "sinonimos": ["plazo", "plazos", "apelacion", "apelar"],
+      "keywords": [
+        "plazos para apelar",
+        "cuanto tiempo tengo para apelar",
+        "plazo de apelacion ante el jne",
+        "plazo para presentar nulidad",
+        "3 dias calendario nulidad",
+        "3 dias habiles apelacion",
+        "plazo de la impugnacion",
+        "hasta cuando puedo impugnar",
+        "que plazos tengo despues de la eleccion",
+        "plazo del personero legal para recursos"
+      ],
+      "sinonimos": [
+        "plazo",
+        "plazos",
+        "apelacion",
+        "apelar"
+      ],
       "respuesta": "Plazos posteriores a la elección (personero legal): 1) Solicitud de nulidad de votación de mesa o de elecciones: se fundamenta por escrito ante el JEE, con la tasa, dentro de 3 días calendario contados desde el día siguiente de la elección; para la nulidad de mesa por hechos de la mesa, además, el pedido debe constar en el acta. 2) Apelación contra la resolución del JEE sobre actas observadas o sobre nulidad: 3 días hábiles desde la publicación de la resolución en el portal del JNE y el panel del JEE; el recurso lo firma el personero legal, con abogado colegiado hábil y la tasa. 3) El JNE resuelve la apelación de actas observadas en 3 días hábiles (previa audiencia pública) y la de nulidad en hasta 7 días calendario (audiencia pública). 4) Contra lo que resuelve el JNE no procede ningún recurso. 5) Tras el Acta de Proclamación de Resultados del Cómputo, solo cabe cuestionarla por sustento numérico (art. 364 LOE / art. 36 LEM), con apelación en 3 días hábiles.",
       "base_normativa": "Res. 0837-2025-JNE, art. 25. Res. 0838-2025-JNE, numerales 1.2, 2.2, 5, 6 y 7. Ley Orgánica de Elecciones (Ley 26859), arts. 35, 364 y 365. Ley de Elecciones Municipales (Ley 26864), art. 36.",
       "fuente": "JNE — Resoluciones N.° 0837-2025-JNE y N.° 0838-2025-JNE (textos en la base local: knowledge/JNE/res-0837-2025-jne.txt y res-0838-2025-jne.txt).",
-      "puedes": ["Preparar con anticipación el escrito, la tasa y la firma de abogado hábil: los plazos son perentorios y se cuentan desde la publicación o desde el día siguiente de la elección.", "Revisar la casilla electrónica y el portal del JNE para no perder el inicio del plazo."],
-      "no_debes": ["Confundir días hábiles (apelaciones) con días calendario (solicitud de nulidad).", "Presentar el recurso sin tasa o sin firma de abogado colegiado hábil: el JEE lo declara improcedente."],
+      "puedes": [
+        "Preparar con anticipación el escrito, la tasa y la firma de abogado hábil: los plazos son perentorios y se cuentan desde la publicación o desde el día siguiente de la elección.",
+        "Revisar la casilla electrónica y el portal del JNE para no perder el inicio del plazo."
+      ],
+      "no_debes": [
+        "Confundir días hábiles (apelaciones) con días calendario (solicitud de nulidad).",
+        "Presentar el recurso sin tasa o sin firma de abogado colegiado hábil: el JEE lo declara improcedente."
+      ],
       "incidencia": "Reúne en mesa la copia del acta y las constancias; entrégalas de inmediato a tu personero legal para que actúe dentro del plazo.",
       "confianza": "green"
     },
@@ -918,11 +2035,58 @@
       "id": "saludo",
       "categoria": "otros",
       "mostrar_confianza": false,
-      "keywords": ["hola", "buenas", "buenos dias", "buenas tardes", "buenas noches", "que tal", "hey", "hola que tal", "necesito ayuda", "me puedes ayudar", "en que me puedes ayudar", "que puedes hacer", "para que sirves", "que temas cubres", "sobre que puedo preguntar"],
+      "keywords": [
+        "hola",
+        "buenas",
+        "buenos dias",
+        "buenas tardes",
+        "buenas noches",
+        "que tal",
+        "hey",
+        "hola que tal",
+        "necesito ayuda",
+        "me puedes ayudar",
+        "en que me puedes ayudar",
+        "que puedes hacer",
+        "para que sirves",
+        "que temas cubres",
+        "sobre que puedo preguntar"
+      ],
       "respuesta": "Hola. Soy el Asistente del Personero ERM 2026. Respondo con base en la normativa oficial del JNE, la ONPE y el RENIEC. Puedo orientarte sobre: acreditación, tipos de personero y plazos; funciones y derechos del personero de mesa, de centro de votación, legal y técnico; instalación, sufragio y escrutinio; actas, copia del acta y tipos de acta; votos válidos, nulos, en blanco e impugnados; observaciones y reclamos; prohibiciones y retiro; nulidad de mesa, actas observadas y recuento; propaganda y neutralidad; seguridad y delitos electorales; segunda elección regional; y también temas del elector (DNI vencido, padrón, atención preferente, voto facultativo, multa por no votar) y del miembro de mesa (composición, compensación, multa). Escríbeme tu consulta con tus palabras (por ejemplo: \"¿se puede votar con DNI vencido?\" o \"¿hasta cuándo acredito a mis personeros?\").",
       "base_normativa": "",
       "fuente": "",
-      "puedes": ["Escribir tu pregunta con lenguaje natural.", "Usar los accesos rápidos o el módulo \"¿Qué hago si...?\"."],
+      "puedes": [
+        "Escribir tu pregunta con lenguaje natural.",
+        "Usar los accesos rápidos o el módulo \"¿Qué hago si...?\"."
+      ],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "segunda-vuelta-municipal",
+      "categoria": "cronograma",
+      "keywords": [
+        "hay segunda vuelta municipal",
+        "segunda vuelta para alcalde",
+        "balotaje municipal",
+        "el alcalde necesita el 30 por ciento",
+        "segunda eleccion municipal",
+        "gana el alcalde con mayoria simple",
+        "cuanto necesita el alcalde para ganar"
+      ],
+      "sinonimos": [
+        "balotaje",
+        "segunda eleccion",
+        "mayoria simple",
+        "cifra repartidora"
+      ],
+      "respuesta": "No. A diferencia de la elección regional (que exige al menos 30 % de votos válidos, o va a una segunda elección), en las elecciones municipales gana la alcaldía la lista que obtenga la votación más alta (mayoría simple), sin importar el porcentaje. No hay segunda vuelta municipal. Los regidores del Concejo Municipal se asignan entre las listas mediante el método de la Cifra Repartidora.",
+      "base_normativa": "Ley de Elecciones Municipales (Ley 26864), art. 23 (modificado por Ley 27734): el alcalde es el de la lista con la votación más alta, sin umbral mínimo. Art. 25 (cifra repartidora para regidores). Contraste: Ley de Elecciones Regionales (Ley 27683), art. 5 (umbral de 30 % y segunda elección regional) — ver [[segunda-eleccion-regional]].",
+      "fuente": "Ley N.° 26864, Ley de Elecciones Municipales, arts. 23 y 25 (texto en la base local: knowledge/LEYES/ley-26864-elecciones-municipales.txt).",
+      "puedes": [
+        "Aclarar que la segunda vuelta / umbral del 30 % aplica solo a la elección regional (gobernador/vicegobernador), no a la municipal."
+      ],
       "no_debes": [],
       "incidencia": "",
       "confianza": "green"

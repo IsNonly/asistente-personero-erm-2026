@@ -1,0 +1,1149 @@
+
+BANCO DE PREGUNTAS Y RESPUESTASPARA PERSONEROS - ERM 2026
+Coordinador distrital de personeros | Personero de centro de votación | Personero de mesa
+Elecciones Regionales y Municipales 2026Municipal Provincial Distrital
+Finalidad del documento
+Este banco está diseñado para resolver dudas frecuentes y casos prácticos que pueden presentarse durante la organización, acreditación, instalación, sufragio, escrutinio, manejo de actas, reporte de incidencias y defensa del voto. Está redactado como herramienta operativa para capacitaciones, simulacros y consulta rápida el día de la elección.
+Regla práctica central: Presencia + acta + evidencia + reporte inmediato = defensa efectiva del voto.
+Fuentes base: Cartilla de instrucciones para personeros - ERM 2026, Tipo 1 Municipal Provincial Distrital, ONPE; Ley N.° 26859, Ley Orgánica de Elecciones; Ley N.° 26864, Ley de Elecciones Municipales; Ley N.° 27683, Ley de Elecciones Regionales; Ley N.° 28094, Ley de Organizaciones Políticas; Resolución N.° 0850-2025-JNE, Reglamento sobre participación de personeros en procesos electorales; normas y reglamentos JNE aplicables a ERM 2026.
+ÍNDICE OPERATIVO
+1. Preguntas generales del proceso y sistema electoral
+2. Tipos de personeros, acreditación y requisitos
+3. Coordinador distrital de personeros
+4. Personero de centro de votación
+5. Personero de mesa: instalación
+6. Personero de mesa: sufragio e impugnación de identidad
+7. Escrutinio, votos, observaciones e impugnación de voto
+8. Acta electoral, fotografía y reporte inmediato
+9. Prohibiciones, conducta y delitos electorales
+10. Casos prácticos críticos
+11. Evaluación rápida de salida
+
+1. Preguntas generales del proceso y sistema electoral
+PREGUNTA 1
+¿Qué elecciones se realizarán el 4 de octubre de 2026?
+Respuesta operativa
+Se realizarán las Elecciones Regionales y Municipales 2026. En Lima Metropolitana se desarrollan la elección municipal provincial y la elección municipal distrital; en el Cercado de Lima se usa cédula municipal provincial, según el material de capacitación de ONPE.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, pp. 2 y 14
+
+PREGUNTA 2
+¿Qué autoridades se eligen en Lima Metropolitana?
+Respuesta operativa
+Se elige al alcalde metropolitano y a los regidores metropolitanos; además, en los distritos se elige al alcalde distrital y a los regidores distritales.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 2
+
+PREGUNTA 3
+¿Qué organismos intervienen en el proceso electoral?
+Respuesta operativa
+Intervienen principalmente JNE/JEE, ONPE/ODPE y Reniec. Para efectos prácticos: el JNE administra justicia electoral y emite reglamentos; el JEE resuelve controversias de su circunscripción; la ONPE organiza la jornada; la ODPE ejecuta la operación territorial; Reniec sustenta padrón e identificación.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Constitución / LOE / manual de capacitación
+
+PREGUNTA 4
+¿Por qué el personero debe conocer qué hace cada organismo electoral?
+Respuesta operativa
+Porque evita reclamar ante la autoridad equivocada. Por ejemplo, la coordinación de local y material corresponde a ONPE/ODPE; las controversias electorales, reconocimiento y determinados recursos corresponden al JNE/JEE.
+Dirigido a
+Todos
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 5
+¿Cuál es la regla más importante que debe recordar todo personero?
+Respuesta operativa
+Presencia + acta + evidencia + reporte inmediato = defensa efectiva del voto. Esta regla permite convertir la fiscalización en una defensa real, documentada y útil para la organización política.
+Dirigido a
+Todos
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 6
+¿Cuál es el horario de votación?
+Respuesta operativa
+La cartilla ONPE señala que la votación se llevará a cabo de 7:00 a. m. a 5:00 p. m.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 13
+
+PREGUNTA 7
+¿Qué significa que el voto nace en la mesa?
+Respuesta operativa
+Que la primera defensa del resultado ocurre en la mesa de sufragio: ahí se instala la mesa, votan los electores, se califican los votos, se llena el acta y se originan las observaciones e impugnaciones.
+Dirigido a
+Todos
+Base / fuente
+Manual de capacitación
+
+2. Tipos de personeros, acreditación y requisitos
+PREGUNTA 8
+¿Qué es un personero?
+Respuesta operativa
+Es el ciudadano acreditado por una organización política para representarla y defender sus intereses ante los organismos electorales durante el proceso electoral.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 3
+
+PREGUNTA 9
+¿Qué funciones generales cumple el personero?
+Respuesta operativa
+Vigila el desarrollo de la jornada electoral, actúa conforme a la normativa electoral, mantiene conducta respetuosa y comunica oportunamente observaciones e incidencias.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 3
+
+PREGUNTA 10
+¿Quiénes no pueden ser personeros?
+Respuesta operativa
+No pueden ser personeros: candidatos, miembros de mesa, funcionarios de organismos que integran el sistema electoral y efectivos en actividad de las Fuerzas Armadas y de la Policía Nacional del Perú.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 3
+
+PREGUNTA 11
+¿Cuáles son los dos tipos operativos de personeros que reconoce la cartilla para la jornada?
+Respuesta operativa
+La cartilla distingue al personero de centro de votación y al personero de mesa. Ambos representan a la misma organización política, pero cumplen funciones específicas y diferentes.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 4
+
+PREGUNTA 12
+¿Quién acredita al personero de centro de votación o de mesa?
+Respuesta operativa
+Lo acredita el personero legal inscrito en el Registro de Organizaciones Políticas o el personero legal acreditado ante el Jurado Electoral Especial.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Cartilla ONPE, pp. 5 y 6
+
+PREGUNTA 13
+¿Qué debe portar el personero el día de la elección?
+Respuesta operativa
+Debe portar DNI en físico y credencial impresa. En el caso del personero de centro debe figurar el nombre del local; en el personero de mesa debe figurar el número de la mesa o mesas en las que ejercerá funciones.
+Dirigido a
+Centro y mesa
+Base / fuente
+Cartilla ONPE, pp. 5 y 6
+
+PREGUNTA 14
+¿Puede un personero de mesa presentarse cuando la jornada ya empezó?
+Respuesta operativa
+Sí. Puede presentarse en cualquier momento de la jornada electoral, siempre que el número de mesa figure en su credencial.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 6
+
+PREGUNTA 15
+¿Puede acreditarse excepcionalmente un personero el mismo día?
+Respuesta operativa
+Sí, de manera excepcional, puede acreditarse el mismo día ante la mesa ya instalada, conforme a la normativa electoral. Debe coordinarse con el equipo legal o responsable de personeros.
+Dirigido a
+Coordinador distrital / Mesa
+Base / fuente
+Cartilla ONPE, p. 6
+
+PREGUNTA 16
+¿Un ciudadano acreditado como personero puede actuar como miembro de mesa?
+Respuesta operativa
+No. La cartilla precisa que si un ciudadano está acreditado como personero, no puede desempeñarse como miembro de mesa.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 13
+
+PREGUNTA 17
+¿Pueden acreditarse extranjeros como personeros?
+Respuesta operativa
+Sí, pero únicamente en Elecciones Municipales y siempre que cuenten con el documento de acreditación electoral emitido por Reniec.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Cartilla ONPE, p. 13
+
+PREGUNTA 18
+¿Puede un personero ejercer funciones distintas a las de su credencial?
+Respuesta operativa
+No. El personero solo puede ejercer las funciones correspondientes al tipo de acreditación que se le otorgó.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 13
+
+3. Coordinador distrital de personeros
+PREGUNTA 19
+¿Cuál es la función principal del coordinador distrital de personeros?
+Respuesta operativa
+Organizar la cobertura territorial de personeros, controlar credenciales, asignar responsables por local y mesa, centralizar reportes, resolver reemplazos y escalar incidencias al equipo legal.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 20
+¿Qué información mínima debe tener la matriz maestra de cobertura?
+Respuesta operativa
+Distrito, local de votación, dirección, número de mesa, cantidad de electores, personero titular, personero suplente, teléfono/WhatsApp, estado de credencial, hora de llegada, acta recibida, foto del acta e incidencias.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 21
+¿Qué debe priorizarse si no se cubre el 100% de mesas?
+Respuesta operativa
+Locales con mayor número de electores, zonas históricamente favorables, zonas de riesgo, mesas con liderazgos barriales activos y locales con antecedentes de incidencias.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 22
+¿Cómo debe organizarse la cadena de mando?
+Respuesta operativa
+Personero legal general, responsable legal electoral territorial, coordinador general de personeros, coordinadores zonales, coordinadores de centro de votación, personeros de mesa, equipo de actas/cómputo y equipo logístico.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 23
+¿Qué debe revisar antes de entregar credenciales?
+Respuesta operativa
+Que el nombre de la organización sea correcto, que los nombres y DNI del personero coincidan, que el tipo de personero y ámbito de actuación sean correctos, que la mesa/local figure cuando corresponda y que la credencial sea legible.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Manual de capacitación / Cartilla ONPE
+
+PREGUNTA 24
+¿Qué debe hacer si un personero titular falta el día de la elección?
+Respuesta operativa
+Activar de inmediato al suplente o personero de contingencia, verificar que esté acreditado y reportar el reemplazo al coordinador de local y al canal oficial.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 25
+¿Qué canal de comunicación debe implementar el coordinador distrital?
+Respuesta operativa
+Un canal oficial, único y ordenado para reportar instalación, incidencias, copia/foto de acta y resultados. Debe evitar que la información circule en varios grupos sin control.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 26
+¿Qué debe contener el reporte diario de control antes de la elección?
+Respuesta operativa
+Número de mesas cubiertas, personeros pendientes, credenciales faltantes, locales sin coordinador, materiales pendientes, teléfonos de emergencia y riesgos detectados.
+Dirigido a
+Coordinador distrital
+Base / fuente
+Manual de capacitación
+
+4. Personero de centro de votación
+PREGUNTA 27
+¿Qué es el personero de centro de votación?
+Respuesta operativa
+Es el representante de una organización política acreditado para ejercer funciones en un centro de votación durante la jornada electoral.
+Dirigido a
+Centro de votación
+Base / fuente
+Cartilla ONPE, p. 5
+
+PREGUNTA 28
+¿Ante quién se presenta el personero de centro de votación?
+Respuesta operativa
+Se presenta ante el coordinador de local de votación de la ODPE y muestra su DNI físico y su credencial impresa.
+Dirigido a
+Centro de votación
+Base / fuente
+Cartilla ONPE, p. 5
+
+PREGUNTA 29
+¿Qué debe figurar en la credencial del personero de centro?
+Respuesta operativa
+Debe figurar el nombre del local en el que ejercerá sus funciones.
+Dirigido a
+Centro de votación
+Base / fuente
+Cartilla ONPE, p. 5
+
+PREGUNTA 30
+¿Cuáles son sus actividades principales?
+Respuesta operativa
+Presenciar el desarrollo de la jornada en el centro de votación, coordinar con los personeros de mesa de su organización, mantener comunicación con el coordinador de local de la ODPE e informar oportunamente las incidencias que observe.
+Dirigido a
+Centro de votación
+Base / fuente
+Cartilla ONPE, p. 5
+
+PREGUNTA 31
+¿Puede un personero de centro estar acreditado en más de un local?
+Respuesta operativa
+Sí. La cartilla indica que el personero de centro puede ser acreditado en más de un local de sufragio.
+Dirigido a
+Centro de votación
+Base / fuente
+Cartilla ONPE, p. 5
+
+PREGUNTA 32
+¿Pueden dos personeros de centro de la misma organización actuar al mismo tiempo en un mismo local?
+Respuesta operativa
+No. Dos o más personeros de centro de una misma organización política no pueden ejercer funciones a la vez en un mismo local de sufragio.
+Dirigido a
+Centro de votación
+Base / fuente
+Cartilla ONPE, p. 5
+
+PREGUNTA 33
+¿El personero de centro reemplaza al personero de mesa?
+Respuesta operativa
+No. La cartilla señala expresamente que el personero de centro de votación no reemplaza al personero de mesa.
+Dirigido a
+Centro de votación
+Base / fuente
+Cartilla ONPE, p. 5
+
+PREGUNTA 34
+¿Qué debe hacer si detecta que una mesa no tiene personero?
+Respuesta operativa
+Debe reportarlo al coordinador distrital, activar suplente si existe, verificar la posibilidad de cobertura y priorizar las mesas de mayor importancia electoral.
+Dirigido a
+Centro de votación
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 35
+¿Qué debe hacer si no dejan ingresar a un personero de mesa?
+Respuesta operativa
+Verificar DNI y credencial, pedir intervención del coordinador de local ODPE, mantener conducta respetuosa, registrar hora, responsable y motivo, y reportar al equipo legal.
+Dirigido a
+Centro de votación
+Base / fuente
+Cartilla ONPE / Manual
+
+PREGUNTA 36
+¿Debe el personero de centro discutir con los miembros de mesa?
+Respuesta operativa
+No. Debe coordinar, reportar y canalizar incidencias; la intervención directa en mesa corresponde al personero de mesa acreditado.
+Dirigido a
+Centro de votación
+Base / fuente
+Cartilla ONPE / Reglamento
+
+5. Personero de mesa: instalación
+PREGUNTA 37
+¿Qué es el personero de mesa?
+Respuesta operativa
+Es el ciudadano acreditado que representa a una organización política ante una o más mesas de sufragio durante la jornada electoral.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 6
+
+PREGUNTA 38
+¿Qué hace el personero de mesa?
+Respuesta operativa
+Observa y fiscaliza las actividades de la mesa de sufragio en la que está acreditado, sin intervenir en las funciones de los miembros de mesa.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 6
+
+PREGUNTA 39
+¿Ante quién se presenta el personero de mesa?
+Respuesta operativa
+Se presenta ante el presidente de la mesa de sufragio y muestra su DNI físico y su credencial impresa.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 6
+
+PREGUNTA 40
+¿Qué debe contener la credencial del personero de mesa?
+Respuesta operativa
+Debe indicar el número de mesa o mesas en las que ejercerá funciones.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 6
+
+PREGUNTA 41
+¿Qué puede verificar durante la instalación?
+Respuesta operativa
+Puede verificar que la cámara secreta esté correctamente acondicionada, que la relación de electores esté en la entrada del aula y que el cartel de candidatos esté ubicado en la cámara secreta.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 7
+
+PREGUNTA 42
+¿Puede firmar las cédulas de sufragio?
+Respuesta operativa
+Sí. Durante la instalación, el personero de mesa puede firmar las cédulas de sufragio si lo desea.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 7
+
+PREGUNTA 43
+¿Puede firmar el acta de instalación?
+Respuesta operativa
+Sí. Puede firmarla si lo desea. La firma del personero es una facultad, no una obligación.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 7
+
+PREGUNTA 44
+¿Puede formular observaciones o reclamos sobre la instalación?
+Respuesta operativa
+Sí. Puede formular observaciones o reclamos sobre la instalación y pedir que se consignen en el acta correspondiente.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 7
+
+PREGUNTA 45
+¿Cuándo puede solicitar nulidad de mesa durante la instalación?
+Respuesta operativa
+Puede solicitarla en el supuesto del artículo 363 literal a de la LOE: cuando la mesa se instala en lugar distinto del señalado, en condiciones diferentes de las establecidas por ley o después del mediodía, siempre que carezca de justificación o impida el libre ejercicio del sufragio.
+Dirigido a
+Personero de mesa / Legal
+Base / fuente
+Cartilla ONPE, p. 7
+
+PREGUNTA 46
+¿Qué frase práctica puede usar para pedir constancia?
+Respuesta operativa
+“Señor presidente de mesa, solicito respetuosamente que esta incidencia quede consignada en el acta, indicando hora, hecho y mi observación como personero”.
+Dirigido a
+Personero de mesa
+Base / fuente
+Manual de capacitación
+
+6. Personero de mesa: sufragio e impugnación de identidad
+PREGUNTA 47
+¿Qué puede hacer el personero durante el sufragio?
+Respuesta operativa
+Puede presenciar el acto de sufragio, votar después de los miembros de mesa si le corresponde sufragar en esa mesa, impugnar identidad del elector cuando considere que no es quien dice ser, firmar la última página de la lista de electores si lo desea, firmar el acta de sufragio si lo desea y formular observaciones o reclamos.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 8
+
+PREGUNTA 48
+¿Puede el personero votar en la mesa donde está acreditado?
+Respuesta operativa
+Solo si le corresponde sufragar en esa mesa. En ese caso vota después de los miembros de mesa.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 8
+
+PREGUNTA 49
+¿Puede el personero ingresar a la cámara secreta con el elector?
+Respuesta operativa
+No. Los electores ingresan solos a la cámara secreta, salvo quienes requieran apoyo para votar, que pueden hacerlo con una persona de confianza sin influir en su decisión.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 8
+
+PREGUNTA 50
+¿Qué debe hacer ante un elector que requiere asistencia?
+Respuesta operativa
+Debe permitir el apoyo conforme a la regla de accesibilidad, observando que se respete la autonomía, privacidad y voluntad del elector, sin interferir ni discriminar.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, pp. 8 y 9
+
+PREGUNTA 51
+¿Qué es el Módulo Temporal de Votación?
+Respuesta operativa
+Es un módulo destinado a electores que tienen dificultad para desplazarse hasta su mesa por razones de movilidad o accesibilidad. El personero puede presenciar la votación en ese módulo respetando autonomía, privacidad y voluntad del elector.
+Dirigido a
+Personero de mesa / Centro
+Base / fuente
+Cartilla ONPE, p. 9
+
+PREGUNTA 52
+¿Quiénes reciben atención preferente?
+Respuesta operativa
+Adultos mayores, personas con discapacidad, gestantes y electores que acuden con niños. La atención debe garantizar trato digno, inclusivo y sin discriminación.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 9
+
+PREGUNTA 53
+¿Puede impedirse votar a una persona trans o no binaria si su expresión de género no coincide con su DNI?
+Respuesta operativa
+No. La cartilla indica que ello no será motivo para impedir su derecho al sufragio, conforme al protocolo aprobado por ONPE.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 13
+
+PREGUNTA 54
+¿Cuándo procede impugnar la identidad de un elector?
+Respuesta operativa
+Cuando el personero considera que el elector no es quien dice ser. Debe existir una razón objetiva; no debe usarse para demorar la votación ni hostigar electores.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 8 / Manual
+
+PREGUNTA 55
+¿Qué ocurre si la impugnación de identidad se declara infundada?
+Respuesta operativa
+El elector emite su voto y la decisión se registra en el Acta de sufragio.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 9
+
+PREGUNTA 56
+¿Qué ocurre si el personero apela la decisión sobre identidad?
+Respuesta operativa
+El elector emite su voto; la cédula y el DNI se colocan en el sobre de impugnación; el personero firma el sobre; el sobre se deposita en el ánfora como voto impugnado; y el elector recibe cargo de retención de DNI.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 9
+
+PREGUNTA 57
+¿Qué pasa si el personero no firma el sobre de impugnación de identidad?
+Respuesta operativa
+Se considera que desiste de la impugnación. El elector recupera su DNI y el presidente de mesa anota el hecho en el Acta de sufragio.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 9
+
+PREGUNTA 58
+¿Cuándo puede solicitarse nulidad durante el sufragio?
+Respuesta operativa
+Cuando se considere que los miembros de mesa ejercieron violencia o intimidación sobre electores para influir en la votación a favor de una organización política, supuesto del artículo 363 literal c de la LOE.
+Dirigido a
+Personero de mesa / Legal
+Base / fuente
+Cartilla ONPE, p. 8
+
+7. Escrutinio, votos, observaciones e impugnación de voto
+PREGUNTA 59
+¿Por qué el escrutinio es el momento más importante para el personero de mesa?
+Respuesta operativa
+Porque allí se leen los votos, se califican como válidos, nulos, blancos o impugnados, y se consigna el resultado en el acta. Si el personero no observa a tiempo, puede perder oportunidad efectiva de defensa.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, pp. 10-11 / Manual
+
+PREGUNTA 60
+¿Qué puede hacer durante el escrutinio?
+Respuesta operativa
+Puede presenciar la lectura de votos, examinar visualmente las cédulas leídas, impugnar votos, firmar el Acta de escrutinio si lo desea, formular observaciones o reclamos, solicitar un acta completa suscrita por miembros de mesa y verificar el repliegue de cédulas no impugnadas.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 10
+
+PREGUNTA 61
+¿Puede acercar su silla a la mesa durante el escrutinio?
+Respuesta operativa
+Sí. La cartilla indica que puede acercar su silla para observar el conteo de votos, siempre que no interfiera en las funciones de los miembros de mesa.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 13
+
+PREGUNTA 62
+¿Qué es un voto válido?
+Respuesta operativa
+Es el voto marcado con cruz (+) o aspa (x) cuyo cruce de líneas se encuentra dentro del recuadro del símbolo de una organización política. La marca puede ser tenue o remarcada si se identifica claramente como cruz o aspa.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 15
+
+PREGUNTA 63
+¿Un voto puede ser válido en una elección y nulo o blanco en otra?
+Respuesta operativa
+Sí. Cada columna de la cédula corresponde a una elección distinta; por ello, un voto puede ser válido en una elección y nulo o en blanco en otra.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 16
+
+PREGUNTA 64
+¿Qué es voto en blanco?
+Respuesta operativa
+Es el voto en el que una columna de la cédula no presenta ninguna marca en el recuadro de las organizaciones políticas.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 15
+
+PREGUNTA 65
+¿Cuándo es nulo un voto por marca fuera de recuadro?
+Respuesta operativa
+Cuando en una misma columna el cruce de líneas de la cruz o el aspa queda fuera del recuadro del símbolo.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 16
+
+PREGUNTA 66
+¿Cuándo es nulo por signo distinto?
+Respuesta operativa
+Cuando se utiliza un signo distinto de la cruz (+) o el aspa (x).
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 16
+
+PREGUNTA 67
+¿Cuándo es nulo por doble marca?
+Respuesta operativa
+Cuando se coloca la cruz o el aspa sobre el símbolo de más de una organización política dentro de una misma columna.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 16
+
+PREGUNTA 68
+¿Qué otros supuestos hacen nula la cédula?
+Respuesta operativa
+La cédula está rota; la cara externa no presenta firma del presidente de mesa; tiene nombre, firma o DNI del elector; muestra palabras, frases o signos ajenos al proceso electoral; o no fue entregada por la mesa de sufragio.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 16
+
+PREGUNTA 69
+¿Qué es impugnar un voto?
+Respuesta operativa
+Es reclamar cuando el personero considera que la decisión de la mesa sobre si el voto es válido, nulo o blanco afecta los intereses de la organización que representa.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 10
+
+PREGUNTA 70
+¿Qué ocurre si el personero impugna un voto?
+Respuesta operativa
+Los miembros de mesa resuelven inmediatamente la impugnación por mayoría de votos.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 11
+
+PREGUNTA 71
+¿Qué ocurre si la impugnación de voto se declara infundada?
+Respuesta operativa
+Se procede con el escrutinio de la cédula.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 11
+
+PREGUNTA 72
+¿Qué ocurre si el personero apela o si la impugnación se declara fundada?
+Respuesta operativa
+El voto se cuenta como voto impugnado; la cédula se guarda en sobre de impugnación; se completan datos del presidente para que firme; se solicita la firma del personero; el hecho se registra en Observaciones del Acta de escrutinio; y el sobre se guarda en el sobre celeste de plástico.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 11
+
+PREGUNTA 73
+¿Puede solicitarse nulidad durante el escrutinio?
+Respuesta operativa
+Sí, en el supuesto del artículo 363 literal d de la LOE: cuando se compruebe que la mesa permitió votar a personas que no figuraban en lista o impidió votar a quienes sí figuraban, en número suficiente para variar el resultado.
+Dirigido a
+Personero de mesa / Legal
+Base / fuente
+Cartilla ONPE, p. 11
+
+8. Acta electoral, fotografía y reporte inmediato
+PREGUNTA 74
+¿Puede el personero solicitar copia del Acta electoral?
+Respuesta operativa
+Sí. Durante el escrutinio puede solicitar un acta completa suscrita por los miembros de mesa; la cartilla también indica que si se presenta durante el escrutinio, puede solicitar copia del Acta electoral.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, pp. 10 y 13
+
+PREGUNTA 75
+¿Por qué el acta es el documento central de defensa del voto?
+Respuesta operativa
+Porque contiene los resultados oficiales de la mesa y las observaciones consignadas. Sin acta o foto legible, la organización pierde capacidad de verificar resultados y sustentar reclamos.
+Dirigido a
+Todos
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 76
+¿Qué debe revisar antes de cerrar el acta?
+Respuesta operativa
+Acta de instalación, sufragio y escrutinio completas; firmas de miembros de mesa; datos numéricos legibles; votos por organización; votos blancos, nulos e impugnados; total de votos emitidos; y observaciones consignadas si las hubo.
+Dirigido a
+Personero de mesa
+Base / fuente
+Manual / Cartilla p. 17
+
+PREGUNTA 77
+¿Cómo debe ser la foto correcta del acta?
+Respuesta operativa
+Completa, centrada, sin cortes, con buena iluminación, sin sombras ni flash que tape casillas, y debe mostrar número de mesa y todos los resultados.
+Dirigido a
+Personero de mesa
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 78
+¿Qué errores deben evitarse al fotografiar el acta?
+Respuesta operativa
+Foto inclinada, borrosa, con bordes cortados, con flash sobre casillas, parcial, enviada a grupos no oficiales o asumida como recibida sin confirmación.
+Dirigido a
+Personero de mesa
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 79
+¿Qué información mínima debe acompañar el envío del acta?
+Respuesta operativa
+Distrito, local, mesa, nombre del personero, hora de envío, votos de la organización, blancos, nulos, impugnados y si existe observación.
+Dirigido a
+Personero de mesa / Centro
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 80
+¿Qué debe hacer si el centro de cómputo le dice que la foto es ilegible?
+Respuesta operativa
+Tomar nueva foto completa y legible, reenviarla por el canal oficial y confirmar recepción. No debe abandonar el local hasta que el acta esté validada, salvo instrucción del coordinador.
+Dirigido a
+Personero de mesa
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 81
+¿Qué debe hacer si detecta error de suma antes del cierre?
+Respuesta operativa
+Solicitar revisión inmediata y corrección antes del cierre; si no se corrige, pedir que conste la observación en acta y reportar al coordinador.
+Dirigido a
+Personero de mesa
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 82
+¿Qué debe hacer si los miembros de mesa se niegan a consignar una observación?
+Respuesta operativa
+Mantener calma, repetir la solicitud respetuosamente, pedir apoyo del coordinador de local/personero de centro, registrar evidencia permitida y reportar al equipo legal.
+Dirigido a
+Personero de mesa / Centro
+Base / fuente
+Manual / Reglamento
+
+9. Prohibiciones, conducta y delitos electorales
+PREGUNTA 83
+¿Puede el personero conversar o discutir con electores o miembros de mesa?
+Respuesta operativa
+No. La cartilla prohíbe conversar o discutir con electores, miembros de mesa, otros personeros o cualquier actor electoral durante la jornada.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 84
+¿Puede preguntar al elector por quién votará o por quién votó?
+Respuesta operativa
+No. Está expresamente prohibido preguntar a los electores por quién votarán o por quién votaron.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 85
+¿Puede interrumpir el conteo de votos?
+Respuesta operativa
+No. Durante el escrutinio está prohibido interrumpir el conteo de votos. Debe observar y reclamar por el procedimiento correspondiente, sin obstaculizar.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 86
+¿Puede pedir revisión de decisiones tomadas cuando no estuvo presente?
+Respuesta operativa
+No. La cartilla prohíbe solicitar la revisión de decisiones adoptadas por la mesa cuando el personero no estuvo presente.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 87
+¿Puede actuar simultáneamente con otro personero de su organización en la misma mesa?
+Respuesta operativa
+No. Está prohibido actuar de manera simultánea con otro u otros personeros de la misma organización política en una misma mesa de sufragio.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 88
+¿Puede manipular material electoral?
+Respuesta operativa
+No. Está prohibido manipular cédulas, actas, ánfora o material electoral. El personero observa y fiscaliza, no ejecuta funciones de miembros de mesa.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 89
+¿Puede hacer proselitismo dentro del local de votación?
+Respuesta operativa
+No. Está prohibido manifestarse a favor o en contra de una organización política, candidato u opción sometida a consulta popular.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 90
+¿Puede impedir o tratar de dirigir el voto de los electores?
+Respuesta operativa
+No. Está prohibido impedir o tratar de dirigir el voto de los electores. La cartilla vincula esta conducta con la LOE, el Reglamento de Personeros y el Código Penal.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 91
+¿Qué puede pasar si el personero incumple las prohibiciones?
+Respuesta operativa
+Los tres miembros de mesa pueden disponer su retiro para garantizar el normal desarrollo de la jornada. La organización política puede reemplazarlo por otro personero debidamente acreditado.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 92
+¿Está permitido portar armas durante la jornada?
+Respuesta operativa
+No. La cartilla señala que durante la jornada no está permitido portar armas, aunque se tenga licencia.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 18
+
+PREGUNTA 93
+¿Qué conductas pueden constituir delito durante el sufragio?
+Respuesta operativa
+Interrumpir o intentar interrumpir el acto electoral mediante violencia o amenazas, y retener el DNI de un elector para impedir que ejerza su derecho al voto.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 18
+
+PREGUNTA 94
+¿Qué otros delitos electorales menciona la cartilla?
+Respuesta operativa
+Falsificar, destruir, ocultar, retener o desaparecer lista de electores, DNI o actas; sustraer, destruir o sustituir ánforas o cédulas; alterar resultados o impedir escrutinio; y despojar o retener indebidamente DNI para impedir votar.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 19
+
+PREGUNTA 95
+¿Cuál debe ser el código de conducta del personero?
+Respuesta operativa
+Actuar con respeto, serenidad, firmeza, imparcialidad, legalidad, autocontrol y reporte oportuno. Debe reportar hechos, no rumores.
+Dirigido a
+Todos
+Base / fuente
+Manual / Cartilla
+
+10. Casos prácticos críticos
+PREGUNTA 96
+Caso: el responsable del local dice que no puede ingresar porque la mesa ya se instaló. ¿Qué hago?
+Respuesta operativa
+Muestre DNI y credencial, indique que puede presentarse en cualquier momento si su mesa figura en la credencial, solicite apoyo del personero de centro/coordinador de local, registre hora y responsable, y reporte al equipo legal.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 6 / Manual
+
+PREGUNTA 97
+Caso: la mesa está instalada en un ambiente distinto al señalado. ¿Qué hago?
+Respuesta operativa
+Verifique si existe justificación y si afecta el libre ejercicio del sufragio. Si corresponde, formule observación y coordine con equipo legal por posible nulidad conforme al artículo 363 literal a de la LOE.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 7
+
+PREGUNTA 98
+Caso: la relación de electores no está en la entrada del aula. ¿Qué hago?
+Respuesta operativa
+Solicite respetuosamente que se coloque. Si no se corrige, pida que quede constancia como observación de instalación y reporte al coordinador.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 7
+
+PREGUNTA 99
+Caso: el cartel de candidatos no está en la cámara secreta. ¿Qué hago?
+Respuesta operativa
+Solicite que se ubique correctamente. Si no se atiende, formule observación en el acta de instalación y reporte.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 7
+
+PREGUNTA 100
+Caso: un elector entra acompañado sin aparente necesidad. ¿Qué hago?
+Respuesta operativa
+Observe con prudencia. Recuerde que la asistencia está permitida para quienes requieren apoyo. Si hay indicios de influencia indebida, solicite que se respete la autonomía del elector y pida constancia si corresponde.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, pp. 8-9
+
+PREGUNTA 101
+Caso: tengo duda sobre la identidad de un elector. ¿Qué hago?
+Respuesta operativa
+Impugne solo si existe fundamento razonable. Si la mesa declara infundada y decide apelar, siga el procedimiento: voto, sobre de impugnación, firma del personero, depósito en ánfora y cargo de retención de DNI.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 9
+
+PREGUNTA 102
+Caso: el elector es trans o no binario y no coincide su expresión de género con el DNI. ¿Puedo objetar?
+Respuesta operativa
+No por ese motivo. La cartilla señala que esa diferencia no impide el derecho al sufragio. Solo podría actuarse ante una inconsistencia objetiva de identidad no basada en expresión de género.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 13
+
+PREGUNTA 103
+Caso: se declara nulo un voto que considero válido. ¿Qué hago?
+Respuesta operativa
+Impugne inmediatamente el voto, explique brevemente por qué considera que la marca es válida y pida que se siga el procedimiento de impugnación. No espere al final del escrutinio.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, pp. 10-11
+
+PREGUNTA 104
+Caso: el voto tiene una cruz tenue dentro del recuadro. ¿Es válido?
+Respuesta operativa
+Sí, si se identifica claramente como cruz o aspa y el cruce de líneas está dentro del recuadro del símbolo. La marca puede ser tenue o remarcada.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 15
+
+PREGUNTA 105
+Caso: la marca cruza dos símbolos en la misma columna. ¿Qué corresponde?
+Respuesta operativa
+Corresponde voto nulo en esa columna, porque la cruz o aspa se colocó sobre el símbolo de más de una organización política.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 16
+
+PREGUNTA 106
+Caso: la cédula tiene el nombre o DNI del elector escrito. ¿Qué corresponde?
+Respuesta operativa
+Corresponde voto nulo, porque la cédula tiene escrito el nombre, firma o DNI del elector.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 16
+
+PREGUNTA 107
+Caso: la cédula no tiene firma del presidente de mesa en la cara externa. ¿Qué corresponde?
+Respuesta operativa
+La cartilla señala que el voto es nulo cuando la cara externa de la cédula no presenta la firma del presidente de mesa.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 16
+
+PREGUNTA 108
+Caso: detecto que el total de votos no coincide con los votos consignados. ¿Qué hago?
+Respuesta operativa
+Pida revisión inmediata antes del cierre. Si no se corrige, solicite que conste la observación en el acta y reporte con evidencia al coordinador.
+Dirigido a
+Personero de mesa
+Base / fuente
+Manual / Cartilla p. 17
+
+PREGUNTA 109
+Caso: no me entregan copia del acta. ¿Qué hago?
+Respuesta operativa
+Solicite respetuosamente el acta completa suscrita por los miembros de mesa, registre el hecho, pida apoyo del personero de centro y reporte al canal oficial.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, pp. 10 y 13
+
+PREGUNTA 110
+Caso: la foto del acta salió borrosa. ¿Qué hago?
+Respuesta operativa
+Tome una nueva foto completa y legible; verifique número de mesa, resultados y firmas; envíe por el canal oficial y confirme recepción.
+Dirigido a
+Personero de mesa
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 111
+Caso: otro personero discute y altera el orden. ¿Qué hago?
+Respuesta operativa
+No ingrese a la discusión. Mantenga conducta respetuosa, observe, pida constancia si afecta el acto electoral y reporte al coordinador de local.
+Dirigido a
+Personero de mesa / Centro
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 112
+Caso: alguien intenta presionar a un elector. ¿Qué hago?
+Respuesta operativa
+Reporte el hecho inmediatamente, solicite intervención de la autoridad correspondiente del local, documente con datos objetivos y pida constancia si afecta el sufragio.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 18
+
+PREGUNTA 113
+Caso: un elector con pase de voto rápido llega al aula. ¿Qué hago?
+Respuesta operativa
+Debe permitir que sufrague sin formar fila si pertenece a instituciones de servicio señaladas por la cartilla y presenta el pase correspondiente.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, p. 13
+
+PREGUNTA 114
+Caso: el personero necesita retirarse temporalmente. ¿Qué debe hacer?
+Respuesta operativa
+Debe informar al coordinador de local y asegurar reemplazo si corresponde. Nunca debe abandonar la mesa sin aviso, especialmente durante instalación, escrutinio o cierre de acta.
+Dirigido a
+Personero de mesa
+Base / fuente
+Manual / Código de conducta
+
+PREGUNTA 115
+Caso: me piden firmar un documento que no entiendo. ¿Qué hago?
+Respuesta operativa
+No firme ni acepte documentos que no entiende. Solicite explicación, tome nota y consulte inmediatamente con el coordinador o equipo legal.
+Dirigido a
+Todos
+Base / fuente
+Manual de capacitación
+
+11. Evaluación rápida de salida
+PREGUNTA 116
+¿Qué documento debe portar siempre el personero?
+Respuesta operativa
+DNI físico y credencial impresa vigente.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE
+
+PREGUNTA 117
+¿Cuál es el momento más crítico para observar votos?
+Respuesta operativa
+El escrutinio, voto por voto.
+Dirigido a
+Personero de mesa
+Base / fuente
+Cartilla ONPE, pp. 10-11
+
+PREGUNTA 118
+¿Qué debe hacer ante una incidencia?
+Respuesta operativa
+Pedir constancia, obtener evidencia permitida y reportar por el canal oficial.
+Dirigido a
+Todos
+Base / fuente
+Manual de capacitación
+
+PREGUNTA 119
+¿Puede preguntar al elector por su voto?
+Respuesta operativa
+No. Está prohibido y vulnera la neutralidad del acto electoral.
+Dirigido a
+Todos
+Base / fuente
+Cartilla ONPE, p. 12
+
+PREGUNTA 120
+¿Qué vale más: discutir o dejar constancia?
+Respuesta operativa
+Dejar constancia documentada y reportar.
+Dirigido a
+Todos
+Base / fuente
+Manual / Cartilla
+
+PREGUNTA 121
+¿Qué debe recordar antes de retirarse del local?
+Respuesta operativa
+Que el acta haya sido recibida, fotografiada, enviada y validada por el canal oficial de la organización.
+Dirigido a
+Personero de mesa / Centro
+Base / fuente
+Manual de capacitación
+
+ANEXO 1. Protocolos rápidos de actuación
+Protocolo ante impedimento de ingreso
+1. Mostrar DNI y credencial. 2. Pedir intervención del personero de centro o coordinador de local ODPE. 3. Registrar hora, nombre del responsable y motivo. 4. Mantener conducta respetuosa. 5. Reportar al equipo legal.
+Protocolo ante voto mal calificado
+1. Observar la cédula. 2. Intervenir inmediatamente. 3. Explicar brevemente la discrepancia. 4. Solicitar que se aplique el procedimiento de impugnación. 5. Verificar registro en observaciones cuando corresponda.
+Protocolo ante error de suma
+1. Revisar totales. 2. Comparar votos por organización, blancos, nulos e impugnados. 3. Pedir corrección antes del cierre. 4. Si no se corrige, pedir constancia. 5. Reportar con foto.
+Protocolo para foto de acta
+1. Foto completa. 2. Centrada. 3. Sin flash que tape casillas. 4. Con número de mesa visible. 5. Enviar por canal oficial. 6. Confirmar recepción.
+ANEXO 2. Frases útiles para el día de la elección
+Situación
+Frase sugerida
+Para acreditarse
+Buenos días, soy personero acreditado de la organización política. Presento mi DNI y credencial para actuar en esta mesa.
+Para pedir constancia
+Solicito respetuosamente que se deje constancia de esta observación en el acta, por favor.
+Para evitar conflicto
+No deseo interrumpir la mesa; solo solicito que se registre mi observación conforme corresponde.
+Para reportar
+Mesa ___, local ___, hora ___: incidencia descrita, evidencia adjunta, solicito orientación legal.
+Fuentes oficiales y normativas consultadas
+Oficina Nacional de Procesos Electorales - ONPE. Cartilla de instrucciones para personeros. Elecciones Regionales y Municipales 2026. Tipo 1: Municipal Provincial Distrital. Primera edición, agosto de 2026.
+Jurado Nacional de Elecciones. Resolución N.° 0850-2025-JNE, Reglamento sobre participación de personeros en procesos electorales.
+Ley N.° 26859, Ley Orgánica de Elecciones.
+Ley N.° 26864, Ley de Elecciones Municipales.
+Ley N.° 27683, Ley de Elecciones Regionales.
+Ley N.° 28094, Ley de Organizaciones Políticas.
+Código Penal peruano, delitos electorales aplicables según los supuestos referidos en la cartilla ONPE.
