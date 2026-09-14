@@ -165,35 +165,34 @@ export function findLocalAnswer(message, perfilId = null) {
   };
 }
 
-// Compone la respuesta con el formato RESPUESTA / BASE NORMATIVA / QUÉ PUEDES HACER /
-// QUÉ NO DEBES HACER / SI OCURRE UNA INCIDENCIA
+// Compone la respuesta en tono natural (sin encabezados en mayúsculas tipo
+// formulario): el texto va directo, y "base normativa"/"incidencia" se leen
+// como una frase, no como una etiqueta. Las listas de qué puedes/no debes
+// hacer sí llevan su propio renglón para que se puedan escanear rápido.
 function formatEntry(entry, loose = false) {
   const parts = [];
-  parts.push('RESPUESTA');
   parts.push(entry.respuesta);
 
   if (entry.base_normativa) {
     parts.push('');
-    parts.push('BASE NORMATIVA');
-    parts.push(entry.base_normativa);
+    parts.push(`Base normativa: ${entry.base_normativa}`);
   }
 
   if (Array.isArray(entry.puedes) && entry.puedes.length) {
     parts.push('');
-    parts.push('QUÉ PUEDES HACER');
+    parts.push('Qué puedes hacer:');
     parts.push(entry.puedes.map((x) => `✓ ${x}`).join('\n'));
   }
 
   if (Array.isArray(entry.no_debes) && entry.no_debes.length) {
     parts.push('');
-    parts.push('QUÉ NO DEBES HACER');
+    parts.push('Qué no debes hacer:');
     parts.push(entry.no_debes.map((x) => `✗ ${x}`).join('\n'));
   }
 
   if (entry.incidencia) {
     parts.push('');
-    parts.push('SI OCURRE UNA INCIDENCIA');
-    parts.push(entry.incidencia);
+    parts.push(`Si ocurre una incidencia: ${entry.incidencia}`);
   }
 
   if (loose) {
