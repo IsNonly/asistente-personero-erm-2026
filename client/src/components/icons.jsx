@@ -48,6 +48,17 @@ export function IconBook(props) {
   );
 }
 
+export function IconDocument(props) {
+  return (
+    <svg {...BASE} {...props}>
+      <path d="M6 3h9l4 4v14a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z" />
+      <path d="M15 3v4h4" />
+      <path d="M8.5 12h7" />
+      <path d="M8.5 16h7" />
+    </svg>
+  );
+}
+
 export function IconUser(props) {
   return (
     <svg {...BASE} {...props}>

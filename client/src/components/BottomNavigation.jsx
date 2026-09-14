@@ -1,9 +1,10 @@
 import { useLocation, useNavigate } from 'react-router-dom';
-import { IconHome, IconChat, IconBook } from './icons.jsx';
+import { IconHome, IconChat, IconDocument, IconBook } from './icons.jsx';
 
 const ITEMS = [
   { to: '/', label: 'Inicio', Icon: IconHome },
   { to: '/chat', label: 'Preguntar', Icon: IconChat },
+  { to: '/cartilla', label: 'Cartilla', Icon: IconDocument },
   { to: '/normativa', label: 'Normativa', Icon: IconBook },
 ];
 

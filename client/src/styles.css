@@ -616,6 +616,7 @@ select {
   align-items: center;
   gap: 12px;
   text-align: left;
+  text-decoration: none;
   box-shadow: var(--shadow-sm);
   font-size: 15px;
   font-weight: 600;
