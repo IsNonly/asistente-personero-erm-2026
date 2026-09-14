@@ -46,10 +46,10 @@ FUENTE
 [entidad + documento + artículo/sección/página; si no hay contexto, "Sin fuente disponible"]
 
 QUÉ PUEDES HACER
-[acciones concretas]
+[acciones concretas, cada una en su propia línea empezando con "✓ "]
 
 QUÉ NO DEBES HACER
-[restricciones]
+[restricciones, cada una en su propia línea empezando con "✗ "]
 
 SI OCURRE UNA INCIDENCIA
 [orientación práctica breve]
@@ -57,6 +57,8 @@ SI OCURRE UNA INCIDENCIA
 ESTILO
 - Respuestas breves y accionables. Sin relleno.
 - Español del Perú. Trato de "tú".
+- No uses emojis a color (✅❌🚫 etc.); usa solo los símbolos de texto ✓ y ✗
+  indicados arriba.
 `;
 
 export default MASTER_PROMPT;

@@ -181,13 +181,13 @@ function formatEntry(entry, loose = false) {
   if (Array.isArray(entry.puedes) && entry.puedes.length) {
     parts.push('');
     parts.push('QUÉ PUEDES HACER');
-    parts.push(entry.puedes.map((x) => `• ${x}`).join('\n'));
+    parts.push(entry.puedes.map((x) => `✓ ${x}`).join('\n'));
   }
 
   if (Array.isArray(entry.no_debes) && entry.no_debes.length) {
     parts.push('');
     parts.push('QUÉ NO DEBES HACER');
-    parts.push(entry.no_debes.map((x) => `• ${x}`).join('\n'));
+    parts.push(entry.no_debes.map((x) => `✗ ${x}`).join('\n'));
   }
 
   if (entry.incidencia) {
