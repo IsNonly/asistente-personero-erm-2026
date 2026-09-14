@@ -1,7 +1,6 @@
 import { useLocation } from 'react-router-dom';
 import Header from '../components/Header.jsx';
 import Chat from '../components/Chat.jsx';
-import DebugViewport from '../components/DebugViewport.jsx';
 import { usePersonero } from '../context/PersoneroContext.jsx';
 
 export default function ChatPage() {
@@ -11,7 +10,6 @@ export default function ChatPage() {
 
   return (
     <div className="chat-page">
-      <DebugViewport />
       <Header
         title="PREGUNTAR"
         subtitle={perfil ? `Asistente virtual para ${perfil.label}` : 'Asistente virtual para personeros'}

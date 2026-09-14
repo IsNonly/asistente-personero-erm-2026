@@ -449,6 +449,7 @@ select {
 
 /* Preguntas rápidas: scroll horizontal */
 .quick-questions {
+  position: relative;
   display: flex;
   gap: 8px;
   overflow-x: auto;
@@ -458,14 +459,44 @@ select {
   -webkit-overflow-scrolling: touch;
   background: var(--c-surface-2);
   border-top: 1px solid var(--c-border);
-  /* Difumina los bordes para que se note que hay más chips deslizando el dedo,
-     en vez de que el texto se vea cortado a la mitad. */
-  -webkit-mask-image: linear-gradient(to right, transparent, black 24px, black calc(100% - 40px), transparent);
-  mask-image: linear-gradient(to right, transparent, black 24px, black calc(100% - 40px), transparent);
+  /* Nunca deja una burbuja a la mitad: al soltar el dedo, el scroll "engancha"
+     al borde de la burbuja más cercana en vez de quedarse en cualquier punto. */
+  scroll-snap-type: x mandatory;
+  scroll-padding-left: 14px;
 }
 
 .quick-questions::-webkit-scrollbar {
   display: none;
+}
+
+/* Difumina de verdad el borde derecho (capa sólida que se funde con el fondo
+   de la barra, no solo opacidad) para que la burbuja siguiente se perciba
+   como "ahí hay más, desliza" y no como texto cortado y legible a la mitad. */
+.quick-questions::after,
+.quick-questions::before {
+  content: '';
+  position: absolute;
+  top: 1px;
+  bottom: 1px;
+  width: 56px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.quick-questions::after {
+  right: 0;
+  background: linear-gradient(to right, transparent, var(--c-surface-2) 75%);
+}
+
+.quick-questions::before {
+  left: 0;
+  background: linear-gradient(to left, transparent, var(--c-surface-2) 75%);
+}
+
+.quick-questions.can-scroll-right::after,
+.quick-questions.can-scroll-left::before {
+  opacity: 1;
 }
 
 .quick-questions__chip {
@@ -478,6 +509,7 @@ select {
   font-weight: 600;
   color: var(--c-primary);
   white-space: nowrap;
+  scroll-snap-align: start;
 }
 
 /* Barra inferior de escritura */
