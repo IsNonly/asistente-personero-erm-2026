@@ -127,8 +127,6 @@ export default function Chat({ seed }) {
         {busy && <MessageBubble message={{ id: 'typing', role: 'assistant', typing: true }} />}
       </div>
 
-      <QuickQuestions onPick={(q) => submit(q)} />
-
       <form
         className="composer"
         onSubmit={(e) => {
@@ -141,7 +139,7 @@ export default function Chat({ seed }) {
           className="composer__input"
           rows={1}
           enterKeyHint="send"
-          placeholder="Escribe tu pregunta aquí…"
+          placeholder="¿Tienes alguna consulta? Escríbela…"
           value={input}
           onChange={(e) => {
             setInput(e.target.value);
@@ -158,6 +156,8 @@ export default function Chat({ seed }) {
           ➤
         </button>
       </form>
+
+      <QuickQuestions onPick={(q) => submit(q)} />
     </div>
   );
 }

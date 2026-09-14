@@ -498,6 +498,12 @@ select {
   border-color: var(--c-primary-light);
 }
 
+.composer__input::placeholder {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .composer__send {
   width: 44px;
   height: 44px;
