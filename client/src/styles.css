@@ -401,6 +401,19 @@ select {
   border-bottom-left-radius: 6px;
 }
 
+.line-mark {
+  font-weight: 700;
+  margin-right: 2px;
+}
+
+.line-mark--ok {
+  color: var(--c-green);
+}
+
+.line-mark--bad {
+  color: var(--c-red);
+}
+
 .bubble--user {
   background: var(--c-primary);
   color: #fff;

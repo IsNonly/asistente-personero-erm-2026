@@ -8,6 +8,28 @@ const CONFIDENCE_TEXT = {
   red: 'No se encontró fundamento suficiente',
 };
 
+// Pinta en verde el "✓" de lo que sí puedes hacer y en rojo la "✗" de lo que no,
+// sin tocar el resto del texto de la línea.
+function renderLine(line, key) {
+  if (line.startsWith('✓ ')) {
+    return (
+      <div key={key}>
+        <span className="line-mark line-mark--ok">✓</span>
+        {line.slice(1)}
+      </div>
+    );
+  }
+  if (line.startsWith('✗ ')) {
+    return (
+      <div key={key}>
+        <span className="line-mark line-mark--bad">✗</span>
+        {line.slice(1)}
+      </div>
+    );
+  }
+  return <div key={key}>{line || ' '}</div>;
+}
+
 const MessageBubble = forwardRef(function MessageBubble({ message }, ref) {
   const isUser = message.role === 'user';
 
@@ -22,7 +44,7 @@ const MessageBubble = forwardRef(function MessageBubble({ message }, ref) {
   return (
     <div className={`bubble-row ${isUser ? 'bubble-row--user' : ''}`} ref={ref}>
       <div className={`bubble ${isUser ? 'bubble--user' : 'bubble--assistant'}`}>
-        <div>{message.text}</div>
+        <div>{message.text.split('\n').map(renderLine)}</div>
 
         {!isUser && message.classification && (
           <span className="chip-class">
