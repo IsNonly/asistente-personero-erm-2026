@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router-dom';
 
-export default function Header({ title = 'ASISTENTE DEL PERSONERO', subtitle, showBack = false }) {
+export default function Header({ title = 'ASISTENTE DEL PERSONERO', subtitle, showBack = false, onBack }) {
   const navigate = useNavigate();
   return (
     <header className="app-header">
@@ -8,7 +8,7 @@ export default function Header({ title = 'ASISTENTE DEL PERSONERO', subtitle, sh
         {showBack && (
           <button
             className="app-header__back"
-            onClick={() => navigate(-1)}
+            onClick={() => (onBack ? onBack() : navigate(-1))}
             aria-label="Volver"
           >
             ‹

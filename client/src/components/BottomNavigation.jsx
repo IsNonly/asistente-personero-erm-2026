@@ -1,11 +1,10 @@
 import { useLocation, useNavigate } from 'react-router-dom';
-import { IconHome, IconChat, IconBook, IconUser } from './icons.jsx';
+import { IconHome, IconChat, IconBook } from './icons.jsx';
 
 const ITEMS = [
   { to: '/', label: 'Inicio', Icon: IconHome },
   { to: '/chat', label: 'Preguntar', Icon: IconChat },
   { to: '/normativa', label: 'Normativa', Icon: IconBook },
-  { to: '/perfil', label: 'Mi perfil', Icon: IconUser },
 ];
 
 export default function BottomNavigation() {

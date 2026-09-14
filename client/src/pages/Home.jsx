@@ -5,7 +5,7 @@ import { usePersonero } from '../context/PersoneroContext.jsx';
 
 export default function Home() {
   const navigate = useNavigate();
-  const { perfil } = usePersonero();
+  const { perfil, clearPerfil } = usePersonero();
 
   function go(item) {
     if (item.seed) {
@@ -17,7 +17,11 @@ export default function Home() {
 
   return (
     <>
-      <Header title={perfil ? perfil.label.toUpperCase() : undefined} />
+      <Header
+        title={perfil ? perfil.label.toUpperCase() : undefined}
+        showBack={Boolean(perfil)}
+        onBack={clearPerfil}
+      />
       <div className="screen">
         <h2 className="hero-question">¿En qué podemos ayudarte?</h2>
         <p className="muted">Elige un acceso rápido o abre el chat para escribir tu consulta.</p>

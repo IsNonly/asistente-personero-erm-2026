@@ -5,7 +5,6 @@ import Home from './pages/Home.jsx';
 import ChatPage from './pages/ChatPage.jsx';
 import Incidents from './pages/Incidents.jsx';
 import Normativa from './pages/Normativa.jsx';
-import Profile from './pages/Profile.jsx';
 import QueHagoSi from './pages/QueHagoSi.jsx';
 import ModoJornada from './pages/ModoJornada.jsx';
 import { usePersonero } from './context/PersoneroContext.jsx';
@@ -24,7 +23,6 @@ export default function App() {
         <Route path="/incidencias" element={<Incidents />} />
         <Route path="/normativa" element={<Normativa />} />
         <Route path="/jornada" element={<ModoJornada />} />
-        <Route path="/perfil" element={<Profile />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
 

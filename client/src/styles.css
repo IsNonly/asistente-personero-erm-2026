@@ -705,21 +705,6 @@ select {
 }
 
 /* ---------- Perfil ---------- */
-.profile-badge {
-  background: var(--c-surface);
-  border: 1px solid var(--c-border);
-  border-radius: var(--radius);
-  padding: 18px;
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  box-shadow: var(--shadow-sm);
-}
-
-.profile-badge__icon {
-  font-size: 34px;
-}
-
 /* ---------- Navegación inferior ---------- */
 .bottom-nav {
   position: fixed;
