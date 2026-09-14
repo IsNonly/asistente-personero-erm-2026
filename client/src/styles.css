@@ -463,7 +463,16 @@ select {
   scrollbar-width: none;
   -webkit-overflow-scrolling: touch;
   background: var(--c-surface-2);
-  border-top: 1px solid var(--c-border);
+  /* Borde completo (no solo arriba) y más marcado: algunos navegadores
+     (p. ej. Samsung Internet) invierten colores en modo oscuro ignorando
+     por completo la señal estándar para evitarlo, y aplanan fondos
+     parecidos entre sí (la franja gris clara y el fondo de la página
+     terminan verse casi iguales). Un borde bien definido sigue marcando
+     la "caja" de la franja aunque eso pase. */
+  border: 1px solid var(--c-primary-light);
+  border-radius: var(--radius);
+  margin-left: 10px;
+  margin-right: 10px;
   /* Nunca deja una burbuja a la mitad: al soltar el dedo, el scroll "engancha"
      al borde de la burbuja más cercana en vez de quedarse en cualquier punto. */
   scroll-snap-type: x mandatory;
