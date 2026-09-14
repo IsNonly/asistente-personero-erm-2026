@@ -41,7 +41,7 @@ router.post('/', async (req, res, next) => {
     const categoria = classify(text);
 
     // 1) Base de respuestas local con fundamento oficial (no requiere IA).
-    const local = findLocalAnswer(text);
+    const local = findLocalAnswer(text, perfil || null);
     if (local) {
       return res.json({
         answer: local.answer,

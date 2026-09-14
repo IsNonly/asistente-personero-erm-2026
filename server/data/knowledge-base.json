@@ -269,7 +269,10 @@
         "Intervenir en las funciones de los miembros de mesa ni manipular el material electoral."
       ],
       "incidencia": "Registra por escrito ante la mesa cualquier hecho que consideres irregular; si no lo registran, deja constancia y comunica a tu personero legal.",
-      "confianza": "green"
+      "confianza": "green",
+      "perfiles": [
+        "personero_mesa"
+      ]
     },
     {
       "id": "derechos-instalacion",
@@ -1603,7 +1606,14 @@
         "personero de centro de votacion coordina",
         "el personero de centro de votacion puede entrar a las aulas",
         "diferencia personero de local y personero de mesa",
-        "personero de centro de votacion conductas prohibidas"
+        "personero de centro de votacion conductas prohibidas",
+        "mis funciones",
+        "mis derechos",
+        "cuales son mis derechos",
+        "cuales son mis funciones",
+        "que derechos tengo",
+        "que puedo hacer como personero",
+        "funciones y derechos"
       ],
       "sinonimos": [
         "centro de votacion",
@@ -1619,7 +1629,10 @@
         "Reemplazar a un personero de mesa o ingresar a ejercer funciones propias de la mesa."
       ],
       "incidencia": "Centraliza las incidencias que te reporten los personeros de mesa y trasládalas al coordinador de local de la ODPE y a tu personero legal.",
-      "confianza": "green"
+      "confianza": "green",
+      "perfiles": [
+        "personero_local"
+      ]
     },
     {
       "id": "coordinador-odpe",
@@ -2090,6 +2103,78 @@
       "no_debes": [],
       "incidencia": "",
       "confianza": "green"
+    },
+    {
+      "id": "funciones-coordinador-zonal",
+      "categoria": "deberes",
+      "keywords": [
+        "mis funciones",
+        "mis derechos",
+        "cuales son mis derechos",
+        "cuales son mis funciones",
+        "que derechos tengo",
+        "que puedo hacer como personero",
+        "funciones y derechos",
+        "funciones del coordinador zonal",
+        "que hace el coordinador zonal",
+        "rol del coordinador zonal de personeros"
+      ],
+      "sinonimos": [
+        "zona",
+        "despliegue"
+      ],
+      "respuesta": "Como coordinador zonal de personeros, tu función es articular los locales de votación de tu zona: mantienes contacto directo con los personeros de centro de votación y de mesa que operan ahí, organizas el despliegue del día de la elección (quién cubre cada local) y escalas al coordinador distrital las incidencias que no puedas resolver a tu nivel. Eres el enlace entre lo que pasa en cada local de tu zona y la coordinación distrital.",
+      "base_normativa": "Rol operativo interno del equipo de personeros de la organización política; no es un cargo regulado por el JNE ni la ONPE.",
+      "fuente": "Definición operativa del equipo de personeros (estructura mesa → local → zonal → distrital).",
+      "puedes": [
+        "Coordinar directamente con los personeros de centro de votación y de mesa de tu zona.",
+        "Organizar el despliegue de personeros el día de la elección dentro de tu zona.",
+        "Escalar al coordinador distrital las incidencias que superen tu nivel."
+      ],
+      "no_debes": [
+        "Reemplazar tú mismo a un personero de mesa o de centro de votación."
+      ],
+      "incidencia": "Si un local de tu zona se queda sin cobertura de personeros, activa un reemplazo si lo tienes disponible y repórtalo de inmediato al coordinador distrital.",
+      "confianza": "green",
+      "perfiles": [
+        "coordinador_zonal"
+      ]
+    },
+    {
+      "id": "funciones-coordinador-distrital",
+      "categoria": "deberes",
+      "keywords": [
+        "mis funciones",
+        "mis derechos",
+        "cuales son mis derechos",
+        "cuales son mis funciones",
+        "que derechos tengo",
+        "que puedo hacer como personero",
+        "funciones y derechos",
+        "funciones del coordinador distrital",
+        "que hace el coordinador distrital",
+        "rol del coordinador distrital de personeros"
+      ],
+      "sinonimos": [
+        "distrito",
+        "cobertura territorial"
+      ],
+      "respuesta": "Como coordinador distrital de personeros, tu función principal es organizar la cobertura territorial de personeros del distrito: controlas las credenciales, asignas responsables por local y mesa, centralizas los reportes de todos los locales, resuelves reemplazos cuando falta un personero y escalas las incidencias al equipo legal de tu organización. Debes implementar un canal de comunicación oficial y único (no varios grupos sueltos) para recibir instalación, incidencias, copia o foto de actas y resultados de cada mesa de tu distrito.",
+      "base_normativa": "Rol operativo interno del equipo de personeros de la organización política; no es un cargo regulado por el JNE ni la ONPE.",
+      "fuente": "Banco de Preguntas y Respuestas para Personeros ERM 2026, preguntas 19 y 25 (documento de capacitación de la organización, no es norma oficial JNE/ONPE).",
+      "puedes": [
+        "Asignar y reemplazar personeros de mesa o de centro de votación en tu distrito.",
+        "Centralizar en un solo canal oficial los reportes de todos los locales de tu distrito.",
+        "Escalar al equipo legal las incidencias que requieran una denuncia o recurso formal."
+      ],
+      "no_debes": [
+        "Dejar que la información circule en varios grupos o canales sin control."
+      ],
+      "incidencia": "Si una mesa se queda sin personero, actívalo desde tu equipo de suplentes y prioriza las mesas de mayor importancia electoral.",
+      "confianza": "green",
+      "perfiles": [
+        "coordinador_distrital"
+      ]
     }
   ]
 }

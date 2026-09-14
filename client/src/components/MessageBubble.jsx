@@ -1,3 +1,4 @@
+import { forwardRef } from 'react';
 import SourceCard from './SourceCard.jsx';
 import { CATEGORIA_LABEL } from '../data/categorias.js';
 
@@ -7,19 +8,19 @@ const CONFIDENCE_TEXT = {
   red: 'No se encontró fundamento suficiente',
 };
 
-export default function MessageBubble({ message }) {
+const MessageBubble = forwardRef(function MessageBubble({ message }, ref) {
   const isUser = message.role === 'user';
 
   if (message.typing) {
     return (
-      <div className="bubble-row">
+      <div className="bubble-row" ref={ref}>
         <div className="bubble bubble--assistant bubble--typing">Escribiendo…</div>
       </div>
     );
   }
 
   return (
-    <div className={`bubble-row ${isUser ? 'bubble-row--user' : ''}`}>
+    <div className={`bubble-row ${isUser ? 'bubble-row--user' : ''}`} ref={ref}>
       <div className={`bubble ${isUser ? 'bubble--user' : 'bubble--assistant'}`}>
         <div>{message.text}</div>
 
@@ -39,4 +40,6 @@ export default function MessageBubble({ message }) {
       </div>
     </div>
   );
-}
+});
+
+export default MessageBubble;

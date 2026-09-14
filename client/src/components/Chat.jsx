@@ -25,6 +25,8 @@ export default function Chat({ seed }) {
   const scrollRef = useRef(null);
   const inputRef = useRef(null);
   const seededRef = useRef(false);
+  const lastMessageRef = useRef(null);
+  const wasBusyRef = useRef(false);
 
   // Autoajusta la altura del área de texto según lo que se escribe.
   function autoGrow(el) {
@@ -35,7 +37,19 @@ export default function Chat({ seed }) {
 
   useEffect(() => {
     const el = scrollRef.current;
-    if (el) el.scrollTop = el.scrollHeight;
+    if (!el) return;
+
+    if (busy) {
+      // Esperando respuesta: bajar para que se vea "Escribiendo…".
+      el.scrollTop = el.scrollHeight;
+    } else if (wasBusyRef.current && lastMessageRef.current) {
+      // La respuesta acaba de llegar: mostrarla desde su inicio, no desde el final,
+      // para que se pueda leer de arriba hacia abajo sin tener que subir el scroll.
+      el.scrollTop = Math.max(lastMessageRef.current.offsetTop - 8, 0);
+    } else {
+      el.scrollTop = el.scrollHeight;
+    }
+    wasBusyRef.current = busy;
   }, [messages, busy]);
 
   useEffect(() => {
@@ -90,8 +104,12 @@ export default function Chat({ seed }) {
   return (
     <div className="chat">
       <div className="chat__scroll" ref={scrollRef}>
-        {messages.map((m) => (
-          <MessageBubble key={m.id} message={m} />
+        {messages.map((m, i) => (
+          <MessageBubble
+            key={m.id}
+            message={m}
+            ref={i === messages.length - 1 ? lastMessageRef : null}
+          />
         ))}
         {busy && <MessageBubble message={{ id: 'typing', role: 'assistant', typing: true }} />}
       </div>

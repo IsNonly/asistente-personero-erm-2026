@@ -111,9 +111,14 @@ function scoreEntry(entry, qNorm, qTokens) {
 }
 
 /**
+ * @param {string} message
+ * @param {string|null} [perfilId] - perfil activo de la sesión (personero_mesa, etc.).
+ *   Las entradas con campo `perfiles` solo se consideran si el perfil activo está
+ *   en esa lista (así "mis funciones" responde con el rol correcto y no con el de
+ *   otro perfil). Si no se pasa perfilId, esas entradas no se excluyen.
  * @returns {null | {answer, base_normativa, fuente, confidence, classification, matchId, matchScore, loose}}
  */
-export function findLocalAnswer(message) {
+export function findLocalAnswer(message, perfilId = null) {
   const qNorm = applySynonyms(normalize(message));
   const qTokens = tokenize(qNorm);
   if (!qNorm || qTokens.length === 0) return null;
@@ -122,6 +127,9 @@ export function findLocalAnswer(message) {
   let bestS = { total: 0, phrase: 0, overlap: 0 };
 
   for (const entry of KB.entradas) {
+    if (perfilId && Array.isArray(entry.perfiles) && !entry.perfiles.includes(perfilId)) {
+      continue; // entrada específica de otro perfil
+    }
     const s = scoreEntry(entry, qNorm, qTokens);
     if (s.total > bestS.total) {
       bestS = s;
