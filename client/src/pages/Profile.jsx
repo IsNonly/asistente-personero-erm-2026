@@ -1,9 +1,8 @@
 import Header from '../components/Header.jsx';
-import { PERSONEROS } from '../data/personeros.js';
 import { usePersonero } from '../context/PersoneroContext.jsx';
 
 export default function Profile() {
-  const { perfil, setPerfil, clearPerfil } = usePersonero();
+  const { perfil, clearPerfil } = usePersonero();
 
   return (
     <>
@@ -20,22 +19,8 @@ export default function Profile() {
           <p className="center-hint">No has seleccionado un perfil.</p>
         )}
 
-        <div className="section-title">Cambiar perfil</div>
-        <div className="stack">
-          {PERSONEROS.map((p) => (
-            <button
-              key={p.id}
-              className={`option-item ${perfil?.id === p.id ? '' : ''}`}
-              onClick={() => setPerfil(p.id)}
-            >
-              <span>{p.label}</span>
-              {perfil?.id === p.id && <span className="option-item__chevron">✓</span>}
-            </button>
-          ))}
-        </div>
-
-        <button className="btn btn--block btn--ghost" style={{ marginTop: 16 }} onClick={clearPerfil}>
-          Borrar perfil de la sesión
+        <button className="btn btn--block btn--accent" style={{ marginTop: 16 }} onClick={clearPerfil}>
+          Cambiar de perfil
         </button>
 
         <p className="muted" style={{ marginTop: 16 }}>
