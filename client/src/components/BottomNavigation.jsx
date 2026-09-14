@@ -1,11 +1,12 @@
 import { useLocation, useNavigate } from 'react-router-dom';
+import { IconHome, IconChat, IconAlert, IconBook, IconUser } from './icons.jsx';
 
 const ITEMS = [
-  { to: '/', label: 'Inicio' },
-  { to: '/chat', label: 'Preguntar' },
-  { to: '/incidencias', label: 'Incidencias' },
-  { to: '/normativa', label: 'Normativa' },
-  { to: '/perfil', label: 'Mi perfil' },
+  { to: '/', label: 'Inicio', Icon: IconHome },
+  { to: '/chat', label: 'Preguntar', Icon: IconChat },
+  { to: '/incidencias', label: 'Incidencias', Icon: IconAlert },
+  { to: '/normativa', label: 'Normativa', Icon: IconBook },
+  { to: '/perfil', label: 'Mi perfil', Icon: IconUser },
 ];
 
 export default function BottomNavigation() {
@@ -24,6 +25,7 @@ export default function BottomNavigation() {
             onClick={() => navigate(item.to)}
             aria-current={active ? 'page' : undefined}
           >
+            <item.Icon className="bottom-nav__icon" />
             <span>{item.label}</span>
           </button>
         );
