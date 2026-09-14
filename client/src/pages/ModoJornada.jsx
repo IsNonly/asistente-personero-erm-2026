@@ -7,7 +7,7 @@ export default function ModoJornada() {
 
   return (
     <>
-      <Header title="MODO JORNADA ELECTORAL" subtitle={JORNADA_FECHA} showBack />
+      <Header title="MOMENTOS DE LA JORNADA ELECTORAL" subtitle={JORNADA_FECHA} showBack />
       <div className="screen">
         <p className="muted" style={{ marginTop: 12 }}>
           Accesos directos para usar durante la jornada. Toca una etapa para abrir la guía.

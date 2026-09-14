@@ -37,7 +37,7 @@ export default function Home() {
 
         <div className="section-title">Jornada electoral</div>
         <button className="btn btn--block btn--accent" onClick={() => navigate('/jornada')}>
-          Modo Jornada Electoral — 4 de octubre de 2026
+          Momentos de la Jornada Electoral — 4 de octubre de 2026
         </button>
       </div>
     </>
