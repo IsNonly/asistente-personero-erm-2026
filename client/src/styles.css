@@ -78,7 +78,7 @@ select {
   width: 100%;
   max-width: var(--shell-width);
   margin: 0 auto;
-  min-height: 100dvh;
+  min-height: 100svh;
   background: var(--c-bg);
   position: relative;
   display: flex;
@@ -336,7 +336,11 @@ select {
 /* Pantalla de chat: columna a altura completa del viewport.
    Así la barra de escritura queda SIEMPRE visible sobre la navegación. */
 .chat-page {
-  height: 100dvh;
+  /* svh (viewport "pequeño") en vez de dvh: en varios navegadores móviles
+     dvh no se achica cuando la barra de direcciones está visible, y el
+     contenido de más abajo (preguntas rápidas) queda fuera de la pantalla
+     real aunque el cálculo "en el papel" cierre bien. */
+  height: 100svh;
   display: flex;
   flex-direction: column;
   overflow: hidden;
