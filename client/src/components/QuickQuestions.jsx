@@ -26,23 +26,26 @@ export default function QuickQuestions({ onPick }) {
   }, []);
 
   return (
-    <div
-      className={`quick-questions ${canLeft ? 'can-scroll-left' : ''} ${canRight ? 'can-scroll-right' : ''}`}
-      ref={scrollRef}
-      role="list"
-      aria-label="Preguntas rápidas"
-    >
-      {QUICK_QUESTIONS.map((q) => (
-        <button
-          key={q}
-          type="button"
-          role="listitem"
-          className="quick-questions__chip"
-          onClick={() => onPick(q)}
-        >
-          {q}
-        </button>
-      ))}
-    </div>
+    <>
+      <div className="quick-questions__title">Preguntas frecuentes</div>
+      <div
+        className={`quick-questions ${canLeft ? 'can-scroll-left' : ''} ${canRight ? 'can-scroll-right' : ''}`}
+        ref={scrollRef}
+        role="list"
+        aria-label="Preguntas rápidas"
+      >
+        {QUICK_QUESTIONS.map((q) => (
+          <button
+            key={q}
+            type="button"
+            role="listitem"
+            className="quick-questions__chip"
+            onClick={() => onPick(q)}
+          >
+            {q}
+          </button>
+        ))}
+      </div>
+    </>
   );
 }

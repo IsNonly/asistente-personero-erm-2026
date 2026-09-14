@@ -453,6 +453,15 @@ select {
 }
 
 /* Preguntas rápidas: scroll horizontal */
+.quick-questions__title {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--c-text-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin: 10px 14px 6px;
+}
+
 .quick-questions {
   position: relative;
   display: flex;
