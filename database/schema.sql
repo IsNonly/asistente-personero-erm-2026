@@ -52,7 +52,7 @@ CREATE INDEX IF NOT EXISTS idx_chunks_document ON document_chunks(document_id);
 CREATE TABLE IF NOT EXISTS questions (
   id             BIGSERIAL PRIMARY KEY,
   session_id     TEXT,
-  perfil         TEXT,                          -- personero_mesa | personero_local | personero_legal | coordinador
+  perfil         TEXT,                          -- personero_mesa | personero_local | coordinador_zonal | coordinador_distrital
   pregunta       TEXT NOT NULL,
   clasificacion  TEXT,
   respuesta      TEXT,

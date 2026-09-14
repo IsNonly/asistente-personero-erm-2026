@@ -9,7 +9,11 @@ export default function PersoneroSelector() {
     <div className="selector">
       <span className="selector__flag" aria-hidden="true">🇵🇪</span>
       <h1 className="selector__title">Asistente del Personero — ERM 2026</h1>
-      <p className="selector__subtitle">Asistente virtual para Personeros Electorales</p>
+      <p className="selector__subtitle">
+        Tu guía rápida para actuar con seguridad en cada etapa del proceso electoral.
+        Consulta procedimientos, resuelve dudas y encuentra qué hacer ante las
+        situaciones que puedan presentarse, según tu rol dentro del equipo de personeros.
+      </p>
 
       <p className="selector__question">¿Qué tipo de personero eres?</p>
 
