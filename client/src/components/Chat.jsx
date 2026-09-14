@@ -17,6 +17,11 @@ const WELCOME = {
 let idSeq = 1;
 const nextId = () => `m${idSeq++}`;
 
+// Tiempo mínimo mostrando "Escribiendo…" aunque la respuesta local sea instantánea,
+// para que se note que el asistente está buscando la información.
+const MIN_THINKING_MS = 700;
+const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 export default function Chat({ seed }) {
   const { perfil } = usePersonero();
   const [messages, setMessages] = useState([WELCOME]);
@@ -45,7 +50,11 @@ export default function Chat({ seed }) {
     } else if (wasBusyRef.current && lastMessageRef.current) {
       // La respuesta acaba de llegar: mostrarla desde su inicio, no desde el final,
       // para que se pueda leer de arriba hacia abajo sin tener que subir el scroll.
-      el.scrollTop = Math.max(lastMessageRef.current.offsetTop - 8, 0);
+      // offsetTop no sirve aquí (es relativo al offsetParent posicionado más cercano,
+      // no al contenedor con scroll), así que se calcula con getBoundingClientRect.
+      const containerTop = el.getBoundingClientRect().top;
+      const targetTop = lastMessageRef.current.getBoundingClientRect().top;
+      el.scrollTop = Math.max(el.scrollTop + (targetTop - containerTop) - 8, 0);
     } else {
       el.scrollTop = el.scrollHeight;
     }
@@ -74,11 +83,16 @@ export default function Chat({ seed }) {
     if (inputRef.current) inputRef.current.style.height = 'auto';
     setBusy(true);
 
+    const startedAt = Date.now();
     const res = await sendChat({
       message: text,
       perfil: perfil?.id || null,
       history,
     });
+    const elapsed = Date.now() - startedAt;
+    if (elapsed < MIN_THINKING_MS) {
+      await wait(MIN_THINKING_MS - elapsed);
+    }
 
     setMessages((prev) => [
       ...prev,
