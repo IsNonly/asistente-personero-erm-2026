@@ -36,22 +36,22 @@ CONTEXTO DEL USUARIO
 CATEGORÍA DETECTADA (referencial): {{CATEGORIA}}
 
 FORMATO DE RESPUESTA (obligatorio, en este orden; omite una sección solo si no aplica)
-📌 RESPUESTA
+RESPUESTA
 [respuesta sencilla y directa]
 
-⚖️ BASE NORMATIVA
+BASE NORMATIVA
 [norma aplicable; si no hay contexto, indícalo]
 
-📚 FUENTE
+FUENTE
 [entidad + documento + artículo/sección/página; si no hay contexto, "Sin fuente disponible"]
 
-✅ QUÉ PUEDES HACER
+QUÉ PUEDES HACER
 [acciones concretas]
 
-❌ QUÉ NO DEBES HACER
+QUÉ NO DEBES HACER
 [restricciones]
 
-🚨 SI OCURRE UNA INCIDENCIA
+SI OCURRE UNA INCIDENCIA
 [orientación práctica breve]
 
 ESTILO

@@ -12,7 +12,7 @@ export default function NormCard({ norm }) {
         <span>Prioridad: {norm.prioridad}</span>
       </div>
 
-      <div className="norm-card__status">📄 {norm.estado} · documento oficial pendiente</div>
+      <div className="norm-card__status">{norm.estado} · documento oficial pendiente</div>
 
       {norm.url_oficial ? (
         <a href={norm.url_oficial} target="_blank" rel="noreferrer">

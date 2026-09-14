@@ -2,9 +2,9 @@ import SourceCard from './SourceCard.jsx';
 import { CATEGORIA_LABEL } from '../data/categorias.js';
 
 const CONFIDENCE_TEXT = {
-  green: '🟢 Fundamento normativo encontrado',
-  yellow: '🟡 Respuesta requiere verificación',
-  red: '🔴 No se encontró fundamento suficiente',
+  green: 'Fundamento normativo encontrado',
+  yellow: 'Respuesta requiere verificación',
+  red: 'No se encontró fundamento suficiente',
 };
 
 export default function MessageBubble({ message }) {

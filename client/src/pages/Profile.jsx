@@ -11,7 +11,6 @@ export default function Profile() {
       <div className="screen">
         {perfil ? (
           <div className="profile-badge" style={{ marginTop: 14 }}>
-            <span className="profile-badge__icon" aria-hidden="true">{perfil.emoji}</span>
             <div>
               <strong>{perfil.label}</strong>
               <div className="muted">{perfil.desc}</div>
@@ -29,7 +28,6 @@ export default function Profile() {
               className={`option-item ${perfil?.id === p.id ? '' : ''}`}
               onClick={() => setPerfil(p.id)}
             >
-              <span className="option-item__icon" aria-hidden="true">{p.emoji}</span>
               <span>{p.label}</span>
               {perfil?.id === p.id && <span className="option-item__chevron">✓</span>}
             </button>

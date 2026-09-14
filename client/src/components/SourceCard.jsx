@@ -3,7 +3,7 @@ export default function SourceCard({ source }) {
   if (!source) return null;
   return (
     <div className="source-card">
-      <div className="source-card__label">📚 FUENTE</div>
+      <div className="source-card__label">FUENTE</div>
       <div>{source}</div>
     </div>
   );

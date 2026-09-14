@@ -20,7 +20,6 @@ export default function QueHagoSi() {
               className="option-item"
               onClick={() => navigate('/chat', { state: { seed: opt.seed } })}
             >
-              <span className="option-item__icon" aria-hidden="true">{opt.icon}</span>
               <span>{opt.label}</span>
               <span className="option-item__chevron" aria-hidden="true">›</span>
             </button>

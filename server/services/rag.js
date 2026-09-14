@@ -1,7 +1,7 @@
 // Recuperación (Retrieval) para RAG.
 //
 // Etapa 1: no hay documentos indexados todavía, por lo que `retrieve` devuelve [].
-// El asistente, al no recibir contexto, responderá con nivel de confianza 🔴
+// El asistente, al no recibir contexto, responderá con nivel de confianza "red"
 // y el mensaje de "no hay fundamento oficial suficiente".
 //
 // Flujo objetivo:

@@ -6,7 +6,7 @@
 //   2) coincidencia parcial de palabras de las frases clave,
 //   3) solape de vocabulario con el texto de la respuesta (para lenguaje natural).
 // Si la mejor coincidencia es sólida -> se usa su nivel de confianza.
-// Si es razonable pero no sólida -> se responde igual, pero como 🟡 (verificar).
+// Si es razonable pero no sólida -> se responde igual, pero como "yellow" (verificar).
 // Si no hay nada cercano -> null (pasa a IA o al mensaje de "sin fundamento").
 
 import { createRequire } from 'node:module';
@@ -157,40 +157,41 @@ export function findLocalAnswer(message) {
   };
 }
 
-// Compone la respuesta con el formato 📌 / ⚖️ / 📚 / ✅ / ❌ / 🚨
+// Compone la respuesta con el formato RESPUESTA / BASE NORMATIVA / QUÉ PUEDES HACER /
+// QUÉ NO DEBES HACER / SI OCURRE UNA INCIDENCIA
 function formatEntry(entry, loose = false) {
   const parts = [];
-  parts.push('📌 RESPUESTA');
+  parts.push('RESPUESTA');
   parts.push(entry.respuesta);
 
   if (entry.base_normativa) {
     parts.push('');
-    parts.push('⚖️ BASE NORMATIVA');
+    parts.push('BASE NORMATIVA');
     parts.push(entry.base_normativa);
   }
 
   if (Array.isArray(entry.puedes) && entry.puedes.length) {
     parts.push('');
-    parts.push('✅ QUÉ PUEDES HACER');
+    parts.push('QUÉ PUEDES HACER');
     parts.push(entry.puedes.map((x) => `• ${x}`).join('\n'));
   }
 
   if (Array.isArray(entry.no_debes) && entry.no_debes.length) {
     parts.push('');
-    parts.push('❌ QUÉ NO DEBES HACER');
+    parts.push('QUÉ NO DEBES HACER');
     parts.push(entry.no_debes.map((x) => `• ${x}`).join('\n'));
   }
 
   if (entry.incidencia) {
     parts.push('');
-    parts.push('🚨 SI OCURRE UNA INCIDENCIA');
+    parts.push('SI OCURRE UNA INCIDENCIA');
     parts.push(entry.incidencia);
   }
 
   if (loose) {
     parts.push('');
     parts.push(
-      'ℹ️ Esta es la respuesta más cercana a tu consulta en la base oficial local. ' +
+      'Esta es la respuesta más cercana a tu consulta en la base oficial local. ' +
         'Si no es lo que buscabas, reformula con otras palabras o revisa la sección Normativa.'
     );
   }

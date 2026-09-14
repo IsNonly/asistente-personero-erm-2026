@@ -1,4 +1,4 @@
-# 🇵🇪 Asistente del Personero — ERM 2026
+# Asistente del Personero — ERM 2026
 
 **Asistente virtual para Personeros Electorales** · Elecciones Regionales y Municipales del Perú 2026.
 
@@ -71,7 +71,7 @@ Pregunta → Clasificación → ¿Coincide con la base local? ── sí ─→ 
                         ¿Hay clave de IA?  ── sí ─→ RAG + Claude → Respuesta + Fuente
                                      │ no
                                      ▼
-                 "No encuentro fundamento oficial suficiente…" (🔴)
+                 "No encuentro fundamento oficial suficiente…" (nivel "red")
 ```
 
 - **Base local**: `server/data/knowledge-base.json` + `server/services/localAnswer.js`
@@ -155,12 +155,12 @@ Definidas en `.env.example` (raíz) y `client/.env.example`.
 
 El prompt maestro del asistente está en `server/prompts/personero-master.txt`
 e incluye la **regla de no inventar** y el **formato de respuesta**
-(📌 Respuesta · ⚖️ Base normativa · 📚 Fuente · ✅ Qué puedes hacer ·
-❌ Qué no debes hacer · 🚨 Si ocurre una incidencia).
+(Respuesta · Base normativa · Fuente · Qué puedes hacer ·
+Qué no debes hacer · Si ocurre una incidencia).
 
 Con o sin IA, si la consulta coincide con la **base local** (`server/data/knowledge-base.json`)
 el asistente responde desde ahí, citando la norma. Para consultas fuera de esa base:
-con IA → responde Claude; sin IA → nivel 🔴 y remite al JNE/ONPE.
+con IA → responde Claude; sin IA → nivel "red" y remite al JNE/ONPE.
 
 ### Ampliar la base local
 
@@ -226,7 +226,7 @@ La arquitectura ya está preparada:
    embedding de la consulta → vecinos más cercanos en `document_chunks`
    (pgvector) → devolver fragmentos con su referencia (documento, artículo, página).
 4. **Generación** — `server/services/ai.js` ya inyecta el contexto recuperado en
-   el prompt y ajusta el nivel de confianza (🟢/🟡/🔴) según haya o no fuentes.
+   el prompt y ajusta el nivel de confianza (green/yellow/red) según haya o no fuentes.
 
 No hace falta tocar el frontend: `MessageBubble` ya renderiza la clasificación,
 la tarjeta de **Fuente** y el **nivel de confianza**.
@@ -284,7 +284,7 @@ vercel --prod   # producción
 
 - [x] Proyecto nuevo e independiente
 - [x] Interfaz principal mobile-first
-- [x] Header con identidad propia (🇵🇪 Asistente del Personero · ERM 2026)
+- [x] Header con identidad propia (Asistente del Personero · ERM 2026)
 - [x] Selector de tipo de personero (4 perfiles) con persistencia de sesión
 - [x] Chat con mensaje inicial, burbujas y barra inferior de escritura
 - [x] Preguntas rápidas con scroll horizontal
@@ -299,7 +299,3 @@ vercel --prod   # producción
 - [x] Estructura preparada para RAG (`/knowledge`, `rag.js`, `embeddings.js`, chunks)
 - [x] Base de datos preparada (`database/schema.sql`)
 - [x] `.env.example` y este `README.md`
-
----
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)

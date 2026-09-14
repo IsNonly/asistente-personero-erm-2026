@@ -8,7 +8,7 @@ const WELCOME = {
   id: 'welcome',
   role: 'assistant',
   text:
-    '👋 Hola. Soy el Asistente del Personero ERM 2026.\n\n' +
+    'Hola. Soy el Asistente del Personero ERM 2026.\n\n' +
     'Puedo ayudarte con información sobre tus funciones, derechos, deberes y ' +
     'procedimientos durante las Elecciones Regionales y Municipales 2026.\n\n' +
     'Selecciona una opción o escribe tu pregunta.',

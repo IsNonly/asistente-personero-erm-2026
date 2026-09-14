@@ -14,7 +14,6 @@ export default function Header({ title = 'ASISTENTE DEL PERSONERO', subtitle, sh
             ‹
           </button>
         )}
-        <span className="app-header__flag" aria-hidden="true">🇵🇪</span>
         <div>
           <h1 className="app-header__title">{title}</h1>
           <span className="app-header__badge">ERM 2026</span>

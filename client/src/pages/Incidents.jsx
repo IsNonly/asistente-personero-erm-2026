@@ -37,13 +37,13 @@ export default function Incidents() {
             style={{ marginTop: 14 }}
             onClick={() => setParams({ form: '1' })}
           >
-            📝 Reportar incidencia
+            Reportar incidencia
           </button>
         )}
 
         {showForm ? (
           <>
-            <div className="section-title">📝 Reportar incidencia</div>
+            <div className="section-title">Reportar incidencia</div>
             <IncidentForm onSaved={refresh} />
             <button
               className="btn btn--block btn--ghost"

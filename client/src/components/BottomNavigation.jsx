@@ -1,11 +1,11 @@
 import { useLocation, useNavigate } from 'react-router-dom';
 
 const ITEMS = [
-  { to: '/', icon: '🏠', label: 'Inicio' },
-  { to: '/chat', icon: '💬', label: 'Preguntar' },
-  { to: '/incidencias', icon: '🚨', label: 'Incidencias' },
-  { to: '/normativa', icon: '📚', label: 'Normativa' },
-  { to: '/perfil', icon: '👤', label: 'Mi perfil' },
+  { to: '/', label: 'Inicio' },
+  { to: '/chat', label: 'Preguntar' },
+  { to: '/incidencias', label: 'Incidencias' },
+  { to: '/normativa', label: 'Normativa' },
+  { to: '/perfil', label: 'Mi perfil' },
 ];
 
 export default function BottomNavigation() {
@@ -24,7 +24,6 @@ export default function BottomNavigation() {
             onClick={() => navigate(item.to)}
             aria-current={active ? 'page' : undefined}
           >
-            <span className="bottom-nav__icon" aria-hidden="true">{item.icon}</span>
             <span>{item.label}</span>
           </button>
         );

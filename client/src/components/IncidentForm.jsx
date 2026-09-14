@@ -82,7 +82,7 @@ export default function IncidentForm({ onSaved }) {
 
       {status === 'ok' && (
         <div className="form-success">
-          ✅ Incidencia registrada en {savedWhere}.
+          Incidencia registrada en {savedWhere}.
         </div>
       )}
       {status === 'error' && (

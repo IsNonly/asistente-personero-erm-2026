@@ -7,10 +7,10 @@ import { findLocalAnswer } from '../services/localAnswer.js';
 const router = Router();
 
 const NO_BASIS_MESSAGE =
-  '📌 RESPUESTA\n' +
+  'RESPUESTA\n' +
   'Todavía no tengo una respuesta con fundamento oficial para esa consulta exacta, así que prefiero no improvisar. ' +
   'Prueba a reformularla con otras palabras o desde otro ángulo.\n\n' +
-  '🧭 TEMAS QUE SÍ PUEDO RESPONDER\n' +
+  'TEMAS QUE SÍ PUEDO RESPONDER\n' +
   '• Acreditación, tipos de personero y plazos\n' +
   '• Funciones y derechos del personero (mesa, centro de votación, legal, técnico)\n' +
   '• Instalación, sufragio y escrutinio\n' +
@@ -21,7 +21,7 @@ const NO_BASIS_MESSAGE =
   '• El elector: DNI vencido, padrón, atención preferente, voto facultativo, multa por no votar\n' +
   '• El miembro de mesa: composición, compensación, multa\n' +
   '• Segunda elección regional y cronograma\n\n' +
-  '📚 FUENTE\n' +
+  'FUENTE\n' +
   'Revisa también la sección Normativa de la app y los portales oficiales (jne.gob.pe, onpe.gob.pe, reniec.gob.pe). ' +
   'Si crees que esta pregunta debería estar cubierta, repórtala con el botón "Reportar incidencia".';
 

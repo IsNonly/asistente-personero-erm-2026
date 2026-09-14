@@ -24,7 +24,6 @@ export default function ModoJornada() {
                   : navigate('/chat', { state: { seed: item.seed } })
               }
             >
-              <span className="option-item__icon" aria-hidden="true">{item.icon}</span>
               <span>{item.label}</span>
               <span className="option-item__chevron" aria-hidden="true">›</span>
             </button>

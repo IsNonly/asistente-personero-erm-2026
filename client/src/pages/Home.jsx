@@ -32,7 +32,6 @@ export default function Home() {
         <div className="quick-grid">
           {QUICK_ACCESS.map((item) => (
             <button key={item.label} className="quick-card" onClick={() => go(item)}>
-              <span className="quick-card__icon" aria-hidden="true">{item.icon}</span>
               <span className="quick-card__label">{item.label}</span>
             </button>
           ))}
@@ -40,7 +39,7 @@ export default function Home() {
 
         <div className="section-title">Jornada electoral</div>
         <button className="btn btn--block btn--accent" onClick={() => navigate('/jornada')}>
-          🇵🇪 Modo Jornada Electoral — 4 de octubre de 2026
+          Modo Jornada Electoral — 4 de octubre de 2026
         </button>
       </div>
     </>

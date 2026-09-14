@@ -7,7 +7,6 @@ export default function PersoneroSelector() {
 
   return (
     <div className="selector">
-      <span className="selector__flag" aria-hidden="true">🇵🇪</span>
       <h1 className="selector__title">Asistente del Personero — ERM 2026</h1>
       <p className="selector__subtitle">
         Tu guía rápida para actuar con seguridad en cada etapa del proceso electoral.
@@ -24,7 +23,6 @@ export default function PersoneroSelector() {
             className={`persona-card ${perfilId === p.id ? 'is-active' : ''}`}
             onClick={() => setPerfil(p.id)}
           >
-            <span className="persona-card__icon" aria-hidden="true">{p.emoji}</span>
             <span>
               <span className="persona-card__label">{p.label}</span>
               <span className="persona-card__desc">{p.desc}</span>
