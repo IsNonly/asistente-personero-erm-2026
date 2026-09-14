@@ -450,6 +450,10 @@ select {
   -webkit-overflow-scrolling: touch;
   background: var(--c-surface-2);
   border-top: 1px solid var(--c-border);
+  /* Difumina los bordes para que se note que hay más chips deslizando el dedo,
+     en vez de que el texto se vea cortado a la mitad. */
+  -webkit-mask-image: linear-gradient(to right, transparent, black 24px, black calc(100% - 40px), transparent);
+  mask-image: linear-gradient(to right, transparent, black 24px, black calc(100% - 40px), transparent);
 }
 
 .quick-questions::-webkit-scrollbar {
