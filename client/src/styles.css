@@ -78,7 +78,7 @@ select {
   width: 100%;
   max-width: var(--shell-width);
   margin: 0 auto;
-  min-height: 100svh;
+  min-height: var(--app-vh, 100svh);
   background: var(--c-bg);
   position: relative;
   display: flex;
@@ -336,11 +336,14 @@ select {
 /* Pantalla de chat: columna a altura completa del viewport.
    Así la barra de escritura queda SIEMPRE visible sobre la navegación. */
 .chat-page {
-  /* svh (viewport "pequeño") en vez de dvh: en varios navegadores móviles
-     dvh no se achica cuando la barra de direcciones está visible, y el
-     contenido de más abajo (preguntas rápidas) queda fuera de la pantalla
-     real aunque el cálculo "en el papel" cierre bien. */
-  height: 100svh;
+  /* --app-vh (definida en main.jsx con window.visualViewport) sigue el
+     alto REAL visible, que se achica cuando se abre el teclado del
+     celular — a diferencia de dvh/svh, que solo reaccionan a la barra de
+     direcciones del navegador y no al teclado. Sin esto, al escribir un
+     mensaje la barra de escritura y las preguntas rápidas quedaban
+     calculadas para un alto mayor al que realmente se veía en pantalla.
+     100svh queda como respaldo si el navegador no soporta visualViewport. */
+  height: var(--app-vh, 100svh);
   display: flex;
   flex-direction: column;
   overflow: hidden;
