@@ -17,14 +17,8 @@ export default function Home() {
 
   return (
     <>
-      <Header />
+      <Header title={perfil ? perfil.label.toUpperCase() : undefined} />
       <div className="screen">
-        {perfil && (
-          <p className="muted" style={{ marginTop: 12 }}>
-            Perfil activo: <strong>{perfil.emoji} {perfil.label}</strong>
-          </p>
-        )}
-
         <h2 className="hero-question">¿En qué podemos ayudarte?</h2>
         <p className="muted">Elige un acceso rápido o abre el chat para escribir tu consulta.</p>
 
