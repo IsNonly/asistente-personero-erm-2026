@@ -2123,18 +2123,24 @@
         "zona",
         "despliegue"
       ],
-      "respuesta": "Como coordinador zonal de personeros, tu función es articular los locales de votación de tu zona: mantienes contacto directo con los personeros de centro de votación y de mesa que operan ahí, organizas el despliegue del día de la elección (quién cubre cada local) y escalas al coordinador distrital las incidencias que no puedas resolver a tu nivel. Eres el enlace entre lo que pasa en cada local de tu zona y la coordinación distrital.",
+      "respuesta": "El coordinador zonal es el enlace operativo entre varios locales de votación y la Coordinación Distrital; no reemplaza al personero de mesa ni al de centro de votación. Tu trabajo es: supervisar, comunicar, resolver, escalar y verificar. Debes saber en todo momento qué está pasando en cada local de tu zona: tu zona está bien gestionada cuando ningún personero queda sin orientación y ninguna incidencia importante queda sin reportar. Antes de la elección, ten lista la relación de locales y mesas de tu zona, contactos de cada personero, reemplazos disponibles, tu canal de comunicación y el contacto del coordinador distrital: trabaja con datos concretos (\"tenemos cubiertas 92 de 100 mesas, faltan 8 y tengo 5 reemplazos\"), no con percepciones. Tu misión el día de la elección se resume en cinco palabras: ubicar, confirmar, atender, escalar, cerrar.",
       "base_normativa": "Rol operativo interno del equipo de personeros de la organización política; no es un cargo regulado por el JNE ni la ONPE.",
-      "fuente": "Definición operativa del equipo de personeros (estructura mesa → local → zonal → distrital).",
+      "fuente": "Manual operativo del Coordinador Zonal y del Coordinador Distrital de Personeros (documento interno de capacitación de la organización política, no es norma oficial del JNE ni de la ONPE).",
       "puedes": [
         "Coordinar directamente con los personeros de centro de votación y de mesa de tu zona.",
-        "Organizar el despliegue de personeros el día de la elección dentro de tu zona.",
-        "Escalar al coordinador distrital las incidencias que superen tu nivel."
+        "Confirmar antes de la instalación la cadena local → personero de local → mesas → personeros presentes, y armar tu primer reporte del día (locales operativos, mesas, presentes, faltantes, reemplazos enviados).",
+        "Durante la jornada, preguntar activamente (no solo \"¿todo bien?\"): ¿están todas las mesas instaladas?, ¿hay personero en todas?, ¿hubo problemas de ingreso o acreditación?, ¿hay alguna incidencia?, ¿necesitas apoyo o escalamiento?",
+        "Usar el protocolo 5C para atender a un personero con un problema (conecta, clasifica, comprende, conduce, cierra) — ver la entrada \"protocolo 5C\".",
+        "Escalar al coordinador distrital las incidencias que superen tu nivel, según el semáforo de incidencias."
       ],
       "no_debes": [
-        "Reemplazar tú mismo a un personero de mesa o de centro de votación."
+        "Ordenar a un personero una actuación para la cual la normativa no lo faculta, ni inventar procedimientos.",
+        "Promover confrontaciones con miembros de mesa, ordenar interrumpir la votación, ni ingresar a una mesa atribuyéndote facultades de personero si no estás acreditado.",
+        "Decidir jurídicamente una impugnación compleja: eso corresponde al personero legal.",
+        "Difundir rumores ni reportar como confirmado algo que no verificaste.",
+        "Pedir a un personero que abandone innecesariamente su mesa para resolver algo que se puede resolver desde el centro de comando — esto es especialmente importante durante el escrutinio, donde el personero de mesa puede permanecer desde la instalación hasta el escrutinio, presenciar la lectura de votos y formular observaciones."
       ],
-      "incidencia": "Si un local de tu zona se queda sin cobertura de personeros, activa un reemplazo si lo tienes disponible y repórtalo de inmediato al coordinador distrital.",
+      "incidencia": "Registra cada incidencia con: distrito, zona, local, mesa, personero, hora, etapa (instalación/sufragio/escrutinio), qué pasó, evidencia disponible, acción realizada y estado (resuelto / seguimiento / escalado) — ver también \"semáforo de incidencias operativo\".",
       "confianza": "green",
       "perfiles": [
         "coordinador_zonal"
@@ -2159,20 +2165,135 @@
         "distrito",
         "cobertura territorial"
       ],
-      "respuesta": "Como coordinador distrital de personeros, tu función principal es organizar la cobertura territorial de personeros del distrito: controlas las credenciales, asignas responsables por local y mesa, centralizas los reportes de todos los locales, resuelves reemplazos cuando falta un personero y escalas las incidencias al equipo legal de tu organización. Debes implementar un canal de comunicación oficial y único (no varios grupos sueltos) para recibir instalación, incidencias, copia o foto de actas y resultados de cada mesa de tu distrito.",
+      "respuesta": "El coordinador distrital dirige todo el sistema distrital de personeros; no debe atender personalmente cada consulta sencilla. Tu misión tiene cuatro partes: cobertura (que las mesas tengan personero), comunicación (que todos sepan a quién reportar), respuesta (que las incidencias se atiendan rápido) y control (que ninguna incidencia crítica se pierda). Antes de la elección, arma la estructura jerárquica (coordinador distrital → coordinadores zonales → personeros de local → personeros de mesa) para que nadie llame a todos, y ten un tablero único con zona, local, mesas, personeros requeridos/asignados/presentes/ausentes, reemplazos e incidencias por zona. Las consultas deben subir en cadena (mesa → local → zonal → distrital → legal si corresponde): idealmente el 80 % se resuelve en los niveles mesa-local-zona, y solo el 20 % llega a ti (decisión operativa, movilización de reemplazos, coordinación entre zonas, evidencia, seguimiento especial o escalamiento técnico/jurídico) — ver \"regla 80/20\".",
       "base_normativa": "Rol operativo interno del equipo de personeros de la organización política; no es un cargo regulado por el JNE ni la ONPE.",
-      "fuente": "Banco de Preguntas y Respuestas para Personeros ERM 2026, preguntas 19 y 25 (documento de capacitación de la organización, no es norma oficial JNE/ONPE).",
+      "fuente": "Manual operativo del Coordinador Zonal y del Coordinador Distrital de Personeros (documento interno de capacitación de la organización política, no es norma oficial del JNE ni de la ONPE).",
       "puedes": [
-        "Asignar y reemplazar personeros de mesa o de centro de votación en tu distrito.",
-        "Centralizar en un solo canal oficial los reportes de todos los locales de tu distrito.",
-        "Escalar al equipo legal las incidencias que requieran una denuncia o recurso formal."
+        "Pedir siempre, ante cualquier reporte, los mismos datos estructurados: local de votación, número de mesa, etapa (instalación/sufragio/escrutinio), qué acción concreta se impidió y quién tomó esa decisión — con eso se diagnostica el problema.",
+        "Atender una incidencia distrital en orden: identificar (dónde), verificar (qué pasó realmente, separando hechos de interpretaciones), determinar si es operativo o jurídico-electoral, dar una instrucción breve y ejecutable, escalar al canal jurídico si excede tu ámbito, y hacer seguimiento hasta confirmar que se resolvió.",
+        "Durante el escrutinio, monitorear por mesa: cuáles iniciaron y terminaron el escrutinio, incidencias, votos impugnados reportados, y actas obtenidas/pendientes/reportadas.",
+        "Si tu organización transmite resultados, manejar 4 estados por acta (recibida, validada, digitada, consolidada) y nunca tratar una foto recibida como resultado ya validado — debe haber doble control entre la imagen, la digitación y la validación.",
+        "Escalar al personero legal las controversias jurídicas complejas y las decisiones que requieran una impugnación formal."
       ],
       "no_debes": [
-        "Dejar que la información circule en varios grupos o canales sin control."
+        "Sustituir al personero legal ni interpretar definitivamente controversias jurídicas complejas.",
+        "Ordenar una impugnación sin conocer los hechos, ni dar instrucciones contrarias a la normativa electoral.",
+        "Permitir que rumores se conviertan en alertas distritales.",
+        "Pedir abandonar mesas sin una razón operativa justificada.",
+        "Considerar una incidencia resuelta solo porque fue derivada: hay que confirmar que efectivamente se solucionó."
       ],
-      "incidencia": "Si una mesa se queda sin personero, actívalo desde tu equipo de suplentes y prioriza las mesas de mayor importancia electoral.",
+      "incidencia": "Ante un mensaje urgente y confuso (\"¡no me dejan hacer nada!\"), no preguntes solo \"¿qué pasó?\": pide de inmediato local, mesa, etapa, qué acción concreta impidieron y quién lo decidió. Mantén el principio de no confrontación con tu equipo: observar, solicitar, dejar constancia, reportar, escalar — nunca gritar, amenazar, interrumpir o confrontar.",
       "confianza": "green",
       "perfiles": [
+        "coordinador_distrital"
+      ]
+    },
+    {
+      "id": "protocolo-5c-personeros",
+      "categoria": "deberes",
+      "keywords": [
+        "protocolo 5c",
+        "como atiendo a un personero con un problema",
+        "conecta clasifica comprende conduce cierra",
+        "como resuelvo la incidencia de un personero",
+        "protocolo rapido 5c"
+      ],
+      "sinonimos": [
+        "5c",
+        "conecta",
+        "clasifica",
+        "comprende",
+        "conduce",
+        "cierra"
+      ],
+      "respuesta": "El protocolo rápido 5C sirve para atender correctamente a un personero que reporta un problema: 1) CONECTA — identifica de inmediato quién es, en qué local está y en qué mesa (nunca respondas sin saber dónde ocurre el problema). 2) CLASIFICA — pregunta en qué etapa están (instalación, sufragio o escrutinio), porque la misma situación puede tener distinta respuesta según la etapa. 3) COMPRENDE — pregunta qué ocurrió exactamente y trabaja sobre hechos concretos, no sobre interpretaciones (\"el presidente de mesa no permitió firmar tal sección del acta\", no \"están haciendo fraude\"). 4) CONDUCE — da una instrucción concreta y ejecutable, sin explicaciones interminables. 5) CIERRA — nunca dejes una incidencia abierta: pregunta si se solucionó y regístrala como resuelta, en seguimiento o escalada.",
+      "base_normativa": "Rol operativo interno del equipo de personeros de la organización política; no es un procedimiento regulado por el JNE ni la ONPE.",
+      "fuente": "Manual operativo del Coordinador Zonal y del Coordinador Distrital de Personeros (documento interno de capacitación de la organización política, no es norma oficial del JNE ni de la ONPE).",
+      "puedes": [
+        "Usar este protocolo con cualquier personero que reporte un problema, sea coordinador zonal o distrital.",
+        "Registrar cada caso con distrito, zona, local, mesa, personero, hora, etapa, incidencia, evidencia, acción realizada y estado."
+      ],
+      "no_debes": [
+        "Dar una respuesta o instrucción antes de saber exactamente dónde y en qué etapa ocurre el problema."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "semaforo-incidencias-operativo",
+      "categoria": "incidentes",
+      "keywords": [
+        "semaforo de incidencias",
+        "niveles de incidencia",
+        "cuando escalo una incidencia",
+        "que es una incidencia naranja",
+        "que es una incidencia roja",
+        "colores de las incidencias"
+      ],
+      "sinonimos": [
+        "escalar",
+        "escalamiento"
+      ],
+      "respuesta": "El equipo de personeros clasifica las incidencias operativas en 4 niveles (distinto del semáforo verde/amarillo/rojo de este asistente, que mide qué tan segura es una respuesta): VERDE es una consulta sencilla, se resuelve de inmediato; AMARILLO es una duda procedimental o problema operativo, se orienta y se hace seguimiento; NARANJA puede afectar una mesa, un acta o la actuación del personero, y se escala al coordinador distrital; ROJO es un hecho grave (violencia, impedimento serio, presunta afectación de la transparencia o necesidad de actuación legal), y se escala de inmediato a la Coordinación Distrital y al canal legal. Regla operativa: el coordinador zonal resuelve lo operativo, no improvisa soluciones jurídicas.",
+      "base_normativa": "Rol operativo interno del equipo de personeros de la organización política; no es una clasificación regulada por el JNE ni la ONPE.",
+      "fuente": "Manual operativo del Coordinador Zonal y del Coordinador Distrital de Personeros (documento interno de capacitación de la organización política, no es norma oficial del JNE ni de la ONPE).",
+      "puedes": [
+        "Registrar cada incidencia con: distrito, zona, local, mesa, personero, hora, etapa, incidencia, evidencia disponible, acción realizada y estado (resuelto / seguimiento / escalado)."
+      ],
+      "no_debes": [
+        "Tratar un hecho naranja o rojo como si fuera una simple duda verde/amarilla que se resuelve sin escalar."
+      ],
+      "incidencia": "Ante un hecho naranja o rojo, escala de inmediato al coordinador distrital (y al canal legal si es rojo) en vez de intentar resolverlo solo a tu nivel.",
+      "confianza": "green"
+    },
+    {
+      "id": "matriz-quien-resuelve-que",
+      "categoria": "incidentes",
+      "keywords": [
+        "quien resuelve que",
+        "matriz de responsabilidades",
+        "a quien le corresponde resolver",
+        "quien atiende cada incidencia",
+        "a quien reporto segun el problema"
+      ],
+      "sinonimos": [],
+      "respuesta": "Según el tipo de situación, interviene un nivel distinto del equipo: una duda básica la resuelve el personero de mesa o de local. Si falta un personero, o hay un problema en varias mesas, o falta cobertura en un local, intervienen local, zonal y distrital. Una impugnación de voto la maneja principalmente la mesa (con apoyo de local, seguimiento de zonal y distrital, y del personero legal según corresponda). Una controversia jurídica compleja se reporta desde mesa y local, se escala desde zonal y distrital, y la resuelve el personero legal. Un problema en varios locales lo maneja local + zonal + distrital según la materia. Un incidente crítico distrital se reporta desde local, lo maneja directamente distrital, y legal interviene si corresponde.",
+      "base_normativa": "Rol operativo interno del equipo de personeros de la organización política; no es una norma del JNE ni de la ONPE.",
+      "fuente": "Manual operativo del Coordinador Zonal y del Coordinador Distrital de Personeros (documento interno de capacitación de la organización política, no es norma oficial del JNE ni de la ONPE).",
+      "puedes": [
+        "Usar esta matriz para saber a quién reportar o escalar según el tipo de situación, antes de intentar resolverla solo."
+      ],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "regla-80-20-coordinador-distrital",
+      "categoria": "deberes",
+      "keywords": [
+        "regla 80 20",
+        "que consultas llegan al coordinador distrital",
+        "cuando escalo al coordinador distrital",
+        "cadena de reporte de personeros"
+      ],
+      "sinonimos": [
+        "80/20",
+        "jerarquia",
+        "cadena de mando"
+      ],
+      "respuesta": "Las consultas de los personeros deben subir en cadena: personero de mesa → personero de local → coordinador zonal → coordinador distrital → equipo especializado o personero legal cuando corresponda. Como criterio operativo (no una regla legal), lo ideal es que el 80 % de las consultas se resuelva en los niveles mesa–local–zona, y que solo cerca del 20 % llegue a la Coordinación Distrital, por necesitar una decisión operativa, movilización de reemplazos, coordinación entre zonas, evidencia, seguimiento especial o escalamiento técnico o jurídico. Así se evita que muchos personeros llamen directamente a una sola persona.",
+      "base_normativa": "Criterio de diseño operativo interno del equipo de personeros; no es una regla legal ni está regulada por el JNE ni la ONPE.",
+      "fuente": "Manual operativo del Coordinador Zonal y del Coordinador Distrital de Personeros (documento interno de capacitación de la organización política, no es norma oficial del JNE ni de la ONPE).",
+      "puedes": [
+        "Resolver en tu propio nivel (mesa, local o zona) todo lo que no requiera una decisión, evidencia o escalamiento distrital."
+      ],
+      "no_debes": [
+        "Escalar directamente al coordinador distrital consultas sencillas que tu nivel puede resolver."
+      ],
+      "incidencia": "",
+      "confianza": "green",
+      "perfiles": [
+        "coordinador_zonal",
         "coordinador_distrital"
       ]
     }

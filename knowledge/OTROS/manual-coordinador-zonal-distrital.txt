@@ -1,0 +1,354 @@
+
+GENERAL :
+EL COORDINADOR ZONAL DE PERSONEROS Y EL COORIDNADOR DISTRITAL DE PEROSNEROS ES UNA ORGANIZACIÓN INTERNA DE LAS ORGANZIACIONES POLÍTICAS PARA ORGANIZAR, MONITOREAR, SUPERVISARE,ETC, EL ANTES , DURANTE Y DESPUÉS DE TODO EL TRABAJO DE LOS DEFENSA DEL VOTO.
+15. MATRIZ: ¿QUIÉN RESUELVE QUÉ?
+Situación
+Mesa
+Local
+Zonal
+Distrital
+Legal
+Duda básica
+●
+●
+
+Falta un personero
+
+●
+●
+●
+
+Problema en varias mesas
+
+●
+●
+●
+
+Falta cobertura en un local
+
+●
+●
+●
+
+Impugnación de voto
+●
+apoyo
+seguimiento
+seguimiento
+según corresponda
+Controversia jurídica compleja
+reporte
+reporte
+escala
+escala
+●
+Problema en varios locales
+
+●
+●
+según materia
+Incidente crítico distrital
+
+reporte
+●
+● si corresponde
+
+FUNCIONES DEL COORDINADOR ZONAL
+MANUAL OPERATIVO DEL COORDINADOR ZONAL DE PERSONEROS
+ERM 2026
+“Tu zona bajo control. Cada local comunicado. Cada incidencia atendida.”
+1. ¿QUIÉN ES EL COORDINADOR ZONAL?
+El Coordinador Zonal es el enlace operativo entre varios locales de votación y la Coordinación Distrital.
+Su responsabilidad no es reemplazar al personero de mesa ni al personero del centro de votación. Su trabajo consiste en:
+supervisar + comunicar + resolver + escalar + verificar.
+Debe saber, en todo momento:
+¿Qué está pasando en cada local de mi zona?
+Su zona está bien gestionada cuando ningún personero queda sin orientación y ninguna incidencia importante queda sin reportar.
+
+2. EL ABC DEL COORDINADOR ZONAL
+A — ANTES DE LA ELECCIÓN
+El coordinador debe conocer perfectamente su territorio.
+Debe tener como mínimo:
+relación completa de locales asignados; 
+dirección exacta de cada local; 
+número de mesas por local; 
+nombre y teléfono del personero de cada local; 
+relación de personeros de mesa; 
+personeros titulares y reemplazos disponibles; 
+mapa o ruta de desplazamiento; 
+canal de comunicación de su zona; 
+contacto directo del Coordinador Distrital; 
+protocolo de incidencias; 
+formatos de reporte; 
+material de capacitación disponible en el celular. 
+Pregunta de control:
+¿Tengo cobertura real de todas mis mesas?
+No basta decir:
+“Tenemos 100 personeros.”
+Lo correcto es saber:
+“Tenemos cubiertas 92 de 100 mesas; faltan 8 y tengo 5 reemplazos disponibles.”
+El coordinador debe trabajar con datos, no con percepciones.
+
+3. B — BUEN INICIO DE JORNADA
+La ONPE señala para las ERM 2026 que la instalación de las mesas comienza desde las 6:00 a. m. y que la votación debe iniciarse a las 7:00 a. m. 
+Por eso, operativamente, la red de personeros debe activarse antes de la instalación de las mesas.
+El Coordinador Zonal debe confirmar:
+LOCAL → PERSONERO DE LOCAL → MESAS → PERSONEROS PRESENTES
+Su primer reporte debe permitir conocer:
+Locales asignados: Locales operativos: Mesas: Personeros presentes: Faltantes: Reemplazos enviados: Pendientes:
+
+4. C — CONTROL PERMANENTE
+Durante la jornada, el Coordinador Zonal no debe preguntar solamente:
+“¿Todo bien?”
+Esa pregunta produce respuestas poco útiles.
+Debe preguntar:
+1. ¿Todas las mesas están instaladas?2. ¿Tenemos personero en todas las mesas?3. ¿Algún personero tuvo problemas para ingresar o acreditarse?4. ¿Existe alguna incidencia?5. ¿Necesitas apoyo o escalamiento?
+Esto convierte una conversación informal en un sistema de control electoral.
+
+5. CÓMO ATENDER CORRECTAMENTE A UN PERSONERO
+Propongo incorporar al asistente el PROTOCOLO RÁPIDO 5C.
+1. CONECTA
+Identifica inmediatamente al personero.
+Pregunta:
+¿Quién eres?¿En qué local estás?¿Qué mesa es?
+Nunca comenzar dando una respuesta sin saber dónde ocurre el problema.
+2. CLASIFICA
+Pregunta:
+¿Estamos en instalación, sufragio o escrutinio?
+La misma situación puede tener distinta respuesta dependiendo de la etapa electoral.
+3. COMPRENDE
+Pregunta:
+¿Qué ocurrió exactamente?
+No trabajar sobre:
+“Están haciendo fraude.”
+Trabajar sobre hechos:
+“El presidente de mesa no permitió que el personero firme determinada sección del acta.”
+La diferencia es esencial.
+4. CONDUCE
+Dar una instrucción concreta.
+No responder con explicaciones interminables.
+Ejemplo:
+“No discutas. Solicita respetuosamente al presidente de mesa dejar constancia del reclamo. Registra el número de mesa y repórtame inmediatamente el resultado.”
+5. CIERRA
+Nunca dejar una incidencia abierta.
+Preguntar:
+¿Se solucionó?
+Registrar:
+Resuelto / Pendiente / Escalado.
+
+6. EL SEMÁFORO DE INCIDENCIAS
+Esta herramienta debería estar también dentro del asistente.
+Nivel
+Situación
+Acción
+🟢 Verde
+Consulta sencilla
+Resolver inmediatamente
+🟡 Amarillo
+Duda procedimental o problema operativo
+Orientar y hacer seguimiento
+🟠 Naranja
+Puede afectar una mesa, acta o actuación del personero
+Escalar al Coordinador Distrital
+🔴 Rojo
+Hecho grave, violencia, impedimento serio, presunta afectación de transparencia o necesidad de actuación legal
+Escalamiento inmediato a Coordinación Distrital y canal legal correspondiente
+Una regla operativa:
+El Coordinador Zonal resuelve lo operativo; no improvisa soluciones jurídicas.
+
+7. LO QUE EL COORDINADOR ZONAL NO DEBE HACER
+No debe ordenar a un personero que realice una actuación para la cual la normativa no lo faculta.
+No debe:
+inventar procedimientos; 
+promover confrontaciones con miembros de mesa; 
+ordenar interrumpir la votación; 
+ingresar a una mesa atribuyéndose facultades de personero si no está acreditado para ello; 
+decidir jurídicamente una impugnación compleja; 
+difundir rumores; 
+reportar como confirmado algo que no ha verificado; 
+pedir al personero que abandone innecesariamente su mesa. 
+El personero ante mesa sí cuenta con facultades expresas, entre ellas formular observaciones o reclamos ante la mesa, impugnar la identidad de un elector, impugnar cédulas durante el escrutinio, solicitar determinados supuestos de nulidad y obtener un acta completa suscrita por los miembros de mesa. 
+
+8. REGLA DE ORO DEL COORDINADOR ZONAL
+NO SAQUES AL PERSONERO DE SU MESA PARA RESOLVER UN PROBLEMA QUE PUEDE RESOLVERSE DESDE EL CENTRO DE COMANDO.
+Durante el escrutinio esto se vuelve especialmente importante.
+El Reglamento reconoce expresamente que el personero de mesa puede permanecer desde la instalación hasta el escrutinio, presenciar la lectura de votos, examinar las cédulas y formular observaciones o reclamos. 
+
+9. REPORTE ZONAL
+Cada incidencia debe quedar registrada así:
+Distrito:Zona:Local:Mesa:Personero:Hora:Etapa: Instalación / Sufragio / EscrutinioIncidencia:Evidencia disponible:Acción realizada:Estado: 🟢 Resuelto / 🟡 Seguimiento / 🔴 Escalado
+Esto alimentará después el tablero del Coordinador Distrital.
+
+10. MISIÓN DEL COORDINADOR ZONAL EL DÍA DE LA ELECCIÓN
+Su trabajo puede resumirse en cinco palabras:
+UBICAR — CONFIRMAR — ATENDER — ESCALAR — CERRAR
+
+FUNCIONES DEL COORDINADOR DISTRITAL
+ERM 2026
+“El distrito se dirige con información, coordinación y capacidad de respuesta.”
+El Coordinador Distrital ocupa un nivel distinto.
+No debe estar atendiendo personalmente cada consulta sencilla.
+Su función es dirigir todo el sistema distrital de personeros.
+
+1. ¿CUÁL ES SU MISIÓN?
+Debe garantizar cuatro cosas:
+COBERTURA
+Que las mesas tengan personero.
+COMUNICACIÓN
+Que todos sepan a quién reportar.
+RESPUESTA
+Que las incidencias sean atendidas rápidamente.
+CONTROL
+Que ninguna incidencia crítica se pierda.
+Su pregunta permanente debe ser:
+¿Cuál es la situación electoral de todo mi distrito en este momento?
+
+2. EL ABC DEL COORDINADOR DISTRITAL
+A — ARMA EL SISTEMA
+Antes del día electoral debe tener una estructura clara:
+COORDINADOR DISTRITAL
+↓
+COORDINADORES ZONALES
+↓
+PERSONEROS DE LOCAL
+↓
+PERSONEROS DE MESA
+No puede existir una red donde todos llamen a todos.
+Eso genera caos.
+Cada nivel debe saber:
+A quién reporto.Qué reporto.Cuándo reporto.
+
+3. B — BASE MAESTRA DISTRITAL
+El Coordinador Distrital necesita un único tablero de control.
+Como mínimo:
+Zona | Local | Mesas | Personeros requeridos | Personeros asignados | Presentes | Ausentes | Reemplazos | Incidencias | Estado
+Ejemplo:
+Zona
+Mesas
+Cubiertas
+Faltantes
+Incidencias críticas
+Z1
+120
+120
+0
+0
+Z2
+96
+91
+5
+1
+Z3
+150
+148
+2
+0
+En segundos debe poder responder:
+¿Dónde tengo el problema?
+
+4. C — CENTRO DE COMANDO
+El Coordinador Distrital debe evitar convertirse en una central telefónica.
+Las consultas deben subir progresivamente:
+Personero de Mesa⬇Personero de Local⬇Coordinador Zonal⬇Coordinador Distrital⬇Equipo especializado / Personero Legal cuando corresponda
+Así se evita que cien personeros llamen directamente a una sola persona.
+
+5. REGLA 80/20
+Idealmente:
+80 % de las consultas
+deben resolverse en los niveles Mesa–Local–Zona.
+20 % aproximadamente
+deben llegar a la Coordinación Distrital por necesitar:
+decisión operativa; 
+movilización de reemplazos; 
+coordinación entre zonas; 
+evidencia; 
+seguimiento especial; 
+escalamiento técnico o jurídico. 
+No es una regla legal, sino un criterio de diseño operativo.
+
+6. CÓMO DEBE ATENDER UNA INCIDENCIA DISTRITAL
+El protocolo del Coordinador Distrital debe ser:
+1. IDENTIFICAR
+¿Dónde?
+Local + mesa.
+2. VERIFICAR
+¿Qué ocurrió realmente?
+Separar hechos de interpretaciones.
+3. DETERMINAR COMPETENCIA
+Preguntarse:
+¿Es operativo o jurídico-electoral?
+4. DAR INSTRUCCIÓN
+Una indicación breve, concreta y ejecutable.
+5. ESCALAR
+Si excede su ámbito:
+canal jurídico correspondiente.
+6. HACER SEGUIMIENTO
+No basta con derivar.
+Debe verificarse la solución.
+
+7. UNA FRASE FUNDAMENTAL PARA TODO EL EQUIPO
+“Primero dime tu local, tu mesa, la etapa de la jornada y qué ocurrió exactamente.”
+Esta frase debería aparecer incluso como primera respuesta automática del asistente cuando alguien reporte un problema.
+
+8. ATENCIÓN AL PERSONERO BAJO PRESIÓN
+En una elección, los mensajes pueden llegar así:
+“¡Urgente! ¡No me dejan hacer nada!”
+El coordinador no debe responder:
+“¿Qué pasó?”
+Debe estructurar inmediatamente la comunicación:
+Indícame:
+Local de votación. 
+Número de mesa. 
+Etapa: instalación, sufragio o escrutinio. 
+Qué acción concreta te impidieron realizar. 
+Quién adoptó esa decisión. 
+Con esas cinco respuestas se puede diagnosticar el problema.
+
+9. PRINCIPIO DE NO CONFRONTACIÓN
+La misión del personero es fiscalizar, no pelear.
+Por ello:
+OBSERVA
+SOLICITA
+DEJA CONSTANCIA
+REPORTA
+ESCALA
+No:
+GRITA
+AMENAZA
+INTERRUMPE
+CONFRONTA
+El Reglamento prohíbe a los personeros de mesa discutir con electores o miembros de mesa durante la votación, interrumpir indebidamente el escrutinio y realizar proselitismo. También establece restricciones similares para el personero del centro de votación. 
+
+10. MOMENTO CRÍTICO: ESCRUTINIO
+Aquí el sistema de comunicaciones debe entrar en modo máxima atención.
+El Coordinador Distrital debe monitorear:
+Mesas que iniciaron escrutinioMesas que terminaronIncidenciasVotos impugnados reportadosActas obtenidasActas pendientesResultados reportados
+El personero de mesa tiene derecho a presenciar la lectura de votos, examinar las cédulas leídas, formular observaciones o reclamos e impugnar cédulas durante el escrutinio. También puede obtener un acta completa suscrita por los miembros de mesa. 
+
+11. EL COORDINADOR DISTRITAL Y EL CONTEO RÁPIDO
+Si el proyecto utilizará el asistente para transmitir resultados, recomiendo manejar cuatro estados:
+1. ACTA RECIBIDA2. ACTA VALIDADA3. ACTA DIGITADA4. ACTA CONSOLIDADA
+Nunca:
+foto recibida = resultado validado.
+Debe existir doble control entre:
+imagen del acta → digitación → validación.
+Esto reduce errores humanos de transcripción.
+
+12. EL PERSONERO DE LOCAL COMO PRIMER FILTRO
+Aquí hay otro punto importante para tu sistema.
+El nombre normativo es personero del centro de votación. Su función legal es coordinar y dirigir a los personeros de las mesas de ese centro y coordinar con el personal de la ODPE. Su actuación se desarrolla el día de la elección. 
+Por eso, en la arquitectura del asistente yo pondría:
+BOTÓN
+Personero de Local de Votación
+Y debajo, discretamente:
+Personero del Centro de Votación, conforme a la normativa electoral.
+Así usamos un nombre fácil para el usuario, pero mantenemos precisión jurídica.
+
+13. QUÉ NO DEBE HACER EL COORDINADOR DISTRITAL
+No debe sustituir al personero legal.
+No debe interpretar definitivamente controversias jurídicas complejas.
+No debe ordenar una impugnación sin conocer los hechos.
+No debe generar instrucciones contrarias a la normativa electoral.
+No debe permitir que rumores se conviertan en alertas distritales.
+No debe pedir abandonar mesas sin una razón operacional justificada.
+No debe considerar una incidencia resuelta simplemente porque fue derivada.
