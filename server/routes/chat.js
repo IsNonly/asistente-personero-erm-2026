@@ -3,6 +3,7 @@ import { classify } from '../services/classifier.js';
 import { retrieve, buildContextBlock } from '../services/rag.js';
 import { generateAnswer, isAiEnabled } from '../services/ai.js';
 import { findLocalAnswer } from '../services/localAnswer.js';
+import { findArticleText } from '../services/articleText.js';
 
 const router = Router();
 
@@ -36,6 +37,23 @@ router.post('/', async (req, res, next) => {
 
     const text = message.trim();
     const categoria = classify(text);
+
+    // 0) ¿Piden el texto literal de un artículo que ya se citó (o que citan ahora)?
+    const lastAssistantText =
+      Array.isArray(history) && history.length
+        ? [...history].reverse().find((m) => m?.role === 'assistant')?.content || ''
+        : '';
+    const article = findArticleText(text, lastAssistantText);
+    if (article) {
+      return res.json({
+        answer: article.answer,
+        confidence: article.matches.length ? 'green' : null,
+        classification: 'normativa',
+        pending: false,
+        source: article.fuente,
+        origin: 'articulo',
+      });
+    }
 
     // 1) Base de respuestas local con fundamento oficial (no requiere IA).
     const local = findLocalAnswer(text, perfil || null);
