@@ -369,7 +369,9 @@ export function findArticleText(message, lastAssistantText = '') {
   const parts = [];
   if (heavy) {
     parts.push(
-      `Son ${found.length} artículos (mucho texto para mostrar completo aquí); esto es un resumen de cada uno:`
+      found.length === 1
+        ? 'Ese artículo es muy largo para mostrarlo completo aquí; este es un resumen:'
+        : `Son ${found.length} artículos (mucho texto para mostrar completo aquí); esto es un resumen de cada uno:`
     );
     for (const hit of found) {
       const body = hit.text.replace(/^Art[ií]culo\s+[0-9A-Z-]+\.?-?\s*/i, '');
