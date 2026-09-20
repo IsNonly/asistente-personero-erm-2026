@@ -163,6 +163,34 @@ function summarize(text, maxLen = 170) {
   return `${(lastSpace > 40 ? cut.slice(0, lastSpace) : cut).trim()}…`;
 }
 
+// Resumen de un artículo largo: en vez de cortar a la mitad de una oración o de
+// un listado con letras (a., b., c.), busca el primer punto o dos puntos que
+// cierre una idea completa dentro de una ventana razonable, y termina con una
+// frase que remite al texto completo en vez de dejarlo con puntos suspensivos.
+function findSentenceEnd(text, maxLen) {
+  const window = text.slice(0, maxLen);
+  const re = /[.:]\s/g;
+  let m;
+  while ((m = re.exec(window))) {
+    const end = re.lastIndex;
+    if (end < 40) continue; // muy corto para ser un cierre de idea real
+    // Evita marcadores de lista pegados ("a.", "b.", "ii."): la "palabra" justo
+    // antes del punto tiene 1-2 caracteres.
+    const lastWord = window.slice(0, end - 2).match(/(\S+)$/)?.[1] || '';
+    if (lastWord.length <= 2) continue;
+    return window.slice(0, end).trim();
+  }
+  return null;
+}
+
+function summarizeArticle(text) {
+  const lead = findSentenceEnd(text, 320) || summarize(text, 220);
+  const endsClean = /[.:]$/.test(lead);
+  return endsClean
+    ? `${lead} Puedes leer el resto en el texto completo (enlace abajo).`
+    : `${lead} Sigue en el texto completo (enlace abajo).`;
+}
+
 // "TÍTULO I: DISPOSICIONES GENERALES", "CAPÍTULO II", etc. Solo se recorta el
 // rótulo del encabezado (y, si viene pegado en la misma línea, el título en
 // mayúsculas que lo sigue) — nunca el resto de la línea, porque a veces el
@@ -374,7 +402,7 @@ export function findArticleText(message, lastAssistantText = '') {
     found.forEach((hit, i) => {
       const body = hit.text.replace(/^Art[ií]culo\s+[0-9A-Z-]+\.?-?\s*/i, '');
       if (i > 0) parts.push('');
-      parts.push(`Artículo ${hit.num}: ${summarize(body)}`);
+      parts.push(`Artículo ${hit.num}: ${summarizeArticle(body)}`);
     });
     const links = found
       .map((h) => getIndex().get(h.sourceId))
