@@ -294,7 +294,10 @@ export function extractArticleNumbers(text = '') {
 // ya sea nombrando el artículo directamente ("¿qué dice el artículo 6?") o pidiendo
 // la norma citada de forma genérica ("dame ese reglamento", "muéstrame esa ley").
 export function isArticleTextRequest(message = '') {
-  const t = String(message).toLowerCase();
+  // Tolera erratas de tecleo comunes ("regglamento", "damee") colapsando letras
+  // repetidas seguidas antes de comparar; ninguna de las palabras que se buscan
+  // aquí lleva dobles letras de verdad, así que esto no genera falsos positivos.
+  const t = String(message).toLowerCase().replace(/(.)\1+/g, '$1');
   const mentionsArticle = /art(?:í|i)culos?\b/.test(t);
   const mentionsNorma = /\b(reglamento|resoluci[oó]n|normativa|norma|ley)\b/.test(t);
   if (!mentionsArticle && !mentionsNorma) return false;
