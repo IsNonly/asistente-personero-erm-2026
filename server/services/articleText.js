@@ -299,7 +299,7 @@ export function isArticleTextRequest(message = '') {
   const mentionsNorma = /\b(reglamento|resoluci[oó]n|normativa|norma|ley)\b/.test(t);
   if (!mentionsArticle && !mentionsNorma) return false;
   const asksToShow =
-    /(qu[eé]\s+dice|dice\s+el|muestr|mu[eé]stra|ens[eé][ñn]a|texto\s+(completo|literal|del)|cu[aá]l\s+es\s+el\s+contenido|puedes\s+mostrar|c[oó]mo\s+dice|dime\s+qu[eé]\s+dice|leer\s+el|dame|d[aá]melo|d[aá]mela|p[aá]same|p[aá]samelo|mándame|compárte(?:me|lo)|quiero\s+(ver|leer)|env[ií]a(?:me)?)/.test(
+    /(qu[eé]\s+dice|dice\s+el|muestr|mu[eé]stra|ens[eé][ñn]a|texto\s+(completo|literal|del)|cu[aá]l\s+es\s+el\s+contenido|puedes\s+mostrar|c[oó]mo\s+dice|dime|leer\s+el|dame|d[aá]melo|d[aá]mela|p[aá]same|p[aá]samelo|mándame|compárte(?:me|lo)|quiero\s+(ver|leer)|env[ií]a(?:me)?)/.test(
       t
     );
   return asksToShow;

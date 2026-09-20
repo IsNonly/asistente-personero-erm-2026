@@ -614,6 +614,24 @@ select {
   margin-bottom: 4px;
 }
 
+/* Botón para pedir el texto literal de la norma citada sin tener que
+   adivinar cómo escribirlo ("dame ese reglamento", "¿qué dice el artículo?"...). */
+.norm-text-btn {
+  display: block;
+  margin-top: 10px;
+  background: var(--c-surface);
+  border: 1px solid var(--c-primary-light);
+  color: var(--c-primary);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px 14px;
+  border-radius: 999px;
+}
+
+.norm-text-btn:active {
+  background: var(--c-surface-2);
+}
+
 /* ---------- Listas de opciones (¿Qué hago si...? / Jornada) ---------- */
 .option-list {
   display: grid;
