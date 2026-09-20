@@ -368,16 +368,11 @@ export function findArticleText(message, lastAssistantText = '') {
 
   const parts = [];
   if (heavy) {
-    parts.push(
-      found.length === 1
-        ? 'Ese artículo es muy largo para mostrarlo completo aquí; este es un resumen:'
-        : `Son ${found.length} artículos (mucho texto para mostrar completo aquí); esto es un resumen de cada uno:`
-    );
-    for (const hit of found) {
+    found.forEach((hit, i) => {
       const body = hit.text.replace(/^Art[ií]culo\s+[0-9A-Z-]+\.?-?\s*/i, '');
-      parts.push('');
+      if (i > 0) parts.push('');
       parts.push(`Artículo ${hit.num}: ${summarize(body)}`);
-    }
+    });
     const links = found
       .map((h) => getIndex().get(h.sourceId))
       .filter((s, i, arr) => s?.url && arr.findIndex((x) => x.id === s.id) === i)
