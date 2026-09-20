@@ -30,8 +30,11 @@ function renderLine(line, key) {
   return <div key={key}>{line || ' '}</div>;
 }
 
-const MessageBubble = forwardRef(function MessageBubble({ message }, ref) {
+const MessageBubble = forwardRef(function MessageBubble({ message, onRequestNormText }, ref) {
   const isUser = message.role === 'user';
+  // Solo tiene sentido ofrecer "ver el texto de la norma" cuando la respuesta
+  // cita una fuente y todavía no es, ella misma, el texto de un artículo.
+  const canShowNormText = !isUser && message.source && message.origin !== 'articulo';
 
   if (message.typing) {
     return (
@@ -53,6 +56,16 @@ const MessageBubble = forwardRef(function MessageBubble({ message }, ref) {
         )}
 
         {!isUser && message.source && <SourceCard source={message.source} />}
+
+        {canShowNormText && (
+          <button
+            type="button"
+            className="norm-text-btn"
+            onClick={onRequestNormText}
+          >
+            Ver qué dice esta norma
+          </button>
+        )}
 
         {!isUser && message.confidence && CONFIDENCE_TEXT[message.confidence] && (
           <div className={`confidence confidence--${message.confidence}`}>

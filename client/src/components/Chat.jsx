@@ -102,6 +102,7 @@ export default function Chat({ seed }) {
         confidence: res.confidence,
         classification: res.classification,
         source: res.source || null,
+        origin: res.origin || null,
       },
     ]);
     setBusy(false);
@@ -122,6 +123,7 @@ export default function Chat({ seed }) {
             key={m.id}
             message={m}
             ref={i === messages.length - 1 ? lastMessageRef : null}
+            onRequestNormText={() => submit('Muéstrame el texto de esa norma')}
           />
         ))}
         {busy && <MessageBubble message={{ id: 'typing', role: 'assistant', typing: true }} />}
