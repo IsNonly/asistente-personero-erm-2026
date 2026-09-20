@@ -264,13 +264,16 @@ export function extractArticleNumbers(text = '') {
   return [...nums];
 }
 
-// Detecta si el mensaje del usuario está pidiendo el texto de uno o más artículos.
+// Detecta si el mensaje del usuario está pidiendo el texto de uno o más artículos,
+// ya sea nombrando el artículo directamente ("¿qué dice el artículo 6?") o pidiendo
+// la norma citada de forma genérica ("dame ese reglamento", "muéstrame esa ley").
 export function isArticleTextRequest(message = '') {
   const t = String(message).toLowerCase();
   const mentionsArticle = /art(?:í|i)culos?\b/.test(t);
-  if (!mentionsArticle) return false;
+  const mentionsNorma = /\b(reglamento|resoluci[oó]n|normativa|norma|ley)\b/.test(t);
+  if (!mentionsArticle && !mentionsNorma) return false;
   const asksToShow =
-    /(qu[eé]\s+dice|dice\s+el|muestr|mu[eé]stra|ens[eé][ñn]a|texto\s+(completo|literal|del)|cu[aá]l\s+es\s+el\s+contenido|puedes\s+mostrar|c[oó]mo\s+dice|dime\s+qu[eé]\s+dice|leer\s+el)/.test(
+    /(qu[eé]\s+dice|dice\s+el|muestr|mu[eé]stra|ens[eé][ñn]a|texto\s+(completo|literal|del)|cu[aá]l\s+es\s+el\s+contenido|puedes\s+mostrar|c[oó]mo\s+dice|dime\s+qu[eé]\s+dice|leer\s+el|dame|d[aá]melo|d[aá]mela|p[aá]same|p[aá]samelo|mándame|compárte(?:me|lo)|quiero\s+(ver|leer)|env[ií]a(?:me)?)/.test(
       t
     );
   return asksToShow;
