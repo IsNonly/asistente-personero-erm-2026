@@ -22,54 +22,65 @@ const KNOWLEDGE_DIR = path.resolve(__dirname, '../../knowledge');
 // aporta los artículos que falten en el anterior.
 // `alias`: patrones para reconocer la norma mencionada en un mensaje o en una respuesta
 // previa del asistente (para saber a qué ley pertenece el número de artículo pedido).
+// `url`: enlace oficial para leer la norma completa, tomado de los sidecars .json
+// que ya viven en /knowledge (no se inventa ninguno). Se usa cuando no conviene
+// mandar el texto completo por el chat (ver `summarize`/`isHeavyRequest`).
 const SOURCES = [
   {
     id: 'res-0850-2025-jne',
     label: 'Reglamento sobre la Participación de Personeros (Res. 0850-2025-JNE)',
     files: ['JNE/res-0850-2025-jne.txt'],
     alias: [/0850[\s-]?2025[\s-]?jne/i, /reglamento de personeros/i],
+    url: 'https://www.gob.pe/institucion/jne/normas-legales/7906471-0850-2025-jne',
   },
   {
     id: 'res-0852-2025-jne',
     label: 'Reglamento sobre Recuento de Votos (Res. 0852-2025-JNE)',
     files: ['JNE/res-0852-2025-jne.txt'],
     alias: [/0852[\s-]?2025[\s-]?jne/i, /recuento de votos/i],
+    url: 'https://www.gob.pe/institucion/jne/normas-legales',
   },
   {
     id: 'res-0837-2025-jne',
     label: 'Reglamento de actas observadas, votos impugnados y nulidad (Res. 0837-2025-JNE)',
     files: ['JNE/res-0837-2025-jne.txt'],
     alias: [/0837[\s-]?2025[\s-]?jne/i],
+    url: 'https://www.gob.pe/institucion/jne/normas-legales/7906498-0837-2025-jne',
   },
   {
     id: 'res-0844-2025-jne',
     label: 'Reglamento sobre propaganda electoral, publicidad estatal y neutralidad (Res. 0844-2025-JNE)',
     files: ['JNE/res-0844-2025-jne.txt'],
     alias: [/0844[\s-]?2025[\s-]?jne/i],
+    url: 'https://www.gob.pe/institucion/jne/normas-legales',
   },
   {
     id: 'res-0845-2025-jne',
     label: 'Reglamento sobre fiscalización y sanción de conductas prohibidas (Res. 0845-2025-JNE)',
     files: ['JNE/res-0845-2025-jne.txt'],
     alias: [/0845[\s-]?2025[\s-]?jne/i],
+    url: 'https://www.gob.pe/institucion/jne/normas-legales',
   },
   {
     id: 'res-0834-2025-jne',
     label: 'Reglamento sobre encuestas y simulacros de votación (Res. 0834-2025-JNE)',
     files: ['JNE/res-0834-2025-jne.txt'],
     alias: [/0834[\s-]?2025[\s-]?jne/i],
+    url: 'https://www.gob.pe/institucion/jne/normas-legales',
   },
   {
     id: 'res-0839-2025-jne',
     label: 'Reglamento sobre competencias del JNE en voto digital (Res. 0839-2025-JNE)',
     files: ['JNE/res-0839-2025-jne.txt'],
     alias: [/0839[\s-]?2025[\s-]?jne/i],
+    url: 'https://www.gob.pe/institucion/jne/normas-legales/7906495-0839-2025-jne',
   },
   {
     id: 'res-0003-2026-jne',
     label: 'Cronograma electoral actualizado (Res. 0003-2026-JNE)',
     files: ['JNE/res-0003-2026-jne.txt'],
     alias: [/0003[\s-]?2026[\s-]?jne/i],
+    url: 'https://www.gob.pe/institucion/jne/normas-legales',
   },
   {
     id: 'loe-26859',
@@ -78,18 +89,24 @@ const SOURCES = [
     // la versión completa solo se usa para los artículos que el extracto no cubre.
     files: ['LEYES/loe-26859-articulos-clave.txt', 'LEYES/loe-26859-completa.txt'],
     alias: [/ley\s*(n[.°º]?\s*)?26859/i, /\bloe\b/i, /ley org[aá]nica de elecciones/i],
+    url: 'https://www.gob.pe/institucion/jne/normas-legales/8133513-ley-organica-de-elecciones-ley-n-26859',
   },
   {
     id: 'ley-26864',
     label: 'Ley de Elecciones Municipales (Ley N.° 26864)',
     files: ['LEYES/ley-26864-elecciones-municipales.txt'],
     alias: [/ley\s*(n[.°º]?\s*)?26864/i, /elecciones municipales/i],
+    // No hay un sidecar .json con url_oficial para esta ley (a diferencia de las
+    // demás fuentes de esta lista); se enlaza el portal del JNE en general en vez
+    // de adivinar la ruta de un PDF específico.
+    url: 'https://www.jne.gob.pe',
   },
   {
     id: 'ley-27683',
     label: 'Ley de Elecciones Regionales (Ley N.° 27683)',
     files: ['LEYES/ley-27683-elecciones-regionales.txt'],
     alias: [/ley\s*(n[.°º]?\s*)?27683/i, /elecciones regionales/i],
+    url: 'https://www.jne.gob.pe/oc/2025/Compendio-de-Legislacion-Electoral/7-Ley-Elecciones-Regionales-Ley-N27683.pdf',
   },
 ];
 
@@ -135,6 +152,15 @@ function isNoise(line) {
 
 function collapseSpaces(line) {
   return line.replace(/[ \t]{2,}/g, ' ').trim();
+}
+
+// Recorta un texto largo a un adelanto legible (corta en el último espacio antes
+// del límite, para no partir una palabra a la mitad).
+function summarize(text, maxLen = 170) {
+  if (text.length <= maxLen) return text;
+  const cut = text.slice(0, maxLen);
+  const lastSpace = cut.lastIndexOf(' ');
+  return `${(lastSpace > 40 ? cut.slice(0, lastSpace) : cut).trim()}…`;
 }
 
 // "TÍTULO I: DISPOSICIONES GENERALES", "CAPÍTULO II", etc. Solo se recorta el
@@ -333,19 +359,45 @@ export function findArticleText(message, lastAssistantText = '') {
 
   if (found.length === 0 && !unsupportedLabels.length) return null;
 
-  const parts = [];
-  if (impliedByPrevious && found.length) {
-    parts.push(
-      found.length > 1
-        ? 'Esto dice cada artículo que mencioné:'
-        : 'Esto dice el artículo que mencioné:'
-    );
-  }
+  // Cargar el texto completo de muchos artículos (o de uno muy largo, como el que
+  // detalla el contenido de la credencial) es pesado para el chat y para quien
+  // pidió "ese reglamento" completo. En ese caso se manda un resumen de cada uno
+  // y el enlace oficial para leer el texto entero, en vez del texto literal.
+  const combinedLength = found.reduce((sum, h) => sum + h.text.length, 0);
+  const heavy = found.length > 2 || combinedLength > 1200;
 
-  for (const hit of found) {
-    parts.push('');
-    parts.push(`Artículo ${hit.num} — ${hit.label}`);
-    parts.push(`"${hit.text}"`);
+  const parts = [];
+  if (heavy) {
+    parts.push(
+      `Son ${found.length} artículos (mucho texto para mostrar completo aquí); esto es un resumen de cada uno:`
+    );
+    for (const hit of found) {
+      const body = hit.text.replace(/^Art[ií]culo\s+[0-9A-Z-]+\.?-?\s*/i, '');
+      parts.push('');
+      parts.push(`Artículo ${hit.num}: ${summarize(body)}`);
+    }
+    const links = found
+      .map((h) => getIndex().get(h.sourceId))
+      .filter((s, i, arr) => s?.url && arr.findIndex((x) => x.id === s.id) === i)
+      .map((s) => `${s.label}: ${s.url}`);
+    if (links.length) {
+      parts.push('');
+      parts.push(links.length > 1 ? 'Textos completos:' : 'Texto completo:');
+      parts.push(links.join('\n'));
+    }
+  } else {
+    if (impliedByPrevious) {
+      parts.push(
+        found.length > 1
+          ? 'Esto dice cada artículo que mencioné:'
+          : 'Esto dice el artículo que mencioné:'
+      );
+    }
+    for (const hit of found) {
+      parts.push('');
+      parts.push(`Artículo ${hit.num} — ${hit.label}`);
+      parts.push(`"${hit.text}"`);
+    }
   }
 
   if (notFound.length && unsupportedLabels.length) {
