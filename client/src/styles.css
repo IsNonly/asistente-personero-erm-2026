@@ -481,7 +481,7 @@ select {
   gap: 8px;
   overflow-x: auto;
   padding: 10px 14px;
-  margin-bottom: 10px;
+  margin-bottom: 18px;
   scrollbar-width: none;
   -webkit-overflow-scrolling: touch;
   background: var(--c-surface-2);
