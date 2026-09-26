@@ -47,3 +47,10 @@ export async function createIncident(payload) {
 export async function listIncidents() {
   return request('/incidents', { method: 'GET' });
 }
+
+export async function registrarPersonero({ nombre, celular, perfil }) {
+  return request('/registros', {
+    method: 'POST',
+    body: JSON.stringify({ nombre, celular, perfil }),
+  });
+}

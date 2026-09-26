@@ -11,7 +11,7 @@ e incidencias.
 > **no inventa** normativa; cuando no hay fuente oficial suficiente lo indica
 > explícitamente.
 
-> **Funciona sin API de IA.** El chat responde desde una **base local de ~28 respuestas
+> **Funciona sin API de IA.** El chat responde desde una **base local de ~110 respuestas
 > con fuente oficial** (Reglamento de personeros Res. 0850-2025-JNE y Cartilla de
 > instrucciones para personeros ERM 2026 — ONPE). Si activas una clave de IA, las
 > consultas no cubiertas por la base local pasan a Claude + RAG.
@@ -212,6 +212,24 @@ vectorial instala **pgvector** y migra la columna (instrucciones dentro de
 Sin `DATABASE_URL`, el backend funciona igual: las incidencias se guardan en
 memoria del servidor y en `localStorage` del navegador.
 
+
+### Registro de personeros (nombre + celular)
+
+Al abrir la app por primera vez se pide **nombre completo y celular** (9 dígitos,
+empieza con 9). Queda guardado en el dispositivo (`localStorage`), así que no se
+vuelve a pedir; y se envía a `POST /api/registros` junto con el rol elegido.
+Si no hay señal, se reintenta la próxima vez que se abra la app.
+
+- Con `SUPABASE_URL` + `SUPABASE_SERVICE_ROLE_KEY` se guarda en Supabase (tabla
+  `registros`; créala una vez pegando `database/supabase-registros.sql` en el
+  SQL Editor de Supabase). La service_role key va solo en el servidor.
+- Si no, con `DATABASE_URL` se guarda en la tabla `registros` (ver `database/schema.sql`;
+  un celular = un registro, se actualiza si se vuelve a registrar).
+- Sin `DATABASE_URL` se guarda solo en memoria del servidor (se pierde al reiniciar).
+- Para ver la lista: define `ADMIN_TOKEN` y abre
+  `/api/registros?token=TU_TOKEN` (JSON) o `/api/registros?token=TU_TOKEN&formato=csv`
+  (descarga para Excel). Sin `ADMIN_TOKEN` la lista no se puede consultar.
+
 ---
 
 ## Cómo continuar con RAG
@@ -294,7 +312,7 @@ vercel --prod   # producción
 - [x] Formulario de "Reportar incidencia" (guardado local / BD)
 - [x] Modo Jornada Electoral
 - [x] Diseño responsive (Android, iPhone, tablet, computadora)
-- [x] Chat funcional **sin API de IA** (base local con ~28 respuestas y fuente oficial)
+- [x] Chat funcional **sin API de IA** (base local con ~110 respuestas y fuente oficial)
 - [x] Estructura preparada para IA (prompt maestro, clasificador, perfiles)
 - [x] Estructura preparada para RAG (`/knowledge`, `rag.js`, `embeddings.js`, chunks)
 - [x] Base de datos preparada (`database/schema.sql`)

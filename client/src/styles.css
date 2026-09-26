@@ -326,15 +326,43 @@ select {
 }
 
 .persona-card__label {
+  display: block;
   font-size: 17px;
   font-weight: 800;
   color: var(--c-primary-dark);
 }
 
 .persona-card__desc {
+  display: block;
   font-size: 13px;
   color: var(--c-text-soft);
   margin-top: 2px;
+}
+
+/* ---------- Registro (nombre + celular) ---------- */
+.registro-card {
+  background: rgba(255, 255, 255, 0.97);
+  border-radius: var(--radius-lg);
+  padding: 22px 18px 18px;
+  box-shadow: var(--shadow);
+}
+
+.registro-card .form-field input {
+  font-size: 16px; /* evita el zoom automático de iOS al enfocar */
+}
+
+.registro-card__error {
+  color: var(--c-red);
+  font-size: 13px;
+  font-weight: 600;
+  margin: -4px 0 12px;
+}
+
+.registro-card__note {
+  color: var(--c-text-soft);
+  font-size: 12px;
+  margin: 12px 0 0;
+  text-align: center;
 }
 
 /* ---------- Chat ---------- */
