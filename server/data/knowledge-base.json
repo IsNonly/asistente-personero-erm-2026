@@ -115,6 +115,13 @@
         "entidad": "ONPE",
         "numero": "Folleto informativo ERM 2026",
         "archivo": "knowledge/ONPE/miembro-mesa.pdf"
+      },
+      {
+        "id": "banco-depurado-personeros",
+        "titulo": "Banco depurado para el Asistente del Personero — ERM 2026 (40 preguntas en 7 bloques)",
+        "entidad": "Documento interno de capacitación (no es norma oficial)",
+        "numero": "Versión depurada con correcciones y fundamento normativo",
+        "archivo": "knowledge/OTROS/banco-depurado-asistente-personero.txt"
       }
     ],
     "advertencia": "Verifica siempre la versión vigente publicada por el JNE y la ONPE. Este contenido es una guía y no reemplaza la lectura de la norma oficial."
@@ -2334,6 +2341,905 @@
         "coordinador_zonal",
         "coordinador_distrital"
       ]
+    },
+    {
+      "id": "bd-funcion-personero-mesa",
+      "categoria": "deberes",
+      "keywords": [
+        "cual es la funcion del personero de mesa",
+        "que describe mejor la funcion del personero",
+        "para que sirve el personero de mesa",
+        "el personero dirige la eleccion",
+        "describe mejor la funcion del personero de mesa",
+        "mejor la funcion del personero"
+      ],
+      "respuesta": "La función del personero de mesa es representar a su organización política y fiscalizar el desarrollo de la jornada dentro de sus atribuciones: puede presenciar y fiscalizar la instalación, el sufragio y el escrutinio; observar, reclamar e impugnar en los casos previstos, y obtener un acta completa. No reemplaza a los miembros de mesa: no dirige la elección, fiscaliza que el procedimiento se cumpla y que la voluntad expresada en la mesa quede correctamente registrada.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16.",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 1.",
+      "puedes": [
+        "Presenciar y fiscalizar instalación, sufragio y escrutinio.",
+        "Formular observaciones, reclamos e impugnaciones en los casos previstos.",
+        "Obtener un acta completa suscrita por los miembros de mesa."
+      ],
+      "no_debes": [
+        "Asumir funciones de los miembros de mesa o dirigir la mesa."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-documentos-identificarse-mesa",
+      "categoria": "acreditacion",
+      "keywords": [
+        "que documentos debe presentar el personero",
+        "documentos para identificarme ante la mesa",
+        "credencial impresa",
+        "credencial digital",
+        "tengo que imprimir la credencial",
+        "con que me identifico ante la mesa"
+      ],
+      "sinonimos": [
+        "fotocheck",
+        "carnet de personero"
+      ],
+      "respuesta": "El personero se identifica ante la mesa con su DNI y la credencial que acredita su condición de personero. Para los personeros reconocidos por el JEE, la credencial visada digitalmente puede usarse por medios electrónicos, así que no es una regla general que deba estar necesariamente impresa (llevarla impresa sigue siendo una buena precaución).",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 25 (credencial del personero).",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 25 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 2.",
+      "puedes": [
+        "Llevar DNI y credencial (en físico o en formato digital visado).",
+        "Verificar con tu PCV o CD, antes de la jornada, que tu credencial esté lista."
+      ],
+      "no_debes": [
+        "Presentarte sin la credencial correspondiente."
+      ],
+      "incidencia": "Si la mesa pone reparos a tu credencial, avisa de inmediato a tu PCV/CD para que un problema documental no deje la mesa sin cobertura.",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-llegar-mesa-ya-instalada",
+      "categoria": "acreditacion",
+      "keywords": [
+        "llego cuando la mesa ya esta instalada",
+        "la mesa ya se instalo puedo ejercer",
+        "llegue tarde a la mesa",
+        "puedo incorporarme durante la jornada",
+        "llego tarde puedo ser personero",
+        "personero acreditado llega cuando la mesa ya esta instalada",
+        "llega cuando la mesa ya esta instalada",
+        "puede ejercer sus funciones"
+      ],
+      "respuesta": "Sí. Un personero acreditado puede incorporarse durante la jornada aunque la mesa ya esté instalada. Además, vencido el plazo ordinario ante el JEE, el personero legal puede acreditar directamente al personero de mesa ante el presidente de mesa el mismo día de la elección.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 30.",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 30 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 3.",
+      "puedes": [
+        "Incorporarte a la mesa en cuanto llegues, presentando DNI y credencial."
+      ],
+      "no_debes": [
+        "Dar por perdida la cobertura de la mesa por haber llegado tarde."
+      ],
+      "incidencia": "Si un personero no llega, el PCV debe activar de inmediato el reemplazo o la regularización.",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-conducta-prohibida-manipular-material",
+      "categoria": "prohibiciones",
+      "keywords": [
+        "conducta prohibida al personero",
+        "puedo tocar el material electoral",
+        "manipular material electoral",
+        "puedo tocar las cedulas",
+        "puedo marcar las cedulas",
+        "cual de estas conductas esta prohibida",
+        "conductas esta prohibida al personero",
+        "conducta esta prohibida"
+      ],
+      "respuesta": "Al personero le está prohibido manipular el material electoral. Durante el escrutinio puede examinar las cédulas leídas, pero no alterarlas, marcarlas ni destruirlas. Regla operativa: mirar sí, fiscalizar sí; tocar o alterar, no.",
+      "base_normativa": "LOE (Ley 26859), art. 281 · Reglamento de personeros (Res. 0850-2025-JNE), art. 20.",
+      "fuente": "LOE (Ley 26859), art. 281 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 20 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 4.",
+      "puedes": [
+        "Examinar el contenido de las cédulas leídas en el escrutinio."
+      ],
+      "no_debes": [
+        "Tocar, marcar, anotar, alterar o destruir cédulas o material electoral."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-preguntar-preferencia-elector",
+      "categoria": "prohibiciones",
+      "keywords": [
+        "preguntar al elector por quien votara",
+        "puedo preguntar por quien vota",
+        "preguntar al votante su voto",
+        "preferencia electoral del elector",
+        "pregunta a un elector por quien votara",
+        "por quien votara",
+        "es correcto preguntar"
+      ],
+      "respuesta": "No. Está prohibido preguntar al elector por su preferencia electoral. La prohibición alcanza tanto a los personeros de centro de votación como a los personeros de mesa: ninguna fiscalización debe interferir con la libertad ni con el secreto del voto.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 20.",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 20 · ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 12 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 5.",
+      "puedes": [],
+      "no_debes": [
+        "Preguntar a un elector por quién votará o por quién votó.",
+        "Interferir con la libertad o el secreto del voto."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-retiro-personero-perturba",
+      "categoria": "prohibiciones",
+      "keywords": [
+        "que pasa si el personero perturba",
+        "pueden retirar al personero",
+        "los miembros de mesa me pueden retirar",
+        "personero incumple prohibiciones",
+        "retiro del personero por decision unanime"
+      ],
+      "sinonimos": [
+        "expulsar",
+        "botar"
+      ],
+      "respuesta": "Si un personero incumple las prohibiciones y perturba la jornada, los miembros de mesa pueden disponer su retiro, pero por decisión unánime. El personero excluido (o que se ausenta) puede ser reemplazado por otro personero de la misma organización, con la acreditación correspondiente.",
+      "base_normativa": "LOE (Ley 26859) · Reglamento de personeros (Res. 0850-2025-JNE), arts. 20 y 32-34.",
+      "fuente": "LOE (Ley 26859) · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), arts. 20 y 32-34 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 6.",
+      "puedes": [
+        "Mantener una conducta estrictamente procedimental si hay riesgo de retiro."
+      ],
+      "no_debes": [
+        "Entrar en confrontación con los miembros de mesa."
+      ],
+      "incidencia": "Si el personero es retirado, el PCV debe activar inmediatamente al reemplazo.",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-verificar-instalacion-camara-secreta",
+      "categoria": "instalacion",
+      "keywords": [
+        "que puede verificar el personero en la instalacion",
+        "camara secreta correctamente acondicionada",
+        "verificar la camara secreta",
+        "durante la instalacion que puede verificar el personero",
+        "que puede verificar el personero"
+      ],
+      "respuesta": "Durante la instalación, el personero puede verificar que la cámara secreta esté correctamente acondicionada. Es una facultad reconocida al personero de mesa.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16 · ONPE — Cartilla de personeros ERM 2026, pág. 7.",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 7 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 7.",
+      "puedes": [
+        "Detectar la irregularidad antes de que empiece el sufragio.",
+        "Formular la observación y procurar su corrección."
+      ],
+      "no_debes": [
+        "Acondicionar tú mismo la cámara secreta o mover material."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-ubicacion-relacion-electores",
+      "categoria": "instalacion",
+      "keywords": [
+        "donde debe estar la relacion de electores",
+        "ubicacion de la relacion de electores",
+        "relacion de electores en la entrada del aula",
+        "donde debe encontrarse la padron",
+        "donde debe encontrarse",
+        "en la entrada del aula"
+      ],
+      "respuesta": "La Relación de electores debe estar en la entrada del aula. Verifícalo durante la instalación; no esperes a que empiece la votación.",
+      "base_normativa": "ONPE — Cartilla de personeros ERM 2026, pág. 7.",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 7 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 8.",
+      "puedes": [
+        "Revisarlo durante la instalación y observarlo si falta."
+      ],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-ubicacion-cartel-candidatos",
+      "categoria": "instalacion",
+      "keywords": [
+        "donde debe estar el cartel de candidatos",
+        "ubicacion del cartel de candidatos",
+        "cartel de candidatos en la camara secreta"
+      ],
+      "respuesta": "El Cartel de candidatos debe estar en la cámara secreta. Durante el acondicionamiento de la cámara secreta se fijan los carteles correspondientes.",
+      "base_normativa": "LOE (Ley 26859) · ONPE — Cartilla de personeros ERM 2026, pág. 7.",
+      "fuente": "LOE (Ley 26859) · ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 7 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 9.",
+      "puedes": [
+        "Verificar que el cartel esté fijado antes de iniciar el sufragio."
+      ],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-firma-cedulas-acta-instalacion",
+      "categoria": "instalacion",
+      "keywords": [
+        "es obligatorio firmar las cedulas",
+        "firmar el acta de instalacion",
+        "tengo que firmar las cedulas",
+        "firma del personero es obligatoria",
+        "es obligatorio que el personero firme",
+        "personero firme las cedulas y el acta de instalacion",
+        "firme las cedulas"
+      ],
+      "respuesta": "No es obligatorio: el personero puede firmar las cédulas y el acta de instalación si lo desea. La LOE y el Reglamento lo reconocen como una facultad, no como una obligación. Pero facultativo no significa irrelevante: conviene entender para qué sirve cada firma antes de decidir.",
+      "base_normativa": "LOE (Ley 26859) · Reglamento de personeros (Res. 0850-2025-JNE), art. 16.",
+      "fuente": "LOE (Ley 26859) · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 10.",
+      "puedes": [
+        "Firmar las cédulas y el acta de instalación si lo consideras útil."
+      ],
+      "no_debes": [
+        "Confundir 'facultativo' con 'irrelevante'."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-irregularidad-instalacion",
+      "categoria": "instalacion",
+      "keywords": [
+        "irregularidad durante la instalacion",
+        "que hago si hay una irregularidad en la instalacion",
+        "problema en la instalacion de la mesa",
+        "advierte una irregularidad durante la instalacion",
+        "que actuacion corresponde"
+      ],
+      "respuesta": "Ante una irregularidad durante la instalación, corresponde formular la observación o reclamo ante la mesa. Identifica el hecho, formula el reclamo y procura que quede registrado cuando corresponda.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16.",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 11.",
+      "puedes": [
+        "Formular la observación o reclamo ante la mesa.",
+        "Procurar que quede registrado en el acta."
+      ],
+      "no_debes": [
+        "Corregir personalmente el material.",
+        "Discutir o confrontar con los miembros de mesa."
+      ],
+      "incidencia": "Avisa a tu PCV con la hora, la mesa y el hecho.",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-nulidad-instalacion-despues-12",
+      "categoria": "nulidad",
+      "keywords": [
+        "mesa se instala despues de las 12",
+        "instalacion despues de las doce",
+        "instalaron tarde la mesa nulidad",
+        "363 literal a",
+        "mesa instalada en lugar distinto",
+        "instalaron la mesa tarde",
+        "instalaron la mesa a la 1",
+        "instalacion tardia de la mesa"
+      ],
+      "respuesta": "Si la mesa se instala después de las 12:00 m. sin justificación, o ello impide el libre ejercicio del sufragio, el personero puede solicitar la nulidad de la votación de la mesa (art. 363, literal a, de la LOE). Atención: no basta con decir 'solicito nulidad'; hay que seguir el procedimiento completo.\nPM (personero de mesa): plantea el pedido ante la propia mesa y exige que quede consignado en el acta.\nPCV (personero de centro de votación): confirma que efectivamente quedó escrito.\nCD (coordinador distrital): registra hora, mesa, hechos y evidencia, y escala de inmediato al personero legal.\nPersonero legal: lo fundamenta por escrito ante el JEE, con la tasa, dentro de los 3 días calendario siguientes al día de la elección.\nSi el pedido no quedó en el acta, o no se fundamenta con tasa ante el JEE, se declara improcedente.",
+      "base_normativa": "LOE (Ley 26859), art. 363 lit. a · Res. 0838-2025-JNE, numeral 1.",
+      "fuente": "LOE (Ley 26859), art. 363 · JNE — Res. 0838-2025-JNE · Banco depurado para el Asistente del Personero ERM 2026, pregunta 12.",
+      "puedes": [
+        "Plantear el pedido de nulidad ante la propia mesa.",
+        "Exigir que quede consignado en el acta electoral."
+      ],
+      "no_debes": [
+        "Guardarte el pedido para después: si no queda en el acta, es improcedente."
+      ],
+      "incidencia": "Es una incidencia crítica: escala de inmediato al PCV y al CD para que el personero legal lo fundamente ante el JEE en 3 días calendario.",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-que-puede-hacer-sufragio",
+      "categoria": "sufragio",
+      "keywords": [
+        "que puede hacer el personero durante el sufragio",
+        "durante la votacion que puedo hacer",
+        "presenciar el acto de sufragio",
+        "durante el sufragio que puede hacer el personero de mesa",
+        "durante el sufragio que puede hacer"
+      ],
+      "respuesta": "Durante el sufragio, el personero de mesa puede presenciar el acto de sufragio y fiscalizarlo, respetando siempre el secreto y la libertad del elector.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16 · ONPE — Cartilla de personeros ERM 2026, pág. 8.",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 8 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 13.",
+      "puedes": [
+        "Presenciar y fiscalizar la votación."
+      ],
+      "no_debes": [
+        "Interferir con el secreto o la libertad del voto."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-personero-vota-misma-mesa",
+      "categoria": "sufragio",
+      "keywords": [
+        "cuando vota el personero",
+        "el personero vota en la misma mesa",
+        "me toca votar en la mesa donde soy personero",
+        "personero puede votar",
+        "le corresponde votar en la misma mesa",
+        "votar en la misma mesa donde ejerce funciones",
+        "cuando puede votar"
+      ],
+      "respuesta": "Si al personero le corresponde votar en la misma mesa donde ejerce funciones, vota después de los miembros de mesa. Hazlo sin abandonar innecesariamente la cobertura de la mesa.",
+      "base_normativa": "ONPE — Cartilla de personeros ERM 2026, pág. 8.",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 8 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 14.",
+      "puedes": [
+        "Votar después de los miembros de mesa."
+      ],
+      "no_debes": [
+        "Dejar la mesa sin cobertura más tiempo del necesario."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-firma-lista-electores-acta-sufragio",
+      "categoria": "sufragio",
+      "keywords": [
+        "firmar la ultima pagina de la lista de electores",
+        "firmar el acta de sufragio",
+        "puedo firmar la lista de electores"
+      ],
+      "respuesta": "Sí, si lo desea. La firma del personero en la última página de la Lista de electores y en el Acta de sufragio es facultativa.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16 · ONPE — Cartilla de personeros ERM 2026, pág. 8.",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 8 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 15.",
+      "puedes": [
+        "Firmar la Lista de electores y el Acta de sufragio si lo deseas."
+      ],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-elector-apoyo-accesibilidad",
+      "categoria": "sufragio",
+      "keywords": [
+        "elector necesita apoyo para votar",
+        "accesibilidad para votar",
+        "persona con discapacidad acompanada",
+        "persona de su confianza camara secreta"
+      ],
+      "respuesta": "Una persona con discapacidad, a su solicitud, puede ingresar a la cámara secreta acompañada por una persona de su confianza, quien debe asistirla respetando su autonomía.",
+      "base_normativa": "LOE (Ley 26859), art. 263.",
+      "fuente": "LOE (Ley 26859), art. 263 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 16.",
+      "puedes": [
+        "Fiscalizar que la asistencia no se convierta en interferencia indebida."
+      ],
+      "no_debes": [
+        "Obstaculizar un derecho de accesibilidad."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-presenciar-modulo-temporal",
+      "categoria": "sufragio",
+      "keywords": [
+        "presenciar la votacion en el modulo temporal",
+        "puedo estar en el modulo temporal de votacion",
+        "personero en el mtv"
+      ],
+      "respuesta": "Sí. El personero puede presenciar la votación en el Módulo Temporal de Votación, respetando la autonomía, la privacidad y la voluntad del elector. Es una regla operativa recogida en la cartilla de personeros de la ONPE para las ERM 2026.",
+      "base_normativa": "ONPE — Cartilla de personeros ERM 2026, pág. 9.",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 9 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 17.",
+      "puedes": [
+        "Presenciar la votación en el MTV."
+      ],
+      "no_debes": [
+        "Invadir la privacidad del elector o influir en su voto."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-nulidad-violencia-miembros-mesa",
+      "categoria": "nulidad",
+      "keywords": [
+        "miembros de mesa ejercen violencia",
+        "intimidacion de los miembros de mesa",
+        "miembros de mesa intimidan a los electores",
+        "363 literal c"
+      ],
+      "respuesta": "Si los miembros de mesa ejercen violencia o intimidación sobre los electores para inclinar la votación a favor de una organización política, el personero puede solicitar la nulidad de la votación de la mesa (art. 363, literal c, de la LOE), con el mismo protocolo crítico:\nPM (personero de mesa): plantea el pedido ante la propia mesa y exige que quede consignado en el acta.\nPCV (personero de centro de votación): confirma que efectivamente quedó escrito.\nCD (coordinador distrital): registra hora, mesa, hechos y evidencia, y escala de inmediato al personero legal.\nPersonero legal: lo fundamenta por escrito ante el JEE, con la tasa, dentro de los 3 días calendario siguientes al día de la elección.\nSi el pedido no quedó en el acta, o no se fundamenta con tasa ante el JEE, se declara improcedente.",
+      "base_normativa": "LOE (Ley 26859), art. 363 lit. c · Res. 0838-2025-JNE, numeral 1.",
+      "fuente": "LOE (Ley 26859), art. 363 · JNE — Res. 0838-2025-JNE · Banco depurado para el Asistente del Personero ERM 2026, pregunta 18.",
+      "puedes": [
+        "Plantear el pedido de nulidad ante la propia mesa y hacerlo consignar en el acta."
+      ],
+      "no_debes": [
+        "Responder con confrontación física o verbal."
+      ],
+      "incidencia": "Es una incidencia crítica: el CD registra hora, mesa, hechos y evidencia disponible y escala de inmediato.",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-elector-trans-expresion-genero",
+      "categoria": "sufragio",
+      "keywords": [
+        "persona trans no binaria expresion de genero",
+        "expresion de genero no coincide con la foto",
+        "impedir votar a una persona trans"
+      ],
+      "respuesta": "No. Que la expresión de género de una persona trans o no binaria no coincida con los datos o la fotografía que esperan terceros no es, por sí sola, motivo para impedirle votar. La ONPE aprobó en abril de 2026 la versión 04 del Protocolo para la atención de personas Trans y No-Binarias en la Jornada Electoral.",
+      "base_normativa": "ONPE — Protocolo para la atención de personas Trans y No-Binarias (v. 04, abril 2026) · Cartilla de personeros ERM 2026, pág. 13.",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 13 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 19.",
+      "puedes": [
+        "Si hay una duda real sobre la identidad, usar el procedimiento formal de impugnación de identidad."
+      ],
+      "no_debes": [
+        "Impugnar por prejuicios o únicamente por la expresión de género."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-cuando-impugnar-identidad",
+      "categoria": "votos_impugnados",
+      "keywords": [
+        "cuando puede un personero impugnar la identidad",
+        "cuando puedo impugnar la identidad de un elector",
+        "elector no es quien dice ser"
+      ],
+      "respuesta": "El personero puede impugnar la identidad de un elector cuando considera fundadamente que no es quien dice ser. Formulada la impugnación, los miembros de mesa la resuelven de inmediato. No es una herramienta para obstaculizar electores: debe responder a una duda real de identidad.",
+      "base_normativa": "LOE (Ley 26859), arts. 268-270.",
+      "fuente": "LOE (Ley 26859), arts. 268-270 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 20.",
+      "puedes": [
+        "Impugnar solo ante una duda fundada de identidad."
+      ],
+      "no_debes": [
+        "Usar la impugnación para demorar u obstaculizar a los electores."
+      ],
+      "incidencia": "Recuerda: si la impugnación se declara infundada, la mesa te impone una multa (art. 270 LOE).",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-impugnacion-identidad-infundada",
+      "categoria": "votos_impugnados",
+      "keywords": [
+        "impugnacion de identidad declarada infundada",
+        "impugnacion de identidad infundada multa",
+        "multa por impugnar identidad",
+        "si no se apela la impugnacion de identidad",
+        "impugnacion de identidad es declarada infundada",
+        "declarada infundada y no se apela"
+      ],
+      "respuesta": "Si la impugnación de identidad se declara infundada y no se apela, el elector emite su voto y la decisión se registra en el Acta de sufragio. Además, la mesa impone una multa a quien formuló la impugnación, que se anota en el Acta de sufragio para su posterior cobranza por el JNE. Por eso no conviene impugnar de forma improvisada.",
+      "base_normativa": "LOE (Ley 26859), arts. 268 y 270.",
+      "fuente": "LOE (Ley 26859), arts. 268 y 270 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 21.",
+      "puedes": [],
+      "no_debes": [
+        "Impugnar identidades sin fundamento: la impugnación infundada acarrea multa."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-apelar-impugnacion-identidad-sobre",
+      "categoria": "votos_impugnados",
+      "keywords": [
+        "apelo la impugnacion de identidad",
+        "que pasa con la cedula y el dni",
+        "sobre especial de impugnacion de identidad",
+        "apelacion de impugnacion de identidad",
+        "personero apela una impugnacion de identidad",
+        "que ocurre con la cedula y el dni"
+      ],
+      "respuesta": "Si el personero apela, se admite que el elector vote y el presidente de mesa guarda la cédula junto con el DNI en un sobre especial, con la impresión digital y el nombre del elector impugnado. El sobre se remite al JEE con la resolución de la mesa, y en la Lista de electores se deja constancia de la impugnación.",
+      "base_normativa": "LOE (Ley 26859), arts. 268 y 269.",
+      "fuente": "LOE (Ley 26859), arts. 268 y 269 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 22.",
+      "puedes": [
+        "Verificar que el procedimiento se cumpla.",
+        "Firmar el sobre cuando corresponda."
+      ],
+      "no_debes": [
+        "Manipular el sobre especial."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-negativa-firmar-sobre-impugnacion",
+      "categoria": "votos_impugnados",
+      "keywords": [
+        "se niega a firmar el sobre de impugnacion",
+        "no firmo el sobre de impugnacion",
+        "desistimiento de la impugnacion"
+      ],
+      "respuesta": "La negativa del personero impugnante a firmar el sobre de impugnación se considera desistimiento de la impugnación. Si hay más de un personero impugnante, basta que firme uno para que la impugnación subsista. Si impugnas y decides mantener la impugnación, no omitas la firma.",
+      "base_normativa": "LOE (Ley 26859), art. 269.",
+      "fuente": "LOE (Ley 26859), art. 269 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 23.",
+      "puedes": [
+        "Firmar el sobre si quieres mantener la impugnación."
+      ],
+      "no_debes": [
+        "Negarte a firmar si no quieres desistir."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-derecho-examinar-cedulas",
+      "categoria": "escrutinio",
+      "keywords": [
+        "que derecho tiene el personero durante el escrutinio",
+        "examinar las cedulas leidas",
+        "puedo ver las cedulas en el escrutinio",
+        "durante el escrutinio que derecho tiene el personero",
+        "que derecho tiene el personero"
+      ],
+      "respuesta": "Durante el escrutinio, el personero tiene derecho a examinar el contenido de cada cédula leída, y los miembros de mesa están obligados a permitirlo, bajo responsabilidad. Es el momento de máxima concentración: no basta con escuchar el resultado, hay que observar cada cédula y su clasificación.",
+      "base_normativa": "LOE (Ley 26859), art. 281.",
+      "fuente": "LOE (Ley 26859), art. 281 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 24.",
+      "puedes": [
+        "Examinar cada cédula leída y su clasificación."
+      ],
+      "no_debes": [
+        "Obstaculizar el escrutinio o marcar/anotar las cédulas (puede ser denunciado ante el fiscal)."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-acercar-silla-escrutinio",
+      "categoria": "escrutinio",
+      "keywords": [
+        "acercar mi silla a la mesa",
+        "puedo acercarme a la mesa en el escrutinio",
+        "silla cerca de la mesa",
+        "acercar su silla a la mesa",
+        "acercar su silla",
+        "acercar la silla"
+      ],
+      "respuesta": "Sí, el personero puede acercar su silla a la mesa durante el escrutinio, siempre que no interfiera con las funciones de los miembros de mesa. Regla: visibilidad suficiente para fiscalizar, cero interferencia.",
+      "base_normativa": "ONPE — Cartilla de personeros ERM 2026, pág. 13.",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 13 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 25.",
+      "puedes": [
+        "Ubicarte donde puedas ver bien las cédulas."
+      ],
+      "no_debes": [
+        "Interferir con el trabajo de los miembros de mesa."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-estructura-cedula-lima-distritos",
+      "categoria": "escrutinio",
+      "keywords": [
+        "como esta estructurada la cedula municipal",
+        "cedula en los distritos de lima",
+        "cedula municipal provincial distrital",
+        "columnas de la cedula"
+      ],
+      "respuesta": "En los distritos de Lima Metropolitana, excepto el Cercado, la cédula municipal tiene dos componentes electorales: la elección municipal provincial y la elección municipal distrital. La ONPE aprobó en julio de 2026 los modelos definitivos, incluido el modelo Municipal Provincial–Distrital para las ERM 2026. En el Cercado de Lima se usa cédula municipal provincial.",
+      "base_normativa": "ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital).",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital) · Banco depurado para el Asistente del Personero ERM 2026, pregunta 26.",
+      "puedes": [],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-escrutinio-columnas-independientes",
+      "categoria": "escrutinio",
+      "keywords": [
+        "como se escrutan las columnas",
+        "columnas de elecciones distintas",
+        "escrutinio de cada columna",
+        "acta con dos tipos de eleccion"
+      ],
+      "respuesta": "Las columnas correspondientes a elecciones distintas se escrutan de manera independiente. El Reglamento de actas define incluso el acta con dos tipos de elección como la que contiene la elección municipal provincial y la municipal distrital. Nunca traslades automáticamente la clasificación de una columna a la otra.",
+      "base_normativa": "Res. 0837-2025-JNE (definiciones) · ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital).",
+      "fuente": "JNE — Res. 0837-2025-JNE · ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital) · Banco depurado para el Asistente del Personero ERM 2026, pregunta 27.",
+      "puedes": [
+        "Evaluar cada columna por separado."
+      ],
+      "no_debes": [
+        "Aplicar a una columna la clasificación de la otra."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-marca-voto-valido-interseccion",
+      "categoria": "escrutinio",
+      "keywords": [
+        "que marca constituye un voto valido",
+        "la marca se salio del cuadrado",
+        "punto de interseccion",
+        "aspa o cruz fuera del recuadro",
+        "marca sobrepasa el recuadro",
+        "cual de estas marcas constituye un voto valido",
+        "marcas constituye un voto valido"
+      ],
+      "respuesta": "Es voto válido una cruz (+) o un aspa (×) cuyo punto de intersección esté dentro del recuadro correspondiente. La marca puede incluso sobrepasar el recuadro sin invalidar el voto, siempre que el punto de intersección quede dentro. La pregunta clave no es '¿se salió del cuadrado?', sino '¿dónde está el punto de intersección?'.",
+      "base_normativa": "LOE (Ley 26859), art. 262.",
+      "fuente": "LOE (Ley 26859), art. 262 · ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital) · Banco depurado para el Asistente del Personero ERM 2026, pregunta 28.",
+      "puedes": [
+        "Verificar dónde está el punto de intersección de cada marca."
+      ],
+      "no_debes": [
+        "Aceptar que se anule un voto solo porque la marca se salió del recuadro."
+      ],
+      "incidencia": "Si la mesa anula un voto con la intersección dentro del recuadro, impúgnalo en ese momento.",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-voto-en-blanco-columna",
+      "categoria": "escrutinio",
+      "keywords": [
+        "que caracteriza un voto en blanco",
+        "voto en blanco en una columna",
+        "cuando es voto en blanco"
+      ],
+      "respuesta": "Un voto es en blanco en una columna cuando no presenta ninguna marca en los recuadros de las organizaciones políticas de esa columna. Cada elección se evalúa de manera independiente.",
+      "base_normativa": "ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital).",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital) · Banco depurado para el Asistente del Personero ERM 2026, pregunta 29.",
+      "puedes": [],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-dos-marcas-misma-columna",
+      "categoria": "escrutinio",
+      "keywords": [
+        "marca dos organizaciones en la misma columna",
+        "dos simbolos marcados",
+        "marco dos partidos",
+        "voto con dos marcas"
+      ],
+      "respuesta": "Si en una misma columna el elector marca los símbolos de dos organizaciones políticas, ese voto es nulo. Ante un desacuerdo con la clasificación, resuélvelo procedimentalmente impugnando la cédula, no con confrontación.",
+      "base_normativa": "ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital).",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital) · Banco depurado para el Asistente del Personero ERM 2026, pregunta 30.",
+      "puedes": [
+        "Impugnar la cédula si no estás de acuerdo con la clasificación."
+      ],
+      "no_debes": [
+        "Discutir o confrontar con la mesa."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-valido-provincial-blanco-distrital",
+      "categoria": "escrutinio",
+      "keywords": [
+        "valido en la provincial y nada en la distrital",
+        "provincial valido distrital en blanco",
+        "una columna marcada y la otra no",
+        "voto valido en la columna provincial y ninguna marca en la distrital",
+        "ninguna marca en la distrital",
+        "columna provincial y ninguna marca"
+      ],
+      "respuesta": "Se entiende como voto provincial válido y voto distrital en blanco. Que haya dos elecciones en la misma cédula no significa que toda la cédula reciba una sola clasificación.",
+      "base_normativa": "Res. 0837-2025-JNE · ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital).",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital) · Banco depurado para el Asistente del Personero ERM 2026, pregunta 31.",
+      "puedes": [],
+      "no_debes": [
+        "Clasificar toda la cédula con un solo criterio."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-impugnar-voto-calificado-nulo",
+      "categoria": "votos_impugnados",
+      "keywords": [
+        "la mesa califico como nulo un voto valido",
+        "voto valido declarado nulo",
+        "impugnar el voto en el momento",
+        "cuando se impugna un voto",
+        "considera valido un voto que la mesa califico como nulo",
+        "la mesa califico como nulo"
+      ],
+      "respuesta": "Debes impugnar el voto en ese mismo momento. La LOE permite al personero impugnar una o varias cédulas y obliga a la mesa a resolver de inmediato. Regla crítica: la impugnación es en el momento; no esperes al final del escrutinio.",
+      "base_normativa": "LOE (Ley 26859), art. 282.",
+      "fuente": "LOE (Ley 26859), art. 282 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 32.",
+      "puedes": [
+        "Impugnar la cédula apenas se clasifique."
+      ],
+      "no_debes": [
+        "Esperar al final del escrutinio para reclamar."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-quien-resuelve-impugnacion-voto",
+      "categoria": "votos_impugnados",
+      "keywords": [
+        "quien resuelve la impugnacion de un voto",
+        "quien decide la impugnacion del voto",
+        "resuelve por mayoria",
+        "quien resuelve inicialmente la impugnacion de un voto",
+        "resuelve inicialmente la impugnacion"
+      ],
+      "respuesta": "La impugnación de un voto la resuelven inicialmente los miembros de mesa, de inmediato y por mayoría.",
+      "base_normativa": "LOE (Ley 26859), arts. 282 y 283.",
+      "fuente": "LOE (Ley 26859), arts. 282 y 283 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 33.",
+      "puedes": [],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-impugnacion-voto-infundada",
+      "categoria": "votos_impugnados",
+      "keywords": [
+        "impugnacion de voto declarada infundada",
+        "impugnacion de voto infundada sin apelacion",
+        "que pasa si declaran infundada mi impugnacion",
+        "impugnacion de voto es declarada infundada",
+        "declarada infundada y no existe apelacion",
+        "no existe apelacion"
+      ],
+      "respuesta": "Si la impugnación de un voto se declara infundada y no se apela, se procede a escrutar la cédula.",
+      "base_normativa": "LOE (Ley 26859), art. 282.",
+      "fuente": "LOE (Ley 26859), art. 282 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 34.",
+      "puedes": [
+        "Apelar verbalmente si no estás de acuerdo, y exigir que conste en el acta."
+      ],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-apelacion-impugnacion-voto-sobre",
+      "categoria": "votos_impugnados",
+      "keywords": [
+        "apelo la impugnacion del voto",
+        "impugnacion de voto declarada fundada",
+        "apelacion verbal de la impugnacion",
+        "cedula no se escruta sobre especial",
+        "personero apela la decision o la impugnacion es declarada fundada",
+        "la impugnacion es declarada fundada",
+        "apela la decision"
+      ],
+      "respuesta": "Si el personero apela verbalmente una impugnación declarada infundada, la apelación debe constar expresamente en el acta; la cédula no se escruta y se coloca en un sobre especial que se envía al JEE. El mismo tratamiento recibe una impugnación declarada fundada. Luego el JEE trata el acta con votos impugnados conforme a la Res. 0837-2025-JNE.",
+      "base_normativa": "LOE (Ley 26859), art. 282 · Res. 0837-2025-JNE.",
+      "fuente": "LOE (Ley 26859), art. 282 · JNE — Res. 0837-2025-JNE · Banco depurado para el Asistente del Personero ERM 2026, pregunta 35.",
+      "puedes": [
+        "Verificar el sobre especial y la constancia en el acta."
+      ],
+      "no_debes": [
+        "Decir simplemente 'se cuenta como voto impugnado' sin verificar la constancia."
+      ],
+      "incidencia": "PCV confirma el reporte; CD registra mesa, tipo de elección y número de votos impugnados.",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-nulidad-electores-no-lista",
+      "categoria": "nulidad",
+      "keywords": [
+        "permitio votar a personas no incluidas",
+        "impidio votar a quienes figuraban",
+        "votaron personas que no estaban en la lista",
+        "363 literal d"
+      ],
+      "respuesta": "Si la mesa admitió votos de personas que no figuraban en la Lista de electores, o rechazó votos de quienes sí figuraban, en número suficiente para variar el resultado, el personero puede solicitar la nulidad de la votación de la mesa sustentando los hechos (art. 363, literal d, de la LOE). No basta con decir 'solicito nulidad':\nPM (personero de mesa): plantea el pedido ante la propia mesa y exige que quede consignado en el acta.\nPCV (personero de centro de votación): confirma que efectivamente quedó escrito.\nCD (coordinador distrital): registra hora, mesa, hechos y evidencia, y escala de inmediato al personero legal.\nPersonero legal: lo fundamenta por escrito ante el JEE, con la tasa, dentro de los 3 días calendario siguientes al día de la elección.\nSi el pedido no quedó en el acta, o no se fundamenta con tasa ante el JEE, se declara improcedente.",
+      "base_normativa": "LOE (Ley 26859), art. 363 lit. d · Res. 0838-2025-JNE, numeral 1.",
+      "fuente": "LOE (Ley 26859), art. 363 · JNE — Res. 0838-2025-JNE · Banco depurado para el Asistente del Personero ERM 2026, pregunta 36.",
+      "puedes": [
+        "Plantear la nulidad ante la mesa y hacerla constar en el acta."
+      ],
+      "no_debes": [
+        "Dejar el pedido para después del cierre."
+      ],
+      "incidencia": "Es una incidencia crítica: activa el protocolo y escalar de inmediato al personero legal.",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-solicitar-copia-acta",
+      "categoria": "actas",
+      "keywords": [
+        "puedo solicitar una copia del acta electoral",
+        "copia del acta si llego durante el escrutinio",
+        "me dan copia del acta",
+        "solicitar una copia del acta electoral",
+        "incluso durante el escrutinio"
+      ],
+      "respuesta": "Sí, incluso si te presentas durante el escrutinio. El Reglamento reconoce al personero de mesa el derecho a obtener un acta completa suscrita por los miembros de mesa. Obtenerla y transmitirla es una tarea crítica del cierre de mesa.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16 lit. i.",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 lit. i · Banco depurado para el Asistente del Personero ERM 2026, pregunta 37.",
+      "puedes": [
+        "Pedir tu ejemplar del acta completa y firmada."
+      ],
+      "no_debes": [
+        "Retirarte sin la copia del acta."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-checklist-acta",
+      "categoria": "actas",
+      "keywords": [
+        "que verificar al recibir la copia del acta",
+        "checklist del acta",
+        "revisar la copia del acta",
+        "que deberia verificar el personero al recibir su copia del acta",
+        "verificar al recibir su copia del acta",
+        "al recibir su copia del acta",
+        "que verifico en el acta",
+        "que reviso en el acta"
+      ],
+      "respuesta": "Al recibir tu copia del acta, verifica que corresponda a tu mesa, sea legible y contenga los datos, resultados, anotaciones y firmas correspondientes. Checklist: número de mesa → elección correcta → resultados legibles → observaciones → firmas → fotografía completa → envío al centro de comando. Ojo: este checklist es una regla operativa, no el texto literal de una norma.",
+      "base_normativa": "Reglamento de personeros (Res. 0850-2025-JNE), art. 16 lit. i · Res. 0837-2025-JNE (definición de acta electoral).",
+      "fuente": "JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 lit. i · JNE — Res. 0837-2025-JNE · Banco depurado para el Asistente del Personero ERM 2026, pregunta 38.",
+      "puedes": [
+        "Fotografiar el acta completa y enviarla al centro de comando."
+      ],
+      "no_debes": [
+        "Aceptar un acta ilegible o de otra mesa sin observarlo."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-incidencia-escrutinio-constancia",
+      "categoria": "escrutinio",
+      "keywords": [
+        "incidencia relevante durante el escrutinio",
+        "que hago si hay un problema en el escrutinio",
+        "dejar constancia en el acta",
+        "durante el escrutinio ocurre una incidencia relevante",
+        "ocurre una incidencia relevante",
+        "que facultad tiene el personero"
+      ],
+      "respuesta": "Ante una incidencia relevante durante el escrutinio, el personero puede formular observaciones o reclamos y procurar que el hecho quede debidamente consignado. Lo que no queda registrado puede ser mucho más difícil de sustentar después, sobre todo en nulidades e impugnaciones.",
+      "base_normativa": "LOE (Ley 26859), arts. 282-283 · Reglamento de personeros (Res. 0850-2025-JNE), art. 16.",
+      "fuente": "LOE (Ley 26859), arts. 282-283 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 39.",
+      "puedes": [
+        "Formular la observación o reclamo y pedir que conste en el acta."
+      ],
+      "no_debes": [
+        "Dejar pasar el hecho sin registrarlo."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-acta-observada-definicion-tecnica",
+      "categoria": "actas_observadas",
+      "keywords": [
+        "definicion de acta observada",
+        "acta observada vs acta con voto impugnado",
+        "diferencia entre acta observada impugnada y nulidad",
+        "error material en el acta",
+        "acta observada definicion tecnica"
+      ],
+      "respuesta": "Técnicamente, un acta observada es el ejemplar del acta electoral correspondiente a la ODPE que no puede ser contabilizado en el sistema de cómputo electoral por presentar error material. No hay que mezclar tres situaciones distintas: acta observada ≠ acta con voto impugnado ≠ acta con solicitud de nulidad; cada una tiene un tratamiento específico ante la ODPE y el JEE.",
+      "base_normativa": "Res. 0837-2025-JNE, art. 5 lit. f.",
+      "fuente": "JNE — Res. 0837-2025-JNE, art. 5 · Banco depurado para el Asistente del Personero ERM 2026, pregunta 40.",
+      "puedes": [],
+      "no_debes": [
+        "Confundir acta observada, acta con voto impugnado y acta con solicitud de nulidad."
+      ],
+      "incidencia": "",
+      "confianza": "green"
+    },
+    {
+      "id": "bd-cinco-reglas-cerebro",
+      "categoria": "deberes",
+      "keywords": [
+        "reglas de oro del personero",
+        "5 reglas del personero",
+        "cinco reglas",
+        "reglas basicas del personero",
+        "que debo recordar siempre"
+      ],
+      "respuesta": "Cinco reglas para actuar siempre: 1) Actúa en el momento: la impugnación de cédula se formula durante el escrutinio, no después. 2) No confundas observación, impugnación y nulidad: son instituciones distintas con consecuencias distintas. 3) Deja constancia cuando el procedimiento lo exija: las nulidades de mesa por los literales a), c) y d) del art. 363 de la LOE deben plantearse ante la propia mesa y quedar consignadas en el acta. 4) No excedas tu competencia: el personero de centro coordina, no sustituye al de mesa; el coordinador distrital dirige la operación interna, pero no adquiere por ese cargo facultades legales frente a la mesa. 5) El acta es el documento crítico del cierre: debe obtenerse, verificarse, registrarse y transmitirse correctamente.",
+      "base_normativa": "LOE (Ley 26859), arts. 282 y 363 · Reglamento de personeros (Res. 0850-2025-JNE), art. 16 · Res. 0838-2025-JNE.",
+      "fuente": "LOE (Ley 26859), arts. 282 y 363 · JNE — Reglamento sobre la participación de personeros (Res. 0850-2025-JNE), art. 16 · Banco depurado para el Asistente del Personero ERM 2026, pregunta final (5 reglas).",
+      "puedes": [],
+      "no_debes": [],
+      "incidencia": "",
+      "confianza": "green"
     }
   ]
 }

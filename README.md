@@ -11,7 +11,7 @@ e incidencias.
 > **no inventa** normativa; cuando no hay fuente oficial suficiente lo indica
 > explícitamente.
 
-> **Funciona sin API de IA.** El chat responde desde una **base local de ~28 respuestas
+> **Funciona sin API de IA.** El chat responde desde una **base local de ~110 respuestas
 > con fuente oficial** (Reglamento de personeros Res. 0850-2025-JNE y Cartilla de
 > instrucciones para personeros ERM 2026 — ONPE). Si activas una clave de IA, las
 > consultas no cubiertas por la base local pasan a Claude + RAG.
@@ -294,7 +294,7 @@ vercel --prod   # producción
 - [x] Formulario de "Reportar incidencia" (guardado local / BD)
 - [x] Modo Jornada Electoral
 - [x] Diseño responsive (Android, iPhone, tablet, computadora)
-- [x] Chat funcional **sin API de IA** (base local con ~28 respuestas y fuente oficial)
+- [x] Chat funcional **sin API de IA** (base local con ~110 respuestas y fuente oficial)
 - [x] Estructura preparada para IA (prompt maestro, clasificador, perfiles)
 - [x] Estructura preparada para RAG (`/knowledge`, `rag.js`, `embeddings.js`, chunks)
 - [x] Base de datos preparada (`database/schema.sql`)
