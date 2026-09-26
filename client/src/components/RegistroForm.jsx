@@ -25,9 +25,19 @@ export default function RegistroForm() {
     <div className="selector">
       <h1 className="selector__title">Asistente del Personero — ERM 2026</h1>
       <p className="selector__subtitle">
-        Tu guía rápida para actuar con seguridad en cada etapa del proceso electoral.
-        Para ingresar, regístrate con tu nombre y tu número de celular.
+        El equipo de Profesionales ha desarrollado esta interfaz gratuita para que sea
+        tu asistente digital en este proceso electoral. Identifícate y haz uso
+        responsable de este recurso.
       </p>
+
+      <div className="registro-logo">
+        <img
+          src="/logo-profesionales-con-techito.webp"
+          alt="Profesionales con Techito (Equipo de Estrella)"
+          width="1560"
+          height="517"
+        />
+      </div>
 
       <form className="registro-card" onSubmit={onSubmit} noValidate>
         <div className="form-field">

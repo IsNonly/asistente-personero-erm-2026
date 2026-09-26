@@ -340,6 +340,20 @@ select {
 }
 
 /* ---------- Registro (nombre + celular) ---------- */
+.registro-logo {
+  background: #fff;
+  border-radius: var(--radius-lg);
+  padding: 12px 14px;
+  margin: 0 0 18px;
+  box-shadow: var(--shadow);
+}
+
+.registro-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .registro-card {
   background: rgba(255, 255, 255, 0.97);
   border-radius: var(--radius-lg);
