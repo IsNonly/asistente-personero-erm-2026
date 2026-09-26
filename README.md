@@ -220,7 +220,10 @@ empieza con 9). Queda guardado en el dispositivo (`localStorage`), así que no s
 vuelve a pedir; y se envía a `POST /api/registros` junto con el rol elegido.
 Si no hay señal, se reintenta la próxima vez que se abra la app.
 
-- Con `DATABASE_URL` se guarda en la tabla `registros` (ver `database/schema.sql`;
+- Con `SUPABASE_URL` + `SUPABASE_SERVICE_ROLE_KEY` se guarda en Supabase (tabla
+  `registros`; créala una vez pegando `database/supabase-registros.sql` en el
+  SQL Editor de Supabase). La service_role key va solo en el servidor.
+- Si no, con `DATABASE_URL` se guarda en la tabla `registros` (ver `database/schema.sql`;
   un celular = un registro, se actualiza si se vuelve a registrar).
 - Sin `DATABASE_URL` se guarda solo en memoria del servidor (se pierde al reiniciar).
 - Para ver la lista: define `ADMIN_TOKEN` y abre

@@ -1,5 +1,6 @@
 import { Router } from 'express';
 import { isDbEnabled, query } from '../db.js';
+import { isSupabaseEnabled, supabaseRequest } from '../services/supabase.js';
 
 const router = Router();
 
@@ -42,6 +43,19 @@ router.post('/', async (req, res, next) => {
       return res.status(400).json({ error: 'Ingresa un celular válido de 9 dígitos (empieza con 9).' });
     }
 
+    // 1) Supabase (SUPABASE_URL + SUPABASE_SERVICE_ROLE_KEY)
+    if (isSupabaseEnabled()) {
+      const row = { nombre, celular, actualizado_en: new Date().toISOString() };
+      if (perfil) row.perfil = perfil; // si no viene, no pisa el rol ya guardado
+      const rows = await supabaseRequest('registros?on_conflict=celular', {
+        method: 'POST',
+        body: row,
+        prefer: 'resolution=merge-duplicates,return=representation',
+      });
+      return res.status(201).json({ storage: 'supabase', id: rows[0].id, creado_en: rows[0].creado_en });
+    }
+
+    // 2) PostgreSQL directo (DATABASE_URL)
     if (isDbEnabled()) {
       const r = await query(
         `INSERT INTO registros (nombre, celular, perfil)
@@ -84,7 +98,14 @@ router.get('/', async (req, res, next) => {
     }
 
     let items;
-    if (isDbEnabled()) {
+    let storage = 'memory';
+    if (isSupabaseEnabled()) {
+      items = await supabaseRequest(
+        'registros?select=id,nombre,celular,perfil,creado_en,actualizado_en&order=creado_en.desc'
+      );
+      storage = 'supabase';
+    } else if (isDbEnabled()) {
+      storage = 'database';
       const r = await query(
         `SELECT id, nombre, celular, perfil, creado_en, actualizado_en
          FROM registros ORDER BY creado_en DESC`
@@ -104,7 +125,7 @@ router.get('/', async (req, res, next) => {
       return res.send('﻿' + rows.join('\n'));
     }
 
-    res.json({ storage: isDbEnabled() ? 'database' : 'memory', total: items.length, items });
+    res.json({ storage, total: items.length, items });
   } catch (err) {
     next(err);
   }

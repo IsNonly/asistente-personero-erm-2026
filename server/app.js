@@ -7,6 +7,7 @@ import incidentsRouter from './routes/incidents.js';
 import documentsRouter from './routes/documents.js';
 import registrosRouter from './routes/registros.js';
 import { isDbEnabled } from './db.js';
+import { isSupabaseEnabled } from './services/supabase.js';
 import { isAiEnabled } from './services/ai.js';
 import { KB_META, KB_COUNT } from './services/localAnswer.js';
 
@@ -30,6 +31,7 @@ app.get('/api/health', (req, res) => {
     ok: true,
     ai: isAiEnabled(),
     database: isDbEnabled(),
+    supabase: isSupabaseEnabled(),
     knowledge_base: { entradas: KB_COUNT, fuentes: (KB_META.fuentes || []).length },
     proceso: 'ERM 2026',
   });
