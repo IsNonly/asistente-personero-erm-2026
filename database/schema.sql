@@ -79,6 +79,16 @@ CREATE TABLE IF NOT EXISTS incidents (
 );
 CREATE INDEX IF NOT EXISTS idx_incidents_categoria ON incidents(categoria);
 
+-- ---------- Registro de personeros (nombre + celular al entrar a la app) ----------
+CREATE TABLE IF NOT EXISTS registros (
+  id              BIGSERIAL PRIMARY KEY,
+  nombre          TEXT NOT NULL,
+  celular         TEXT NOT NULL UNIQUE,           -- 9 dígitos, sin +51
+  perfil          TEXT,                           -- personero_mesa | personero_local | coordinador_zonal | coordinador_distrital
+  creado_en       TIMESTAMPTZ DEFAULT now(),
+  actualizado_en  TIMESTAMPTZ DEFAULT now()
+);
+
 -- ---------- Sesiones ----------
 CREATE TABLE IF NOT EXISTS sessions (
   id          TEXT PRIMARY KEY,

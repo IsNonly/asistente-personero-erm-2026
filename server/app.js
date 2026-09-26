@@ -5,6 +5,7 @@ import cors from 'cors';
 import chatRouter from './routes/chat.js';
 import incidentsRouter from './routes/incidents.js';
 import documentsRouter from './routes/documents.js';
+import registrosRouter from './routes/registros.js';
 import { isDbEnabled } from './db.js';
 import { isAiEnabled } from './services/ai.js';
 import { KB_META, KB_COUNT } from './services/localAnswer.js';
@@ -37,6 +38,7 @@ app.get('/api/health', (req, res) => {
 app.use('/api/chat', chatRouter);
 app.use('/api/incidents', incidentsRouter);
 app.use('/api/documents', documentsRouter);
+app.use('/api/registros', registrosRouter);
 
 // Manejo de errores centralizado
 app.use((err, req, res, next) => {

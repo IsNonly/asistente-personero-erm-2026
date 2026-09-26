@@ -212,6 +212,21 @@ vectorial instala **pgvector** y migra la columna (instrucciones dentro de
 Sin `DATABASE_URL`, el backend funciona igual: las incidencias se guardan en
 memoria del servidor y en `localStorage` del navegador.
 
+
+### Registro de personeros (nombre + celular)
+
+Al abrir la app por primera vez se pide **nombre completo y celular** (9 dígitos,
+empieza con 9). Queda guardado en el dispositivo (`localStorage`), así que no se
+vuelve a pedir; y se envía a `POST /api/registros` junto con el rol elegido.
+Si no hay señal, se reintenta la próxima vez que se abra la app.
+
+- Con `DATABASE_URL` se guarda en la tabla `registros` (ver `database/schema.sql`;
+  un celular = un registro, se actualiza si se vuelve a registrar).
+- Sin `DATABASE_URL` se guarda solo en memoria del servidor (se pierde al reiniciar).
+- Para ver la lista: define `ADMIN_TOKEN` y abre
+  `/api/registros?token=TU_TOKEN` (JSON) o `/api/registros?token=TU_TOKEN&formato=csv`
+  (descarga para Excel). Sin `ADMIN_TOKEN` la lista no se puede consultar.
+
 ---
 
 ## Cómo continuar con RAG

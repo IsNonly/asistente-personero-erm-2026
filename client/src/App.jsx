@@ -1,5 +1,6 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 import PersoneroSelector from './components/PersoneroSelector.jsx';
+import RegistroForm from './components/RegistroForm.jsx';
 import BottomNavigation from './components/BottomNavigation.jsx';
 import Home from './pages/Home.jsx';
 import ChatPage from './pages/ChatPage.jsx';
@@ -11,11 +12,11 @@ import ModoJornada from './pages/ModoJornada.jsx';
 import { usePersonero } from './context/PersoneroContext.jsx';
 
 export default function App() {
-  const { isReady } = usePersonero();
+  const { isReady, isRegistered } = usePersonero();
 
   return (
     <div className="app-shell">
-      {!isReady && <PersoneroSelector />}
+      {!isRegistered ? <RegistroForm /> : !isReady && <PersoneroSelector />}
 
       <Routes>
         <Route path="/" element={<Home />} />
