@@ -27,6 +27,27 @@ function renderLine(line, key) {
       </div>
     );
   }
+  // Lista numerada ("1. texto"): número a la izquierda y el texto con sangría,
+  // para que los renglones largos no se metan debajo del número.
+  const num = line.match(/^(\d+)\.\s+(.*)$/);
+  if (num) {
+    return (
+      <div key={key} className="line-item">
+        <span className="line-item__n">{num[1]}.</span>
+        <span>{num[2]}</span>
+      </div>
+    );
+  }
+  // Viñeta dentro de un punto numerado ("   • texto").
+  const sub = line.match(/^\s*•\s+(.*)$/);
+  if (sub) {
+    return (
+      <div key={key} className="line-item line-item--sub">
+        <span className="line-item__n">•</span>
+        <span>{sub[1]}</span>
+      </div>
+    );
+  }
   return <div key={key}>{line || ' '}</div>;
 }
 

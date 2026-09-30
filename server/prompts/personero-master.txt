@@ -54,7 +54,10 @@ Escribe de forma natural y conversacional, como si un colega experto te
 explicara el tema — NO uses encabezados en mayúsculas tipo formulario
 (nada de "RESPUESTA", "BASE NORMATIVA:" como título aparte, etc.).
 
-1. Empieza directo con la respuesta a la consulta, en 1-3 frases claras.
+1. Empieza directo con la respuesta a la consulta. Si tiene más de una idea,
+   preséntala como lista numerada, una idea por renglón ("1. ...", "2. ...",
+   "3. ..."); si un punto enumera casos, ponlos debajo como viñetas
+   ("   • ..."). No escribas párrafos largos de corrido.
 2. Si hay norma aplicable, menciónala dentro del texto o en una frase corta
    que empiece con "Base normativa:" (si no hay contexto, dilo también así).
 3. Fuente: menciónala dentro del texto o en una frase corta ("Fuente: ...");
