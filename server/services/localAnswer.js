@@ -169,9 +169,86 @@ export function findLocalAnswer(message, perfilId = null) {
 // formulario): el texto va directo, y "base normativa"/"incidencia" se leen
 // como una frase, no como una etiqueta. Las listas de qué puedes/no debes
 // hacer sí llevan su propio renglón para que se puedan escanear rápido.
+// Abreviaturas tras las que un punto NO cierra la oración.
+const ABBREV = new Set(
+  'n nº no art arts res lit inc núm num pág págs pp sr sra dr dra ee uu etc ej aprox'.split(' ')
+);
+
+// Divide un texto en oraciones sin cortar en abreviaturas ("art. 16",
+// "N.° 0850", "Res. 0837") ni dentro de paréntesis o comillas.
+export function splitSentences(text = '') {
+  const out = [];
+  let buf = '';
+  let depth = 0;
+  let quote = false;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    buf += ch;
+    if (ch === '(') depth++;
+    else if (ch === ')') depth = Math.max(0, depth - 1);
+    else if (ch === '"' || ch === '“' || ch === '”') quote = ch === '“' ? true : ch === '”' ? false : !quote;
+    if ((ch === '.' || ch === '!' || ch === '?') && depth === 0 && !quote) {
+      const rest = text.slice(i + 1);
+      if (!/^\s+["“'¿¡]?[A-ZÁÉÍÓÚÑ]/.test(rest)) continue; // lo que sigue no empieza oración
+      const word = (buf.match(/([A-Za-zÁÉÍÓÚÑáéíóúñº]+)\.$/) || [])[1];
+      const isHora = /\b[ap]\.\s?m\.$/i.test(buf); // "5:00 p. m." sí cierra oración
+      if (ch === '.' && word && !isHora && (ABBREV.has(word.toLowerCase()) || word.length === 1)) continue;
+      out.push(buf.trim());
+      buf = '';
+    }
+  }
+  if (buf.trim()) out.push(buf.trim());
+  return out;
+}
+
+// "Voto nulo, cuando en una misma columna: a; b; o c." -> encabezado + viñetas.
+function splitEnumeration(sentence) {
+  const m = sentence.match(/^([^:]{3,120}):\s+(.+)$/);
+  if (!m) return null;
+  const items = m[2].split(/;\s+/);
+  if (items.length < 3) return null;
+  const clean = items.map((x, i) => {
+    let t = x.trim().replace(/^(y|o|e|u)\s+/i, '');
+    if (i === items.length - 1) t = t.replace(/\.$/, '');
+    return t.charAt(0).toUpperCase() + t.slice(1);
+  });
+  return { head: `${m[1]}:`, items: clean };
+}
+
+// Convierte la respuesta en lista numerada (una idea por renglón) para que se
+// lea rápido en el celular. Las respuestas de una sola oración quedan igual; si
+// la primera oración es un "Sí"/"No" directo, va arriba como respuesta corta.
+export function toNumberedList(text = '') {
+  const sentences = String(text)
+    .split('\n')
+    .flatMap((p) => splitSentences(p.trim()))
+    .filter(Boolean);
+  if (sentences.length <= 1) return String(text).trim();
+
+  const lines = [];
+  if (/^(sí|no)[,.]/i.test(sentences[0]) || /:$/.test(sentences[0])) {
+    lines.push(sentences.shift());
+  }
+  if (sentences.length === 1) {
+    lines.push(sentences[0]);
+    return lines.join('\n');
+  }
+  sentences.forEach((s, i) => {
+    const en = splitEnumeration(s);
+    if (en) {
+      lines.push(`${i + 1}. ${en.head}`);
+      en.items.forEach((it) => lines.push(`   • ${it}`));
+    } else {
+      lines.push(`${i + 1}. ${s}`);
+    }
+  });
+  return lines.join('\n');
+}
+
 function formatEntry(entry, loose = false) {
   const parts = [];
-  parts.push(entry.respuesta);
+  // Saludo/despedida no llevan lista: son una frase conversacional.
+  parts.push(entry.mostrar_confianza === false ? entry.respuesta : toNumberedList(entry.respuesta));
 
   if (entry.base_normativa) {
     parts.push('');
