@@ -32,6 +32,7 @@ const SYNONYMS = [
   [/\b(sufragar|puedo sufragar|va a sufragar)\b/g, 'votar'],
   [/\b(padron electoral|relacion de electores|lista de votantes)\b/g, 'padron'],
   [/\b(segunda vuelta|balotaje|ballotage|runoff)\b/g, 'segunda eleccion'],
+  [/\b(invalido|invalida|invalidos|invalidas|anulado|anulada)\b/g, 'nulo'],
 ];
 
 // Quita acentos y signos, pasa a minúsculas.
@@ -284,6 +285,8 @@ function formatEntry(entry, loose = false) {
     answer: parts.join('\n'),
     base_normativa: entry.base_normativa || null,
     fuente: entry.fuente || null,
+    imagen: entry.imagen || null,
+    imagen_alt: entry.imagen_alt || null,
   };
 }
 

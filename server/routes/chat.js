@@ -64,6 +64,8 @@ router.post('/', async (req, res, next) => {
         classification: local.classification || categoria,
         pending: false,
         source: local.fuente || null,
+        image: local.imagen || null,
+        image_alt: local.imagen_alt || null,
         origin: 'local',
         match: local.matchId,
       });

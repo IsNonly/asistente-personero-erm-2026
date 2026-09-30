@@ -70,6 +70,19 @@ const MessageBubble = forwardRef(function MessageBubble({ message, onRequestNorm
       <div className={`bubble ${isUser ? 'bubble--user' : 'bubble--assistant'}`}>
         <div>{message.text.split('\n').map(renderLine)}</div>
 
+        {!isUser && message.image && (
+          <a
+            className="bubble-image"
+            href={message.image}
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Toca para ver la imagen en grande"
+          >
+            <img src={message.image} alt={message.imageAlt || 'Imagen de ejemplo'} loading="lazy" />
+            <span className="bubble-image__hint">Ejemplo · toca para ampliar</span>
+          </a>
+        )}
+
         {!isUser && message.classification && (
           <span className="chip-class">
             {CATEGORIA_LABEL[message.classification] || message.classification}
