@@ -102,6 +102,8 @@ export default function Chat({ seed }) {
         confidence: res.confidence,
         classification: res.classification,
         source: res.source || null,
+        image: res.image || null,
+        imageAlt: res.image_alt || null,
         origin: res.origin || null,
       },
     ]);

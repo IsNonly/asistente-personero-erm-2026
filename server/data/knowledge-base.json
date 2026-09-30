@@ -1279,20 +1279,17 @@
       "categoria": "escrutinio",
       "keywords": [
         "tipos de voto",
-        "cuando un voto es valido",
-        "cuando un voto es nulo",
-        "voto en blanco que es",
-        "que hace nulo un voto",
+        "tipos de votos",
+        "clases de voto",
         "voto valido nulo o en blanco",
+        "valido nulo o en blanco",
         "como se califica un voto",
-        "la marca esta fuera del recuadro",
-        "cedula rota es nula",
-        "voto con dos marcas"
+        "como se clasifican los votos",
+        "un voto es valido nulo o en blanco",
+        "valido nulo y en blanco",
+        "diferencia entre voto valido nulo y blanco"
       ],
       "sinonimos": [
-        "valido",
-        "nulo",
-        "blanco",
         "recuadro",
         "aspa",
         "cruz"
@@ -2954,7 +2951,9 @@
         "aspa o cruz fuera del recuadro",
         "marca sobrepasa el recuadro",
         "cual de estas marcas constituye un voto valido",
-        "marcas constituye un voto valido"
+        "marcas constituye un voto valido",
+        "que marca constituye",
+        "estas marcas constituye"
       ],
       "respuesta": "Es voto válido una cruz (+) o un aspa (×) cuyo punto de intersección esté dentro del recuadro correspondiente. La marca puede incluso sobrepasar el recuadro sin invalidar el voto, siempre que el punto de intersección quede dentro. La pregunta clave no es '¿se salió del cuadrado?', sino '¿dónde está el punto de intersección?'.",
       "base_normativa": "LOE (Ley 26859), art. 262.",
@@ -2966,7 +2965,9 @@
         "Aceptar que se anule un voto solo porque la marca se salió del recuadro."
       ],
       "incidencia": "Si la mesa anula un voto con la intersección dentro del recuadro, impúgnalo en ese momento.",
-      "confianza": "green"
+      "confianza": "green",
+      "imagen": "/ejemplos/voto-valido.svg",
+      "imagen_alt": "Ejemplos de voto válido: aspa dentro del recuadro, y cruz que se sale del recuadro pero con el cruce dentro."
     },
     {
       "id": "bd-voto-en-blanco-columna",
@@ -2974,7 +2975,8 @@
       "keywords": [
         "que caracteriza un voto en blanco",
         "voto en blanco en una columna",
-        "cuando es voto en blanco"
+        "que caracteriza un voto",
+        "caracteriza un voto en blanco"
       ],
       "respuesta": "Un voto es en blanco en una columna cuando no presenta ninguna marca en los recuadros de las organizaciones políticas de esa columna. Cada elección se evalúa de manera independiente.",
       "base_normativa": "ONPE — Cartilla de instrucciones para personeros ERM 2026, Tipo 1 (Municipal Provincial Distrital).",
@@ -2982,7 +2984,9 @@
       "puedes": [],
       "no_debes": [],
       "incidencia": "",
-      "confianza": "green"
+      "confianza": "green",
+      "imagen": "/ejemplos/voto-en-blanco.svg",
+      "imagen_alt": "Ejemplos de voto en blanco: columna sin marcas, y cédula con voto válido en la provincial y en blanco en la distrital."
     },
     {
       "id": "bd-dos-marcas-misma-columna",
@@ -3003,7 +3007,9 @@
         "Discutir o confrontar con la mesa."
       ],
       "incidencia": "",
-      "confianza": "green"
+      "confianza": "green",
+      "imagen": "/ejemplos/voto-nulo.svg",
+      "imagen_alt": "Ejemplos de voto nulo: cruce fuera del recuadro, signo distinto, dos organizaciones marcadas y nombre del elector escrito."
     },
     {
       "id": "bd-valido-provincial-blanco-distrital",
@@ -3024,7 +3030,9 @@
         "Clasificar toda la cédula con un solo criterio."
       ],
       "incidencia": "",
-      "confianza": "green"
+      "confianza": "green",
+      "imagen": "/ejemplos/voto-en-blanco.svg",
+      "imagen_alt": "Ejemplos de voto en blanco: columna sin marcas, y cédula con voto válido en la provincial y en blanco en la distrital."
     },
     {
       "id": "bd-impugnar-voto-calificado-nulo",
@@ -3035,7 +3043,10 @@
         "impugnar el voto en el momento",
         "cuando se impugna un voto",
         "considera valido un voto que la mesa califico como nulo",
-        "la mesa califico como nulo"
+        "la mesa califico como nulo",
+        "valido declarado nulo",
+        "declararon nulo un voto valido",
+        "la mesa lo declaro nulo"
       ],
       "respuesta": "Debes impugnar el voto en ese mismo momento. La LOE permite al personero impugnar una o varias cédulas y obliga a la mesa a resolver de inmediato. Regla crítica: la impugnación es en el momento; no esperes al final del escrutinio.",
       "base_normativa": "LOE (Ley 26859), art. 282.",
@@ -3240,6 +3251,88 @@
       "no_debes": [],
       "incidencia": "",
       "confianza": "green"
+    },
+    {
+      "id": "voto-valido",
+      "categoria": "escrutinio",
+      "keywords": [
+        "voto valido",
+        "cuando es voto valido",
+        "cuando un voto es valido",
+        "que es un voto valido",
+        "cuando se sabe que es voto valido",
+        "como se si un voto es valido",
+        "cuando vale un voto",
+        "el voto vale"
+      ],
+      "respuesta": "Un voto es válido cuando está marcado con una cruz (+) o un aspa (×) cuyo cruce de líneas queda dentro del recuadro del símbolo de una organización política. La marca puede ser tenue o remarcada, e incluso sobrepasar el recuadro: lo que importa es que el punto de cruce quede dentro. También es válido votar por una organización en una columna y por otra distinta en otra columna, porque cada elección se escruta por separado.",
+      "base_normativa": "LOE (Ley 26859), art. 262 · Cartilla de personeros ERM 2026 (ONPE), pág. 15.",
+      "fuente": "LOE (Ley 26859), art. 262 · ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 15.",
+      "puedes": [
+        "Fijarte en dónde está el punto de cruce de cada marca."
+      ],
+      "no_debes": [
+        "Aceptar que se anule un voto solo porque la marca se salió del recuadro."
+      ],
+      "incidencia": "Si la mesa declara nulo un voto que es válido, impúgnalo en ese momento (art. 282 de la LOE).",
+      "confianza": "green",
+      "imagen": "/ejemplos/voto-valido.svg",
+      "imagen_alt": "Ejemplos de voto válido: aspa dentro del recuadro, y cruz que se sale del recuadro pero con el cruce dentro."
+    },
+    {
+      "id": "voto-nulo",
+      "categoria": "escrutinio",
+      "keywords": [
+        "voto nulo",
+        "cuando es voto nulo",
+        "cuando un voto es nulo",
+        "que es un voto nulo",
+        "que hace nulo un voto",
+        "cuando se sabe que es voto nulo",
+        "cuando se anula un voto",
+        "la marca esta fuera del recuadro",
+        "cedula rota es nula",
+        "voto no vale"
+      ],
+      "respuesta": "Un voto es nulo cuando, en una misma columna: el cruce de las líneas queda fuera del recuadro del símbolo; se usa un signo distinto de la cruz o el aspa; o se marca más de una organización política. Además, el voto es nulo cuando: la cédula está rota en alguna parte; la cara externa no tiene la firma del presidente de mesa; tiene escrito el nombre, la firma o el DNI del elector; tiene palabras, frases o signos ajenos al proceso; o no fue entregada por la mesa. Cada columna es una elección distinta, así que un voto puede ser nulo en una columna y válido o en blanco en otra.",
+      "base_normativa": "Cartilla de personeros ERM 2026 (ONPE), pág. 16 · LOE (Ley 26859), art. 262.",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, pág. 16 · LOE (Ley 26859), art. 262.",
+      "puedes": [
+        "Examinar cada cédula leída antes de que se clasifique (art. 281 de la LOE)."
+      ],
+      "no_debes": [
+        "Tocar o marcar la cédula mientras la examinas."
+      ],
+      "incidencia": "Si no estás de acuerdo con que un voto se declare nulo, impúgnalo en ese momento (art. 282 de la LOE).",
+      "confianza": "green",
+      "imagen": "/ejemplos/voto-nulo.svg",
+      "imagen_alt": "Ejemplos de voto nulo: cruce fuera del recuadro, signo distinto, dos organizaciones marcadas y nombre del elector escrito."
+    },
+    {
+      "id": "voto-en-blanco",
+      "categoria": "escrutinio",
+      "keywords": [
+        "voto en blanco",
+        "voto blanco",
+        "cuando es voto en blanco",
+        "que es un voto en blanco",
+        "cuando un voto es en blanco",
+        "cuando se sabe que es voto en blanco",
+        "columna sin marca"
+      ],
+      "respuesta": "Un voto es en blanco cuando una columna de la cédula no tiene ninguna marca en los recuadros de las organizaciones políticas. Como cada columna se escruta por separado, una misma cédula puede tener voto válido en la elección provincial y voto en blanco en la distrital.",
+      "base_normativa": "Cartilla de personeros ERM 2026 (ONPE), págs. 15-16.",
+      "fuente": "ONPE — Cartilla de instrucciones para personeros ERM 2026, págs. 15-16.",
+      "puedes": [
+        "Verificar que cada columna se cuente por separado."
+      ],
+      "no_debes": [
+        "Aceptar que toda la cédula se clasifique igual si las columnas son distintas."
+      ],
+      "incidencia": "",
+      "confianza": "green",
+      "imagen": "/ejemplos/voto-en-blanco.svg",
+      "imagen_alt": "Ejemplos de voto en blanco: columna sin marcas, y cédula con voto válido en la provincial y en blanco en la distrital."
     }
   ]
 }
